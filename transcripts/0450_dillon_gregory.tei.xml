@@ -3,11 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Gregory Dillon</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Vietnam Center and Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,15 +15,15 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="38">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="https://www.vietnam.ttu.edu/virtualarchive/items.php?item=OH0450" mimeType="MIMEaudio/wav"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Texas Tech University</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
           <ref target="path_to_file">Primary transcription</ref>
@@ -32,7 +32,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>Vietnam Center and Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2005-11-10"/>
           <locale/>
         </setting>
       </settingDesc>
