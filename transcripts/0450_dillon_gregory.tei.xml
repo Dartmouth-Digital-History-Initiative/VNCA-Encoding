@@ -15,7 +15,7 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="38">
+          <recording xml:id="primary_recording" type="audio" dur-iso="00:38:10">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="https://www.vietnam.ttu.edu/virtualarchive/items.php?item=OH0450" mimeType="MIMEaudio/wav"/>
           </recording>
