@@ -26,7 +26,7 @@
             <orgName>Texas Tech University</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0450/OH0450.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
