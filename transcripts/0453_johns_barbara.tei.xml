@@ -17,7 +17,7 @@
         <recordingStmt>
           <recording xml:id="primary_recording" type="audio" dur-iso="02:27:51">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0507/OH0507.mp3" mimeType="MIMEaudio/wav"/>
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0507/OH0507.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
@@ -174,7 +174,7 @@
       <u who="JOHNS">It has come to past. After all of these years. I told <persName>Randall Wallace</persName> about that and we went to the premiere of the movie, and those words were on a plaque on a wall at the premiere, at the little party there was after the premiere. But he’s quite an astonishing person too, <persName>Randall Wallace</persName>.</u>
       <u who="VERRONE">What about <persName>Chris Klein</persName>?</u>
       <u who="JOHNS">Oh, he’s very nice. Really fun person. We met him and his parents. He’s from <placeName>Omaha</placeName>, I believe.</u>
-      <u who="VERRONE">What has it been like going to reunions and seeing, being a part of this family of veterans of this battle, but really the whole 1st Cav? What is here now? The 40th anniversary of these battles that happened in X-Ray and <placeName>Albany</placeName>. Tell me about what this experience has been like. I know this is only the first day I believe you’re in. But what about this commemorative reunion?</u>
+      <u who="VERRONE">What has it been like going to reunions and seeing, being a part of this family of veterans of this battle, but really the whole <orgName>1st Cav</orgName>? What is here now? The 40th anniversary of these battles that happened in X-Ray and <placeName>Albany</placeName>. Tell me about what this experience has been like. I know this is only the first day I believe you’re in. But what about this commemorative reunion?</u>
       <u who="JOHNS">You mean because this is the 40th or? We’ve been at each one, each year and it’s quite amazing, wonderful to be with these people. But I’ve just—it’s like <orgName>Cami</orgName> turning forty. I can’t believe it’s been forty years. Forty years. It’s just almost feels like <persName>Rip Van Winkle</persName>. (Laughs) I miss so many years, going so fast.</u>
       <u who="VERRONE">This interview will be made available to the public and then housed <orgName>Vietnam Archive</orgName> for multiple generations into the future. What would you like to tell people about yourself, about <persName>Jack</persName>, about <persName>Camille</persName>, this experience, <persName>Jack</persName>’s experience a hundred years from now, two hundred years from now? What would you what them to know?</u>
       <u who="JOHNS">Oh. </u>
