@@ -17,7 +17,7 @@
         <recordingStmt>
           <recording xml:id="primary_recording" type="audio" dur-iso="00:52:37">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0458/OH0458.mp4" mimeType="MIMEaudio/wav"/>
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0458/OH0458.mp4" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
