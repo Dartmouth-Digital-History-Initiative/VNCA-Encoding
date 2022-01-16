@@ -1,5 +1,5 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_453">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,10 +12,11 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">ttu_453</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="02:27:51">
+          <recording xml:id="primary_recording" type="video" dur-iso="02:27:51">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0507/OH0507.mp3" mimeType="video/mp4"/>
           </recording>
@@ -23,7 +24,7 @@
         <bibl xml:id="primary_transcription">
           <respStmt>
             <persName>Mindy Moser</persName>
-            <orgName>am Johnson Vietnam Center and Archive</orgName>
+            <orgName>Sam Johnson Vietnam Center and Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
           <ref target="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0507/OH0507.pdf">Primary transcription</ref>
