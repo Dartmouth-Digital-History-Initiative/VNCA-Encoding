@@ -1,38 +1,39 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_455">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Robert Edwardsr</title>
+        <title>Transcript of an Interview with Robert Edwards</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Sam Johnson Vietnam Center and Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">ttu_455</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+          <recording xml:id="primary_recording" type="video" dur-iso="00:50:51">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0455/OH0455.mp4" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Sam Johnson Vietnam Center and Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0455/OH0455.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>The Oral History Project of the Sam Johnson Vietnam Center and Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
