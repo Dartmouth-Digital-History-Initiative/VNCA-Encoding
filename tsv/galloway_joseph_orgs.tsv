@@ -1,50 +1,50 @@
-id	orgName
-ttu_454_org_0	1st Cav Division
-ttu_454_org_1	Texas A and M
-ttu_454_org_2	army
-ttu_454_org_3	Navy
-ttu_454_org_4	Air Corps
-ttu_454_org_5	Army
-ttu_454_org_6	2nd Louisiana Infantry
-ttu_454_org_7	Yankees
-ttu_454_org_8	4th Texas Infantry
-ttu_454_org_9	Hood’s Brigade
-ttu_454_org_10	New York’s Swavs
-ttu_454_org_11	5th Texas Infantry
-ttu_454_org_12	Hood’s Brigade
-ttu_454_org_13	29th Regiment
-ttu_454_org_14	Hood’s Brigade
-ttu_454_org_15	Yankees
-ttu_454_org_16	United Press International
-ttu_454_org_17	army
-ttu_454_org_18	Democrats
-ttu_454_org_19	State House Bureau
-ttu_454_org_20	Bureau
-ttu_454_org_21	UPI (United Press International)
-ttu_454_org_22	Republican party
-ttu_454_org_23	Republican party
-ttu_454_org_24	Democratic
-ttu_454_org_25	UPI
-ttu_454_org_26	AP (Associated Press)
-ttu_454_org_27	UPI
-ttu_454_org_28	UPI Asia
-ttu_454_org_29	1st battalion of Marines
-ttu_454_org_30	Marine
-ttu_454_org_31	Marines
-ttu_454_org_32	Samsonite
-ttu_454_org_33	UPI
-ttu_454_org_34	8th Aerial Transport Squadron
-ttu_454_org_35	Marine
-ttu_454_org_36	ARVN (Army of the Republic of Vietnam)
-ttu_454_org_37	French
-ttu_454_org_38	Viet men
-ttu_454_org_39	VC
-ttu_454_org_40	Associated Press
-ttu_454_org_41	MAAG (Military Assistance Advisory Group)
-ttu_454_org_42	Assistance Advisory Group
-ttu_454_org_43	ARVN
-ttu_454_org_44	ARVN
-ttu_454_org_45	VA
-ttu_454_org_46	AP
-ttu_454_org_47	173rd Airborne
-ttu_454_org_48	ARVN
+id	orgName	QID	dvp_id
+ttu_454_org_0	1st Cavalry Division	Q2338	
+ttu_454_org_1	Texas A&M University	Q49212	
+ttu_454_org_2	United States Army	Q9212	
+ttu_454_org_3	United States Navy	Q11220	
+ttu_454_org_4	United States Army Air Corps	Q2140008	
+ttu_454_org_5	United States Army	Q9212	
+ttu_454_org_6	2nd Louisiana Regiment Infantry	Q16823854	
+ttu_454_org_7	Union Army	Q1752901	
+ttu_454_org_8	4th Texas Infantry Regiment	Q85738415	
+ttu_454_org_9	Texas Brigade	Q4456779	
+ttu_454_org_10	11th New York Infantry	Q4547933	
+ttu_454_org_11	5th Texas Infantry Regiment	Q85738512	
+ttu_454_org_12	Texas Brigade	Q4456779	
+ttu_454_org_13	20th Maine Volunteer Infantry Regiment	Q4630787	
+ttu_454_org_14	Texas Brigade	Q4456779	
+ttu_454_org_15	Union Army	Q1752901	
+ttu_454_org_16	United Press International	Q493845	
+ttu_454_org_17	United States Army	Q9212	
+ttu_454_org_18	Democratic Party	Q29552	
+ttu_454_org_19	Kansas Legislature	Q3270271	
+ttu_454_org_20	Kansas Legislature	Q3270271	
+ttu_454_org_21	United Press International	Q493845	
+ttu_454_org_22	Republican Party	Q29468	
+ttu_454_org_23	Republican Party	Q29468	
+ttu_454_org_24	Democratic Party	Q29552	
+ttu_454_org_25	United Press International	Q493845	
+ttu_454_org_26	Associated Press	Q40469	
+ttu_454_org_27	United Press International	Q493845	
+ttu_454_org_28	United Press International	Q493845	
+ttu_454_org_29	1st Battalion 6th Marines	Q2813556	
+ttu_454_org_30	United States Marine Corps	Q11218	
+ttu_454_org_31	United States Marine Corps	Q11218	
+ttu_454_org_32	Samsonite		
+ttu_454_org_33	United Press International	Q493845	
+ttu_454_org_34	8th Airlift Squadron	Q4645295	
+ttu_454_org_35	United States Marine Corps	Q11218	
+ttu_454_org_36	Army of the Republic of Vietnam	Q18917	
+ttu_454_org_37	French		
+ttu_454_org_38	Viet men		
+ttu_454_org_39	National Front for the Liberation of South Vietnam	Q174423	
+ttu_454_org_40	Associated Press	Q40469	
+ttu_454_org_41	Military Assistance Advisory Group	Q11781252	
+ttu_454_org_42	Military Assistance Advisory Group	Q11781252	
+ttu_454_org_43	Army of the Republic of Vietnam	Q18917	
+ttu_454_org_44	Army of the Republic of Vietnam	Q18917	
+ttu_454_org_45	United States Department of Veterans Affairs	Q592576	
+ttu_454_org_46	Associated Press	Q40469	
+ttu_454_org_47	173rd Airborne Brigade	Q198679	
+ttu_454_org_48	Army of the Republic of Vietnam	Q18917	

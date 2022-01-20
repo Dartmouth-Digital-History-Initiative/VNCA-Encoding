@@ -1,55 +1,55 @@
-id	persName
-ttu_454_person_0	Richard Verrone
-ttu_454_person_1	Joseph Galloway
-ttu_454_person_2	Joe
-ttu_454_person_3	Ernie Pyle
-ttu_454_person_4	Mr. Pyle
-ttu_454_person_5	Mr. Jim Wreck
-ttu_454_person_6	James Reed
-ttu_454_person_7	Sergeant James Aisha Galloway
-ttu_454_person_8	Moore
-ttu_454_person_9	Joshua Lawrence Chamberlain
-ttu_454_person_10	Allison
-ttu_454_person_11	John Thomas Allison
-ttu_454_person_12	Charlie
-ttu_454_person_13	Mark Twain
-ttu_454_person_14	Harry Truman
-ttu_454_person_15	Harry Truman
-ttu_454_person_16	Harry Truman
-ttu_454_person_17	Alf Landon
-ttu_454_person_18	Nancy Landon Kassebaum
-ttu_454_person_19	Roosevelt
-ttu_454_person_20	McGovern
-ttu_454_person_21	Truman
-ttu_454_person_22	Neil Sheehan
-ttu_454_person_23	David Halberstam’s
-ttu_454_person_24	Malcom Brown
-ttu_454_person_25	John Wayne
-ttu_454_person_26	Henri Huet
-ttu_454_person_27	Mr. Galloway
-ttu_454_person_28	Henri Huet
-ttu_454_person_29	Huet
-ttu_454_person_30	John Wayne
-ttu_454_person_31	Huet
-ttu_454_person_32	Henri
-ttu_454_person_33	Henri
-ttu_454_person_34	Captain BT Collins
-ttu_454_person_35	Hal Moore’s
-ttu_454_person_36	Sam Bird
-ttu_454_person_37	Jack Kennedy
-ttu_454_person_38	BT Collins
-ttu_454_person_39	Hal Moore
-ttu_454_person_40	Walter Reed
-ttu_454_person_41	Governor Jerry Brown
-ttu_454_person_42	Barry Pepper
-ttu_454_person_43	Joe Galloway
-ttu_454_person_44	General Moore
-ttu_454_person_45	Joe Galloway
-ttu_454_person_46	Peter Arnett
-ttu_454_person_47	Matt Dillion
-ttu_454_person_48	Hal Moore
-ttu_454_person_49	Dillion
-ttu_454_person_50	Moore and Moore
-ttu_454_person_51	Hal
-ttu_454_person_52	H. Norman Schwarzkopf
-ttu_454_person_53	Joe
+id	persName	QID	dvp_id
+ttu_454_person_0	Richard Verrone		ttu_0003
+ttu_454_person_1	Joseph Galloway		ttu_0004
+ttu_454_person_2	Joe		ttu_0004
+ttu_454_person_3	Ernie Pyle	Q38415	
+ttu_454_person_4	Ernie Pyle	Q38415	
+ttu_454_person_5	Mr. Jim Wreck		ttu_0005
+ttu_454_person_6	James Reed		ttu_0006
+ttu_454_person_7	Sergeant James Aisha Galloway		ttu_0007
+ttu_454_person_8	Hal Moore	Q430209	
+ttu_454_person_9	Joshua Lawrence Chamberlain	Q80766	
+ttu_454_person_10	Allison		ttu_0008
+ttu_454_person_11	John Thomas Allison		ttu_0008
+ttu_454_person_12	"Company C, 2nd Battalion, 12th Infantry Regiment"	Q109417326	
+ttu_454_person_13	Mark Twain	Q7245	
+ttu_454_person_14	Harry S Truman	Q11613	
+ttu_454_person_15	Harry S Truman	Q11613	
+ttu_454_person_16	Harry S Truman	Q11613	
+ttu_454_person_17	Alf Landon	Q665416	
+ttu_454_person_18	Nancy Landon Kassebaum	Q458281	
+ttu_454_person_19	Franklin Delano Roosevelt	Q8007	
+ttu_454_person_20	George McGovern	Q331742	
+ttu_454_person_21	Harry S Truman	Q11613	
+ttu_454_person_22	Neil Sheehan	Q1238740	
+ttu_454_person_23	David Halberstam	Q467156	
+ttu_454_person_24	Malcom Brown	Q18630785	
+ttu_454_person_25	John Wayne	Q40531	
+ttu_454_person_26	Henri Huet	Q1605885	
+ttu_454_person_27	Mr. Galloway		ttu_0004
+ttu_454_person_28	Henri Huet	Q1605885	
+ttu_454_person_29	Henri Huet	Q1605885	
+ttu_454_person_30	John Wayne	Q40531	
+ttu_454_person_31	Henri Huet	Q1605885	
+ttu_454_person_32	Henri Huet	Q1605885	
+ttu_454_person_33	Henri Huet	Q1605885	
+ttu_454_person_34	B. T. Collins	Q4834225	
+ttu_454_person_35	Hal Moore	Q430209	
+ttu_454_person_36	Sam Bird	Q153242	
+ttu_454_person_37	John F. Kennedy	Q9696	
+ttu_454_person_38	B. T. Collins	Q4834225	
+ttu_454_person_39	Hal Moore	Q430209	
+ttu_454_person_40	Walter Reed		
+ttu_454_person_41	Jerry Brown	Q152451	
+ttu_454_person_42	Barry Pepper	Q315604	
+ttu_454_person_43	Joseph L. Galloway	Q3185182	
+ttu_454_person_44	Hal Moore	Q430209	
+ttu_454_person_45	Joseph L. Galloway	Q3185182	
+ttu_454_person_46	Peter Arnett	Q142025	
+ttu_454_person_47	Matt Dillion		
+ttu_454_person_48	Hal Moore	Q430209	
+ttu_454_person_49	James Dillion	Q1680278	
+ttu_454_person_50	Hal Moore	Q430209	
+ttu_454_person_51	Hal Moore	Q430209	
+ttu_454_person_52	Norman Schwarzkopf Jr.	Q310188	
+ttu_454_person_53	Joe		ttu_0004
