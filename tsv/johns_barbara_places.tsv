@@ -1,43 +1,43 @@
-id	placeName
-ttu_453_place_0	Hilton Crystal City
-ttu_453_place_1	Washington D.C.
-ttu_453_place_2	Annandale, Virginia
-ttu_453_place_3	Washington D.C.
-ttu_453_place_4	Beaver College
-ttu_453_place_5	Philadelphia
-ttu_453_place_6	Pennsylvania Military College
-ttu_453_place_7	New Jersey
-ttu_453_place_8	South Jersey
-ttu_453_place_9	Tanzania
-ttu_453_place_10	Dar es Salaam, Tanzania
-ttu_453_place_11	United States
-ttu_453_place_12	Dar es Salaam
-ttu_453_place_13	Fort Benning, Georgia
-ttu_453_place_14	Vietnam
-ttu_453_place_15	Howard Johnson’s
-ttu_453_place_16	Vietnam
-ttu_453_place_17	Connecticut
-ttu_453_place_18	Vietnam
-ttu_453_place_19	Connecticut
-ttu_453_place_20	Vietnam
-ttu_453_place_21	Connecticut
-ttu_453_place_22	Vietnam
-ttu_453_place_23	Pelham, New York
-ttu_453_place_24	New Jersey
-ttu_453_place_25	Philadelphia
-ttu_453_place_26	Vietnam
-ttu_453_place_27	Fort Benning
-ttu_453_place_28	Camilia Apartments
-ttu_453_place_29	Camila Apartments
-ttu_453_place_30	Columbus, Georgia
-ttu_453_place_31	New Rochelle, New York
-ttu_453_place_32	Redding, Connecticut
-ttu_453_place_33	Connecticut
-ttu_453_place_34	Washington
-ttu_453_place_35	West Point
-ttu_453_place_36	California
-ttu_453_place_37	Fort Benning
-ttu_453_place_38	Omaha
-ttu_453_place_39	X-Ray
-ttu_453_place_40	Albany
-ttu_453_place_41	Vietnam
+id	placeName	QID	ttu_id	coordinate location
+ttu_453_place_0	Hilton Crystal City	Q110624980		38.85273695571491,-77.0517220465822
+ttu_453_place_1	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_453_place_2	Annandale	Q1375477		38.8342,-77.2114
+ttu_453_place_3	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_453_place_4	Arcadia University	Q4785174		40.092,-75.1655
+ttu_453_place_5	Philadelphia	Q1345		39.952777777778,-75.163611111111
+ttu_453_place_6	Widener University	Q3443325		39.8607,-75.3551
+ttu_453_place_7	New Jersey	Q1408		40,-74.5
+ttu_453_place_8	South Jersey	Q7567568		"39°21'29.9""N, 74°26'14.6""W"
+ttu_453_place_9	Tanzania	Q924		-6.307,34.854
+ttu_453_place_10	Dar es Salaam	Q1960		-6.8,39.283333333333
+ttu_453_place_11	United States of America	Q30		39.828175,-98.5795
+ttu_453_place_12	Dar es Salaam	Q1960		-6.8,39.283333333333
+ttu_453_place_13	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_453_place_14	Vietnam	Q881		16,108
+ttu_453_place_15	Howard Johnson's	Q5919997		
+ttu_453_place_16	Vietnam	Q881		16,108
+ttu_453_place_17	Connecticut	Q779		41.6,-72.7
+ttu_453_place_18	Vietnam	Q881		16,108
+ttu_453_place_19	Connecticut	Q779		41.6,-72.7
+ttu_453_place_20	Vietnam	Q881		16,108
+ttu_453_place_21	Connecticut	Q779		41.6,-72.7
+ttu_453_place_22	Vietnam	Q881		16,108
+ttu_453_place_23	Pelham	Q958159		40.910555555556,-73.8075
+ttu_453_place_24	New Jersey	Q1408		40,-74.5
+ttu_453_place_25	Philadelphia	Q1345		39.952777777778,-75.163611111111
+ttu_453_place_26	Vietnam	Q881		16,108
+ttu_453_place_27	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_453_place_28	Camilia Apartments			
+ttu_453_place_29	Camila Apartments			
+ttu_453_place_30	Columbus	Q239870		32.492222222222,-84.940277777778
+ttu_453_place_31	New Rochelle	Q744948		40.908611111111,-73.781944444444
+ttu_453_place_32	Redding	Q2018185		41.304444444444,-73.392777777778
+ttu_453_place_33	Connecticut	Q779		41.6,-72.7
+ttu_453_place_34	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_453_place_35	United States Military Academy	Q9219		41.39277778,-73.95833333
+ttu_453_place_36	California	Q99		37,-120
+ttu_453_place_37	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_453_place_38	Omaha	Q43199		41.266666666667,-96.016666666667
+ttu_453_place_39	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_453_place_40	Albany	Q24861		42.65,-73.766666666667
+ttu_453_place_41	Vietnam	Q881		16,108
