@@ -1,0 +1,951 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_458">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Kenneth N. Dicus</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Sam Johnson Vietnam Center and Archive</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">ttu_458</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="video" dur-iso="00:52:37">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0458/OH0458.mp4" mimeType="video/mp4"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Sam Johnson Vietnam Center and Archive</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0458/OH0458.pdf</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Oral History Project of the Sam Johnson Vietnam Center and Archive</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="MILAM"/>
+        <person xml:id="DICUS"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2005-11-10"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="MILAM">My name is <persName ref="#ttu_458_person_0">Dr. Ron Milam</persName> of <orgName ref="#ttu_458_org_0">Texas Tech University</orgName>, the <orgName ref="#ttu_458_org_1">Vietnam Center</orgName>. I am interviewing <persName ref="#ttu_458_person_1">Ken Dicus</persName> <date when="2005-11-10">today</date>. <persName ref="#ttu_458_person_2">Ken</persName>, first I’d like to just start out by asking you what your MOS (Military Occupation Specialty) was and what your goal was on <date when="1965-11-14">November 14th, 1965</date>.</u>
+      <u who="DICUS">I was a Chief Warrant Officer Two. I was a pilot and an aircraft commander. Our role was to belong to the <orgName ref="#ttu_458_org_2">B Company</orgName>, <orgName ref="#ttu_458_org_3">229 Air Assault helicopter battalion</orgName>. We went in as support for the <name type="event" ref="#ttu_458_event_0">assault in LZ (Landing Zone) X-Ray</name> and then we participated in <name type="event" ref="#ttu_458_event_1">LZ Albany</name> also.</u>
+      <u who="MILAM">Let’s talk a little bit about before deployment. When did you arrive at <placeName ref="#ttu_458_place_0">Fort Benning</placeName>? You were a part of the <orgName ref="#ttu_458_org_4">11th Air Assault</orgName>?</u>
+      <u who="DICUS">Yes.</u>
+      <u who="MILAM">When did you first get to <placeName ref="#ttu_458_place_1">Benning</placeName>?</u>
+      <u who="DICUS">I got to <placeName ref="#ttu_458_place_2">Benning</placeName>, <date when="1965-08">August of ’55 was when I got—’65</date>, I'm sorry.</u>
+      <u who="MILAM"><date when="1965-08">August of 1965</date>, so you got there just about the point of time. The deployment took place in <date when="1965-08">August of ’65</date>.</u>
+      <u who="DICUS">Well no, I have to back up. I’m trying to remember. I went to <placeName ref="#ttu_458_place_3">Korea</placeName> in <date when="1963">’63</date>, so I came back in <date when="1964">’64</date>. It was <date when="1964-08">August of ’64</date>, I'm sorry.</u>
+      <u who="MILAM">Okay, so you had almost a year with the <orgName ref="#ttu_458_org_5">1st Air Cav</orgName> in the training process?</u>
+      <u who="DICUS">That’s correct.</u>
+      <u who="MILAM">Let’s talk a little bit about that training process. There was a period of time where you had to learn to fly these machines together. Then there was a period when you had to learn to fly them with infantry onboard. Those were two separate things?</u>
+      <u who="DICUS">Yes, absolutely. The initial training was—they were very, in fact they had the first D model helicopters, and they were the very short-bladed version. There were difficult and when I say difficult, they weren’t difficult to fly, they had a characteristic that they would lift everything you wanted them to lift. On a max performance takeoff, we had several accidents because of the short blades. You had to have a special sign-off on that particular model to learn how to fly. So everybody went to a training exercise and then very shortly thereafter, they converted all of them over to still the same D model but they converted them over to the forty-eight foot long rotor blades and still put the extension in the tailbone, and it stopped the series of crashes that they had. Pretty much made the aircraft a very, very reliable machine. </u>
+      <u who="MILAM">So before they converted to the forty-eight foot rotor wing, the crashes were without troops on board?</u>
+      <u who="DICUS">No, they did have some crashes with troops on board, but as soon as that series started, the helicopter made a fix for it, which was the new blades and the extension. Even during the training phase when people came in and on into the short-bladed version, you’re still doing all the training on the assaults and learning to fly formation. The training was very extensive, but it was very thorough also. They used blanks on just like on a normal assault. Instead of using real ammunition, they used blanks so the noise and everything was as realistic as they could possibly make it. The training was very intense. We practiced quite a bit on nighttime assaults. They had pathfinders and initial the pathfinder was supposed to be out in the parachute into the LZ. Set up a series of very small lights and things like that. Well, that worked well and good in training, and it worked well and good in <placeName ref="#ttu_458_place_4">Vietnam</placeName>. But there were several occasions where, for example, <name type="event" ref="#ttu_458_event_2">LZ Albany</name>, that was a nighttime landing force and no lights when <persName ref="#ttu_458_person_3">Captain Spires</persName> had to come out with a flashlight and put it down. That’s what we landed to, a flashlight in the dark.</u>
+      <u who="MILAM">So this training at <placeName ref="#ttu_458_place_5">Benning</placeName> that you were going through, with what would become the <orgName ref="#ttu_458_org_6">1st Air Cav</orgName>, did you ever anticipate—I know you knew you were going into combat but because <name type="event" ref="#ttu_458_event_3">Vietnam</name> had not experienced anything like you would experience at <placeName ref="#ttu_458_place_6">X-Ray</placeName> and <placeName ref="#ttu_458_place_7">Albany</placeName> and quite frankly the whole <name type="event" ref="#ttu_458_event_4">war</name>, there wasn’t very many like this. Did you anticipate, did you think as a young chopper pilot that you would be going into these kinds of situations that ultimately you did? Do you ever remember having that feeling or was that even less?</u>
+      <u who="DICUS">I think they made it so realistic in the training end of it, that when we got there, just about everything that we did was just like the training scenario. Except real bullets were flying this time versus blanks. Our training prepared us very, very well for all of the action that we saw over there. I would’ve, you know, I would highly recommend the <orgName ref="#ttu_458_org_7">military</orgName> to continue that because it’s an excellent source for training for combat. It really, truly is. It costs money, but the end result was very, very good.</u>
+      <u who="MILAM">I think we know as historians now, as we go back and study the <name type="event" ref="#ttu_458_event_5">war</name>, we know that as a <orgName ref="#ttu_458_org_8">military</orgName>, we got away from that. The kind of training that we used with the <orgName ref="#ttu_458_org_9">1st Cav</orgName>, the deployment of as a unit and that sort of thing, and after that it became mostly a replacement. I appreciate what you’re saying here that it was a special case that we ultimately got away from. So you deploy of <date when="1965-08">August of ’65</date> by ship. You went over on a ship along with your equipment and everything else and you go to <placeName ref="#ttu_458_place_8">Qui Nhon</placeName>?</u>
+      <u who="DICUS">Yes.</u>
+      <u who="MILAM">Then ultimately on <placeName ref="#ttu_458_place_9">An Khe</placeName>.</u>
+      <u who="DICUS">Correct.</u>
+      <u who="MILAM">How about in-country training? Compared to what you had done at <placeName ref="#ttu_458_place_10">Benning</placeName>, you now are in the real combat zone, you got jungles and little bit different weather, although <placeName ref="#ttu_458_place_11">Fort Benning</placeName> at certain times in the year can be pretty hot. How much in-country training did you do before you started putting troops into combat?</u>
+      <u who="DICUS">Actually, none. They had to work on the helicopters while we were—for the first few days that we were there, because they had them all torn apart and we just flew them off the ship and into <placeName ref="#ttu_458_place_12">An Khe</placeName>. So most of the things were tuning up the helicopters and getting them ready. It was shortly thereafter that we went into our first actual combat situation and training wise, we had a training officer in the company IP (Initial Point) and we’d go practice full touchdown our rotations, but other than that the training that proceeded us, we just carried over into combat. So when I say training, the original training versus the actual combat operations were basically one and the same.</u>
+      <u who="MILAM">I see. And the base at <placeName ref="#ttu_458_place_13">An Khe</placeName>, did you experience between your arrival there in <date when="1965-08">August of ’65</date> and <date when="1965-11-14">November 14th</date>, during that period of time, did the base receive a lot of incoming? Or—there was never a ground attack as I recall</u>
+      <u who="DICUS">No, there was never a ground attack there. I don’t—I hear people say that we had mortar attacks, but you have to remember that base was extremely large. But we didn’t stay at <placeName ref="#ttu_458_place_14">An Khe</placeName> a whole lot. We were in the field most of the time.</u>
+      <u who="MILAM">Operating out of <placeName ref="#ttu_458_place_15">An Khe</placeName>, that was your base camp? Or did you go out—</u>
+      <u who="DICUS">No, we’d go wherever our troops were.</u>
+      <u who="MILAM">Then you’d set up a perimeter and keep the choppers on the ground there, set up with an infantry protecting them and then operating.</u>
+      <u who="DICUS">Right. Then occasionally, we’d actually go out in the area where the troops were at night, we’d spend the night with them out there actually. It didn’t happen, you know, that wasn’t an everyday occurrence, but it happened quite often.</u>
+      <u who="MILAM">During this period of time, from <date when="1965-08">August</date> to <date when="1965-11">November</date>, the enemy—when you did come into enemy contact, was it basically <orgName ref="#ttu_458_org_10">Viet Cong</orgName>? There weren’t any—</u>
+      <u who="DICUS">Yeah, yes. Most of it was and that was, well our initial operations was primarily in <placeName ref="#ttu_458_place_16">Happy Valley</placeName>, which was right over the mountain there on the other side, away from <placeName ref="#ttu_458_place_17">An Khe</placeName>. That was mostly the <orgName ref="#ttu_458_org_11">Viet Cong</orgName>, the <orgName ref="#ttu_458_org_12">VC</orgName>. Occasionally, they’d find a <orgName ref="#ttu_458_org_13">North Vietnamese</orgName> or in a couple of cases there was a <orgName ref="#ttu_458_org_14">Chinese</orgName>, but other than that, most of it was <orgName ref="#ttu_458_org_15">Viet Cong</orgName>.</u>
+      <u who="MILAM">And it was small units?</u>
+      <u who="DICUS">Small units, yeah.</u>
+      <u who="MILAM">So when you get word around <date when="1965-11-13">November 13th</date> I believe, the day before, that there is going to be a major operation, did you go to <placeName ref="#ttu_458_place_18">Pleiku</placeName> to set that up? Or I mean were you in <placeName ref="#ttu_458_place_19">Pleiku</placeName> at the time? Or were you still in <placeName ref="#ttu_458_place_20">An Khe</placeName>?</u>
+      <u who="DICUS">No, we were in <placeName ref="#ttu_458_place_21">Pleiku</placeName> at the time.</u>
+      <u who="MILAM">So, you were in <placeName ref="#ttu_458_place_22">Pleiku</placeName>. You’d moved there, relocated your choppers, set up a perimeter there. It wasn’t at <placeName ref="#ttu_458_place_23">Camp Holloway</placeName> though, is that right or was it?</u>
+      <u who="DICUS">It was south of <placeName ref="#ttu_458_place_24">Camp Holloway</placeName>.</u>
+      <u who="MILAM">South <placeName ref="#ttu_458_place_25">Holloway</placeName>?</u>
+      <u who="DICUS">Yeah, we used—they actually had the hospital set up on the north side of the runway at <placeName ref="#ttu_458_place_26">Camp Holloway</placeName> and when you’d come in, you’d land right on the runway. Our units were down on the other end, away from the hospital, south of <placeName ref="#ttu_458_place_27">Camp Holloway</placeName>.</u>
+      <u who="MILAM">Now, there wasn’t yet a <placeName ref="#ttu_458_place_28">Pleiku Air Force Base</placeName> at that time, is that correct? The <orgName ref="#ttu_458_org_16">air force</orgName> itself, were they operation out of <placeName ref="#ttu_458_place_29">Pleiku</placeName>?</u>
+      <u who="DICUS">No, they did not operate out of there, if I remember correctly. Wasn’t until—actually the <date when="1965-11-14">14th</date>, when the <name type="event" ref="#ttu_458_event_6">battle</name> got very heavy, they brought the air force in and they were using the runway there.</u>
+      <u who="MILAM">Alright, let’s talk about your first knowledge that you’re going into <placeName ref="#ttu_458_place_30">X-Ray</placeName>. You get word that you were going to be part of that operation. Did you have any idea—did anyone have any idea of the extent to which this was going to be what it turns out to be? Did you, as a young chopper pilot, realize this was the real deal and was going to be extensive?</u>
+      <u who="DICUS">Well, to be honest with you, I didn’t know that we were even going until the morning of the <date when="1965-11-14">14th</date>. I was not informed of anything happening and we were just told to go out and meet at <placeName ref="#ttu_458_place_31">Plei Me</placeName> there at the base of operations that we were going to use there. When we showed up, all we knew or at least all I knew at the time, was that we were going to have an assault. The one thing that we had a real problem with was that we were very short on maps of the area. Very, very short. Not every helicopter had maps. You always had to go to somebody, to find out where the LZs were and I always took a pad of paper with me and just general directions from where you’re at and where you’re operating from. Figure out the mileage and say, “Okay, it’s here and here,” and you put a frequency down. So that’s where we knew or at least I knew we were going, and we had the frequency. Now some of the other LZs out there, at that time, didn’t even know existed. Like <placeName ref="#ttu_458_place_32">Falcon</placeName>, for example. Didn’t have a clue that it was there. Only thing that we knew at the time was the <placeName ref="#ttu_458_place_33">Plei Me</placeName>, <placeName ref="#ttu_458_place_34">Pleiku</placeName>, and <placeName ref="#ttu_458_place_35">LZ X-Ray</placeName>. Later on in the day though, we certainly found out that there were more places out there than what we knew about.</u>
+      <u who="MILAM">So what was your assignment, that morning of <date when="1965-11-14">November 14th</date>? You were going to carry troops onto <placeName ref="#ttu_458_place_36">LZ X-Ray</placeName>. Were you on the first lift?</u>
+      <u who="DICUS">First lift. We made four lifts that day. I was in all four of them. Just before the <placeName ref="#ttu_458_place_37">LZ</placeName> was closed, on our last lift in, I ended up making one more landing in there than the other people did, only for the fact that one of the radio operators, the RTO (Radio Telephone Operator) sitting in the back of the helicopter got tangled up in the seat webbing with his radio. I don’t have a clue how it happened, but all the troops jumped out and he was trying to untangle himself. Well, I had to leave because we had one more flight. Well, I needed the radio operator. So I took off, flew around and came in behind the last flight and landed then.</u>
+      <u who="MILAM">With one man?</u>
+      <u who="DICUS">Well with one man, but I had to get him in! You can’t—the radio (Laughs), you need the radio.</u>
+      <u who="MILAM">I see, interesting story. Now, you bring the troops, you bring your first lift in. Hot <placeName ref="#ttu_458_place_38">LZ</placeName>, first time in, nobody is firing. Troops deplane and did you set the chopper down on that first landing? All the way?</u>
+      <u who="DICUS">Yeah, just to make it all the way.</u>
+      <u who="MILAM">All the way to the ground, troops come off, they fire into the tree line, and as I recall, the area around that had been prepped for some period of time with artillery.</u>
+      <u who="DICUS">You may be correct about that, I don’t know about that, but I’m pretty sure that you’re correct, yes. The second landing was basically just like the first.</u>
+      <u who="MILAM">So you’re not getting any word back to your unit, your choppers, that there’s a battle going on through the first two lifts</u>
+      <u who="DICUS">No, not during that time period. The third lift was, as far as I could remember now, the third lift was where they started having some big-time action. Then, the fourth lift was really bad then. You could look out and you could see the bad guys running around, and you could see the muzzle flashes. I mean when they’re pointing a rifle at you, you can see the flash. You might not see it if it’s sideways or something, but you can see it when they’re pointing it right at you.</u>
+      <u who="MILAM">So by the third lift, you know you have something on your hands, by the fourth one you’re in it. The first two, it was sort of anticipation but no evidence that there was a battle ensuing. </u>
+      <u who="DICUS">That’s correct.</u>
+      <u who="MILAM">When you land the troops on the third lift, you get—you know that there’s contact going on, but is the chopper being hit? Is the chopper being fired at? Or are the tracers coming around the chopper at that time?</u>
+      <u who="DICUS">Absolutely. We weren’t hit, the helicopter itself wasn’t hit but you could see the dirt kicking up where the bullets were hitting around us. Then, the same thing on the fourth lift, but when I came back around, there was somebody that I don’t know who it was, the name—somebody told me the name, but I don’t remember. They took a hit on the fourth lift, one of the helicopters did. But then when I went back around to drop off the troops—the radio operator, when I came back in we were hit on that particular landing. The last landing that I made in there, the helicopter was hit. We made it back to <placeName ref="#ttu_458_place_39">Plei Me</placeName>, which was the base of operations for that day and had to have it repaired.</u>
+      <u who="MILAM">I see, the chopper took a hit. Neither you or your copilot were not hit?</u>
+      <u who="DICUS">No, we were not hit, no.</u>
+      <u who="MILAM">You’ve brought in fifty troops approximately, four lifts. On any of those, when you’ve gone back out on three or gone out back out on four, are you taking any wounded back at that time, or was this pure—</u>
+      <u who="DICUS">No, we were not taking any wounded back.</u>
+      <u who="MILAM">No one had been wounded that they need your chopper at that moment?</u>
+      <u who="DICUS">Not at that moment, no.</u>
+      <u who="MILAM">You go back to <placeName ref="#ttu_458_place_40">Plei Me</placeName>, that’s where your headquarters is, and then you are waiting for the next call to bring more troops back in or are you monitoring the radio?</u>
+      <u who="DICUS">When we went back after the—well, actually the fourth strip, like I said, I made the—I had to circle to get the RTO back in, but when we went back, <persName ref="#ttu_458_person_4">Colonel Moore</persName> closed the <placeName ref="#ttu_458_place_41">LZ</placeName> at that time. So we were on the ground approximately, and I have to use approximately because of different things that I read, everybody has a different time. Approximately two hours that we were on the ground and during that time period my helicopter was repaired, we were ready to go into action again. So we were on the ground for that time period. Now, they did have a radio set—the infantry had a radio set up that you could listen to, but mainly we were just sitting, we were waiting for word.</u>
+      <u who="MILAM">But you knew in the camp that you were— that there was a serious battle.</u>
+      <u who="DICUS">They knew that, yes. And I knew that, and I don’t think that there was anybody there that didn’t know now that we were in a very serious battle.</u>
+      <u who="MILAM">Now you went, now how many more—you made those four trips or five with your passback, your RTO. Then how many more trips into <placeName ref="#ttu_458_place_42">X-Ray</placeName> did you make approximately?</u>
+      <u who="DICUS">I went back in either five or six more times, I don’t remember this. I know five, but I think I went back in six times after that.</u>
+      <u who="MILAM">Were those trips in all resupply or medevac? Or did you take troops in also?</u>
+      <u who="DICUS">No. We took some troops in, we took some ammunition in and pulled out the wounded. Now, the reason that—some people went back in there more than others, but the only reason was that when I told you earlier about <placeName ref="#ttu_458_place_43">LZ Falcon</placeName>, we didn’t know about <placeName ref="#ttu_458_place_44">Falcon</placeName>. They had a unit; well it was a transfer station that went in the Chinooks to take the wounded back to <placeName ref="#ttu_458_place_45">An Khe</placeName>. We were flying, my company was flying from <placeName ref="#ttu_458_place_46">LZ X-Ray</placeName> back to <placeName ref="#ttu_458_place_47">Pleiku</placeName>, to the field hospital to drop these people off. So we had two contingencies. One going to <placeName ref="#ttu_458_place_48">Falcon</placeName>, one going back to <placeName ref="#ttu_458_place_49">Pleiku</placeName>. So our time frame was a longer time frame going back into <placeName ref="#ttu_458_place_50">X-Ray</placeName> versus some of them that were going for the shortest distance over to <placeName ref="#ttu_458_place_51">Falcon</placeName>.</u>
+      <u who="MILAM">Did you have to, on each of those lifts, did you have to refuel? I’ve forgotten what the flying time is for the Hueys. But did you have to refuel each time that you landed?</u>
+      <u who="DICUS">Yes. Actually, we refueled after the fourth lift and we were ready to go again.</u>
+      <u who="MILAM">But between lifts, say one and two, did you to refuel the choppers?</u>
+      <u who="DICUS">Yeah, I refueled, if I remember correctly, twice in the afternoon during the—because we had a longer flight. Some of them—the flight times, while they made more trips into <placeName ref="#ttu_458_place_52">LZ X-Ray</placeName>, the flight times all worked out pretty much the same, we’re talking flight hours now. For our going back there versus them flying a shorter distance. So it worked out pretty well.</u>
+      <u who="MILAM">So let’s talk a little bit about trips five through nine. You’re now resupplying ammunition. Whatever they put on, your loaders are loading I assume M16 ammo and grenades and laws and everything else that they’re calling for from the field. So you’re going back with a loaded chopper of ammo and you know you’re getting fired at. Did that cause you anymore concern than when you just had troops onboard?</u>
+      <u who="DICUS">Believe it or not, no. Maybe it should have, but it didn’t. I don’t think anybody really gave that any thought.</u>
+      <u who="MILAM">Because you know that’s what they need.</u>
+      <u who="DICUS">The one—I have to back up on the ammunition though. There was supposed to have been a Chinook landed at <placeName ref="#ttu_458_place_53">Plei Me</placeName>. Fully loaded with ammunition to take in and it never showed up. So they sent two helicopters over to pick up ammunition, which was <persName ref="#ttu_458_person_5">Chief Warrant Officer Komich</persName> was in charge of the flight. They brought back all the ammunition that they could carry. Before any of the troops on the ground, and I mean nobody, he went in there with a flight of two and dropped ammunition off to the infantry troops. He was the first one to pick up the wounded out of there. Coming out, his wingman was hit, and it caught on fire and went down. <persName ref="#ttu_458_person_6">Mr. Komich</persName> came back around and picked up the crew off of that helicopter, plus they were wounded. Took them back to <placeName ref="#ttu_458_place_54">Pleiku</placeName>. Shortly thereafter, in essence, everybody went back in. The <persName ref="#ttu_458_person_7">Major Crandall</persName> and they left, not more than five minutes before the rest of the flight took off after them. They had a lot of ammunition over there and I don’t remember how long before <persName ref="#ttu_458_person_8">Colonel Moore</persName> called, and said he didn’t need any more ammunition. It wasn’t that long. It may have been only two times and we went back in there. It wasn’t many because with the two helicopter loads of ammunition plus what was brought in after that, there wasn’t any need for more ammunition, they had plenty of it.</u>
+      <u who="MILAM">There’s also the issue of getting it from the <placeName ref="#ttu_458_place_55">LZ</placeName> to where you needed it anyway, you can only take so much and if you have enemy around you, you don’t want it falling into their hands, so it’s a logistical movement matter. Okay, so when you go back in for trips seven and eight or whatever, the ammunition isn’t—you’re going in for troops. You’re going into medevac the wounded, is that correct? </u>
+      <u who="DICUS">Mhhm.</u>
+      <u who="MILAM">When you get that call, you know that’s what you’re going in for. So you’re essentially taking an empty chopper or did you have troops on it also going in?</u>
+      <u who="DICUS">We had people. Sometimes not the full load, but almost every trip in we had somebody on board that we were taking in. But we’d always come out with as many as we could possibly carry of the wounded.</u>
+      <u who="MILAM">How did you determine what that number was?</u>
+      <u who="DICUS">We had a very unique situation over there, because you can’t determine because of the weight of fuel versus temperature. The aircraft is designed to carry x amount of weight. We had a very easy procedure was that if you pick it up to a hundred, we had what you called an engine topping, and you did it every two weeks. You went out, flew it, and pulled the engine down, actually pulled it down on a couple hundred RPM (Revolutions Per Minute), the engine RPM. Whatever that was, that’s the torque that you can carry. That torque related back to weight. So if you’re sitting on the ground and they put so many people in it, most of the time you knew how many you could carry, but if they were trying to put more weight or whatever, you can pick it up to a hover. If it didn’t meet that maximum torque of our topping thing, you could fly out with them. It was a very simple process. You knew that you could go, so you always carried as many as you could carry, because the more you got out, the quicker they get medical treatment.</u>
+      <u who="MILAM">When you knew you were going in to evacuate the wounded, did you carry onboard medics?</u>
+      <u who="DICUS">No, we had nothing.</u>
+      <u who="MILAM">You had nothing?</u>
+      <u who="DICUS">Yeah, while I’ve heard it said it was never our job to carry wounded, it was our job because you can’t leave them to lay there. If you had to wait for a medevac helicopter for example, not being derogatory towards the medevac, you have to get these people out, you can’t leave them to lay there. No, we didn’t have medics onboard, the medic in the field did everything they could do for these people and you had to get them to medical faculties as quickly as possible. I think we did an absolute superb job on that. It’s true, some did die, but big majority of them survived and you got—you just can’t leave people laying out there in a combat area if you can do something about it.</u>
+      <u who="MILAM">The decision to use new chopper pilots though and not the medevacs, that was made by who? Was that made on the ground? Was that made by—</u>
+      <u who="DICUS">I honestly can’t say who made that because I’m sure <persName ref="#ttu_458_person_9">Colonel Moore</persName> wanted to get them out, the aircraft commander wanted to get them out. If it—I think the problem would’ve been if somebody said no, that would’ve been a problem. But as far as saying, “Yes, well do it.” Again, you have to support the troops and that’s apart of supporting the troops.</u>
+      <u who="MILAM">Let me ask you this.</u>
+      <u who="DICUS">We were never trained as medevac pilots, if that’s what you’re asking about.</u>
+      <u who="MILAM">No, I guess what I’m looking for is, on the ground, back in <placeName ref="#ttu_458_place_56">Plei Me</placeName>, was there any discussion about why it was you and not the medevac units that were assigned?</u>
+      <u who="DICUS">To my knowledge, no. I mean it was just assumed that you were going to do that, and if it needed to be, you know we did this in other places. If it needed to be done, you did it. It’s not a question of, “Well, geez that’s not my job.” (Chuckles)</u>
+      <u who="MILAM">I understand. So let’s talk a little bit about <name type="event" ref="#ttu_458_event_7">Albany</name>. You’ve had your approximately nine trips into <placeName ref="#ttu_458_place_57">X-Ray</placeName>. There’s a day or so in-between <name type="event" ref="#ttu_458_event_8">Albany</name> and <name type="event" ref="#ttu_458_event_9">X-Ray</name>, and you’re called into <placeName ref="#ttu_458_place_58">Albany</placeName>. Was—you had two entrances into <placeName ref="#ttu_458_place_59">X-Ray</placeName> that were essentially not a hot <placeName ref="#ttu_458_place_60">LZ</placeName>, as you’ve described it. When you went into <placeName ref="#ttu_458_place_61">Albany</placeName>, was it the same thing? Or was it hot from lift one?</u>
+      <u who="DICUS">No, it was not the same thing. I went in twice into <placeName ref="#ttu_458_place_62">Albany</placeName>, the first time was, to my knowledge now, the very first helicopter lift that we took into <placeName ref="#ttu_458_place_63">Albany</placeName>, and that was just before—right before sunset or dusk. You could see, but not—but the fire, the bad guys were all around then. We took troops in and ammunition in. The next flight that went in, we—they came through and asked for volunteers that night. It was around approximately nine-thirty. Different times, people remember different times of that. They came in and asked for volunteers to take a flight into <placeName ref="#ttu_458_place_64">Albany</placeName>, to take in more troops and ammunition. I ended up on the lead flight, we took off, went out as usual over there, very black, black night when you’re looking down at the jungle. Although I had been in there during the daytime, the only thing I ever remembered in there was one tall tree at the end. I mean, just a big ol’ tree and you had to go around it one way or the other, over it, around it or whatever. When we got there, we couldn’t see the ground. All we saw were tracers firing back and forth. Bad guys were scattered all around. I mean they weren’t just in one concentrated spot. Our troops, I mean they were everywhere. We couldn’t see where we were landing. So infantry captain there, <persName ref="#ttu_458_person_10">Captain Spires</persName>, he came out with a flashlight and we made one circle because we didn’t go in right then because we couldn’t see, it was just impossible to see anything other than tracers. We just sort of made a short circle around, came back in, he ran out, threw a flashlight on the ground, and that’s what I landed to, was the flashlight. Now, we had many different names for them, but little tail-tell lights on tail of the helicopters. You couldn’t see it from the ground, very, very dimmed blub that showed up just on the vertical fin. When you flew formation, that’s what you laid flight. Everybody had them on, you followed those two little lights. That’s what you landed by, like we had the flashlight. The helicopters behind us stayed in flight formation, and we’re able to land. When—I don’t know how long we were on the ground, we got the troops out, the ammunition out, and they were loading wounded. It seems like forever when you’re sitting there on the ground, it wasn’t very long. The enemy made a very concentrated effort to attack the helicopters, and that was that very first flight at night in there. We took over fifteen rounds in our ship and it was damaged, but we had already loaded with the wounded. We had to get out of there in a hurry because they were just chewing us up.</u>
+      <u who="MILAM">Your chopper took fifteen rounds, but the wounded didn’t take any?</u>
+      <u who="DICUS">No, there were no wounded. None of the wounded that were on board were hit. They seemed to be shooting just a little bit high, which was fine.</u>
+      <u who="MILAM">This was AK47 rounds? Or did they have any of the big guns?</u>
+      <u who="DICUS">No, they had automatic, they had machine guns.</u>
+      <u who="MILAM">Machine guns? They also had some heavy machine guns that were probably more than .30 caliber or more than .762.</u>
+      <u who="DICUS">Yeah, that, you know, you’re talking about the .50 caliber now, they had those. Now, I didn’t see the helicopter after we landed it that night. They took it and it was gone. Once we made it back, we did get it out and counted over fifteen rounds. It was shot up pretty bad, we couldn’t fly it again. It was grounded, we got it on the ground, got the medevac, all the people unloaded and that was it for the helicopter. But I couldn’t get to another one in time to you know lead the formation. So <persName ref="#ttu_458_person_11">Mr. Komich</persName> was in the next ship. He took the three helicopters back in the second time.</u>
+      <u who="MILAM">Did you go back in after your chopper was shot up?</u>
+      <u who="DICUS">No, I couldn’t get another helicopter to, we were—that second lift, as far as our company was concerned, we were done for that night. <orgName ref="#ttu_458_org_17">C Company</orgName> went in, don’t quote me on the number of times, but I think they went in once more later on around midnight. We had two flights in there. I lead the first one, got shot up pretty bad and then the helicopter wasn’t flyable.</u>
+      <u who="MILAM">So, for you personally, <name type="event" ref="#ttu_458_event_10">Albany</name> was worse than <name type="event" ref="#ttu_458_event_11">X-Ray</name>?</u>
+      <u who="DICUS">Personally, yes. Yes.</u>
+      <u who="MILAM">Did the <orgName ref="#ttu_458_org_18">NVA (People’s Army of Vietnam)</orgName> use RPGs (Rocket Propelled Grenade)? Or tried to use them against your choppers? Or were they not close enough to the LZ to use those?</u>
+      <u who="DICUS">I don’t ever remember anytime during my first tour, at any time of having the enemy using RPGs on us. They may have somewhere else and they may have with some of the other units. But we never had an RPG, that I know of, during my tour with the <orgName ref="#ttu_458_org_19">1st Cav</orgName> over that time period. Now, I’ve read where they had them, but I don’t ever remember at all.</u>
+      <u who="MILAM">They had to get closer to the LZ for one thing. But they were also not real reliable. So you had your experiences at <placeName ref="#ttu_458_place_65">X-Ray</placeName> and <placeName ref="#ttu_458_place_66">Albany</placeName> and then did you go— you had a twelve month tour, so you went home in <date when="1966">’66</date> then?</u>
+      <u who="DICUS">Yes.</u>
+      <u who="MILAM">Okay, did you have a second tour?</u>
+      <u who="DICUS">I went—I didn’t spend my full tour in the <orgName ref="#ttu_458_org_20">1st Cav</orgName>. The last three months somebody realized that, “Good grief, we’ve got thousands and thousands of pilots that are all going to leave at one time. We can’t have that.” So what they did was that they took, I don’t know what the percentage was, I’ve always assumed it was fifty percent. The last three months they shipped out fifty percent of the pilots and that’s my number, I don’t know what it actually was. Then all the new pilots that were coming in country, went into the <orgName ref="#ttu_458_org_21">1st Cav</orgName> for replacement. So they didn’t have a mass exit of all the pilots. I ended up down in <placeName ref="#ttu_458_place_67">Soc Trang</placeName> for the last three months.</u>
+      <u who="MILAM">Then you came home and then you had another tour?</u>
+      <u who="DICUS">No, I resigned then.</u>
+      <u who="MILAM">So you had your three years in. Did you ever fly again?</u>
+      <u who="DICUS">Oh, I flew all the time. I still fly today.</u>
+      <u who="MILAM">Do you?</u>
+      <u who="DICUS">I flew for a living all my life.</u>
+      <u who="MILAM">Rotary?</u>
+      <u who="DICUS">Pardon?</u>
+      <u who="MILAM">Rotary engine?</u>
+      <u who="DICUS">Both. Fixed wing and rotary engine.</u>
+      <u who="MILAM">I see.</u>
+      <u who="DICUS">I still fly part time.</u>
+      <u who="MILAM">I see. But your <orgName ref="#ttu_458_org_22">military</orgName> career was the three years that you spent and doing that?</u>
+      <u who="DICUS">Yes. Well, I spend thirteen years in the <orgName ref="#ttu_458_org_23">army</orgName>. The last three were as a pilot.</u>
+      <u who="MILAM">Did you—when you came home after that tour in <date when="1966-08">August of 1966</date>, I guess or approximately, having had the experience at <placeName ref="#ttu_458_place_68">X-Ray</placeName> and <placeName ref="#ttu_458_place_69">Albany</placeName>, and that was the biggest <name type="event" ref="#ttu_458_event_12">battle</name> up to that time and as we now know as historians, there weren’t very many other ones like it. But did you anticipate that it would be like that for the rest of the <name type="event" ref="#ttu_458_event_13">war</name>? Do you remember thinking about that as a young man?</u>
+      <u who="DICUS">Oh, I was surprised that they hadn’t had large battles like that before we got there. But that was just the icing on the cake. Once it started, which the <orgName ref="#ttu_458_org_24">1st Cav</orgName> got involved with, that very first one as you know, they’ve had several large ones after that and I was just surprised that they didn’t have one prior to us getting there.</u>
+      <u who="MILAM">Well, I guess you can say that it had to be—</u>
+      <u who="DICUS">It escalated the <name type="event" ref="#ttu_458_event_14">war</name> as far—</u>
+      <u who="MILAM">The <orgName ref="#ttu_458_org_25">PAVN (People’s Army of Vietnam)</orgName> also learned, as you know, that those kinds of battles, they were at a disadvantage. So they started fighting with—they tried to dictate when and where. So they downsized their units and they didn’t want to fight in these regimental side units anymore, and they started fighting in company sizes and that sort of thing because the technology that could be brought to bear against those large units would ultimate destroy a lot of men in their case. I was intrigued by some of the things that you said about your unit back there in <placeName ref="#ttu_458_place_70">Plei Me</placeName> and those decisions that night. I really appreciate you comment because your men—these were men you guys had trained with all the way from <date when="1964-08">August</date>, in your case <date when="1964-08">August of 1964</date>. So you knew those men. How much do you think, that made a difference on your desire to get back in there and help those men out? Do you think it made a difference?</u>
+      <u who="DICUS">Yeah, you know you have to remember that I don’t know or did not know every person that we flew in with, that’s an impossibility. Some of the faces you recognized, even from training days. One of the greatest compliments of the entire <name type="event" ref="#ttu_458_event_15">war</name> that I ever received was that night at <placeName ref="#ttu_458_place_71">Albany</placeName> when I came out of there, and to this day I do not know who it was. But one of the wounded, when we landed back in the hospital, one of the wounded gave me an AK-47 that he had gotten out of there. I mean, how much more—you know, it’s just a—I thought that was one of the greatest gestures that I ever received. They all, all of them, tried to make some sort of gesture or something to thank us, unless they were unconscious or something like that. That was always an absolute great feeling that you know that you’ve accomplished something and—</u>
+      <u who="MILAM">I think it’s the reason why as an old infantry solider, I talked to all my buddies. The thing that we always say is that there was never anything bad about the sound of a Huey helicopter. When you think about what the Hueys did for you, you can say they took you into combat, but that was just a deliver process. But the Huey helicopter brought us the mail, the Huey medevac just when we needed it, it brought us ammunition, it took us home at the end of our tour. So, to this day, the sound of a Huey for an infantry solider is just the best sound in the world. We owe a lot of tribute to what you did for us over there.</u>
+      <u who="DICUS">Well, I appreciate that. The one thing is when you’re all supporting the troops, the <orgName ref="#ttu_458_org_26">1st Cav</orgName> was a completely different than an ordinary infantry outfit, you know, they didn’t carry their heavy backpacks with their sleeping bags and everything else. They went in with as much ammunition as they could carry, enough water, whatever their medical kit was. Normally, we would bring their packs and stuff at night, pick them up in the morning. But in a case of a battle like that, they’re not going to use their packs anyway.</u>
+      <u who="MILAM">You don’t get very hungry.</u>
+      <u who="DICUS">Normally, we’d take food into them at night. But in a case like this, we didn’t take food, the first night anyway. All it was, was supporting the troops on the ground, to help them stay alive and if they were wounded, get them out. Same thing with the ones that were KIAs (Killed in Action), get them out. We did everything that we could possibly do. They had Huey gunships up there, helping us support them. They had the <orgName ref="#ttu_458_org_27">Air Force</orgName> with their fighter bombers supporting them. I think as far as helicopters are concerned, I think we did an excellent job. We did absolutely everything we could possibly do to help them out.</u>
+      <u who="MILAM">You sure did. <persName ref="#ttu_458_person_12">Ken</persName>, I’ve enjoyed very much interviewing you and I would just tell you this is a short interview compared to what we try to do out in <orgName ref="#ttu_458_org_28">Texas Tech</orgName> and if you’re ever out in <placeName ref="#ttu_458_place_72">Lubbock</placeName>, or if we can—if you ever would want to submit to a longer interview over the telephone, we’re there to do that, that’s what we do for a living. We want to keep these—we want to get this down on record. So we appreciate very much you coming in today.</u>
+      <u who="DICUS">Well, thank you very much, and I appreciate talking to you.</u>
+      <u who="MILAM">Thank you. (End of interview)</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_458_place_0">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_458_place_1">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_458_place_2">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_458_place_3">
+        <placeName>Korean Peninsula</placeName>
+        <location>
+          <geo>37.5 127</geo>
+        </location>
+        <idno type="WD">Q483134</idno>
+      </place>
+      <place xml:id="ttu_458_place_4">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_458_place_5">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_458_place_6">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_7">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_8">
+        <placeName>Qui Nhơn</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_458_place_9">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_10">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_458_place_11">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_458_place_12">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_13">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_14">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_15">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_16">
+        <placeName>Happy Valley, Vietnam</placeName>
+        <location>
+          <geo>15.91666667 107.96666667</geo>
+        </location>
+        <idno type="WD">Q5653125</idno>
+      </place>
+      <place xml:id="ttu_458_place_17">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_18">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_19">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_20">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_21">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_22">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_23">
+        <placeName>Camp Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
+      </place>
+      <place xml:id="ttu_458_place_24">
+        <placeName>Camp Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
+      </place>
+      <place xml:id="ttu_458_place_25">
+        <placeName>Camp Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
+      </place>
+      <place xml:id="ttu_458_place_26">
+        <placeName>Camp Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
+      </place>
+      <place xml:id="ttu_458_place_27">
+        <placeName>Camp Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
+      </place>
+      <place xml:id="ttu_458_place_28">
+        <placeName>Pleiku Air Base</placeName>
+        <location>
+          <geo>14.004444444444 108.01722222222</geo>
+        </location>
+        <idno type="WD">Q7204456</idno>
+      </place>
+      <place xml:id="ttu_458_place_29">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_30">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_31">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_458_place_32">
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
+      </place>
+      <place xml:id="ttu_458_place_33">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_458_place_34">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_35">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_36">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_37">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_38">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_39">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_458_place_40">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_458_place_41">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_42">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_43">
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
+      </place>
+      <place xml:id="ttu_458_place_44">
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
+      </place>
+      <place xml:id="ttu_458_place_45">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>13.9530664 108.6569463</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_458_place_46">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_47">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_48">
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
+      </place>
+      <place xml:id="ttu_458_place_49">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_50">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_51">
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
+      </place>
+      <place xml:id="ttu_458_place_52">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_53">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_458_place_54">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_458_place_55">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_56">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_458_place_57">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_58">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_59">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_60">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_61">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_62">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_63">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_64">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_65">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_66">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_67">
+        <placeName>Sóc Trăng</placeName>
+        <location>
+          <geo>9.6  105.971944</geo>
+        </location>
+        <idno type="WD">Q33418</idno>
+      </place>
+      <place xml:id="ttu_458_place_68">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_458_place_69">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_70">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_458_place_71">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_458_place_72">
+        <placeName>Lubbock</placeName>
+        <location>
+          <geo>33.566667  -101.883333</geo>
+        </location>
+        <idno type="WD">Q49273</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_458_event_0" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-16T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_458_event_1" from-iso="1965-11-17T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ Albany</desc>
+        <idno type="WD">Q110624722</idno>
+      </event>
+      <event xml:id="ttu_458_event_2" from-iso="1965-11-17T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ Albany</desc>
+        <idno type="WD">Q110624722</idno>
+      </event>
+      <event xml:id="ttu_458_event_3" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_458_event_4" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_458_event_5" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_458_event_6" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-16T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_458_event_7" from-iso="1965-11-17T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ Albany</desc>
+        <idno type="WD">Q110624722</idno>
+      </event>
+      <event xml:id="ttu_458_event_8" from-iso="1965-11-17T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ Albany</desc>
+        <idno type="WD">Q110624722</idno>
+      </event>
+      <event xml:id="ttu_458_event_9" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-16T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_458_event_10" from-iso="1965-11-17T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ Albany</desc>
+        <idno type="WD">Q110624722</idno>
+      </event>
+      <event xml:id="ttu_458_event_11" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-16T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_458_event_12" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-16T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_458_event_13" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_458_event_14" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_458_event_15" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_458_person_0">
+        <persName>Ron Milam</persName>
+        <idno type="WD">Q110624764</idno>
+      </person>
+      <person xml:id="ttu_458_person_1">
+        <persName>Ken Dicus</persName>
+      </person>
+      <person xml:id="ttu_458_person_2">
+        <persName>Ken</persName>
+      </person>
+      <person xml:id="ttu_458_person_3">
+        <persName>Captain Spires</persName>
+      </person>
+      <person xml:id="ttu_458_person_4">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_458_person_5">
+        <persName>Chief Warrant Officer Komich</persName>
+        <idno type="WD">Q110624834</idno>
+      </person>
+      <person xml:id="ttu_458_person_6">
+        <persName>Mr. Komich</persName>
+        <idno type="WD">Q110624834</idno>
+      </person>
+      <person xml:id="ttu_458_person_7">
+        <persName>Major Crandall</persName>
+        <idno type="WD">Q3431327</idno>
+      </person>
+      <person xml:id="ttu_458_person_8">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_458_person_9">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_458_person_10">
+        <persName>Captain Spires</persName>
+      </person>
+      <person xml:id="ttu_458_person_11">
+        <persName>Mr. Komich</persName>
+        <idno type="WD">Q110624834</idno>
+      </person>
+      <person xml:id="ttu_458_person_12">
+        <persName>Ken</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_458_org_0">
+        <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
+      </org>
+      <org xml:id="ttu_458_org_1">
+        <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        <idno type="WD">Q7928492</idno>
+      </org>
+      <org xml:id="ttu_458_org_2">
+        <orgName>B Company, 229th Assault Helicopter Battalion</orgName>
+        <idno type="WD">Q110624755</idno>
+      </org>
+      <org xml:id="ttu_458_org_3">
+        <orgName>229th Aviation Regiment</orgName>
+        <idno type="WD">Q4631295</idno>
+      </org>
+      <org xml:id="ttu_458_org_4">
+        <orgName>11th Expeditionary Combat Aviation Brigade</orgName>
+        <idno type="WD">Q4547990</idno>
+      </org>
+      <org xml:id="ttu_458_org_5">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_6">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_7">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="ttu_458_org_8">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="ttu_458_org_9">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_10">
+        <orgName>National Front for the Liberation of South Vietnam</orgName>
+        <idno type="WD">Q174423</idno>
+      </org>
+      <org xml:id="ttu_458_org_11">
+        <orgName>National Front for the Liberation of South Vietnam</orgName>
+        <idno type="WD">Q174423</idno>
+      </org>
+      <org xml:id="ttu_458_org_12">
+        <orgName>National Front for the Liberation of South Vietnam</orgName>
+        <idno type="WD">Q174423</idno>
+      </org>
+      <org xml:id="ttu_458_org_13">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_458_org_14">
+        <orgName>People’s Liberation Army</orgName>
+        <idno type="WD">Q200106</idno>
+      </org>
+      <org xml:id="ttu_458_org_15">
+        <orgName>National Front for the Liberation of South Vietnam</orgName>
+        <idno type="WD">Q174423</idno>
+      </org>
+      <org xml:id="ttu_458_org_16">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="ttu_458_org_17">
+        <orgName>C Company, 229th Assault Helicopter Battalion</orgName>
+        <idno type="WD">Q110624759</idno>
+      </org>
+      <org xml:id="ttu_458_org_18">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_458_org_19">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_20">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_21">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_22">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="ttu_458_org_23">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_458_org_24">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_25">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_458_org_26">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_458_org_27">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="ttu_458_org_28">
+        <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
