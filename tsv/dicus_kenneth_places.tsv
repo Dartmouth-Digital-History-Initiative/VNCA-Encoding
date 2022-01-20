@@ -1,74 +1,74 @@
-id	placeName
-ttu_458_place_0	Fort Benning
-ttu_458_place_1	Benning
-ttu_458_place_2	Benning
-ttu_458_place_3	Korea
-ttu_458_place_4	Vietnam
-ttu_458_place_5	Benning
-ttu_458_place_6	X-Ray
-ttu_458_place_7	Albany
-ttu_458_place_8	Qui Nhon
-ttu_458_place_9	An Khe
-ttu_458_place_10	Benning
-ttu_458_place_11	Fort Benning
-ttu_458_place_12	An Khe
-ttu_458_place_13	An Khe
-ttu_458_place_14	An Khe
-ttu_458_place_15	An Khe
-ttu_458_place_16	Happy Valley
-ttu_458_place_17	An Khe
-ttu_458_place_18	Pleiku
-ttu_458_place_19	Pleiku
-ttu_458_place_20	An Khe
-ttu_458_place_21	Pleiku
-ttu_458_place_22	Pleiku
-ttu_458_place_23	Camp Holloway
-ttu_458_place_24	Camp Holloway
-ttu_458_place_25	Holloway
-ttu_458_place_26	Camp Holloway
-ttu_458_place_27	Camp Holloway
-ttu_458_place_28	Pleiku Air Force Base
-ttu_458_place_29	Pleiku
-ttu_458_place_30	X-Ray
-ttu_458_place_31	Plei Me
-ttu_458_place_32	Falcon
-ttu_458_place_33	Plei Me
-ttu_458_place_34	Pleiku
-ttu_458_place_35	LZ X-Ray
-ttu_458_place_36	LZ X-Ray
-ttu_458_place_37	LZ
-ttu_458_place_38	LZ
-ttu_458_place_39	Plei Me
-ttu_458_place_40	Plei Me
-ttu_458_place_41	LZ
-ttu_458_place_42	X-Ray
-ttu_458_place_43	LZ Falcon
-ttu_458_place_44	Falcon
-ttu_458_place_45	An Khe
-ttu_458_place_46	LZ X-Ray
-ttu_458_place_47	Pleiku
-ttu_458_place_48	Falcon
-ttu_458_place_49	Pleiku
-ttu_458_place_50	X-Ray
-ttu_458_place_51	Falcon
-ttu_458_place_52	LZ X-Ray
-ttu_458_place_53	Plei Me
-ttu_458_place_54	Pleiku
-ttu_458_place_55	LZ
-ttu_458_place_56	Plei Me
-ttu_458_place_57	X-Ray
-ttu_458_place_58	Albany
-ttu_458_place_59	X-Ray
-ttu_458_place_60	LZ
-ttu_458_place_61	Albany
-ttu_458_place_62	Albany
-ttu_458_place_63	Albany
-ttu_458_place_64	Albany
-ttu_458_place_65	X-Ray
-ttu_458_place_66	Albany
-ttu_458_place_67	Soc Trang
-ttu_458_place_68	X-Ray
-ttu_458_place_69	Albany
-ttu_458_place_70	Plei Me
-ttu_458_place_71	Albany
-ttu_458_place_72	Lubbock
+id	placeName	QID	ttu_id	coordinate location
+ttu_458_place_0	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_458_place_1	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_458_place_2	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_458_place_3	Korean Peninsula	Q483134		37.5,127
+ttu_458_place_4	Vietnam	Q881		16,108
+ttu_458_place_5	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_458_place_6	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_7	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_8	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_458_place_9	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_10	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_458_place_11	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_458_place_12	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_13	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_14	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_15	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_16	Happy Valley, Vietnam	Q5653125		15.91666667,107.96666667
+ttu_458_place_17	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_18	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_19	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_20	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_21	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_22	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_23	Camp Holloway	Q5027263		13.973, 108.031
+ttu_458_place_24	Camp Holloway	Q5027263		13.973, 108.031
+ttu_458_place_25	Camp Holloway	Q5027263		13.973, 108.031
+ttu_458_place_26	Camp Holloway	Q5027263		13.973, 108.031
+ttu_458_place_27	Camp Holloway	Q5027263		13.973, 108.031
+ttu_458_place_28	Pleiku Air Base	Q7204456		14.004444444444,108.01722222222
+ttu_458_place_29	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_30	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_31	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_458_place_32	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_458_place_33	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_458_place_34	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_35	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_36	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_37	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_38	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_39	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_458_place_40	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_458_place_41	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_42	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_43	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_458_place_44	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_458_place_45	An Khê	Q15179893		13.9530664,108.6569463
+ttu_458_place_46	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_47	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_48	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_458_place_49	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_50	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_51	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_458_place_52	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_53	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_458_place_54	Pleiku	Q30599		13.971519,108.014673
+ttu_458_place_55	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_56	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_458_place_57	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_58	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_59	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_60	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_61	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_62	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_63	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_64	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_65	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_66	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_67	Sóc Trăng	Q33418		9.6, 105.971944
+ttu_458_place_68	LZ X-Ray	Q110624850		13.59528,107.71528
+ttu_458_place_69	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_70	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_458_place_71	LZ Albany	Q110624853		13.59528,107.71528
+ttu_458_place_72	Lubbock	Q49273		33.566667, -101.883333
