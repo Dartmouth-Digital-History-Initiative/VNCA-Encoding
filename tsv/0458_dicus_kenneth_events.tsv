@@ -1,4 +1,4 @@
-id	name	QID	ttu_id	start time	end time	point in time
+id	name	QID	dvp_id	start time	end time	point in time
 ttu_458_event_0	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
 ttu_458_event_1	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
 ttu_458_event_2	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
