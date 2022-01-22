@@ -1,29 +1,29 @@
-id	persName
-ttu_457_person_0	Jay Weston David Whitescaber
-ttu_457_person_1	Dr. Ron Milam
-ttu_457_person_2	Leland Komich
-ttu_457_person_3	Dr. Ron Milam
-ttu_457_person_4	Lee Komich
-ttu_457_person_5	Lee
-ttu_457_person_6	General Harry W. Kinnard
-ttu_457_person_7	General McAuliffe
-ttu_457_person_8	General Kinnard
-ttu_457_person_9	Dallas Harper
-ttu_457_person_10	Chuck May
-ttu_457_person_11	General Moore
-ttu_457_person_12	Colonel Moore
-ttu_457_person_13	Dallas Harper
-ttu_457_person_14	Paul Winkel
-ttu_457_person_15	Roger Bean
-ttu_457_person_16	Roger Bean
-ttu_457_person_17	Roger
-ttu_457_person_18	Rozanski
-ttu_457_person_19	General Moore
-ttu_457_person_20	General Moore
-ttu_457_person_21	Colonel Moore
-ttu_457_person_22	Richard Smith
-ttu_457_person_23	Smithy
-ttu_457_person_24	Spires
-ttu_457_person_25	Stinnett
-ttu_457_person_26	Captain Stinnett
-ttu_457_person_27	Major Brandt
+id	persName	QID	ttu_id
+ttu_457_person_0	Jay Weston David Whitescaber		ttu_0015
+ttu_457_person_1	Ron Milam	Q110624764	
+ttu_457_person_2	Leland C. Komich	Q110624834	
+ttu_457_person_3	Ron Milam	Q110624764	
+ttu_457_person_4	Leland C. Komich	Q110624834	
+ttu_457_person_5	Leland C. Komich	Q110624834	
+ttu_457_person_6	Harry Kinnard	Q2138194	
+ttu_457_person_7	Anthony McAuliffe	Q573609	
+ttu_457_person_8	Harry Kinnard	Q2138194	
+ttu_457_person_9	Dallas Harper		ttu_0016
+ttu_457_person_10	Chuck May		ttu_0017
+ttu_457_person_11	Hal Moore	Q430209	
+ttu_457_person_12	Hal Moore	Q430209	
+ttu_457_person_13	Dallas Harper		ttu_0016
+ttu_457_person_14	Paul Winkel	Q110647727	
+ttu_457_person_15	Roger K. Bean	Q110647803	
+ttu_457_person_16	Roger K. Bean	Q110647803	
+ttu_457_person_17	Roger K. Bean	Q110647803	
+ttu_457_person_18	Rozanski		ttu_0018
+ttu_457_person_19	Hal Moore	Q430209	
+ttu_457_person_20	Hal Moore	Q430209	
+ttu_457_person_21	Hal Moore	Q430209	
+ttu_457_person_22	Richard Smith		ttu_0019
+ttu_457_person_23	Smithy		ttu_0019
+ttu_457_person_24	Spires		ttu_0002
+ttu_457_person_25	Stinnett		ttu_0020
+ttu_457_person_26	Captain Stinnett		ttu_0020
+ttu_457_person_27	Major Brandt		ttu_0021
