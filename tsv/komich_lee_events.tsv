@@ -1,8 +1,8 @@
-id	name
-ttu_457_event_0	War World II
-ttu_457_event_1	Battle of the Ia Drang Valley
-ttu_457_event_2	Tet
-ttu_457_event_3	Tet
-ttu_457_event_4	Tet
-ttu_457_event_5	Ia Drang Valley
-ttu_457_event_6	Vietnam
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_457_event_0	World War II	Q362		YYYY-09-DD	YYYY-09-DD	
+ttu_457_event_1	Battle of Ia Drang	Q714749		YYYY-11-DD	YYYY-11-DD	
+ttu_457_event_2	Tet Offensive	Q82542		YYYY-01-DD	YYYY-09-DD	
+ttu_457_event_3	Tet Offensive	Q82542		YYYY-01-DD	YYYY-09-DD	
+ttu_457_event_4	Tet Offensive	Q82542		YYYY-01-DD	YYYY-09-DD	
+ttu_457_event_5	Battle of Ia Drang	Q714749		YYYY-11-DD	YYYY-11-DD	
+ttu_457_event_6	Vietnam War	Q8740		YYYY-01-DD	YYYY-04-DD	
