@@ -1,26 +1,26 @@
-id	name
-ttu_461_event_0	Ia Drang
-ttu_461_event_1	Ia Drang
-ttu_461_event_2	LZ X-Ray
-ttu_461_event_3	LZ X-Ray
-ttu_461_event_4	X-Ray
-ttu_461_event_5	LZ X-Ray
-ttu_461_event_6	LZ X-Ray
-ttu_461_event_7	LZ X-Ray
-ttu_461_event_8	LZ X-Ray
-ttu_461_event_9	LZ X-Ray
-ttu_461_event_10	X-Ray
-ttu_461_event_11	Albany
-ttu_461_event_12	X-Ray
-ttu_461_event_13	LZ X-Ray
-ttu_461_event_14	LZ X-Ray
-ttu_461_event_15	Albany
-ttu_461_event_16	LZ X-Ray
-ttu_461_event_17	Albany
-ttu_461_event_18	Albany
-ttu_461_event_19	Albany
-ttu_461_event_20	Albany
-ttu_461_event_21	Tet Offensive
-ttu_461_event_22	Tet
-ttu_461_event_23	Tet Offensive
-ttu_461_event_24	Tet Offensive
+id	name	QID	dvp_id	start time	end time	point in time
+ttu_461_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_461_event_1	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_2	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_3	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_4	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_5	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_6	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_7	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_8	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_9	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_10	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_11	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_461_event_12	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_13	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_14	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_15	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_461_event_16	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_461_event_17	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_461_event_18	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_461_event_19	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_461_event_20	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_461_event_21	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+ttu_461_event_22	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+ttu_461_event_23	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+ttu_461_event_24	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
