@@ -1,79 +1,79 @@
-id	placeName
-ttu_460_place_0	Benning
-ttu_460_place_1	Vietnam
-ttu_460_place_2	Fort Benning
-ttu_460_place_3	Fort Bragg
-ttu_460_place_4	Dominican Republic
-ttu_460_place_5	Benning 
-ttu_460_place_6	Bragg
-ttu_460_place_7	Fort Bragg
-ttu_460_place_8	Brag
-ttu_460_place_9	Dominican
-ttu_460_place_10	Bragg
-ttu_460_place_11	Benning
-ttu_460_place_12	Bragg
-ttu_460_place_13	Benning
-ttu_460_place_14	Vietnam
-ttu_460_place_15	Nam
-ttu_460_place_16	Highway 19
-ttu_460_place_17	Highway 19
-ttu_460_place_18	Mang Yang Pass
-ttu_460_place_19	Vietnam
-ttu_460_place_20	Benning
-ttu_460_place_21	Vietnam
-ttu_460_place_22	Benning
-ttu_460_place_23	Fort Louis, Washington
-ttu_460_place_24	Vietnam
-ttu_460_place_25	Qui Nhon
-ttu_460_place_26	An Khe
-ttu_460_place_27	An Khe
-ttu_460_place_28	Áo dài
-ttu_460_place_29	An Khe
-ttu_460_place_30	An Khe Pass
-ttu_460_place_31	An Khe
-ttu_460_place_32	Benning
-ttu_460_place_33	Vietnam
-ttu_460_place_34	Vietnam
-ttu_460_place_35	Fort Sill
-ttu_460_place_36	Bragg
-ttu_460_place_37	X-Ray
-ttu_460_place_38	LZ (Landing Zone) Golf
-ttu_460_place_39	Golf
-ttu_460_place_40	X-Ray
-ttu_460_place_41	Golf
-ttu_460_place_42	Golf
-ttu_460_place_43	Catecka
-ttu_460_place_44	Mang Yang Pass
-ttu_460_place_45	Mang Yang Pass
-ttu_460_place_46	LZ Golf
-ttu_460_place_47	Golf
-ttu_460_place_48	Golf
-ttu_460_place_49	LZ Golf
-ttu_460_place_50	X-Ray
-ttu_460_place_51	X-Ray
-ttu_460_place_52	X-Ray
-ttu_460_place_53	Pleiku
-ttu_460_place_54	Pleiku
-ttu_460_place_55	LZ Golf
-ttu_460_place_56	X-Ray
-ttu_460_place_57	LZ Columbus
-ttu_460_place_58	LZ X-Ray
-ttu_460_place_59	LZ Columbus
-ttu_460_place_60	LZ X-Ray
-ttu_460_place_61	LZ
-ttu_460_place_62	X-Ray
-ttu_460_place_63	X-Ray
-ttu_460_place_64	Plei Me
-ttu_460_place_65	Plei Me
-ttu_460_place_66	Pleiku
-ttu_460_place_67	LZ
-ttu_460_place_68	Guam
-ttu_460_place_69	Guam
-ttu_460_place_70	 LZ Golf
-ttu_460_place_71	LZ Columbus
-ttu_460_place_72	LZ
-ttu_460_place_73	Fort Benning
-ttu_460_place_74	Pleiku
-ttu_460_place_75	Camp Holloway
-ttu_460_place_76	Vietnam
-ttu_460_place_77	Albany
+id	placeName	QID	ttu_id	coordinate location
+ttu_460_place_0	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_1	Vietnam	Q881		16,108
+ttu_460_place_2	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_3	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_460_place_4	Dominican Republic	Q786		18.8,-70.2
+ttu_460_place_5	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_6	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_460_place_7	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_460_place_8	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_460_place_9	Dominican Republic	Q786		18.8,-70.2
+ttu_460_place_10	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_460_place_11	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_12	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_460_place_13	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_14	Vietnam	Q881		16,108
+ttu_460_place_15	Vietnam	Q881		16,108
+ttu_460_place_16	National Route 19	Q10810947		
+ttu_460_place_17	National Route 19	Q10810947		
+ttu_460_place_18	Mang Yang	Q6748577		13.929166666667,108.30416666667
+ttu_460_place_19	Vietnam	Q881		16,108
+ttu_460_place_20	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_21	Vietnam	Q881		16,108
+ttu_460_place_22	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_23	Fort Lewis	Q3505731		47.080654,-122.5812758
+ttu_460_place_24	Vietnam	Q881		16,108
+ttu_460_place_25	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_460_place_26	An Khê	Q15179893		13.9530664,108.6569463
+ttu_460_place_27	An Khê	Q15179893		13.9530664,108.6569463
+ttu_460_place_28	Áo dài	Q110713739		
+ttu_460_place_29	An Khê	Q15179893		13.9530664,108.6569463
+ttu_460_place_30	An Khê	Q15179893		13.9530664,108.6569463
+ttu_460_place_31	An Khê	Q15179893		13.9530664,108.6569463
+ttu_460_place_32	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_33	Vietnam	Q881		16,108
+ttu_460_place_34	Vietnam	Q881		16,108
+ttu_460_place_35	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_460_place_36	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_460_place_37	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_38	LZ Golf	Q110713724		
+ttu_460_place_39	LZ Golf	Q110713724		
+ttu_460_place_40	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_41	LZ Golf	Q110713724		
+ttu_460_place_42	LZ Golf	Q110713724		
+ttu_460_place_43	Catecka Base Camp	Q18639524		
+ttu_460_place_44	Mang Yang	Q6748577		13.929166666667,108.30416666667
+ttu_460_place_45	Mang Yang	Q6748577		13.929166666667,108.30416666667
+ttu_460_place_46	LZ Golf	Q110713724		
+ttu_460_place_47	LZ Golf	Q110713724		
+ttu_460_place_48	LZ Golf	Q110713724		
+ttu_460_place_49	LZ Golf	Q110713724		
+ttu_460_place_50	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_51	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_52	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_53	Pleiku	Q30599		13.971519,108.014673
+ttu_460_place_54	Pleiku	Q30599		13.971519,108.014673
+ttu_460_place_55	LZ Golf	Q110713724		
+ttu_460_place_56	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_57	LZ Columbus	Q110713739		13.589111, 107.741389
+ttu_460_place_58	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_59	LZ Columbus	Q110713739		13.589111, 107.741389
+ttu_460_place_60	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_61	LZ Columbus	Q3305194		13.589111, 107.741389
+ttu_460_place_62	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_63	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_460_place_64	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_460_place_65	Plei Me camp	Q110624862		13.6175,107.9175
+ttu_460_place_66	Pleiku	Q30599		13.971519,108.014673
+ttu_460_place_67	LZ Columbus	Q3305194		13.589111, 107.741389
+ttu_460_place_68	Guam	Q16635		13.5,144.8
+ttu_460_place_69	Guam	Q16635		13.5,144.8
+ttu_460_place_70	LZ Golf	Q110713724		
+ttu_460_place_71	LZ Columbus	Q3305194		13.589111, 107.741389
+ttu_460_place_72	LZ Columbus	Q3305194		13.589111, 107.741389
+ttu_460_place_73	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_460_place_74	Pleiku	Q30599		13.971519,108.014673
+ttu_460_place_75	Camp Holloway	Q5027263		13.973,108.031
+ttu_460_place_76	Vietnam	Q881		16,108
+ttu_460_place_77	LZ Albany	Q110624853		13.59528,107.71528
