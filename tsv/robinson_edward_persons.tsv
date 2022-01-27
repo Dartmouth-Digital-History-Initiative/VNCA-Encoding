@@ -1,20 +1,20 @@
-id	persName
-ttu_461_person_0	President Johnson
-ttu_461_person_1	General Westmoreland
-ttu_461_person_2	Don Davis
-ttu_461_person_3	Holly Langford
-ttu_461_person_4	Buse Tully
-ttu_461_person_5	Jimmy Johnson
-ttu_461_person_6	Sergeant Pavlovich
-ttu_461_person_7	Bob Kies
-ttu_461_person_8	Kies
-ttu_461_person_9	Kies
-ttu_461_person_10	Bruce Crandall
-ttu_461_person_11	General Kinnard
-ttu_461_person_12	General Kinnard
-ttu_461_person_13	General Norton
-ttu_461_person_14	Larry Woods
-ttu_461_person_15	Captain Woods
-ttu_461_person_16	Larry Woods
-ttu_461_person_17	Larry
-ttu_461_person_18	Kinnard
+id	persName	QID	dvp_id
+ttu_461_person_0	Lyndon B. Johnson	Q9640	
+ttu_461_person_1	William Westmoreland	Q298793	
+ttu_461_person_2	Don Davis		ttu_0022
+ttu_461_person_3	Holly Langford		ttu_0023
+ttu_461_person_4	Buse Tully		ttu_0024
+ttu_461_person_5	Jimmy Johnson		ttu_0025
+ttu_461_person_6	Sergeant Pavlovich		ttu_0028
+ttu_461_person_7	Bob Kies		ttu_0026
+ttu_461_person_8	Kies		ttu_0026
+ttu_461_person_9	Kies		ttu_0026
+ttu_461_person_10	Bruce Perry Crandall	Q3431327	
+ttu_461_person_11	Harry Kinnard	Q2138194	
+ttu_461_person_12	Harry Kinnard	Q2138194	
+ttu_461_person_13	John Norton	Q18808349	
+ttu_461_person_14	Larry Woods		ttu_0027
+ttu_461_person_15	Captain Woods		ttu_0027
+ttu_461_person_16	Larry Woods		ttu_0027
+ttu_461_person_17	Larry		ttu_0027
+ttu_461_person_18	Harry Kinnard	Q2138194	
