@@ -1,22 +1,22 @@
-id	orgName
-ttu_453_org_0	army
-ttu_453_org_1	Arcadian University
-ttu_453_org_2	PMC
-ttu_453_org_3	Pennsylvania Military College
-ttu_453_org_4	PMC
-ttu_453_org_5	Pennsylvania Military College
-ttu_453_org_6	University of Pennsylvania
-ttu_453_org_7	army
-ttu_453_org_8	army
-ttu_453_org_9	Catholic Relief Services
-ttu_453_org_10	Catholic Relief Services
-ttu_453_org_11	army
-ttu_453_org_12	army
-ttu_453_org_13	PMC
-ttu_453_org_14	Corps Candidates
-ttu_453_org_15	General Moore
-ttu_453_org_16	church
-ttu_453_org_17	US News
-ttu_453_org_18	1st Cav
-ttu_453_org_19	Cami
-ttu_453_org_20	Vietnam Archive
+id	orgName	QID	ttu_id
+ttu_453_org_0	United States Army	Q9212	
+ttu_453_org_1	Arcadia University	Q4785174	
+ttu_453_org_2	Widener University	Q3443325	
+ttu_453_org_3	Widener University	Q3443325	
+ttu_453_org_4	Widener University	Q3443325	
+ttu_453_org_5	Widener University	Q3443325	
+ttu_453_org_6	University of Pennsylvania	Q49117	
+ttu_453_org_7	United States Army	Q9212	
+ttu_453_org_8	United States Army	Q9212	
+ttu_453_org_9	Catholic Relief Services	Q2942152	
+ttu_453_org_10	Catholic Relief Services	Q2942152	
+ttu_453_org_11	United States Army	Q9212	
+ttu_453_org_12	United States Army	Q9212	
+ttu_453_org_13	Widener University	Q3443325	
+ttu_453_org_14	Corps Candidates		
+ttu_453_org_15	General Moore		
+ttu_453_org_16	Catholicism	Q1841	
+ttu_453_org_17	U.S. News & World Report	Q848629	
+ttu_453_org_18	1st Cavalry Division	Q2338	
+ttu_453_org_19	Cami		
+ttu_453_org_20	Sam Johnson Vietnam Center and Archive	Q110625527	
