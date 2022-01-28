@@ -1,30 +1,30 @@
-id	orgName
-ttu_458_org_0	Texas Tech University
-ttu_458_org_1	Vietnam Center
-ttu_458_org_2	B Company
-ttu_458_org_3	229 Air Assault helicopter battalion
-ttu_458_org_4	11th Air Assault
-ttu_458_org_5	1st Air Cav
-ttu_458_org_6	1st Air Cav
-ttu_458_org_7	military
-ttu_458_org_8	military
-ttu_458_org_9	1st Cav
-ttu_458_org_10	Viet Cong
-ttu_458_org_11	Viet Cong
-ttu_458_org_12	VC
-ttu_458_org_13	North Vietnamese
-ttu_458_org_14	Chinese
-ttu_458_org_15	Viet Cong
-ttu_458_org_16	air force
-ttu_458_org_17	C Company
-ttu_458_org_18	NVA (People’s Army of Vietnam)
-ttu_458_org_19	1st Cav
-ttu_458_org_20	1st Cav
-ttu_458_org_21	1st Cav
-ttu_458_org_22	military
-ttu_458_org_23	army
-ttu_458_org_24	1st Cav
-ttu_458_org_25	PAVN (People’s Army of Vietnam)
-ttu_458_org_26	1st Cav
-ttu_458_org_27	Air Force
-ttu_458_org_28	Texas Tech
+id	orgName	QID	ttu_id
+ttu_458_org_0	Texas Tech University	Q1423756	
+ttu_458_org_1	Vietnam Center and Sam Johnson Vietnam Archive	Q7928492	
+ttu_458_org_2	B Company, 229th Assault Helicopter Battalion	Q110624755	
+ttu_458_org_3	229th Aviation Regiment	Q4631295	
+ttu_458_org_4	11th Airborne Division	Q169980	
+ttu_458_org_5	1st Cavalry Division	Q2338	
+ttu_458_org_6	1st Cavalry Division	Q2338	
+ttu_458_org_7	United States Armed Forces	Q11211	
+ttu_458_org_8	United States Armed Forces	Q11211	
+ttu_458_org_9	1st Cavalry Division	Q2338	
+ttu_458_org_10	National Front for the Liberation of South Vietnam	Q174423	
+ttu_458_org_11	National Front for the Liberation of South Vietnam	Q174423	
+ttu_458_org_12	National Front for the Liberation of South Vietnam	Q174423	
+ttu_458_org_13	People's Army of Vietnam	Q3936506	
+ttu_458_org_14	People’s Liberation Army	Q200106	
+ttu_458_org_15	National Front for the Liberation of South Vietnam	Q174423	
+ttu_458_org_16	United States Air Force	Q11223	
+ttu_458_org_17	C Company, 229th Assault Helicopter Battalion	Q110624759	
+ttu_458_org_18	People's Army of Vietnam	Q3936506	
+ttu_458_org_19	1st Cavalry Division	Q2338	
+ttu_458_org_20	1st Cavalry Division	Q2338	
+ttu_458_org_21	1st Cavalry Division	Q2338	
+ttu_458_org_22	United States Armed Forces	Q11211	
+ttu_458_org_23	United States Army	Q9212	
+ttu_458_org_24	1st Cavalry Division	Q2338	
+ttu_458_org_25	People's Army of Vietnam	Q3936506	
+ttu_458_org_26	1st Cavalry Division	Q2338	
+ttu_458_org_27	United States Air Force	Q11223	
+ttu_458_org_28	Texas Tech University	Q1423756	
