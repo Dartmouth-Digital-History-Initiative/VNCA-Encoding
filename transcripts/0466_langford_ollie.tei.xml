@@ -1,0 +1,74 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="LANGFORD"/>
+        <person xml:id="NAPOLI"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="LANGFORD">Came about going to the military academy at <placeName>West Point</placeName> because I grew up on a farm and wanted an education. I could not afford the education, but <date>one year</date> at <orgName>the University of South Carolina</orgName>, <persName>Strom Thurmond</persName> gave me one of his first appointments when he was elected on a right-end ballot for the <orgName>senate</orgName>. I was able to get my education by going to West Point. I graduated in the class of <date>1959</date>. Then I was educated through the army schools and eventually went to <placeName>Hawaii</placeName> for my first assignment, for <date>three years</date>. Had two children in <placeName>Hawaii</placeName>. Came back to the school of Fort Sill, for advanced artillery course and was assigned to Fort Benning to the 2nd Infantry Division. That particular brigade of the 2nd <orgName>Infantry Division</orgName> was put into the 11th <orgName>Air Assault</orgName> for the air assault test. So we spent our time training. When I reported into that unit, which was the 5th of 38th Artillery, I was made battery commander of <persName>B Battery</persName> of 5th of the 38th artillery. We trained from <date>1964</date> until <date>1965</date>. In <date>1965</date>, after the air assault and the tests and so forth, I’d had my battery <date>three months</date> longer than what I’m supposed to have it and I gave it up to a Captain <persName>Bob Barker</persName>, who later became Colonel <persName>Barker</persName> and he commanded C Battery of the 1st of the 21st artillery, which we changed our name when we became 1st Cav from 5th of 38th to the 1st of the 21st artillery. Colonel <persName>Barker</persName> became the C Battery commander. I became the fire direction officer of the battalion, the assistant S3 is also the fire direction officer. All artillery fires are controlled through a battalion fire direction center and each battery has a fire direction center and we coordinate through each other down to the forward observers and the liaison officers for the distributions of fires.</u>
+      <u who="NAPOLI">Tell me a little bit about how then the unit—tell me about the trip to <placeName>Vietnam</placeName>. You went—did you go on board boat?</u>
+      <u who="LANGFORD">Let me take you back to when we were training in the—something that really had an impact on our unit was we trained for <date>a year</date> in the air assault concept. All of our lieutenants were experts. I had five very good lieutenants. Three were so excellent that they were quality of general officers. They trained all through air assault and then when we changed our name to <orgName>1st Cav Division</orgName> and was ordered to by President <persName>Johnson</persName> to <placeName>Vietnam</placeName>, Secretary of <orgName>Defense</orgName> <persName>McNamara</persName> made a decision not to hold ROTC ( Reserve Officer Training Course) people, officers and so forth that was on <date>two year</date> tours, not to hold them in the service. Consequently, we were gutted of our well-trained lieutenants and had a lot of other lieutenants come into the units which they were good officers and many of them did well but they had missed that year of training of air assaults. That had a huge impact of a lot of our operations until we were in country long enough to get through that portion of it. We were ordered in <date>August of 1965</date> to go to <placeName>Vietnam</placeName>, we loaded on buses at <placeName>Fort Benning</placeName>, <placeName>Georgia</placeName>, what is called <persName>Kelly Hill</persName> which still exists at Fort Benning and we went by bus to <placeName>Charleston</placeName>, <placeName>South Carolina</placeName>. Once we got to <placeName>Charleston</placeName>, <placeName>South Carolina</placeName>, we loaded on a troop transport ship called <orgName>the U.S.S. Rose</orgName>. There was a song about the time, about the rambling rose. We had a lot of singing and so forth. We went down, went through the Panama Canal, then we were taken up to <placeName>Long Beach</placeName>, <placeName>California</placeName>. They said to bring water and take-home fuel and so forth. But we also found out that we were taken to <placeName>Long Beach</placeName>, <placeName>California</placeName>, because the <placeName>Watts</placeName> riots were going on and they had to decide, whether to unload us there for combat or whether to go on to <placeName>Vietnam</placeName>. We sat in <placeName>Long Beach</placeName> for, I think <date>two days</date>, waiting to see whether we were going to have to unload and take action there or go on over. We finally pulled out of <placeName>Long Beach</placeName> on a <date>thirty day</date> cruise basically—well, <date>twenty day</date> cruise then. We had to stop off of Pearl Harbor, off of <placeName>Hawaii</placeName>, to have one of our soldiers lifted off the ship and take to shore for appendicitis operation. We arrived in <date>early September</date> at <orgName>Qui Nhon</orgName>, <placeName>Vietnam</placeName>. We sat aboard ship the first night watching fires—people firing weapons on shore. <date>Next day</date>, we got onto landing crafts and went onto the beach. As we went onto the beach, they had <persName>Chinook</persName> helicopters there and we were air lifted in to An <persName>Khe</persName>, into our base camp. Our base camp, called “The Golf Course” at An <persName>Khe</persName>, was being hacked out of the jungle at that time and we had a forward party of a few, an officer and a few people, that had been cutting out some of the jungle where we were going to put in our battalion. It was in a sector that we would be on—our perimeter but we would be able to control artillery fires over about a third of the area there. That area was—we did not secure it the first night. It was secured by the 101st Air Borne, who had a brigade there securing our perimeters, letting us get into place. All night long they were firing, and it was (<orgName>Interviewee</orgName> makes gun noises), it was an exciting night I should say, because it started to rain. They had pitched some tents and as I recall, we had cots and we were laying up on cots, and I was laying on a cot with some water dripping on my head and I kept saying, “This is the stupidest thing I’ve ever done in my life with all these guns going around, some of that.” But there were no bullets going through the tent, I can tell that because I’ve heard that sound and I though you know, this is war? This is terrible! Anyway, we made it through the night, and we took control over the perimeter and once the division took over control of the perimeter it was the same thing. Everybody was shooting at shadows, bushes and stuff until <orgName>General Kinnard</orgName> sent down a—it may have been Colonel Moore at the time, but I don’t remember. Anyway, word came down that when you shot one of the enemy out there, you would crawl out and drag him back. Well there wasn’t much shooting that night or any other night for that point on. Nobody wanted to crawl out there and pull somebody back. That’s a funny part of the story but that was real life.</u>
+      <u who="NAPOLI">What was it like physically? What was the climate like for you? Awful? Comfortable?</u>
+      <u who="LANGFORD">I grew up in the south, so I was familiar with hot weather. It’s hot and very humid. I found that the big problem was that there was never enough water to seem to get showers often enough, because you sweat it all the time. Our uniforms were not of a desert type, they were the old green uniforms of that time and they were very hot. So I found that part uncomfortable. It was one of those type things that you always want to take your helmet off and wipe the sweat off your brow and that sort of stuff. You know, it was something that you adjusted to that rather quickly. Then it got rather chilly at night and when you went into <placeName>Pleiku</placeName>, the Ia <placeName>Drang Valley</placeName>, places like that, you had to sleep in a sleeping bag at night. It got so cold you had you sleep in a mountain-type sleeping bag.</u>
+      <u who="NAPOLI">This is <date>September of 1965</date>, right?</u>
+      <u who="LANGFORD">Right. We landed in <date>September</date>; we did some operations that was known as the “Bong Son Plain”, which later became a hot bed for fighting for <date>many years</date>. That was kind of what we called a “Shake out”. When we made our first air assault, we went up a <placeName>Valley</placeName> as I recall, called Happy <placeName>Valley</placeName>. As we made that assault up there, the artillery went in, we always landed the artillery first. We landed normally infantry company or something like that or platoon to secure LZ (Landing Zone) so that the artillery could come in with a non-hot LZ because Chinooks are very capable of being shot down easily. We went in and landed out in a sandy plain. Set the guns up, set up for fire missions and I had told all of my fire direction center people all the people in the <orgName>S3</orgName> shop to start digging holes. They started digging some fox holes, leaning on the shovels, talking and all that until probably a <placeName>Viet Cong</placeName> fired, I believe rifles at us and one round went way over behind us and another round went short of us and they were artillerymen so they all realized that was a bracket. That was the wrong place, so they started digging very quickly. Some were on the ground very shortly after that. It was recall rifles, nothing followed that. But we did get the fire during that period of time. I personally, as a fire direction officer, learned a very important lesson on that mission and that was I should fire orders for all the artillery fire. If I didn’t issue the fire order, then nothing happened. I had this call from a forward observer, an air forward observer, that had found a battalion of enemy, <persName>Viet Cong</persName> as he identified them, marching or running, jogging down a road towards our infantry positions. Of course, he wanted infantry fire. I issued a fire command for battalion six volleys. Which would’ve been an awful lot of artillery fire. Before the mission was ready, I issued a—at my command so they wouldn’t fire. I went to ask the observer a lot of questions because I’d never seen many enemy that got out and exposed themselves like that unless they were really assaulting and they weren’t close enough to be assaulting. So I questioned him real hard, told him finally to fly down right close to him and see if he drew fire. If he didn’t draw fire, something was wrong. It turns out it was ARVN (<orgName>Army of the Republic of Vietnam</orgName>) airborne troops and they had on black uniforms, that was their uniform. I learned right then that fire orders are dangerous if you don’t think long and hard through who you’re shooting, when you’re shooting and so forth. But I came very, very close to making a terrible mistake that sounded logical with everything but was not logically at all.</u>
+      <u who="NAPOLI">Were you supported from higher up in your choice or did you get resistance from this?</u>
+      <u who="LANGFORD">No, at that time we didn’t even have an <orgName>S3</orgName>, a captain substituted for the S3 because we had lost our S3. Our S3 back at Fort Benning, super officer, got promoted to lieutenant colonel and went to a command position. They shipped us in an airborne reject, I guess I’ll call him temporarily, a major who had a broken leg from airborne training, so he didn’t qualify to go to the airborne brigade of the 11th <orgName>Air Assault</orgName>. So he was with us. When we arrived in country, after <date>three or four days</date>, they shipped him out to one of the headquarters and we had a vacancy for a while and some captain would fill in for that and they would go to the meetings and get the information back to me. We went like that for probably <date>about a month</date> or so. But we did have major in before we went into the Ia Drang Valley.</u>
+      <u who="NAPOLI">That takes us really through into <date>October of 1965</date>, right? The night missions, you’re running these shake out missions.</u>
+      <u who="LANGFORD">Yes. Right. There's another part about the shake out that’s important to the artillery side of the house. We were now a unit that was familiar with shooting a certain direction of fire. But we had trained to fire three-hundred-and-sixty degrees which complicates artillery on the old piece artillery guns and so forth, citing devices very much, you had to know whether—</u>
+    </body>
+  </text>
+</TEI>
