@@ -1,34 +1,34 @@
-id	orgName
-ttu_455_org_0	1st Cav Division
-ttu_455_org_1	ROTC
-ttu_455_org_2	2nd battalion 23rd Infantry
-ttu_455_org_3	2nd Infantry Division
-ttu_455_org_4	11th Air Assault Division
-ttu_455_org_5	C Company 2nd Battalion, 23rd Infantry
-ttu_455_org_6	North Vietnamese
-ttu_455_org_7	C company
-ttu_455_org_8	General Moore
-ttu_455_org_9	NVA (North Vietnamese Army)
-ttu_455_org_10	Delta Company
-ttu_455_org_11	Alpha Company
-ttu_455_org_12	Alpha
-ttu_455_org_13	Alpha Company
-ttu_455_org_14	Delta Company
-ttu_455_org_15	Pennsylvania Military College
-ttu_455_org_16	OCS (Officer Candidate School)
-ttu_455_org_17	OCS
-ttu_455_org_18	11th Air Assault Division
-ttu_455_org_19	B Company
-ttu_455_org_20	NVA
-ttu_455_org_21	1st and the 7th
-ttu_455_org_22	Vietcong
-ttu_455_org_23	General Moore
-ttu_455_org_24	Bravo company
-ttu_455_org_25	1st and the 7th
-ttu_455_org_26	1st and 7th
-ttu_455_org_27	1st and 7th
-ttu_455_org_28	Ernie
-ttu_455_org_29	1st and 7th
-ttu_455_org_30	Widener College
-ttu_455_org_31	Pennsylvania Military
-ttu_455_org_32	Widener
+id	orgName	QID	ttu_id
+ttu_455_org_0	1st Cavalry Division	Q2338	
+ttu_455_org_1	Reserve Officers' Training Corps	Q489983	
+ttu_455_org_2	"2nd Battalion, 23rd Infantry"	Q110707169	
+ttu_455_org_3	2nd Infantry Division	Q210607	
+ttu_455_org_4	11th Airborne Division	Q169980	
+ttu_455_org_5	"C Company 2nd Battalion, 23rd Infantry Regiment"	Q110714325	
+ttu_455_org_6	People's Army of Vietnam	Q3936506	
+ttu_455_org_7	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_8	General Moore	Q103780610	
+ttu_455_org_9	People's Army of Vietnam	Q3936506	
+ttu_455_org_10	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_11	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_12	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_13	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_14	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_15	Widener University	Q3443325	
+ttu_455_org_16	Officer Candidate School	Q12622609	
+ttu_455_org_17	Officer Candidate School	Q12622609	
+ttu_455_org_18	11th Airborne Division	Q169980	
+ttu_455_org_19	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_20	People's Army of Vietnam	Q3936506	
+ttu_455_org_21	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_22	National Front for the Liberation of South Vietnam	Q174423	
+ttu_455_org_23	General Moore	Q103780610	
+ttu_455_org_24	Bravo Company	Q55525881	
+ttu_455_org_25	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_26	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_27	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_28	Ernie		ttu_0035
+ttu_455_org_29	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_455_org_30	Widener University	Q3443325	
+ttu_455_org_31	Widener University	Q3443325	
+ttu_455_org_32	Widener University	Q3443325	
