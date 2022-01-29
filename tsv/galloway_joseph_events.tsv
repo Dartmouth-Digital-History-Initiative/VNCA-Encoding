@@ -1,20 +1,20 @@
-id	name
-ttu_454_event_0	Ia Drang-Pleiku Battles
-ttu_454_event_1	World War II
-ttu_454_event_2	Pearl Harbor
-ttu_454_event_3	Cold Harbor
-ttu_454_event_4	Battle of the Wilderness
-ttu_454_event_5	2nd Manassas
-ttu_454_event_6	X-Ray
-ttu_454_event_7	X-Ray
-ttu_454_event_8	war
-ttu_454_event_9	surrender at Appomattox
-ttu_454_event_10	Civil War
-ttu_454_event_11	surrender at Appomattox
-ttu_454_event_12	Civil War
-ttu_454_event_13	Dust Bowl
-ttu_454_event_14	’64 presidential election
-ttu_454_event_15	Ia Drang
-ttu_454_event_16	X-Ray
-ttu_454_event_17	battle
-ttu_454_event_18	Air Force C123 Milk Run
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_454_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_454_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+ttu_454_event_2	Attack on Pearl Harbor	Q52418				1941-12-07T00:00:00Z
+ttu_454_event_3	Battle of Cold Harbor	Q497797		1864-05-31T00:00:00Z	1864-06-12T00:00:00Z	
+ttu_454_event_4	Battle of the Wilderness	Q1425882		1864-05-05T00:00:00Z	1864-05-07T00:00:00Z	
+ttu_454_event_5	Second Battle of Bull Run	Q233343				1862-01-01T00:00:00Z
+ttu_454_event_6	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_454_event_7	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_454_event_8	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+ttu_454_event_9	Battle of Appomattox Court House	Q1355391				1865-04-09T00:00:00Z
+ttu_454_event_10	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+ttu_454_event_11	Battle of Appomattox Court House	Q1355391				1865-04-09T00:00:00Z
+ttu_454_event_12	American Civil War	Q8676		1861-04-12T00:00:00Z	1865-05-09T00:00:00Z	
+ttu_454_event_13	Dust Bowl	Q726501		1930-01-01T00:00:00Z	1936-01-01T00:00:00Z	
+ttu_454_event_14	1964 United States presidential election	Q699646				1964-11-03T00:00:00Z
+ttu_454_event_15	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_454_event_16	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_454_event_17	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_454_event_18	Air Force C123 Milk Run	Q110624832				1966-11-17T00:00:00Z
