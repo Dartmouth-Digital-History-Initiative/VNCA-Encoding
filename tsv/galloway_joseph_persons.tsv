@@ -1,4 +1,4 @@
-id	persName	QID	dvp_id
+id	persName	QID	ttu_id
 ttu_454_person_0	Richard Verrone		ttu_0003
 ttu_454_person_1	Joseph Galloway		ttu_0004
 ttu_454_person_2	Joe		ttu_0004
@@ -11,7 +11,7 @@ ttu_454_person_8	Hal Moore	Q430209
 ttu_454_person_9	Joshua Lawrence Chamberlain	Q80766	
 ttu_454_person_10	Allison		ttu_0008
 ttu_454_person_11	John Thomas Allison		ttu_0008
-ttu_454_person_12	"Company C, 2nd Battalion, 12th Infantry Regiment"	Q109417326	
+ttu_454_person_12	Company C, 2nd Battalion, 12th Infantry Regiment	Q109417326	
 ttu_454_person_13	Mark Twain	Q7245	
 ttu_454_person_14	Harry S Truman	Q11613	
 ttu_454_person_15	Harry S Truman	Q11613	

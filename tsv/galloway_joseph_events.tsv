@@ -1,4 +1,4 @@
-id	name	QID	dvp_id	start time	end time	point in time
+id	name	QID	ttu_id	start time	end time	point in time
 ttu_454_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
 ttu_454_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
 ttu_454_event_2	Attack on Pearl Harbor	Q52418				1941-12-07T00:00:00Z
