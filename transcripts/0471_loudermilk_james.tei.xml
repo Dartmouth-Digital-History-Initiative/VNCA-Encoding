@@ -45,7 +45,6 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="Date"/>
         <person xml:id="MILAM"/>
         <person xml:id="LOUDERMILK"/>
       </particDesc>
@@ -59,7 +58,7 @@
   </teiHeader>
   <text>
     <body>
-      <u who="Date"><date when="2005-11-14">14 November 2005</date>Transcribed by <persName>Mark Steven VarelaMILAM</persName>: My name is <persName>Dr. Ron Milam</persName> with <orgName>Texas Tech University, Vietnam Center</orgName>. Today I am interviewing <persName>Bob Loudermilk</persName>. <persName>Bob</persName>, I’d like to start by asking you to tell me what your MOS (Military Occupational Specialty) and responsibility was on <date when="1965-11-14">November 14th, 1965</date>.</u>
+      <u who="MILAM">My name is <persName>Dr. Ron Milam</persName> with <orgName>Texas Tech University, Vietnam Center</orgName>. Today I am interviewing <persName>Bob Loudermilk</persName>. <persName>Bob</persName>, I’d like to start by asking you to tell me what your MOS (Military Occupational Specialty) and responsibility was on <date when="1965-11-14">November 14th, 1965</date>.</u>
       <u who="LOUDERMILK">My MOS was 1981, which is rotary-wing aviator assigned to <orgName>Delta Company, 229th Assault Helicopter Battalion of the 1st Cav Division</orgName>.</u>
       <u who="MILAM">And your rank?</u>
       <u who="LOUDERMILK">I was a captain.</u>
@@ -112,7 +111,7 @@
       <u who="MILAM">When did you get notified, that you were going to <placeName>Vietnam</placeName>?</u>
       <u who="LOUDERMILK">When <persName>President Johnson</persName> came to <placeName>Fort Benning</placeName> and made his stadium speech. That day he had notified the <orgName>1st Cav Division</orgName> that they were going to southeast Asia.</u>
       <u who="MILAM">You already had orders with the unit, you knew what you were doing in the unit and it was just a matter of when you left?</u>
-      <u who="LOUDERMILK">Actually, at that time I was assigned to the remaining platoon of the surveillance Mohawks, as a fixed wing aviator and I was going to go with what’s called the <orgName>ASTA (Aerial Surveillance and Target Acquisition) platoon</orgName> of the Cav, part of the <orgName>11th General Support Aviation Company</orgName> and go to <placeName>Vietnam</placeName> in the <orgName>1st Cav</orgName> as a Mohawk driver.</u>
+      <u who="LOUDERMILK">Actually, at that time I was assigned to the remaining platoon of the surveillance Mohawks, as a fixed wing aviator and I was going to go with what’s called the ASTA (Aerial Surveillance and Target Acquisition) platoon of the Cav, part of the <orgName>11th General Support Aviation Company</orgName> and go to <placeName>Vietnam</placeName> in the <orgName>1st Cav</orgName> as a Mohawk driver.</u>
       <u who="MILAM">That’s what you were on? So when they said the <orgName>1st Air Cav</orgName> was being sent to <placeName>‘Nam</placeName>, you knew you were going in the role of being a Mohawk pilot.</u>
       <u who="LOUDERMILK">That’s right.</u>
       <u who="MILAM">How did they take the Mohawks to <placeName>Vietnam</placeName>? Did they take them on the ships?</u>
