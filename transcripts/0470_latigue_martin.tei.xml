@@ -32,7 +32,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Sam Johnson Vietnam Center and Archive</p>
+        <p>The Oral History Project of the Sam Johnson Vietnam Center and Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -61,7 +61,7 @@
       <u who="MILAM">I am <persName>Dr. Ron Milam</persName> of <orgName>Texas Tech University</orgName>, <orgName>Vietnam Center</orgName>. <date when="2005-11-11">Today</date> I am interviewing <persName>Martin Latigue</persName>.</u>
       <u who="LATIGUE"><persName>Latigue</persName>.</u>
       <u who="MILAM"><persName>Latigue</persName>. <persName>Martin</persName>, I’d like to start by asking you to give me your MOS (Military Occupational Specialty) and your rank on <date when="1965-11-14">November 14th, 1965</date>.</u>
-      <u who="LATIGUE">I was forward observer for the 3rd Platoon, <orgName>Charlie Company</orgName>, <orgName>1st of the 7th Cav</orgName>. E4.</u>
+      <u who="LATIGUE">I was forward observer for the 3rd Platoon, <orgName>Charlie Company, 1st of the 7th Cav</orgName>. E4.</u>
       <u who="MILAM">E4. So you’re an FO (Forward Observer), 3rd Platoon, <orgName>Charlie Company</orgName>.</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">I believe that was <persName>Captain Edwards</persName>’ platoon?</u>
@@ -107,7 +107,7 @@
       <u who="MILAM">To go?</u>
       <u who="LATIGUE">To go.</u>
       <u who="MILAM">In <date when="1965-07">July</date>?</u>
-      <u who="LATIGUE">Right. <date when="1965-08">August</date>. Most of us were coming out in <date when="1965-12">December</date>. So we went to <placeName>Vietnam</placeName> thinking that we would get extended because we knew most of us would only be there ninety days. It just so happened the <date when="1965-11-14">14th</date>, <date when="1965-11-15">15th</date>, and <date when="1965-11-16">16th</date> we went to <name type="event">battle</name>. The <date when="1965-11-22">22nd</date> I was in the <placeName>United States</placeName> as a civilian. Six days after the <name type="event">battle</name>, the <orgName>United States Government</orgName> didn’t do anything for us, inform us, there was no contact, we were left out in the street on our own. Six days after a major <name type="event">battle</name>. I regret that they didn’t extend it. It would’ve been better for us to be extended for sixty days, ninety days, six months.</u>
+      <u who="LATIGUE">Right. <date when="1965-08">August</date>. Most of us were coming out in <date when="1965-12">December</date>. So we went to <placeName>Vietnam</placeName> thinking that we would get extended because we knew most of us would only be there ninety days. It just so happened the <date when="1965-11-14">14th</date>, <date when="1965-11-15">15th</date>, and <date when="1965-11-16">16th</date> we went to battle. The <date when="1965-11-22">22nd</date> I was in the <placeName>United States</placeName> as a civilian. Six days after the <name type="event">battle</name>, the <orgName>United States Government</orgName> didn’t do anything for us, inform us, there was no contact, we were left out in the street on our own. Six days after a major <name type="event">battle</name>. I regret that they didn’t extend it. It would’ve been better for us to be extended for sixty days, ninety days, six months.</u>
       <u who="MILAM">Well I'm going to ask you more questions about that here in a minute. That’s an interesting story. Had you ever heard of <placeName>Vietnam</placeName> before <date when="1965-07">July of ’65</date>?</u>
       <u who="LATIGUE">We were getting pieces and bits of what was going on in <placeName>Vietnam</placeName>. When you pull guard duty, the inspecting officer would ask you certain questions about the causalities that would be coming up. Every night, <orgName>special forces</orgName> would be hit. They would ask you these questions to see if you were informed about what was happening in <placeName>Vietnam</placeName>. As far as me knowing that we were going to <placeName>Vietnam</placeName>, like I said I got leave and I was home watching television when the President made a <name type="event">special announcement</name>. I was at my mother’s house and he said, “I just ordered the <orgName>1st Calvary</orgName> to <placeName>Vietnam</placeName>.” I told my mother, “That’s my unit.” I was blessed. I had two weeks leave when everyone else only had a week.</u>
       <u who="MILAM">I see. So you get orders, your unit is going, you’re on leave, you come home, you come back to base and you ship out. What ship did you ride on?</u>
@@ -257,7 +257,7 @@
       <u who="MILAM">Clipped together? Upside down so you can flip it.</u>
       <u who="LATIGUE">Right. So we’d load two of them in in one.</u>
       <u who="MILAM">So you duct tape together. Did your M16 ever jam?</u>
-      <u who="LATIGUE">Not during the <name type="event">battle</name>. We did an assault on a <orgName>VC</orgName> (Viet Cong) camp one day and we came off the helicopters, none of us could get our weapons off safety. (Chuckles) It wouldn’t come off safety.</u>
+      <u who="LATIGUE">Not during the <name type="event">battle</name>. We did an assault on a <orgName>VC (Viet Cong)</orgName> camp one day and we came off the helicopters, none of us could get our weapons off safety. (Chuckles) It wouldn’t come off safety.</u>
       <u who="MILAM">None of us could?</u>
       <u who="LATIGUE">No! The whole squad that came off that assault—we landed and we charged and everybody hollered, “I can’t get it off safety!” Somebody thought about it needing lubrication, we used our insect repellent to spray and that was able to get it off.</u>
       <u who="MILAM">What month was that?</u>
@@ -307,7 +307,7 @@
       <u who="MILAM">But from an AK-47?</u>
       <u who="LATIGUE">I don’t know the caliber. I just know he was wounded.</u>
       <u who="MILAM">Yeah, yeah. Wow. So you stayed through the <date when="1965-11-14">14th</date>, <date when="1965-11-15">15th</date>, <date when="1965-11-16">16th</date>. The <name type="event">battle</name> is over at <placeName>X-Ray</placeName> and then your taken where?</u>
-      <u who="LATIGUE">We went to Plei Me—<placeName>Pleiku</placeName>. At the <placeName>base</placeName> there.</u>
+      <u who="LATIGUE">We went to <placeName>Plei Me</placeName>—<placeName>Pleiku</placeName>. At the <placeName>base</placeName> there.</u>
       <u who="MILAM"><placeName>Camp Holloway</placeName>?</u>
       <u who="LATIGUE"><placeName>Camp Holloway</placeName>. We were there for, I don't know, maybe a day or so and then we went back to <placeName>An Khe</placeName>. At <placeName>An Khe</placeName>, we started processing to leave, to go to <placeName>Camp Alpha</placeName> in <placeName>Saigon</placeName>, to come back to the <placeName>United States</placeName>.</u>
       <u who="MILAM">Were you surprised that you got orders to go home?</u>
