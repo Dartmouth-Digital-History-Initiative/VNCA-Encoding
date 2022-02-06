@@ -1,52 +1,52 @@
-id	persName
-ttu_462_person_0	Tony Nadal
-ttu_462_person_1	Tony
-ttu_462_person_2	President Johnson
-ttu_462_person_3	John Herren
-ttu_462_person_4	Tim Brown
-ttu_462_person_5	Hal Moore
-ttu_462_person_6	Colonel Moore
-ttu_462_person_7	Colonel Brown
-ttu_462_person_8	Colonel Brown
-ttu_462_person_9	Colonel Brown
-ttu_462_person_10	Colonel Moore
-ttu_462_person_11	Colonel Moore
-ttu_462_person_12	Colonel Moore
-ttu_462_person_13	Plumley
-ttu_462_person_14	Moore
-ttu_462_person_15	Ray Lefebvre
-ttu_462_person_16	Ray
-ttu_462_person_17	Hal Moore
-ttu_462_person_18	Charlie Beckwith
-ttu_462_person_19	General Hal Moore
-ttu_462_person_20	John Herren
-ttu_462_person_21	Bob Edwards
-ttu_462_person_22	Greg Dillon
-ttu_462_person_23	Hal Moore
-ttu_462_person_24	Greg
-ttu_462_person_25	Hal
-ttu_462_person_26	George Jennings
-ttu_462_person_27	Joe Marm
-ttu_462_person_28	Hal Moore
-ttu_462_person_29	Hal Moore
-ttu_462_person_30	Hal Moore
-ttu_462_person_31	Moore
-ttu_462_person_32	Moore
-ttu_462_person_33	John Herren
-ttu_462_person_34	Sergeant Nathan
-ttu_462_person_35	Lieutenant Taft
-ttu_462_person_36	Lieutenant Taft
-ttu_462_person_37	Bill
-ttu_462_person_38	Hal Moore
-ttu_462_person_39	Lieutenant Taft
-ttu_462_person_40	Taft
-ttu_462_person_41	Sergeant Gillam
-ttu_462_person_42	Colonel Moore
-ttu_462_person_43	Sergeant Floyd
-ttu_462_person_44	Taft
-ttu_462_person_45	Sergeant Nathan
-ttu_462_person_46	Joe Marm
-ttu_462_person_47	Lieutenant Taft
-ttu_462_person_48	Joe Marm
-ttu_462_person_49	Hal Moore
-ttu_462_person_50	Tony
+id	persName	QID	ttu_id
+ttu_462_person_0	Tony Nadal		ttu_0014
+ttu_462_person_1	Tony		ttu_0014
+ttu_462_person_2	Lyndon B. Johnson	Q9640	
+ttu_462_person_3	John Herren		ttu_0045
+ttu_462_person_4	Tim Brown		ttu_0085
+ttu_462_person_5	Hal Moore	Q430209	
+ttu_462_person_6	Hal Moore	Q430209	
+ttu_462_person_7	Colonel Brown		ttu_0085
+ttu_462_person_8	Colonel Brown		ttu_0085
+ttu_462_person_9	Colonel Brown		ttu_0085
+ttu_462_person_10	Hal Moore	Q430209	
+ttu_462_person_11	Hal Moore	Q430209	
+ttu_462_person_12	Hal Moore	Q430209	
+ttu_462_person_13	Basil L. Plumley	Q2535583	
+ttu_462_person_14	Hal Moore	Q430209	
+ttu_462_person_15	Ray Lefebvre		ttu_0046
+ttu_462_person_16	Ray		ttu_0046
+ttu_462_person_17	Hal Moore	Q430209	
+ttu_462_person_18	Charles Alvin Beckwith	Q912227	
+ttu_462_person_19	Hal Moore	Q430209	
+ttu_462_person_20	John Herren		ttu_0045
+ttu_462_person_21	Bob Edwards		ttu_0037
+ttu_462_person_22	Greg Dillon		ttu_0090
+ttu_462_person_23	Hal Moore	Q430209	
+ttu_462_person_24	Greg		ttu_0090
+ttu_462_person_25	Hal Moore	Q430209	
+ttu_462_person_26	George Jennings		ttu_0091
+ttu_462_person_27	Joe Marm		ttu_0089
+ttu_462_person_28	Hal Moore	Q430209	
+ttu_462_person_29	Hal Moore	Q430209	
+ttu_462_person_30	Hal Moore	Q430209	
+ttu_462_person_31	Hal Moore	Q430209	
+ttu_462_person_32	Hal Moore	Q430209	
+ttu_462_person_33	John Herren		ttu_0045
+ttu_462_person_34	Sergeant Nathan		ttu_0084
+ttu_462_person_35	Lieutenant Taft		ttu_0086
+ttu_462_person_36	Lieutenant Taft		ttu_0086
+ttu_462_person_37	Bill		
+ttu_462_person_38	Hal Moore	Q430209	
+ttu_462_person_39	Lieutenant Taft		ttu_0086
+ttu_462_person_40	Taft		ttu_0086
+ttu_462_person_41	Sergeant Gillam		ttu_0087
+ttu_462_person_42	Hal Moore	Q430209	
+ttu_462_person_43	Sergeant Floyd		ttu_0088
+ttu_462_person_44	Taft		ttu_0086
+ttu_462_person_45	Sergeant Nathan		ttu_0084
+ttu_462_person_46	Joe Marm		ttu_0056
+ttu_462_person_47	Lieutenant Taft		ttu_0086
+ttu_462_person_48	Joe Marm		ttu_0056
+ttu_462_person_49	Hal Moore	Q430209	
+ttu_462_person_50	Tony		ttu_0014
