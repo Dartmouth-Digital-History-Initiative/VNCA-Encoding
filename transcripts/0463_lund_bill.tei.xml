@@ -12,7 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
-       <idno type="DDHI">ttu_463</idno>
+        <idno type="DDHI">ttu_463</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
@@ -59,60 +59,60 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MILAM">My name is <persName>Dr. Ron Milam</persName>. I am with <orgName>Texas Tech University</orgName> and the Vietnam center. I am interviewing <persName>Bill Lund</persName> today. <persName>Bill</persName>, I’d like to start by asking you to tell me what your MOS (Military Occupational Specialty) was and your job specifically on <date when="1965-11-14">November 14th, 1965</date>.</u>
-      <u who="LUND">Okay. I was artillery, 11-93, but I was a forward observer attached to <orgName>B Company</orgName>, <orgName>2nd of the 7th</orgName> which was attached to the <orgName>1st of the 7th</orgName>. We were some of the few guys that were in both <placeName>X-Ray</placeName> and <placeName>Albany</placeName>. </u>
+      <u who="MILAM">My name is <persName ref="#ttu_463_person_0">Dr. Ron Milam</persName>. I am with <orgName ref="#ttu_463_org_0">Texas Tech University</orgName> and the Vietnam center. I am interviewing <persName ref="#ttu_463_person_1">Bill Lund</persName> today. <persName ref="#ttu_463_person_2">Bill</persName>, I’d like to start by asking you to tell me what your MOS (Military Occupational Specialty) was and your job specifically on <date when="1965-11-14">November 14th, 1965</date>.</u>
+      <u who="LUND">Okay. I was artillery, 11-93, but I was a forward observer attached to <orgName ref="#ttu_463_org_1">B Company</orgName>, <orgName ref="#ttu_463_org_2">2nd of the 7th</orgName> which was attached to the <orgName ref="#ttu_463_org_3">1st of the 7th</orgName>. We were some of the few guys that were in both <placeName ref="#ttu_463_place_0">X-Ray</placeName> and <placeName ref="#ttu_463_place_1">Albany</placeName>. </u>
       <u who="MILAM">Your MOS was 1193, and your rank?</u>
       <u who="LUND">2nd lieutenant at that time.</u>
       <u who="MILAM">2nd lieutenant. What was your source of commissioning?</u>
-      <u who="LUND"><orgName>ROTC (Reserve Officer Training Corps)</orgName>. At the <orgName>University of Minnesota</orgName>.</u>
-      <u who="MILAM"><orgName>University of Minnesota</orgName>. After having been commissioned, did you choose artillery as your branch?</u>
-      <u who="LUND">No. (Chuckles) In fact, the whole thing was pretty funny. I was married, my high school sweetheart and I got married, as sophomores and juniors in college. That’s why I was in <orgName>ROTC</orgName> because lieutenants got more pay than privates. I thought that was a good idea. When I got my orders, I always remember because it said—in <placeName>Minnesota</placeName>, when you graduate, you put your uniform on, walk across the stage, they pin the bars on you, hand you your diploma and they hand you your orders at the same time. I got my orders, I opened them up and I looked, and it said “<orgName>11th Air Assault</orgName>. Experimental.” I thought, “Wonder what that is.” So I took it back to the captain of the <orgName>ROTC</orgName> and said, “What’s that?” He said, “I don’t know, but you’re in trouble.” (Chuckles) That’s how it started.</u>
+      <u who="LUND"><orgName ref="#ttu_463_org_4">ROTC (Reserve Officer Training Corps)</orgName>. At the <orgName ref="#ttu_463_org_5">University of Minnesota</orgName>.</u>
+      <u who="MILAM"><orgName ref="#ttu_463_org_6">University of Minnesota</orgName>. After having been commissioned, did you choose artillery as your branch?</u>
+      <u who="LUND">No. (Chuckles) In fact, the whole thing was pretty funny. I was married, my high school sweetheart and I got married, as sophomores and juniors in college. That’s why I was in <orgName ref="#ttu_463_org_7">ROTC</orgName> because lieutenants got more pay than privates. I thought that was a good idea. When I got my orders, I always remember because it said—in <placeName ref="#ttu_463_place_2">Minnesota</placeName>, when you graduate, you put your uniform on, walk across the stage, they pin the bars on you, hand you your diploma and they hand you your orders at the same time. I got my orders, I opened them up and I looked, and it said “<orgName ref="#ttu_463_org_8">11th Air Assault</orgName>. Experimental.” I thought, “Wonder what that is.” So I took it back to the captain of the <orgName ref="#ttu_463_org_9">ROTC</orgName> and said, “What’s that?” He said, “I don’t know, but you’re in trouble.” (Chuckles) That’s how it started.</u>
       <u who="MILAM">You graduated and got your commission, what year?</u>
       <u who="LUND"><date when="1964-03">March of ’64</date>.</u>
-      <u who="MILAM"><date when="1964-03">March of ’64</date>? You’re first duty station was <placeName>Fort Benning</placeName>?</u>
-      <u who="LUND">Right, after <placeName>Fort Sill</placeName>’s training.</u>
-      <u who="MILAM">Okay so you went to <placeName>Fort Sill</placeName> first for FO (Forward Observer) training.</u>
+      <u who="MILAM"><date when="1964-03">March of ’64</date>? You’re first duty station was <placeName ref="#ttu_463_place_3">Fort Benning</placeName>?</u>
+      <u who="LUND">Right, after <placeName ref="#ttu_463_place_4">Fort Sill</placeName>’s training.</u>
+      <u who="MILAM">Okay so you went to <placeName ref="#ttu_463_place_5">Fort Sill</placeName> first for FO (Forward Observer) training.</u>
       <u who="LUND">Right. FO training. </u>
       <u who="MILAM">Was it artillery OBC (Basic Orientation Course)? Was it Officer’s Basic Course for artillery men?</u>
       <u who="LUND">Yeah, right.</u>
-      <u who="MILAM">But you already knew your duty station was going to be <placeName>Fort Benning</placeName>—</u>
-      <u who="LUND"><placeName>Fort Benning</placeName>.</u>
-      <u who="MILAM">With the <orgName>11th Air Assault</orgName>, which was going to be part of the <orgName>1st Air Cav</orgName>.</u>
-      <u who="LUND">Was going to be the <orgName>1st Air Cav</orgName>. Oddly enough, I got assigned, this was way off the base, I got assigned to a thing they used to call “The Little John Rocket Battalion” that’s a missile about the length of that table, maybe a little longer. (Editor’s Note: Interviewee points to a table)</u>
+      <u who="MILAM">But you already knew your duty station was going to be <placeName ref="#ttu_463_place_6">Fort Benning</placeName>—</u>
+      <u who="LUND"><placeName ref="#ttu_463_place_7">Fort Benning</placeName>.</u>
+      <u who="MILAM">With the <orgName ref="#ttu_463_org_10">11th Air Assault</orgName>, which was going to be part of the <orgName ref="#ttu_463_org_11">1st Air Cav</orgName>.</u>
+      <u who="LUND">Was going to be the <orgName ref="#ttu_463_org_12">1st Air Cav</orgName>. Oddly enough, I got assigned, this was way off the base, I got assigned to a thing they used to call “The Little John Rocket Battalion” that’s a missile about the length of that table, maybe a little longer. (Editor’s Note: Interviewee points to a table)</u>
       <u who="MILAM">Nuclear? That was one of the first of the nuclear—</u>
       <u who="LUND">Yeah, exactly. That’s the one.</u>
       <u who="MILAM">Battlefield nuclear.</u>
-      <u who="LUND">So that was kind of an odd thing to be in. For a year, that’s what I did. I became an FO a week or two before we left for <placeName>Vietnam</placeName>. Which was kind of an interesting experience.</u>
-      <u who="MILAM">What was your major in <placeName>Minnesota</placeName>, at school?</u>
+      <u who="LUND">So that was kind of an odd thing to be in. For a year, that’s what I did. I became an FO a week or two before we left for <placeName ref="#ttu_463_place_8">Vietnam</placeName>. Which was kind of an interesting experience.</u>
+      <u who="MILAM">What was your major in <placeName ref="#ttu_463_place_9">Minnesota</placeName>, at school?</u>
       <u who="LUND">Business.</u>
       <u who="MILAM">You were business major?</u>
       <u who="LUND">Right.</u>
       <u who="MILAM">Strong mathematical background?</u>
       <u who="LUND">No. No. Not at all. But it was obviously a real good school. I found it—military all interesting, I enjoyed the heck out of it.</u>
-      <u who="MILAM">When you went to <placeName>Fort Sill</placeName>, of the—eight weeks of OBC?</u>
+      <u who="MILAM">When you went to <placeName ref="#ttu_463_place_10">Fort Sill</placeName>, of the—eight weeks of OBC?</u>
       <u who="LUND">Yeah, about eight weeks.</u>
-      <u who="MILAM">In that eight weeks, how much of your training was about being a forward observer in <placeName>Vietnam</placeName>?</u>
-      <u who="LUND">Zero. In <placeName>Vietnam</placeName>. Most of the training was about being a forward observer. I think they realized that most 2nd lieutenants were going to be forward observers. Never had heard the word. Never heard of it. In fact, I don’t know if anybody else has told you this but when they ordered us to go to <placeName>Vietnam</placeName>, they actually took a lot of the officers to a movie theater on base and showed us where it was and how you pronoun the name.</u>
+      <u who="MILAM">In that eight weeks, how much of your training was about being a forward observer in <placeName ref="#ttu_463_place_11">Vietnam</placeName>?</u>
+      <u who="LUND">Zero. In <placeName ref="#ttu_463_place_12">Vietnam</placeName>. Most of the training was about being a forward observer. I think they realized that most 2nd lieutenants were going to be forward observers. Never had heard the word. Never heard of it. In fact, I don’t know if anybody else has told you this but when they ordered us to go to <placeName ref="#ttu_463_place_13">Vietnam</placeName>, they actually took a lot of the officers to a movie theater on base and showed us where it was and how you pronoun the name.</u>
       <u who="MILAM">Wow.</u>
       <u who="LUND">Yeah. We had never heard of it.</u>
-      <u who="MILAM">I am familiar somewhat with artillery at <placeName>Fort Sill</placeName> with the IOBC (Infantry Officer Basic Course) and with the OCS (Officer Candidate School) program there for artillery and later in the war, I know that there was this rule that said all combat arm officers should have four months of troop experience before they go to <placeName>Vietnam</placeName>. They did that pretty much across the board for a while, but then they found that with artillery people, when they came out of OCS, they had had FO training, or at least they were ready. By the time they had four months of troop training, they had lost a lot of it and for a period of time, they sent artillery 2nd lieutenants, newly commissioned, directly to <placeName>Vietnam</placeName>. I think that was a mistake and they realized this, and they went back to the other. But that’s my familiarity with RTO and OCS, I’ve told you everything I know. But in your case, you had orders for this new cavalry air unit at <placeName>Fort Benning</placeName>, before you’d even been to artillery OBC.</u>
-      <u who="LUND">Right, had it from—the very first orders I ever got said that’s where I was going but you’re going here first—to <placeName>Fort Sill</placeName> first and then to <placeName>Fort Benning</placeName>.</u>
+      <u who="MILAM">I am familiar somewhat with artillery at <placeName ref="#ttu_463_place_14">Fort Sill</placeName> with the IOBC (Infantry Officer Basic Course) and with the OCS (Officer Candidate School) program there for artillery and later in the war, I know that there was this rule that said all combat arm officers should have four months of troop experience before they go to <placeName ref="#ttu_463_place_15">Vietnam</placeName>. They did that pretty much across the board for a while, but then they found that with artillery people, when they came out of OCS, they had had FO training, or at least they were ready. By the time they had four months of troop training, they had lost a lot of it and for a period of time, they sent artillery 2nd lieutenants, newly commissioned, directly to <placeName ref="#ttu_463_place_16">Vietnam</placeName>. I think that was a mistake and they realized this, and they went back to the other. But that’s my familiarity with RTO and OCS, I’ve told you everything I know. But in your case, you had orders for this new cavalry air unit at <placeName ref="#ttu_463_place_17">Fort Benning</placeName>, before you’d even been to artillery OBC.</u>
+      <u who="LUND">Right, had it from—the very first orders I ever got said that’s where I was going but you’re going here first—to <placeName ref="#ttu_463_place_18">Fort Sill</placeName> first and then to <placeName ref="#ttu_463_place_19">Fort Benning</placeName>.</u>
       <u who="MILAM">So you graduated in Spring of <date when="1964">’64</date> and you go to OBC until September or so?</u>
-      <u who="LUND">No. So I graduated in <date when="1964-03">March</date>, so I was at <placeName>Fort Benning</placeName> in <date when="1964-05">May</date>.</u>
-      <u who="MILAM">You got to <placeName>Benning</placeName> on <date when="1964-05">May of ’64</date>.</u>
+      <u who="LUND">No. So I graduated in <date when="1964-03">March</date>, so I was at <placeName ref="#ttu_463_place_20">Fort Benning</placeName> in <date when="1964-05">May</date>.</u>
+      <u who="MILAM">You got to <placeName ref="#ttu_463_place_21">Benning</placeName> on <date when="1964-05">May of ’64</date>.</u>
       <u who="LUND">Right.</u>
       <u who="MILAM">So you were there with the unit for virtually a year before you left?</u>
       <u who="LUND">Right, yup.</u>
-      <u who="MILAM">What was your responsibility at <placeName>Benning</placeName>?</u>
+      <u who="MILAM">What was your responsibility at <placeName ref="#ttu_463_place_22">Benning</placeName>?</u>
       <u who="LUND">I was a platoon leader of the rocket group. We had three companies. It was set up just like a regular artillery outfit, and you did the same type of things when I was just—I had a platoon of people that took care of this rocket. It was so unique, nobody else knew what we were doing. It was a lot of fun to side in the base, but it was fun because it was you know playing with a nuke. In reality, it’s drills with the screwdrivers and all this.</u>
-      <u who="MILAM">But you didn’t, for that year, you didn’t really train with the infantry or you didn’t train as an FO with the <orgName>1st Air Cav</orgName> or anything like that.</u>
+      <u who="MILAM">But you didn’t, for that year, you didn’t really train with the infantry or you didn’t train as an FO with the <orgName ref="#ttu_463_org_13">1st Air Cav</orgName> or anything like that.</u>
       <u who="LUND">Nothing. No. Not at all.</u>
-      <u who="MILAM">As you are assigned to this <orgName>11th Air Assault</orgName> unit as a platoon leader with an experimental or with a nuclear weapon, a battlefield nuclear weapon you might say, tactical nuke, at that time do you realize what the <orgName>1st Air Cav</orgName> is doing in terms of their training is to go to <placeName>Vietnam</placeName>—</u>
-      <u who="LUND">Not until they started talking about going to the <placeName>Carolinas</placeName>. That and you know we did in September, October maybe in the <placeName>Carolinas</placeName>. Two months up there living in the woods and flying places in helicopters. I started to get, you know, there was sort of this talk of this is how this is going to work, and the infantry is doing this. But we never saw the infantry. We never were near anybody. Because as you can imagine, a tactical nuke is called up from the rear to get within range of sometime and that’s all. Yeah. It was pretty interesting.</u>
-      <u who="MILAM">So you’re attached to a unit that ultimately is going to go to <placeName>Vietnam</placeName>, but you’re not going to take your honest John with you.</u>
+      <u who="MILAM">As you are assigned to this <orgName ref="#ttu_463_org_14">11th Air Assault</orgName> unit as a platoon leader with an experimental or with a nuclear weapon, a battlefield nuclear weapon you might say, tactical nuke, at that time do you realize what the <orgName ref="#ttu_463_org_15">1st Air Cav</orgName> is doing in terms of their training is to go to <placeName ref="#ttu_463_place_23">Vietnam</placeName>—</u>
+      <u who="LUND">Not until they started talking about going to the <placeName ref="#ttu_463_place_24">Carolinas</placeName>. That and you know we did in September, October maybe in the <placeName ref="#ttu_463_place_25">Carolinas</placeName>. Two months up there living in the woods and flying places in helicopters. I started to get, you know, there was sort of this talk of this is how this is going to work, and the infantry is doing this. But we never saw the infantry. We never were near anybody. Because as you can imagine, a tactical nuke is called up from the rear to get within range of sometime and that’s all. Yeah. It was pretty interesting.</u>
+      <u who="MILAM">So you’re attached to a unit that ultimately is going to go to <placeName ref="#ttu_463_place_26">Vietnam</placeName>, but you’re not going to take your honest John with you.</u>
       <u who="LUND">Right.</u>
       <u who="MILAM">When did you, personally become the guy that is going to go over with the unit?</u>
-      <u who="LUND">What they did was somebody on high sent down a list of we may need this many artillery guys to fill the slots. They posted our names on a bulletin board and there it was. Your name. You’re going. So I went home and told my wife, I said, “Wow, you won’t believe this. I’m now an FO with the <orgName>7th Cavalry</orgName> with the <orgName>21st Artillery</orgName>, I never met the guys, but I'm going over to meet them and I'm going to <placeName>Vietnam</placeName>!” What a shock!</u>
+      <u who="LUND">What they did was somebody on high sent down a list of we may need this many artillery guys to fill the slots. They posted our names on a bulletin board and there it was. Your name. You’re going. So I went home and told my wife, I said, “Wow, you won’t believe this. I’m now an FO with the <orgName ref="#ttu_463_org_16">7th Cavalry</orgName> with the <orgName ref="#ttu_463_org_17">21st Artillery</orgName>, I never met the guys, but I'm going over to meet them and I'm going to <placeName ref="#ttu_463_place_27">Vietnam</placeName>!” What a shock!</u>
       <u who="MILAM">What was the time between getting your orders and leaving?</u>
       <u who="LUND">Month and a half maybe.</u>
       <u who="MILAM">Okay, so in that six weeks, were you trained to become an FO?</u>
@@ -122,8 +122,8 @@
       <u who="MILAM">This is to get you used to—</u>
       <u who="LUND">To get you qualified.</u>
       <u who="MILAM">For your weapons?</u>
-      <u who="LUND">Weapons and stuff. That whole situation was really interesting. To me, the FO stuff never left me. I mean I had that stuff cold, for some reason. I will tell you about being assigned, if that’s okay, to these infantry officers—I was told to report to <orgName>B Company</orgName> of the <orgName>2nd and 7th</orgName> and I have to tell you that they were smiling on me from above when they assigned me to that outfit because that was a good outfit as it was in <placeName>Vietnam</placeName>. We were something else. But when I walked in the door, I saluted the captain and he started talking to me and I'm thinking, “Wow, who is this guy?” It was <persName>Myron Diduryk</persName>, who if you read the book of course, <persName>Hal Moore</persName> says was the best company commander he ever saw. This guy is—was somebody from the <placeName>Ukraine</placeName>. So in the movie when you see <persName>Mel Gibson</persName> saying, “We’ve got officers in the <placeName>Ukraine</placeName>,” well they’re talking about <persName>Myron Diduryk</persName>. So I'm listening to this accent, I can hardly understand him you know and—but he and I became fast friend because I was like attached to the guy the whole time we were there. What was funnier yet was then he brought in some of the lieutenants, but the first one he brought in was <persName>Rick Rescorla</persName>. He is from <placeName>Cornwall, England</placeName>. So I'm going, “What kind of outfit is this? Listen, I'm a FO and I don’t need—I'm independent, what are you guys?” (Chuckles) I had a lot of fun with them. That was good.</u>
-      <u who="MILAM">You went to <placeName>Vietnam</placeName> with the <orgName>1st Air Cav</orgName> in <date when="1964-08">August</date>, on the troop carrier, on the ship?</u>
+      <u who="LUND">Weapons and stuff. That whole situation was really interesting. To me, the FO stuff never left me. I mean I had that stuff cold, for some reason. I will tell you about being assigned, if that’s okay, to these infantry officers—I was told to report to <orgName ref="#ttu_463_org_18">B Company</orgName> of the <orgName ref="#ttu_463_org_19">2nd and 7th</orgName> and I have to tell you that they were smiling on me from above when they assigned me to that outfit because that was a good outfit as it was in <placeName ref="#ttu_463_place_28">Vietnam</placeName>. We were something else. But when I walked in the door, I saluted the captain and he started talking to me and I'm thinking, “Wow, who is this guy?” It was <persName ref="#ttu_463_person_3">Myron Diduryk</persName>, who if you read the book of course, <persName ref="#ttu_463_person_4">Hal Moore</persName> says was the best company commander he ever saw. This guy is—was somebody from the <placeName ref="#ttu_463_place_29">Ukraine</placeName>. So in the movie when you see <persName ref="#ttu_463_person_5">Mel Gibson</persName> saying, “We’ve got officers in the <placeName ref="#ttu_463_place_30">Ukraine</placeName>,” well they’re talking about <persName ref="#ttu_463_person_6">Myron Diduryk</persName>. So I'm listening to this accent, I can hardly understand him you know and—but he and I became fast friend because I was like attached to the guy the whole time we were there. What was funnier yet was then he brought in some of the lieutenants, but the first one he brought in was <persName ref="#ttu_463_person_7">Rick Rescorla</persName>. He is from <placeName ref="#ttu_463_place_31">Cornwall, England</placeName>. So I'm going, “What kind of outfit is this? Listen, I'm a FO and I don’t need—I'm independent, what are you guys?” (Chuckles) I had a lot of fun with them. That was good.</u>
+      <u who="MILAM">You went to <placeName ref="#ttu_463_place_32">Vietnam</placeName> with the <orgName ref="#ttu_463_org_20">1st Air Cav</orgName> in <date when="1964-08">August</date>, on the troop carrier, on the ship?</u>
       <u who="LUND">Yes.</u>
       <u who="MILAM">Did you have any—you were going—you knew you were going to be a FO?</u>
       <u who="LUND">Yep.</u>
@@ -131,30 +131,30 @@
       <u who="LUND">Yeah, I was alone. When we first got there, we tried to do the traditional—I think a traditional like a sergeant, a jeep driver, and a radio operator.</u>
       <u who="MILAM">Yeah, DOE (Date of Enlistment) is that.</u>
       <u who="LUND">Yeah right, we started like that and trust me, nobody wanted to be with the FO. The minute they realized they really didn’t need it these guys bailed in a hurry and they just rotated a guy and I always laughed, I said, “Are you being punished? Are you being punished to come over to be my radio operator for a week? "Two weeks?” Because they keep changing these guys. It really ended up just a radio operator and me.</u>
-      <u who="MILAM">You’re going to <placeName>Vietnam</placeName> as a one-man shuttle. In a sense of you’re not a platoon leader. In a traditional sense, you’re not going to be at a fire base, supervising the firing of 105s. You’re going to be the guy that calls it in. You’re going to be out there with the troops. Your experience so far has been this honest <persName>John</persName>, tactical nuke thing, OBC and everything. You’re really going to do some OJT (On the Job Training) from the standpoint of not that you don’t know FO stuff, but knowing it on the ground, in combat is going to be new to you.</u>
-      <u who="LUND">Brand new. Never had a clue. I always remember this, we were out on patrol, the company, at that time I wasn’t quite—I was maybe a platoon back from the company commander, kind of in the middle of that platoon. He thought that was probably a good idea, and I thought it was probably a good idea. We got ambushed a little bit up on the front. In fact, <persName>Rick Rescorla</persName> got wounded that day. I remember when the firing started, I turned to the radio operator and I looked at him and said, “Well, we either get in or we get out, but I think we better get in.” I said, “Come on, let’s go.” I took off for the front and just as I sat down right behind the dirt, he goes, “Where’s the FO?” I said, “Right here.” He looked at me and said, “Alright.” I had a rocket ship up there, a gun ship, and I talked to him and laid out some fire and through the smoke and sitting out to the north of that or whatever and I kind of got my feet wet that way.</u>
-      <u who="MILAM">This is at <placeName>X-Ray</placeName>?</u>
-      <u who="LUND">This is before <placeName>X-Ray</placeName>.</u>
-      <u who="MILAM">Were you involved in <name type="event">Operation “Silver Bayonet”</name>?</u>
+      <u who="MILAM">You’re going to <placeName ref="#ttu_463_place_33">Vietnam</placeName> as a one-man shuttle. In a sense of you’re not a platoon leader. In a traditional sense, you’re not going to be at a fire base, supervising the firing of 105s. You’re going to be the guy that calls it in. You’re going to be out there with the troops. Your experience so far has been this honest <persName ref="#ttu_463_person_8">John</persName>, tactical nuke thing, OBC and everything. You’re really going to do some OJT (On the Job Training) from the standpoint of not that you don’t know FO stuff, but knowing it on the ground, in combat is going to be new to you.</u>
+      <u who="LUND">Brand new. Never had a clue. I always remember this, we were out on patrol, the company, at that time I wasn’t quite—I was maybe a platoon back from the company commander, kind of in the middle of that platoon. He thought that was probably a good idea, and I thought it was probably a good idea. We got ambushed a little bit up on the front. In fact, <persName ref="#ttu_463_person_9">Rick Rescorla</persName> got wounded that day. I remember when the firing started, I turned to the radio operator and I looked at him and said, “Well, we either get in or we get out, but I think we better get in.” I said, “Come on, let’s go.” I took off for the front and just as I sat down right behind the dirt, he goes, “Where’s the FO?” I said, “Right here.” He looked at me and said, “Alright.” I had a rocket ship up there, a gun ship, and I talked to him and laid out some fire and through the smoke and sitting out to the north of that or whatever and I kind of got my feet wet that way.</u>
+      <u who="MILAM">This is at <placeName ref="#ttu_463_place_34">X-Ray</placeName>?</u>
+      <u who="LUND">This is before <placeName ref="#ttu_463_place_35">X-Ray</placeName>.</u>
+      <u who="MILAM">Were you involved in <name type="event" ref="#ttu_463_event_0">Operation “Silver Bayonet”</name>?</u>
       <u who="LUND">Yes, yeah. I got into a few fights. Our company was out all the time. Our company was out, we’d go out for four days, come in for one, go out for a week, come in for two. Constantly. We were hardly ever in base camp; we were always moving.</u>
       <u who="MILAM">But it was—the contact with the enemy was very light in those first operations. </u>
       <u who="LUND">Very light, very light. </u>
       <u who="MILAM">Your role as a FO in that was to bring in the world on top of whatever the infantry called for it. </u>
       <u who="LUND">Right.</u>
-      <u who="MILAM">When you first get to <placeName>Vietnam</placeName>, you’re in <placeName>Qui Nhon</placeName>, you’re in <placeName>An Khe</placeName>. Then you have this period of time when you get to go out and work with infantry. That’s your own OJT?</u>
+      <u who="MILAM">When you first get to <placeName ref="#ttu_463_place_36">Vietnam</placeName>, you’re in <placeName ref="#ttu_463_place_37">Qui Nhon</placeName>, you’re in <placeName ref="#ttu_463_place_38">An Khe</placeName>. Then you have this period of time when you get to go out and work with infantry. That’s your own OJT?</u>
       <u who="LUND">Right.</u>
-      <u who="MILAM">Did you move to <placeName>Pleiku</placeName> with the infantry unit around the four or five days before <date when="1964-11-14">November 14th</date>?</u>
-      <u who="LUND">Yeah. I lived with the infantry unit, I never left them. Other FOs, interesting enough, didn’t get assigned directly to one company, I never understood that, but I was always with these guys. I didn’t know anything about the artillery. I hardly—when I see the artillery people, I'm not sure who they are because I only knew the FOs because we’d get together for lunch or something and whenever we were all back in basecamp, we’d go to one place or another and have lunch together. But that was really it. My was—battery commander, if there was such a thing or  <persName>Lieutenant Colonel Miranda</persName>, he knew who I was but that was barely it.</u>
-      <u who="MILAM">In some ways your kind of, in military terms, you’re kind of a freelancer in the sense that you’re kind of on your own but you’re assigned to the infantry units. You’ve had some combat OJT with these light contact units or operations like <name type="event">“Silver Bayonet”</name> and some of the others. Then you go to <placeName>Pleiku</placeName> a few days before <date when="1964-11-14">November 14th</date>. Where—when you get the word on <date when="1964-11-13">November 13th</date> I believe or early in the <date when="1964-11-14">14th</date>—</u>
+      <u who="MILAM">Did you move to <placeName ref="#ttu_463_place_39">Pleiku</placeName> with the infantry unit around the four or five days before <date when="1964-11-14">November 14th</date>?</u>
+      <u who="LUND">Yeah. I lived with the infantry unit, I never left them. Other FOs, interesting enough, didn’t get assigned directly to one company, I never understood that, but I was always with these guys. I didn’t know anything about the artillery. I hardly—when I see the artillery people, I'm not sure who they are because I only knew the FOs because we’d get together for lunch or something and whenever we were all back in basecamp, we’d go to one place or another and have lunch together. But that was really it. My was—battery commander, if there was such a thing or  <persName ref="#ttu_463_person_10">Lieutenant Colonel Miranda</persName>, he knew who I was but that was barely it.</u>
+      <u who="MILAM">In some ways your kind of, in military terms, you’re kind of a freelancer in the sense that you’re kind of on your own but you’re assigned to the infantry units. You’ve had some combat OJT with these light contact units or operations like <name type="event" ref="#ttu_463_event_1">“Silver Bayonet”</name> and some of the others. Then you go to <placeName ref="#ttu_463_place_40">Pleiku</placeName> a few days before <date when="1964-11-14">November 14th</date>. Where—when you get the word on <date when="1964-11-13">November 13th</date> I believe or early in the <date when="1964-11-14">14th</date>—</u>
       <u who="LUND">Yep, <date when="1964-11-14">14th</date>.</u>
       <u who="MILAM">What was your assignment? How is it told to you, as to what your assignment was going to be on the first initial landing?</u>
-      <u who="LUND">What we were told was that—by this time I'm living in <persName>Diduryk</persName>’s back pocket. I'm right there all the time. What we were told was the LZ was hot. This was really real action and get ready, and that <persName>Diduryk</persName> was going to report to <persName>Hal Moore</persName>, to find out what to do. We did not have a pre-prescribed, “You will be doing this.”</u>
-      <u who="MILAM">Let me understand,<placeName> LZ X-Ray</placeName>, twenty minutes before the landing, they use artillery preparation for the battlefield?</u>
+      <u who="LUND">What we were told was that—by this time I'm living in <persName ref="#ttu_463_person_11">Diduryk</persName>’s back pocket. I'm right there all the time. What we were told was the LZ was hot. This was really real action and get ready, and that <persName ref="#ttu_463_person_12">Diduryk</persName> was going to report to <persName ref="#ttu_463_person_13">Hal Moore</persName>, to find out what to do. We did not have a pre-prescribed, “You will be doing this.”</u>
+      <u who="MILAM">Let me understand,<placeName ref="#ttu_463_place_41"> LZ X-Ray</placeName>, twenty minutes before the landing, they use artillery preparation for the battlefield?</u>
       <u who="LUND">Right.</u>
       <u who="MILAM">They come in, first couple of lifts, no enemy contact and then about lifts three and four they started experiencing this. That’s the moment at which you hear that—or are you planning? Or do you know that you’re going?</u>
-      <u who="LUND">We don’t know where we’re going. We were sitting back somewhere around Plei Me. I always kind of remember that we were sort of out in jungle grass somewhere when we got radio call that said, “We need you guys, a helicopter is coming to pick you up, you’re headed to a landing zone.” By time we got there, it was under heavy fire. Real heavy fire. We were sort of—the reason we got attached was they were afraid they were going to run out of people before then, to hold it. We landed—the helicopter came skiting in. I think we were landing to the west of all things. We came skiting in and jumping out. On the way in, this is what really set the tone, I’m looking out, smoke is just billowing up. There’s an A1E Skyraider, which is an <orgName>Air Force</orgName> plane, on the ground burning and the helicopter is down. I'm going “Oh my god, this is something.” In we went, I started running this way. (Editor’s Note: Interviewee signals interviewer where he ran) Just because I thought I was supposed to be running somewhere, and I started running this way and there the enemy was right there! So I turned around and ran like crazy the other way, and the helicopter lifted off in the meantime and I'm running like this. I see <persName>Diduryk</persName> going the other way, towards the big terminate hill, so I chase him around behind the hill and I come sliding up and sit down, and he’s sitting down and there’s <persName>Lieutenant Colonel Moore</persName> at the time. He was so clam and cool. I remember him saying to <persName>Diduryk</persName>, he says, “See up there? I got a lost platoon up there. I'm thinking about having you guys go get them.” I looked at <persName>Diduryk</persName> and said to myself, “Oh my god, what’s he talking about?” Fortunately, he said, “But right now, I just want you to go right up there to the North end and hunker down.”</u>
+      <u who="LUND">We don’t know where we’re going. We were sitting back somewhere around Plei Me. I always kind of remember that we were sort of out in jungle grass somewhere when we got radio call that said, “We need you guys, a helicopter is coming to pick you up, you’re headed to a landing zone.” By time we got there, it was under heavy fire. Real heavy fire. We were sort of—the reason we got attached was they were afraid they were going to run out of people before then, to hold it. We landed—the helicopter came skiting in. I think we were landing to the west of all things. We came skiting in and jumping out. On the way in, this is what really set the tone, I’m looking out, smoke is just billowing up. There’s an A1E Skyraider, which is an <orgName ref="#ttu_463_org_21">Air Force</orgName> plane, on the ground burning and the helicopter is down. I'm going “Oh my god, this is something.” In we went, I started running this way. (Editor’s Note: Interviewee signals interviewer where he ran) Just because I thought I was supposed to be running somewhere, and I started running this way and there the enemy was right there! So I turned around and ran like crazy the other way, and the helicopter lifted off in the meantime and I'm running like this. I see <persName ref="#ttu_463_person_14">Diduryk</persName> going the other way, towards the big terminate hill, so I chase him around behind the hill and I come sliding up and sit down, and he’s sitting down and there’s <persName ref="#ttu_463_person_15">Lieutenant Colonel Moore</persName> at the time. He was so clam and cool. I remember him saying to <persName ref="#ttu_463_person_16">Diduryk</persName>, he says, “See up there? I got a lost platoon up there. I'm thinking about having you guys go get them.” I looked at <persName ref="#ttu_463_person_17">Diduryk</persName> and said to myself, “Oh my god, what’s he talking about?” Fortunately, he said, “But right now, I just want you to go right up there to the North end and hunker down.”</u>
       <u who="MILAM">Who else was on the slick that came and brought you in?</u>
-      <u who="LUND">Probably my radio operator, <persName>Diduryk</persName>’s radio operator, 1st Sergeant, that’s probably about it. Maybe another couple of guys.</u>
+      <u who="LUND">Probably my radio operator, <persName ref="#ttu_463_person_18">Diduryk</persName>’s radio operator, 1st Sergeant, that’s probably about it. Maybe another couple of guys.</u>
       <u who="MILAM">There’s no infantry troops on it because they’re all down. They’re all there—</u>
       <u who="LUND">They’re behind us. They’re coming. We had probably a flight of six or whatever. We’re the first one in and the other five had all the troops in them.</u>
       <u who="MILAM">The lost platoon, that’s already happened when you get there. That’s kind of the point—</u>
@@ -166,55 +166,55 @@
       <u who="MILAM">Tell me how that works. You are the FO, you are truly forward in this case, literal translation of that word, you’re there. You’re talking to an aerial?</u>
       <u who="LUND">No.</u>
       <u who="MILAM">Are you talking to a battery?</u>
-      <u who="LUND">I’m talking to the battery, directly back to <orgName>FDC (Fire Direction Control)</orgName>. </u>
+      <u who="LUND">I’m talking to the battery, directly back to <orgName ref="#ttu_463_org_22">FDC (Fire Direction Control)</orgName>. </u>
       <u who="MILAM">And the battery is located where?</u>
-      <u who="LUND">I think at that time it was called <placeName>LZ Falcon</placeName>. There’s two of them, <placeName>Falcon</placeName> and <placeName>Columbus</placeName>, but I don’t think they were at <placeName>Columbus</placeName> yet. There was one other FO in there at the time, the other one had been killed already, a friend of mine, <persName>Timmy Blake</persName>.</u>
-      <u who="MILAM">He was killed at <placeName>X-Ray</placeName>?</u>
-      <u who="LUND">Yeah, right off the bat, he was in <persName>Tony Nadal</persName>’s—he was attached to him.</u>
+      <u who="LUND">I think at that time it was called <placeName ref="#ttu_463_place_42">LZ Falcon</placeName>. There’s two of them, <placeName ref="#ttu_463_place_43">Falcon</placeName> and <placeName ref="#ttu_463_place_44">Columbus</placeName>, but I don’t think they were at <placeName ref="#ttu_463_place_45">Columbus</placeName> yet. There was one other FO in there at the time, the other one had been killed already, a friend of mine, <persName ref="#ttu_463_person_19">Timmy Blake</persName>.</u>
+      <u who="MILAM">He was killed at <placeName ref="#ttu_463_place_46">X-Ray</placeName>?</u>
+      <u who="LUND">Yeah, right off the bat, he was in <persName ref="#ttu_463_person_20">Tony Nadal</persName>’s—he was attached to him.</u>
       <u who="MILAM">Okay, now—that’s good now I know where we’re talking. </u>
-      <u who="LUND">Now I’m sort of the FO to try to get some stuff up around that lost platoon because I think <persName>Bill Riddle</persName> had his hands full over on the other side.</u>
-      <u who="MILAM">You were essentially a replacement for the FO that had gone down with <orgName>Alpha Company</orgName>?</u>
+      <u who="LUND">Now I’m sort of the FO to try to get some stuff up around that lost platoon because I think <persName ref="#ttu_463_person_21">Bill Riddle</persName> had his hands full over on the other side.</u>
+      <u who="MILAM">You were essentially a replacement for the FO that had gone down with <orgName ref="#ttu_463_org_23">Alpha Company</orgName>?</u>
       <u who="LUND">Right. Now all of the sudden, we don’t have enough FOs. We got three companies, four companies in there now and we got two FOs.</u>
       <u who="MILAM">But you’re going to be calling it in from these locations and these are 105s?</u>
       <u who="LUND">105s.</u>
       <u who="MILAM">Do you have anything to do with the aerial rocket artillery?</u>
-      <u who="LUND">Yeah. One of the things that—interesting enough, I worked the <orgName>Air Force</orgName>, I worked aerial rockets, I worked them all. If we get a FAC (Forward Air Controller) in there and <persName>Charlie Hastings</persName> was in there, but if he wasn’t around, in later operations, I would work anything. I had no problems with F4s. So yeah, aerial rockets, the whole thing.</u>
-      <u who="MILAM">Did it seem to you that there was a comfort level, not really a good term to use in combat, but I’ll use it here, that were was a comfort level by the platoon and company commanders of the infantry units to let you do the talking, and to you do the adjusting no matter what it is. Everything from <orgName>ARA (Aerial Rocket Artillery)</orgName> , <orgName>Air Force</orgName>, everything except their own M79s were essentially going to be your job?</u>
-      <u who="LUND">Yep. <persName>Diduryk</persName> and I had a bond like that, that was just fabulous, and I don’t know how to say this properly, I got blessed. I was really good at this, okay? I don’t know why; I could keep more balls in the air after this experience and maybe that’s what did it, <name type="event">X-Ray</name> did it. But I had no fear. I don’t—I mean I was scared to death of the enemy, but for some reason I knew where these rounds were going to go, right exactly. I could put them on top of—I could put them anywhere. I don’t know how that happened, but it was a strange occurrence.</u>
+      <u who="LUND">Yeah. One of the things that—interesting enough, I worked the <orgName ref="#ttu_463_org_24">Air Force</orgName>, I worked aerial rockets, I worked them all. If we get a FAC (Forward Air Controller) in there and <persName ref="#ttu_463_person_22">Charlie Hastings</persName> was in there, but if he wasn’t around, in later operations, I would work anything. I had no problems with F4s. So yeah, aerial rockets, the whole thing.</u>
+      <u who="MILAM">Did it seem to you that there was a comfort level, not really a good term to use in combat, but I’ll use it here, that were was a comfort level by the platoon and company commanders of the infantry units to let you do the talking, and to you do the adjusting no matter what it is. Everything from <orgName ref="#ttu_463_org_25">ARA (Aerial Rocket Artillery)</orgName> , <orgName ref="#ttu_463_org_26">Air Force</orgName>, everything except their own M79s were essentially going to be your job?</u>
+      <u who="LUND">Yep. <persName ref="#ttu_463_person_23">Diduryk</persName> and I had a bond like that, that was just fabulous, and I don’t know how to say this properly, I got blessed. I was really good at this, okay? I don’t know why; I could keep more balls in the air after this experience and maybe that’s what did it, <name type="event" ref="#ttu_463_event_2">X-Ray</name> did it. But I had no fear. I don’t—I mean I was scared to death of the enemy, but for some reason I knew where these rounds were going to go, right exactly. I could put them on top of—I could put them anywhere. I don’t know how that happened, but it was a strange occurrence.</u>
       <u who="MILAM">You’re not—you’re carrying an M16, right? As your weapon?</u>
       <u who="LUND">Yes, right.</u>
       <u who="MILAM">But you got more weapons available to you than anybody!</u>
       <u who="LUND">Than anybody! I feel great, exactly.</u>
       <u who="MILAM">So in that sense, there had to have been a satisfaction that you really are in control of the things that are going to make the biggest difference in this battle. The general knows, the colonel knows that, and every platoon leader and every company commander knows that this is going to be the savior, is this technology. You’re talking to the technology. Maybe that’s not a good word for the artillery, but certainly a good word for the—ultimately, did you bring in the B52s, I think?</u>
-      <u who="LUND">That I never talked to. That would’ve been <persName>Charlie Hastings</persName>.</u>
-      <u who="MILAM">That comes later I think later onto <persName>Chu Pong</persName>, they brought—</u>
+      <u who="LUND">That I never talked to. That would’ve been <persName ref="#ttu_463_person_24">Charlie Hastings</persName>.</u>
+      <u who="MILAM">That comes later I think later onto <persName ref="#ttu_463_person_25">Chu Pong</persName>, they brought—</u>
       <u who="LUND">Yes, they did. When they backed us out of there.</u>
       <u who="MILAM">But in the meantime, to be most effective on this battlefield, you’re talking to the people that could get it done. What about your own safety? Are you hunkered down below? You’re not in a fox hole.</u>
-      <u who="LUND">Not at first, I’m not in the foxhole. I’m just out on a tree. I’ve kind of lost what I must have been doing. I would go from our little northern spot up here, over to the command post, over to <persName>General Moore</persName>’s place. I don’t know what I was doing there. I assume I was sitting there talking to the FACs. The <orgName>Air Force</orgName> guys, trying to figure out what they were doing, so I knew where I could be. Because when the napalm we’ve heard about is dropped on us, I’m standing right there. I run and decide I can’t outrun this, and the guy didn’t drop the second one. But I was always going back and forth. It must have been to ask them where the jets were and all that, because one fear was to knock the jet out of the air with the artillery. If they come in on a low run and I'm firing—</u>
-      <u who="MILAM">It made sense to—from <persName>Moore</persName>’s standpoint and from the company command to centralize all of that with you and all they had to do was to deal with their own soldiers, in terms of firing maneuvers and all that.</u>
+      <u who="LUND">Not at first, I’m not in the foxhole. I’m just out on a tree. I’ve kind of lost what I must have been doing. I would go from our little northern spot up here, over to the command post, over to <persName ref="#ttu_463_person_26">General Moore</persName>’s place. I don’t know what I was doing there. I assume I was sitting there talking to the FACs. The <orgName ref="#ttu_463_org_27">Air Force</orgName> guys, trying to figure out what they were doing, so I knew where I could be. Because when the napalm we’ve heard about is dropped on us, I’m standing right there. I run and decide I can’t outrun this, and the guy didn’t drop the second one. But I was always going back and forth. It must have been to ask them where the jets were and all that, because one fear was to knock the jet out of the air with the artillery. If they come in on a low run and I'm firing—</u>
+      <u who="MILAM">It made sense to—from <persName ref="#ttu_463_person_27">Moore</persName>’s standpoint and from the company command to centralize all of that with you and all they had to do was to deal with their own soldiers, in terms of firing maneuvers and all that.</u>
       <u who="LUND">And they had their mortar guys, and they had the jets.</u>
-      <u who="MILAM">Were they saying to you, “<persName>Bill</persName>, put it on this location.” They’re not giving you coordinates, they’re just saying, “Over there. Over there”?</u>
+      <u who="MILAM">Were they saying to you, “<persName ref="#ttu_463_person_28">Bill</persName>, put it on this location.” They’re not giving you coordinates, they’re just saying, “Over there. Over there”?</u>
       <u who="LUND">Yeah, with a lost platoon, they’re telling me where they think they are. If I remember right, I was very nervous about putting anything up there, so I was kind of far away.</u>
       <u who="MILAM">You were putting artillery into an area where we weren’t sure we even knew where they were. </u>
       <u who="LUND">Right.</u>
-      <u who="MILAM">Where <persName>Moore</persName> and others knew where they were or thought they did. Were they signaling to try to have those guys mark or anything at all? They couldn’t talk to them, right?</u>
+      <u who="MILAM">Where <persName ref="#ttu_463_person_29">Moore</persName> and others knew where they were or thought they did. Were they signaling to try to have those guys mark or anything at all? They couldn’t talk to them, right?</u>
       <u who="LUND">I don’t—they could talk to them a little bit and I think those guys tried to call artillery themselves. I think my job was to try to throw it way out behind them and just try to keep the enemy moving around, so that they could mask maybe and run over them. It was sort of my first—I felt really lucky. If there was one great thing that saved us and our company was that I got to practice, so to speak, doing that. I could work it around, then they’d say, “Bring it a little closer, and put it over there,” So then I’d say, “Okay, I’ll try that.” I had all afternoon and the evening to do it. I could sit there popping things around, and I kind of got a feel for, “Okay, if I know that’s supposed to be five-hundred yards out, let’s see what two-fifty is like. Woah, that’s getting close.” Then, sneaking a little, but I’d be off by the side a little bit so I wouldn’t hit anybody. I got a real feel for it, I felt blessed because as you know at the artillery school, they were teaching a thousand yards. All of the sudden, we’re down two-hundred-and-fifty and stuff like that. It was very scary.</u>
       <u who="MILAM">Did you have any experiences with dud rounds or with short rounds of stuff that you called in and it should’ve been there, but it wasn’t because of a malfunction of the round itself?</u>
-      <u who="LUND">Not that I knew about, I really tried to keep the rounds at a different angle so that if they were short, they weren’t coming on us. I think I may have done that in <placeName>Albany</placeName>. I may have had short rounds. That was so close, that it was hard to tell if that was short or if it was just on top of us anyway. But it was—I felt comfortable. I don’t know why.</u>
+      <u who="LUND">Not that I knew about, I really tried to keep the rounds at a different angle so that if they were short, they weren’t coming on us. I think I may have done that in <placeName ref="#ttu_463_place_47">Albany</placeName>. I may have had short rounds. That was so close, that it was hard to tell if that was short or if it was just on top of us anyway. But it was—I felt comfortable. I don’t know why.</u>
       <u who="MILAM">And the more you did it, the better you got at it like you say, because you were a laboratory and you were just throwing it out there, and making notes and knowing like you say, “It’s five-hundred here, and two-fifty, now somewhere between there, I'm very confident with that.” How close did you bring it in?</u>
-      <u who="LUND">Well, after—that night I would say two-fifty-three, hundred, somewhere in there. It wasn’t real close. I could just kind of hear it or see it out there quite a way. But that’s the night that the enemy, the North Vietnamese, pretty much over ran the south end of the perimeter. Then, the next night, we got put down there and we all know that this is going to be—<persName>Myron Diduryk</persName>, the captain, said to me, “You take everything a hundred yards out. That’s yours. We’ll get everything inside it.” I said, “Okay.” And a hundred yards was about the tree line, so when that night came, prior to that, I sat there and registered all over the place so that I had him on call. Then I put them up by the mountain, on the trails and everywhere I could think of, so I had them all over the place.</u>
+      <u who="LUND">Well, after—that night I would say two-fifty-three, hundred, somewhere in there. It wasn’t real close. I could just kind of hear it or see it out there quite a way. But that’s the night that the enemy, the North Vietnamese, pretty much over ran the south end of the perimeter. Then, the next night, we got put down there and we all know that this is going to be—<persName ref="#ttu_463_person_30">Myron Diduryk</persName>, the captain, said to me, “You take everything a hundred yards out. That’s yours. We’ll get everything inside it.” I said, “Okay.” And a hundred yards was about the tree line, so when that night came, prior to that, I sat there and registered all over the place so that I had him on call. Then I put them up by the mountain, on the trails and everywhere I could think of, so I had them all over the place.</u>
       <u who="MILAM">All HE (High Explosive)?</u>
       <u who="LUND">All HE. I fired all HE.</u>
       <u who="MILAM">How about illumination? Were you involved in that?</u>
-      <u who="LUND">I was the illumination guy. That was the biggest difference first night, second night, in my opinion. Well, there’s a lot of other differences. We learned from those guys because they got—we moved our foxholes back and did all that stuff. Now, I wasn’t doing all that (Chuckles) I didn’t think of that, I wasn’t smart enough to do that. But <persName>Myron Diduryk</persName> was, and <persName>Rescorla</persName>, and <persName>Jim Lane</persName>, and those guys, those lieutenants, they all knew we can’t re-position this. We were actually cutting our grass out in front of our foxholes, so that they couldn’t get into our foxholes. But <persName>Myron</persName> said to me, “You take everything a hundred yards out.” So I registered out there. Then the illumination, they had an outfit called “Smokey the Bear” and that was an <orgName>Air Force</orgName>—I don’t know if it was a C130 or 123—</u>
+      <u who="LUND">I was the illumination guy. That was the biggest difference first night, second night, in my opinion. Well, there’s a lot of other differences. We learned from those guys because they got—we moved our foxholes back and did all that stuff. Now, I wasn’t doing all that (Chuckles) I didn’t think of that, I wasn’t smart enough to do that. But <persName ref="#ttu_463_person_31">Myron Diduryk</persName> was, and <persName ref="#ttu_463_person_32">Rescorla</persName>, and <persName ref="#ttu_463_person_33">Jim Lane</persName>, and those guys, those lieutenants, they all knew we can’t re-position this. We were actually cutting our grass out in front of our foxholes, so that they couldn’t get into our foxholes. But <persName ref="#ttu_463_person_34">Myron</persName> said to me, “You take everything a hundred yards out.” So I registered out there. Then the illumination, they had an outfit called “Smokey the Bear” and that was an <orgName ref="#ttu_463_org_28">Air Force</orgName>—I don’t know if it was a C130 or 123—</u>
       <u who="MILAM">I think it’s a 123.</u>
-      <u who="LUND">Yeah, I think so too. So I got on their frequency. Now, I don’t know if the forward air controller from the <orgName>Air Force</orgName>, sitting back behind me with <persName>Hal Moore</persName>, if he got—he must’ve called them up and said, “Get up here.” Then I don’t know when he handed him to me, or how he handed but I had the <orgName>Air Force</orgName> guys—I was talking to them right in the airplane. They were droning around up there at night and—I never, this is embedded forever, and it’s dark and you can hear them. After a little while, one of the lieutenants called down and said that, “<persName>Diduryk</persName>, they’re right in front of me.” And he said, “How close?” and he says, “I can almost touch them.” And he says, “Kill them.” And he turned to me and said “Illumination.” I said to the guy on the <orgName>Air Force</orgName>, “Kick it out, illumination out now!” With that, pretty soon there was this little pop, and it was like this (Editor’s note: Interviewee visually shows to interviewer) bright as day, I couldn’t believe it.</u>
+      <u who="LUND">Yeah, I think so too. So I got on their frequency. Now, I don’t know if the forward air controller from the <orgName ref="#ttu_463_org_29">Air Force</orgName>, sitting back behind me with <persName ref="#ttu_463_person_35">Hal Moore</persName>, if he got—he must’ve called them up and said, “Get up here.” Then I don’t know when he handed him to me, or how he handed but I had the <orgName ref="#ttu_463_org_30">Air Force</orgName> guys—I was talking to them right in the airplane. They were droning around up there at night and—I never, this is embedded forever, and it’s dark and you can hear them. After a little while, one of the lieutenants called down and said that, “<persName ref="#ttu_463_person_36">Diduryk</persName>, they’re right in front of me.” And he said, “How close?” and he says, “I can almost touch them.” And he says, “Kill them.” And he turned to me and said “Illumination.” I said to the guy on the <orgName ref="#ttu_463_org_31">Air Force</orgName>, “Kick it out, illumination out now!” With that, pretty soon there was this little pop, and it was like this (Editor’s note: Interviewee visually shows to interviewer) bright as day, I couldn’t believe it.</u>
       <u who="MILAM">What did you could see?</u>
       <u who="LUND">Well, lots. They were all around in the woods and everything. Then that’s when I cut loose with everything. One, I’d walk up and down and around, all over.</u>
       <u who="MILAM">And the troops in the meantime, all around you are firing 60s, and 79s, and 16s and everything else. But you’re not, because you’re talking on the phone? Or was there a point at which you had to fire—</u>
       <u who="LUND">Never pulled the trigger.</u>
       <u who="MILAM">Never pulled the trigger?</u>
-      <u who="LUND">Nope, I just keep firing those concentrations. Trying to bust up any kind of charge as best as I could. It did dawn on me, I might have to though because I always remember, I wish <persName>Rick Rescorla</persName> was alive because he would be a wonderful interview, because the guy was something else. I always remember him, walking up to me, in my little fight, “I’m so scared, I'm done, my (??) peering out and he comes walking up- he walked around while everyone was on their (??), he be walking around. He came up and he said, “Where’s your bayonet?” I said, “Bayonet? Me?” He says, “Give me your bayonet! Now, you don’t put that on the end of your rifle, you stick it right here.” He stuck it right on the ground. He says, “When you need it, you know right where it is. Now if you ever put it on, you can use it!” I'm thinking, artillery guys don’t do this, what are you talking about? I’m not trained to do this. I’d die this way! That was something. But we kept it up. I’d just finished the illumination, it was so funny, I kept them going, all night long. I think it started like at four in the morning, maybe the sun came up at six or whatever. The sun was up a little bit, so you can see pretty good, but I said, “Okay, we need another one.” The guy on the airplane says, “You need another one? What are you talking about? The sun is up!” I said, “I know, but it really makes us feel good, throw one more, out will you?” He goes, “Sure!” Then pop! There was hardly anything.</u>
+      <u who="LUND">Nope, I just keep firing those concentrations. Trying to bust up any kind of charge as best as I could. It did dawn on me, I might have to though because I always remember, I wish <persName ref="#ttu_463_person_37">Rick Rescorla</persName> was alive because he would be a wonderful interview, because the guy was something else. I always remember him, walking up to me, in my little fight, “I’m so scared, I'm done, my (??) peering out and he comes walking up- he walked around while everyone was on their (??), he be walking around. He came up and he said, “Where’s your bayonet?” I said, “Bayonet? Me?” He says, “Give me your bayonet! Now, you don’t put that on the end of your rifle, you stick it right here.” He stuck it right on the ground. He says, “When you need it, you know right where it is. Now if you ever put it on, you can use it!” I'm thinking, artillery guys don’t do this, what are you talking about? I’m not trained to do this. I’d die this way! That was something. But we kept it up. I’d just finished the illumination, it was so funny, I kept them going, all night long. I think it started like at four in the morning, maybe the sun came up at six or whatever. The sun was up a little bit, so you can see pretty good, but I said, “Okay, we need another one.” The guy on the airplane says, “You need another one? What are you talking about? The sun is up!” I said, “I know, but it really makes us feel good, throw one more, out will you?” He goes, “Sure!” Then pop! There was hardly anything.</u>
       <u who="MILAM">The illumination fired from a 105, right? It’s parachute?</u>
       <u who="LUND">105s are parachutes. Yeah.</u>
       <u who="MILAM">I have some experience with that, in terms of how bright it can get. The enemy also uses that illumination.</u>
@@ -222,7 +222,7 @@
       <u who="MILAM">It’s better for us to know where they are, so we can do something about it. But does it help you with that illumination? Does it help you as far as adjusting is concern?</u>
       <u who="LUND">No.</u>
       <u who="MILAM">It doesn’t?</u>
-      <u who="LUND">The difference between the <orgName>Air Force</orgName> illumination and the 105 illumination is like the power of ten. It covers so much more area because they are so much more higher. Therefore, it also lasts a lot longer, its got a lot longer to come down, it’s a bigger canister I assume. But no, I didn’t rely on that, I did all that in the daylight. I put all those concentrations in the daylight. I wouldn’t move them because I knew I was at my limit. I was so close that I didn’t want to do that.</u>
+      <u who="LUND">The difference between the <orgName ref="#ttu_463_org_32">Air Force</orgName> illumination and the 105 illumination is like the power of ten. It covers so much more area because they are so much more higher. Therefore, it also lasts a lot longer, its got a lot longer to come down, it’s a bigger canister I assume. But no, I didn’t rely on that, I did all that in the daylight. I put all those concentrations in the daylight. I wouldn’t move them because I knew I was at my limit. I was so close that I didn’t want to do that.</u>
       <u who="MILAM">When you called fire for effect or whatever your language is.</u>
       <u who="LUND">Yep, that’s it.</u>
       <u who="MILAM">From the time that the solider drops—the solider loads it through the breach to impact, how long?</u>
@@ -236,7 +236,7 @@
       <u who="MILAM">Five miles. Five miles away. You have several rounds. Did you tell them how many rounds to fire? Or did—</u>
       <u who="LUND">That night I might’ve had twenty-four guns.</u>
       <u who="MILAM">Twenty-four.</u>
-      <u who="LUND">I think <placeName>LZ Columbus</placeName> was up at the same time. I had twelve there and twelve at <placeName>Falcon</placeName>, I think. I had them all.</u>
+      <u who="LUND">I think <placeName ref="#ttu_463_place_48">LZ Columbus</placeName> was up at the same time. I had twelve there and twelve at <placeName ref="#ttu_463_place_49">Falcon</placeName>, I think. I had them all.</u>
       <u who="MILAM">All 105s?</u>
       <u who="LUND">All 105s. They were firing and I had them going all the time. I didn’t have to—they didn’t have to compute anything or do anything, I’d just say, “Fire, Kilo, Bravo, 203.” Whatever number they’d assigned to whatever that concentration was. That’s all we did. We just—</u>
       <u who="MILAM">You were using a code for a six-digit coordinate, that you had pre-registered?</u>
@@ -251,31 +251,31 @@
       <u who="LUND">Right, and they weren’t going to do—I had them all over the place. If they were going to get us—</u>
       <u who="MILAM">Yeah. </u>
       <u who="LUND">The idea was that I had them at different depths and stuff. The theory was that they would mass and come pouring at you. If they massed enough people, no matter how good you were, they would overrun you. My job was to keep them from massing, so I moved the darn—I mean I had the stuff. I suppose at times I would move, I would say, “Kilo, Bravo, 203, add two-hundred” Or add one-hundred or add fifty or something like that. Just to move it over back or something.</u>
-      <u who="MILAM"><persName>Bill</persName> did you—were you able to see the effect of your efforts? That is, you’re hearing shrapnel through the air, you got trees around you so you’re hearing it, were you able to see them go down as a result of that?</u>
+      <u who="MILAM"><persName ref="#ttu_463_person_38">Bill</persName> did you—were you able to see the effect of your efforts? That is, you’re hearing shrapnel through the air, you got trees around you so you’re hearing it, were you able to see them go down as a result of that?</u>
       <u who="LUND">I really couldn’t see them go down. But the next morning it was real obvious because it was pretty bad. We didn’t—we had six guys wounded or something, that was it. </u>
-      <u who="MILAM">How about—at <placeName>X-Ray</placeName> you had no friendly-fire, at <placeName>X-Ray</placeName> at all.</u>
+      <u who="MILAM">How about—at <placeName ref="#ttu_463_place_50">X-Ray</placeName> you had no friendly-fire, at <placeName ref="#ttu_463_place_51">X-Ray</placeName> at all.</u>
       <u who="LUND">No. You mean—</u>
       <u who="MILAM">In terms of anything—</u>
       <u who="LUND">Coming in on us?</u>
       <u who="MILAM">Yeah.</u>
       <u who="LUND">I never heard of any there.</u>
-      <u who="MILAM">Now, <name type="event">X-Ray</name> is over. There’s a lot of troops, I think <persName>Tony Nadal</persName>’s <orgName>B Company</orgName> is extracted, what’s left of it. What about you? What happens to you after <name type="event">X-Ray</name>?</u>
-      <u who="LUND">We are extracted back to <placeName>Pleiku</placeName> with <persName>Hal Moore</persName>’s troops. We’re still attached to them. I always remember this, the rest of our battalion, the <orgName>2nd of the 7th</orgName> plus the <orgName>5th</orgName>, came in to take our foxholes, but it was really over there and they were just going to take our foxholes for the night. I always remember going down to my FO, another FO came in and I went down and said to him, “You really got to pay attention and you really got to put the stuff out there,” and stuff like that I tried to cheer him up and all that and he got killed in <placeName>Albany</placeName> before I could see him again. I would’ve lost several.</u>
-      <u who="MILAM">Now, were you his replacement? You went into <placeName>Albany</placeName>, right?</u>
-      <u who="LUND">Right. That’s what happened. Very odd thing. We stayed the night in <placeName>Pleiku</placeName>. I always remember—our uniforms were so, the smell of death and all of that, we burned our uniforms, they had all brand new and nice uniforms for us, jungle fatigues this time not the old ones from the States.</u>
+      <u who="MILAM">Now, <name type="event" ref="#ttu_463_event_3">X-Ray</name> is over. There’s a lot of troops, I think <persName ref="#ttu_463_person_39">Tony Nadal</persName>’s <orgName ref="#ttu_463_org_33">B Company</orgName> is extracted, what’s left of it. What about you? What happens to you after <name type="event" ref="#ttu_463_event_4">X-Ray</name>?</u>
+      <u who="LUND">We are extracted back to <placeName ref="#ttu_463_place_52">Pleiku</placeName> with <persName ref="#ttu_463_person_40">Hal Moore</persName>’s troops. We’re still attached to them. I always remember this, the rest of our battalion, the <orgName ref="#ttu_463_org_34">2nd of the 7th</orgName> plus the <orgName ref="#ttu_463_org_35">5th</orgName>, came in to take our foxholes, but it was really over there and they were just going to take our foxholes for the night. I always remember going down to my FO, another FO came in and I went down and said to him, “You really got to pay attention and you really got to put the stuff out there,” and stuff like that I tried to cheer him up and all that and he got killed in <placeName ref="#ttu_463_place_53">Albany</placeName> before I could see him again. I would’ve lost several.</u>
+      <u who="MILAM">Now, were you his replacement? You went into <placeName ref="#ttu_463_place_54">Albany</placeName>, right?</u>
+      <u who="LUND">Right. That’s what happened. Very odd thing. We stayed the night in <placeName ref="#ttu_463_place_55">Pleiku</placeName>. I always remember—our uniforms were so, the smell of death and all of that, we burned our uniforms, they had all brand new and nice uniforms for us, jungle fatigues this time not the old ones from the States.</u>
       <u who="MILAM">So you were still wearing States uniform?</u>
       <u who="LUND">States uniform. We burned our boots because they were so bad. They gave us all new jungle boots; we were all excited to have new uniforms. I remember going to the theater, they have a theater there and I fell asleep. In the theater, I couldn’t—they took me bad, I was so tired.</u>
       <u who="MILAM">What movie?</u>
       <u who="LUND">Some western, I think.</u>
       <u who="MILAM">Something with guns?</u>
-      <u who="LUND">Guns, yeah! Then the next day progressed, you kind of felt better, you were—we were pretty stunned you know. It was getting sort of towards dusk. They were having a little church service and we had a cross on a little bubble helicopter, one of those OH13s. We had a little cross, I was sitting on the ground there looking at the cross, listening to the chaplain. All of the sudden, somebody started yelling, “<orgName>B Company</orgName>, mount up!” It was sort of surreal. You know, <orgName>B Company</orgName>? What <orgName>B Company</orgName>? Who’s yelling? What’s happening? They said, “The helicopters are coming right there to get you, get out there, run right now! Grab your rifle, your ammo and go! No C-rations, no nothing, just go!” So we ran out, I’m not sure how many helicopters. I would guess maybe six. Now we’re—<persName>Myron Diduryk</persName> is jabbering on the on phone like, “Where are we going? What are we doing?” They’re telling him that this terrible thing has happened in <placeName>Albany</placeName> and you guys have to get in there and try to save them type of thing. Now we’re really, “Oh my goodness.” It’s getting dark, light enough to see the ground sort of and we come into this LZ, and <placeName>Albany</placeName> was not a nice LZ, it was short, skinny. We came in there and the pilots started getting shot up. We jumped from, I don’t know how high up, fifteen feet, ten feet, whatever and just hit the ground. Our guys, what was left of them, had sort of this side of the LZ and the North Vietnamese had the other side. So when we got in there, they kind of said “<persName>Diduryk</persName>, look just take over. See what you can do.” We sort of established as best we could, where people were. If you’re familiar with <placeName>Albany</placeName>, the problem is that they’re strung out all over the place. There’s pockets of people. It’s just a horrid situation because there are guys out there with radios that are wounded, calling to try and get in, and they can’t get in because the enemy is wandering around out there. It’s very difficult to put the artillery out there but eventually, I decided, probably because <persName>Diduryk</persName> told me to, to put it out there. First of all, I ran a Skyraider down to the other side of the LZ and had him just fire cannon after cannon through there. They carried .50 calibers or .30 caliber, to try to shred those trees and get them out of there. They must’ve left or he did do that, get our backside kind of thing. Then, I started moving the artillery around but I really sort of had said, “Okay, this is so bad, that no matter what you just have to bring it in and put it right on top of us.” I pretty much was at the fifty to hundred-yard range. You can hear the shrapnel fly around. I don’t know if anybody got hit by it particularly.</u>
+      <u who="LUND">Guns, yeah! Then the next day progressed, you kind of felt better, you were—we were pretty stunned you know. It was getting sort of towards dusk. They were having a little church service and we had a cross on a little bubble helicopter, one of those OH13s. We had a little cross, I was sitting on the ground there looking at the cross, listening to the chaplain. All of the sudden, somebody started yelling, “<orgName ref="#ttu_463_org_36">B Company</orgName>, mount up!” It was sort of surreal. You know, <orgName ref="#ttu_463_org_37">B Company</orgName>? What <orgName ref="#ttu_463_org_38">B Company</orgName>? Who’s yelling? What’s happening? They said, “The helicopters are coming right there to get you, get out there, run right now! Grab your rifle, your ammo and go! No C-rations, no nothing, just go!” So we ran out, I’m not sure how many helicopters. I would guess maybe six. Now we’re—<persName ref="#ttu_463_person_41">Myron Diduryk</persName> is jabbering on the on phone like, “Where are we going? What are we doing?” They’re telling him that this terrible thing has happened in <placeName ref="#ttu_463_place_56">Albany</placeName> and you guys have to get in there and try to save them type of thing. Now we’re really, “Oh my goodness.” It’s getting dark, light enough to see the ground sort of and we come into this LZ, and <placeName ref="#ttu_463_place_57">Albany</placeName> was not a nice LZ, it was short, skinny. We came in there and the pilots started getting shot up. We jumped from, I don’t know how high up, fifteen feet, ten feet, whatever and just hit the ground. Our guys, what was left of them, had sort of this side of the LZ and the North Vietnamese had the other side. So when we got in there, they kind of said “<persName ref="#ttu_463_person_42">Diduryk</persName>, look just take over. See what you can do.” We sort of established as best we could, where people were. If you’re familiar with <placeName ref="#ttu_463_place_58">Albany</placeName>, the problem is that they’re strung out all over the place. There’s pockets of people. It’s just a horrid situation because there are guys out there with radios that are wounded, calling to try and get in, and they can’t get in because the enemy is wandering around out there. It’s very difficult to put the artillery out there but eventually, I decided, probably because <persName ref="#ttu_463_person_43">Diduryk</persName> told me to, to put it out there. First of all, I ran a Skyraider down to the other side of the LZ and had him just fire cannon after cannon through there. They carried .50 calibers or .30 caliber, to try to shred those trees and get them out of there. They must’ve left or he did do that, get our backside kind of thing. Then, I started moving the artillery around but I really sort of had said, “Okay, this is so bad, that no matter what you just have to bring it in and put it right on top of us.” I pretty much was at the fifty to hundred-yard range. You can hear the shrapnel fly around. I don’t know if anybody got hit by it particularly.</u>
       <u who="MILAM">But you were in it too. You ordered it in on top of yourself.</u>
       <u who="LUND">Right. I tried to keep the backside because I knew those were open and I knew that side was open. We were okay over there but this way I knew where our guys were. So I tried to keep it over the edges. I just did that all night long; it was a terribly sad thing. I do remember, it was the middle of the night and we hear this voice and it’s (Interviewee makes animal noises) like this. We’re going “What?” It’s one of the troops is crawling in and he’s got an incredible story. He’s the guy that the North Vietnamese walked up to and gave him the coup de grâce, he shot him with a pistol and the guy opened his mouth, and it went into his mouth and out over here or something like that and missed the vitals. The guy crawled in, but he couldn’t talk so he’s giving us this horrid sound, trying to tell us he’s an American and let him in, all that. He came in, there was several other heroic guys out there that did stuff, that we gathered in the morning, here it is, amazed how they lived through it.</u>
-      <u who="MILAM">For you personally and maybe even militarily, <placeName>Albany</placeName> was so much worse than <placeName>X-Ray</placeName>.</u>
-      <u who="LUND">Worse in the sense of, there was no battle plan. There was no—this is freewheeling. The guys, <persName>Captain Forrest</persName> who was this amazing guy that was in the front— they called the officers all the way to the front. They’re strung out like a mile. His is way in the back, when all this starts, he takes off running all the way at the back. The radio operator gets killed running with him and all that kind of stuff, heroic things. He had a much better handle on what pockets of people did, because we got there like I say in that dark.</u>
-      <u who="MILAM">After <placeName>Albany</placeName> and <placeName>X-Ray</placeName>, you’ve only been in country for four months or so. What about the rest of your tour? </u>
-      <u who="LUND">I stayed with <persName>Diduryk</persName> until January or February. Then, they tried to make me an executive officer, I guess I was an executive officer for a battalion, but I was so screwed up by then, that I really wanted to be a FO. I knew it so well, I even told the major—the exec of the battalion,  <persName>Major Henry</persName> that “Gee, maybe I ought to stay here.” He looked at me and said, “What are you nuts? You’re going home, I’m not letting you stay here, you got a wife!” I said, “I know, I know, I’m just really good at this.” Because now I'm really feeling a responsibility for the troops. I really—by that stage, I literally was getting out of a helicopter and calling around just like that right out in front of us. So the guys knew that I would be walking them down the path in front of us, right off the bat.</u>
-      <u who="MILAM">Did you ever have anything on the scale of—I know there was never another battle like <placeName>X-Ray</placeName> and <placeName>Albany</placeName> and the rest of the war, we can make that argument, at least not for such a short period of time. Maybe per—certain people may had experienced that, but in terms of a large battalion-sized operation there really wasn’t anything like it. But for you personally, did you have anything that was even close to that, terms of your own safety?</u>
+      <u who="MILAM">For you personally and maybe even militarily, <placeName ref="#ttu_463_place_59">Albany</placeName> was so much worse than <placeName ref="#ttu_463_place_60">X-Ray</placeName>.</u>
+      <u who="LUND">Worse in the sense of, there was no battle plan. There was no—this is freewheeling. The guys, <persName ref="#ttu_463_person_44">Captain Forrest</persName> who was this amazing guy that was in the front— they called the officers all the way to the front. They’re strung out like a mile. His is way in the back, when all this starts, he takes off running all the way at the back. The radio operator gets killed running with him and all that kind of stuff, heroic things. He had a much better handle on what pockets of people did, because we got there like I say in that dark.</u>
+      <u who="MILAM">After <placeName ref="#ttu_463_place_61">Albany</placeName> and <placeName ref="#ttu_463_place_62">X-Ray</placeName>, you’ve only been in country for four months or so. What about the rest of your tour? </u>
+      <u who="LUND">I stayed with <persName ref="#ttu_463_person_45">Diduryk</persName> until January or February. Then, they tried to make me an executive officer, I guess I was an executive officer for a battalion, but I was so screwed up by then, that I really wanted to be a FO. I knew it so well, I even told the major—the exec of the battalion,  <persName ref="#ttu_463_person_46">Major Henry</persName> that “Gee, maybe I ought to stay here.” He looked at me and said, “What are you nuts? You’re going home, I’m not letting you stay here, you got a wife!” I said, “I know, I know, I’m just really good at this.” Because now I'm really feeling a responsibility for the troops. I really—by that stage, I literally was getting out of a helicopter and calling around just like that right out in front of us. So the guys knew that I would be walking them down the path in front of us, right off the bat.</u>
+      <u who="MILAM">Did you ever have anything on the scale of—I know there was never another battle like <placeName ref="#ttu_463_place_63">X-Ray</placeName> and <placeName ref="#ttu_463_place_64">Albany</placeName> and the rest of the war, we can make that argument, at least not for such a short period of time. Maybe per—certain people may had experienced that, but in terms of a large battalion-sized operation there really wasn’t anything like it. But for you personally, did you have anything that was even close to that, terms of your own safety?</u>
       <u who="LUND">No. I became an aerial FO for a while. We’d fly around in the little bubble helicopters, do this. I got to go home by the end of March. That was the end of my contract. They were very kind to us and put us short-time FOs up in the sky. But no, I never again got into it like that. We got into it, but we were more contained, more prepared. </u>
       <u who="MILAM">Then how much more time did you spend in the army?</u>
       <u who="LUND">That was it. Then I did reserve duty for four years after that.</u>
@@ -283,16 +283,524 @@
       <u who="LUND">Two year.</u>
       <u who="MILAM">A two-year commitment, after commissioning?</u>
       <u who="LUND">After commissioning. End of <date when="1966-03">March ’66</date>, I was out.</u>
-      <u who="MILAM">And you spent almost a year of it in <placeName>Vietnam</placeName>?</u>
-      <u who="LUND">Yeah. Yeah, what a surprise. (Chuckles) <placeName>Vietnam</placeName>, what’s that? </u>
-      <u who="MILAM"><persName>Bill</persName>, this is a fantastic story, I’ve enjoyed every minute of it. I know there is a lot more to be said, that we don’t have time for. I just want to stress that we have this archive, this <orgName>Vietnam Archive</orgName>, which is the finest archive in the world on this war, of anywhere, including <placeName>Vietnam</placeName>. We have these oral histories that we’re doing. Somehow or another there is more story to be told by you and I would like to either get you out there or get you one on a phone, a telephonic interview because you got a lot to say, you had some experiences that most people would never even imagine. We’d like to get it all down, not that this isn’t going to be something, too. But we have other kinds of interests there. I’ve enjoyed every minute of this, and we appreciate everything, and appreciate you being here today.</u>
-      <u who="LUND">Thank you. I thought one of the interesting things to me, in retrospect being an old guy now, is how much leadership is all about. <persName>Hal Moore</persName> and <persName>Myron</persName>, they’re just incredible. The—it’s what happens.</u>
-      <u who="MILAM">As I hear you folks talk about that and my experiences of <placeName>Vietnam</placeName> came much later, in the 1970s, five years later. When we saw a deteriorated army and lack of leadership skills and lack of preparations, no unit cohesion, and all those kinds of things, y’all had it so well there in the beginning and it saved a lot of people.</u>
-      <u who="LUND">Thank you for doing this, it’s a very nice thing to put a way for posterity. I feel like I am one of the lucky ones to be able to have <persName>Hal</persName> and <persName>Joe</persName> write this book. It was very difficult to talk about this because as you can tell, you were there and you and I can vision—you’re envisioning what I’m saying and when you ask me the question, I know where you’re coming from. Most people haven’t got a clue, so you can’t talk about it.</u>
+      <u who="MILAM">And you spent almost a year of it in <placeName ref="#ttu_463_place_65">Vietnam</placeName>?</u>
+      <u who="LUND">Yeah. Yeah, what a surprise. (Chuckles) <placeName ref="#ttu_463_place_66">Vietnam</placeName>, what’s that? </u>
+      <u who="MILAM"><persName ref="#ttu_463_person_47">Bill</persName>, this is a fantastic story, I’ve enjoyed every minute of it. I know there is a lot more to be said, that we don’t have time for. I just want to stress that we have this archive, this <orgName ref="#ttu_463_org_39">Vietnam Archive</orgName>, which is the finest archive in the world on this war, of anywhere, including <placeName ref="#ttu_463_place_67">Vietnam</placeName>. We have these oral histories that we’re doing. Somehow or another there is more story to be told by you and I would like to either get you out there or get you one on a phone, a telephonic interview because you got a lot to say, you had some experiences that most people would never even imagine. We’d like to get it all down, not that this isn’t going to be something, too. But we have other kinds of interests there. I’ve enjoyed every minute of this, and we appreciate everything, and appreciate you being here today.</u>
+      <u who="LUND">Thank you. I thought one of the interesting things to me, in retrospect being an old guy now, is how much leadership is all about. <persName ref="#ttu_463_person_48">Hal Moore</persName> and <persName ref="#ttu_463_person_49">Myron</persName>, they’re just incredible. The—it’s what happens.</u>
+      <u who="MILAM">As I hear you folks talk about that and my experiences of <placeName ref="#ttu_463_place_68">Vietnam</placeName> came much later, in the 1970s, five years later. When we saw a deteriorated army and lack of leadership skills and lack of preparations, no unit cohesion, and all those kinds of things, y’all had it so well there in the beginning and it saved a lot of people.</u>
+      <u who="LUND">Thank you for doing this, it’s a very nice thing to put a way for posterity. I feel like I am one of the lucky ones to be able to have <persName ref="#ttu_463_person_50">Hal</persName> and <persName ref="#ttu_463_person_51">Joe</persName> write this book. It was very difficult to talk about this because as you can tell, you were there and you and I can vision—you’re envisioning what I’m saying and when you ask me the question, I know where you’re coming from. Most people haven’t got a clue, so you can’t talk about it.</u>
       <u who="MILAM">Right. I think that book was so good for those of us who served, because we did understand it, there’s a lot of people that read it like just another war book. But for anybody that served, you can read and understand exactly what they’re talking about and now being able to put names with faces, that’s important too. This is very—I'm glad you came in for this.</u>
       <u who="LUND">Thank you.</u>
       <u who="MILAM">Thank you very much</u>
       <u who="LUND">It’s a pleasure.(End of interview)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_463_place_0">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_1">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_2">
+        <placeName>Minnesota</placeName>
+      </place>
+      <place xml:id="ttu_463_place_3">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_4">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_463_place_5">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_463_place_6">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_7">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_8">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_9">
+        <placeName>Minnesota</placeName>
+      </place>
+      <place xml:id="ttu_463_place_10">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_463_place_11">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_12">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_13">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_14">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_463_place_15">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_16">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_17">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_18">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_463_place_19">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_20">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_21">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_22">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_463_place_23">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_24">
+        <placeName>Carolinas</placeName>
+      </place>
+      <place xml:id="ttu_463_place_25">
+        <placeName>Carolinas</placeName>
+      </place>
+      <place xml:id="ttu_463_place_26">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_27">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_28">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_29">
+        <placeName>Ukraine</placeName>
+      </place>
+      <place xml:id="ttu_463_place_30">
+        <placeName>Ukraine</placeName>
+      </place>
+      <place xml:id="ttu_463_place_31">
+        <placeName>Cornwall, England</placeName>
+      </place>
+      <place xml:id="ttu_463_place_32">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_33">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_34">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_35">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_36">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_37">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_463_place_38">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_463_place_39">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_463_place_40">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_463_place_41">
+        <placeName> LZ X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_42">
+        <placeName>LZ Falcon</placeName>
+      </place>
+      <place xml:id="ttu_463_place_43">
+        <placeName>Falcon</placeName>
+      </place>
+      <place xml:id="ttu_463_place_44">
+        <placeName>Columbus</placeName>
+      </place>
+      <place xml:id="ttu_463_place_45">
+        <placeName>Columbus</placeName>
+      </place>
+      <place xml:id="ttu_463_place_46">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_47">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_48">
+        <placeName>LZ Columbus</placeName>
+      </place>
+      <place xml:id="ttu_463_place_49">
+        <placeName>Falcon</placeName>
+      </place>
+      <place xml:id="ttu_463_place_50">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_51">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_52">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_463_place_53">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_54">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_55">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_463_place_56">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_57">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_58">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_59">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_60">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_61">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_62">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_63">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_463_place_64">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_463_place_65">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_66">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_67">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_463_place_68">
+        <placeName>Vietnam</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_463_event_0">
+        <desc>Operation “Silver Bayonet”</desc>
+      </event>
+      <event xml:id="ttu_463_event_1">
+        <desc>“Silver Bayonet”</desc>
+      </event>
+      <event xml:id="ttu_463_event_2">
+        <desc>X-Ray</desc>
+      </event>
+      <event xml:id="ttu_463_event_3">
+        <desc>X-Ray</desc>
+      </event>
+      <event xml:id="ttu_463_event_4">
+        <desc>X-Ray</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_463_person_0">
+        <persName>Dr. Ron Milam</persName>
+      </person>
+      <person xml:id="ttu_463_person_1">
+        <persName>Bill Lund</persName>
+      </person>
+      <person xml:id="ttu_463_person_2">
+        <persName>Bill</persName>
+      </person>
+      <person xml:id="ttu_463_person_3">
+        <persName>Myron Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_4">
+        <persName>Hal Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_5">
+        <persName>Mel Gibson</persName>
+      </person>
+      <person xml:id="ttu_463_person_6">
+        <persName>Myron Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_7">
+        <persName>Rick Rescorla</persName>
+      </person>
+      <person xml:id="ttu_463_person_8">
+        <persName>John</persName>
+      </person>
+      <person xml:id="ttu_463_person_9">
+        <persName>Rick Rescorla</persName>
+      </person>
+      <person xml:id="ttu_463_person_10">
+        <persName>Lieutenant Colonel Miranda</persName>
+      </person>
+      <person xml:id="ttu_463_person_11">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_12">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_13">
+        <persName>Hal Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_14">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_15">
+        <persName>Lieutenant Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_16">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_17">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_18">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_19">
+        <persName>Timmy Blake</persName>
+      </person>
+      <person xml:id="ttu_463_person_20">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_463_person_21">
+        <persName>Bill Riddle</persName>
+      </person>
+      <person xml:id="ttu_463_person_22">
+        <persName>Charlie Hastings</persName>
+      </person>
+      <person xml:id="ttu_463_person_23">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_24">
+        <persName>Charlie Hastings</persName>
+      </person>
+      <person xml:id="ttu_463_person_25">
+        <persName>Chu Pong</persName>
+      </person>
+      <person xml:id="ttu_463_person_26">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_27">
+        <persName>Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_28">
+        <persName>Bill</persName>
+      </person>
+      <person xml:id="ttu_463_person_29">
+        <persName>Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_30">
+        <persName>Myron Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_31">
+        <persName>Myron Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_32">
+        <persName>Rescorla</persName>
+      </person>
+      <person xml:id="ttu_463_person_33">
+        <persName>Jim Lane</persName>
+      </person>
+      <person xml:id="ttu_463_person_34">
+        <persName>Myron</persName>
+      </person>
+      <person xml:id="ttu_463_person_35">
+        <persName>Hal Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_36">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_37">
+        <persName>Rick Rescorla</persName>
+      </person>
+      <person xml:id="ttu_463_person_38">
+        <persName>Bill</persName>
+      </person>
+      <person xml:id="ttu_463_person_39">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_463_person_40">
+        <persName>Hal Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_41">
+        <persName>Myron Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_42">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_43">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_44">
+        <persName>Captain Forrest</persName>
+      </person>
+      <person xml:id="ttu_463_person_45">
+        <persName>Diduryk</persName>
+      </person>
+      <person xml:id="ttu_463_person_46">
+        <persName>Major Henry</persName>
+      </person>
+      <person xml:id="ttu_463_person_47">
+        <persName>Bill</persName>
+      </person>
+      <person xml:id="ttu_463_person_48">
+        <persName>Hal Moore</persName>
+      </person>
+      <person xml:id="ttu_463_person_49">
+        <persName>Myron</persName>
+      </person>
+      <person xml:id="ttu_463_person_50">
+        <persName>Hal</persName>
+      </person>
+      <person xml:id="ttu_463_person_51">
+        <persName>Joe</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_463_org_0">
+        <orgName>Texas Tech University</orgName>
+      </org>
+      <org xml:id="ttu_463_org_1">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_463_org_2">
+        <orgName>2nd of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_463_org_3">
+        <orgName>1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_463_org_4">
+        <orgName>ROTC (Reserve Officer Training Corps)</orgName>
+      </org>
+      <org xml:id="ttu_463_org_5">
+        <orgName>University of Minnesota</orgName>
+      </org>
+      <org xml:id="ttu_463_org_6">
+        <orgName>University of Minnesota</orgName>
+      </org>
+      <org xml:id="ttu_463_org_7">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="ttu_463_org_8">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_463_org_9">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="ttu_463_org_10">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_463_org_11">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_463_org_12">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_463_org_13">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_463_org_14">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_463_org_15">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_463_org_16">
+        <orgName>7th Cavalry</orgName>
+      </org>
+      <org xml:id="ttu_463_org_17">
+        <orgName>21st Artillery</orgName>
+      </org>
+      <org xml:id="ttu_463_org_18">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_463_org_19">
+        <orgName>2nd and 7th</orgName>
+      </org>
+      <org xml:id="ttu_463_org_20">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_463_org_21">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_22">
+        <orgName>FDC (Fire Direction Control)</orgName>
+      </org>
+      <org xml:id="ttu_463_org_23">
+        <orgName>Alpha Company</orgName>
+      </org>
+      <org xml:id="ttu_463_org_24">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_25">
+        <orgName>ARA (Aerial Rocket Artillery)</orgName>
+      </org>
+      <org xml:id="ttu_463_org_26">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_27">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_28">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_29">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_30">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_31">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_32">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_463_org_33">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_463_org_34">
+        <orgName>2nd of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_463_org_35">
+        <orgName>5th</orgName>
+      </org>
+      <org xml:id="ttu_463_org_36">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_463_org_37">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_463_org_38">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_463_org_39">
+        <orgName>Vietnam Archive</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
