@@ -12,7 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
-       <idno type="DDHI">ttu_470</idno>
+        <idno type="DDHI">ttu_470</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
@@ -59,100 +59,100 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MILAM">I am <persName>Dr. Ron Milam</persName> of <orgName>Texas Tech University</orgName>, <orgName>Vietnam Center</orgName>. <date when="2005-11-11">Today</date> I am interviewing <persName>Martin Latigue</persName>.</u>
-      <u who="LATIGUE"><persName>Latigue</persName>.</u>
-      <u who="MILAM"><persName>Latigue</persName>. <persName>Martin</persName>, I’d like to start by asking you to give me your MOS (Military Occupational Specialty) and your rank on <date when="1965-11-14">November 14th, 1965</date>.</u>
-      <u who="LATIGUE">I was forward observer for the 3rd Platoon, <orgName>Charlie Company, 1st of the 7th Cav</orgName>. E4.</u>
-      <u who="MILAM">E4. So you’re an FO (Forward Observer), 3rd Platoon, <orgName>Charlie Company</orgName>.</u>
+      <u who="MILAM">I am <persName ref="#ttu_470_person_0">Dr. Ron Milam</persName> of <orgName ref="#ttu_470_org_0">Texas Tech University</orgName>, <orgName ref="#ttu_470_org_1">Vietnam Center</orgName>. <date when="2005-11-11">Today</date> I am interviewing <persName ref="#ttu_470_person_1">Martin Latigue</persName>.</u>
+      <u who="LATIGUE"><persName ref="#ttu_470_person_2">Latigue</persName>.</u>
+      <u who="MILAM"><persName ref="#ttu_470_person_3">Latigue</persName>. <persName ref="#ttu_470_person_4">Martin</persName>, I’d like to start by asking you to give me your MOS (Military Occupational Specialty) and your rank on <date when="1965-11-14">November 14th, 1965</date>.</u>
+      <u who="LATIGUE">I was forward observer for the 3rd Platoon, <orgName ref="#ttu_470_org_2">Charlie Company, 1st of the 7th Cav</orgName>. E4.</u>
+      <u who="MILAM">E4. So you’re an FO (Forward Observer), 3rd Platoon, <orgName ref="#ttu_470_org_3">Charlie Company</orgName>.</u>
       <u who="LATIGUE">Right.</u>
-      <u who="MILAM">I believe that was <persName>Captain Edwards</persName>’ platoon?</u>
-      <u who="LATIGUE"><persName>Captain Edwards</persName> was the commanding officer; <persName>Bill Franklin</persName> was platoon leader.</u>
-      <u who="MILAM"><persName>Bill Franklin</persName>. Okay. Let’s back up to <placeName>Fort Benning</placeName>. When did you join the <orgName>1st Air Cav</orgName>?</u>
-      <u who="LATIGUE">We was the <orgName>11th Air Assault</orgName> before we became the <orgName>1st Cav</orgName>.</u>
+      <u who="MILAM">I believe that was <persName ref="#ttu_470_person_5">Captain Edwards</persName>’ platoon?</u>
+      <u who="LATIGUE"><persName ref="#ttu_470_person_6">Captain Edwards</persName> was the commanding officer; <persName ref="#ttu_470_person_7">Bill Franklin</persName> was platoon leader.</u>
+      <u who="MILAM"><persName ref="#ttu_470_person_8">Bill Franklin</persName>. Okay. Let’s back up to <placeName ref="#ttu_470_place_0">Fort Benning</placeName>. When did you join the <orgName ref="#ttu_470_org_4">1st Air Cav</orgName>?</u>
+      <u who="LATIGUE">We was the <orgName ref="#ttu_470_org_5">11th Air Assault</orgName> before we became the <orgName ref="#ttu_470_org_6">1st Cav</orgName>.</u>
       <u who="MILAM">Okay.</u>
-      <u who="LATIGUE">Shortly after leaving basic training, we were attached to the <orgName>2nd Division</orgName>, which was operating the <orgName>11th Air Assault Division</orgName>, as a training unit for the use of helicopters. This would’ve been my first year of service, which would’ve been the early part of <date when="1964">’64</date>.</u>
+      <u who="LATIGUE">Shortly after leaving basic training, we were attached to the <orgName ref="#ttu_470_org_7">2nd Division</orgName>, which was operating the <orgName ref="#ttu_470_org_8">11th Air Assault Division</orgName>, as a training unit for the use of helicopters. This would’ve been my first year of service, which would’ve been the early part of <date when="1964">’64</date>.</u>
       <u who="MILAM">Okay. You went through basic and AIT (Advanced Individual Training)?</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">Did you go through infantry AIT?</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">Where?</u>
-      <u who="LATIGUE">At <placeName>Fort Benning</placeName>.</u>
-      <u who="MILAM">At <placeName>Fort Benning</placeName>. So you were already at <placeName>Benning</placeName>. Where did you go through basic?</u>
-      <u who="LATIGUE"><placeName>Fort Polk, Louisiana</placeName>.</u>
-      <u who="MILAM"><placeName>Fort Polk, Louisiana</placeName>. <placeName>Leesville</placeName>.</u>
-      <u who="LATIGUE"><placeName>Leesville</placeName>.</u>
-      <u who="MILAM">So then you go to AIT, at <placeName>Benning</placeName> and then you receive orders for the <orgName>11th Air Assault</orgName> as your first duty station?</u>
-      <u who="LATIGUE">First duty station was the <orgName>11th Air Assault</orgName>.</u>
+      <u who="LATIGUE">At <placeName ref="#ttu_470_place_1">Fort Benning</placeName>.</u>
+      <u who="MILAM">At <placeName ref="#ttu_470_place_2">Fort Benning</placeName>. So you were already at <placeName ref="#ttu_470_place_3">Benning</placeName>. Where did you go through basic?</u>
+      <u who="LATIGUE"><placeName ref="#ttu_470_place_4">Fort Polk, Louisiana</placeName>.</u>
+      <u who="MILAM"><placeName ref="#ttu_470_place_5">Fort Polk, Louisiana</placeName>. <placeName ref="#ttu_470_place_6">Leesville</placeName>.</u>
+      <u who="LATIGUE"><placeName ref="#ttu_470_place_7">Leesville</placeName>.</u>
+      <u who="MILAM">So then you go to AIT, at <placeName ref="#ttu_470_place_8">Benning</placeName> and then you receive orders for the <orgName ref="#ttu_470_org_9">11th Air Assault</orgName> as your first duty station?</u>
+      <u who="LATIGUE">First duty station was the <orgName ref="#ttu_470_org_10">11th Air Assault</orgName>.</u>
       <u who="MILAM">You’re MOS at that time was as an FO?</u>
       <u who="LATIGUE">Mortar platoon. 102 was the code number, which meant I was a mortarman.</u>
-      <u who="MILAM">So you were in the heavy weapons platoon which is, as I understand it, by the time you get to <placeName>Vietnam</placeName>, the heavy weapons platoon is a much smaller unit than would be the standard TOE (Table of Organization and Equipment) for operations?</u>
+      <u who="MILAM">So you were in the heavy weapons platoon which is, as I understand it, by the time you get to <placeName ref="#ttu_470_place_9">Vietnam</placeName>, the heavy weapons platoon is a much smaller unit than would be the standard TOE (Table of Organization and Equipment) for operations?</u>
       <u who="LATIGUE">That’s correct.</u>
-      <u who="MILAM">Okay. You become a member of the <orgName>11th Air Assault</orgName> and about what month, by the time you get out of AIT and everything, about what month was that of <date when="1964">’64</date>?</u>
+      <u who="MILAM">Okay. You become a member of the <orgName ref="#ttu_470_org_11">11th Air Assault</orgName> and about what month, by the time you get out of AIT and everything, about what month was that of <date when="1964">’64</date>?</u>
       <u who="LATIGUE">Right. It would be somewhere before <date when="1964-03">March</date>, around <date when="1964-03">March</date>.</u>
       <u who="MILAM">Of <date when="1964">’64</date>?</u>
       <u who="LATIGUE">Right.</u>
-      <u who="MILAM">So you’re going to be in the unit testing helicopters, ready to learn how to conduct airmobile operations from <date when="1964-03">March of ’64</date> until you depart for <placeName>Vietnam</placeName> in <date when="1965-08">August of ’65</date>.</u>
+      <u who="MILAM">So you’re going to be in the unit testing helicopters, ready to learn how to conduct airmobile operations from <date when="1964-03">March of ’64</date> until you depart for <placeName ref="#ttu_470_place_10">Vietnam</placeName> in <date when="1965-08">August of ’65</date>.</u>
       <u who="LATIGUE">That’s correct.</u>
-      <u who="MILAM">Tell me a little bit about the training exercises that you participated in at <placeName>Benning</placeName>, as we experiment with this new concept.</u>
-      <u who="LATIGUE">Well the training was quite intense, we was not allowed a lot of liberty because of training. Normally, we would’ve been off on weekends, we were not off. It was so important that we not miss any training. This was the first time I heard that the army had civilians in the <placeName>States</placeName> doing KP (Kitchen Patrol) rather than the G.I.s (Government Issue). We had two training sessions away from <placeName>Benning</placeName>. One was called Air Assault 2. Air Assault 1 was the previous year. So I made Air Assault 2, which was in <placeName>Camden, South Carolina</placeName>. There we did field maneuvers against the <orgName>82nd division</orgName>.</u>
-      <u who="MILAM">How would you assess the quality of the training you received? Knowing now what you did in <placeName>Vietnam</placeName>, how was the training compared to that?</u>
-      <u who="LATIGUE">I’m glad you mentioned that, because the NCOs (Non-Commissioned Officers) in this unit were career men. They had a lot of respect for the <orgName>army</orgName>, they made us feel comfortable being—most of the guys in my unit were draftees. We didn’t volunteer to be there. So no one was really happy to be in the <orgName>army</orgName> because we were drafted. But the NCOs in that unit was the finest non-commissioned officers ever. The intense training, that we received from them and the dedication to the <orgName>army</orgName>, I guess we picked up the vibes from those guys and began to follow their leadership.</u>
-      <u who="MILAM">These were the NCOs, career, many of them with probably <name type="event">Korea</name> combat experience, I suppose?</u>
-      <u who="LATIGUE">Yes. Matter of fact, in <placeName>Vietnam</placeName> my platoon sergeant, <persName>Sergeant Freeman</persName>, was quite comfortable being next to him in combat because this guy had been to two different wars. He was a <orgName>marine</orgName> in <name type="event">Guadalcanal</name>, and he had fought with the <orgName>army</orgName> in <name type="event">Korea</name>. So he was a man in his third war and it’s really comfortable because you look over there and say, “<persName>Sergeant Freeman</persName>. Am I going to make? <persName>Sergeant Freeman</persName>, I am scared to death, but I am functioning! What’s wrong with me? Why am I so afraid?” He said, (Editor’s note: Interviewee imitates a voice) “Well boy, the moment you start feeling scared, you’re probably going to get killed.”</u>
+      <u who="MILAM">Tell me a little bit about the training exercises that you participated in at <placeName ref="#ttu_470_place_11">Benning</placeName>, as we experiment with this new concept.</u>
+      <u who="LATIGUE">Well the training was quite intense, we was not allowed a lot of liberty because of training. Normally, we would’ve been off on weekends, we were not off. It was so important that we not miss any training. This was the first time I heard that the army had civilians in the <placeName ref="#ttu_470_place_12">States</placeName> doing KP (Kitchen Patrol) rather than the G.I.s (Government Issue). We had two training sessions away from <placeName ref="#ttu_470_place_13">Benning</placeName>. One was called Air Assault 2. Air Assault 1 was the previous year. So I made Air Assault 2, which was in <placeName ref="#ttu_470_place_14">Camden, South Carolina</placeName>. There we did field maneuvers against the <orgName ref="#ttu_470_org_12">82nd division</orgName>.</u>
+      <u who="MILAM">How would you assess the quality of the training you received? Knowing now what you did in <placeName ref="#ttu_470_place_15">Vietnam</placeName>, how was the training compared to that?</u>
+      <u who="LATIGUE">I’m glad you mentioned that, because the NCOs (Non-Commissioned Officers) in this unit were career men. They had a lot of respect for the <orgName ref="#ttu_470_org_13">army</orgName>, they made us feel comfortable being—most of the guys in my unit were draftees. We didn’t volunteer to be there. So no one was really happy to be in the <orgName ref="#ttu_470_org_14">army</orgName> because we were drafted. But the NCOs in that unit was the finest non-commissioned officers ever. The intense training, that we received from them and the dedication to the <orgName ref="#ttu_470_org_15">army</orgName>, I guess we picked up the vibes from those guys and began to follow their leadership.</u>
+      <u who="MILAM">These were the NCOs, career, many of them with probably <name type="event" ref="#ttu_470_event_0">Korea</name> combat experience, I suppose?</u>
+      <u who="LATIGUE">Yes. Matter of fact, in <placeName ref="#ttu_470_place_16">Vietnam</placeName> my platoon sergeant, <persName ref="#ttu_470_person_9">Sergeant Freeman</persName>, was quite comfortable being next to him in combat because this guy had been to two different wars. He was a <orgName ref="#ttu_470_org_16">marine</orgName> in <name type="event" ref="#ttu_470_event_1">Guadalcanal</name>, and he had fought with the <orgName ref="#ttu_470_org_17">army</orgName> in <name type="event" ref="#ttu_470_event_2">Korea</name>. So he was a man in his third war and it’s really comfortable because you look over there and say, “<persName ref="#ttu_470_person_10">Sergeant Freeman</persName>. Am I going to make? <persName ref="#ttu_470_person_11">Sergeant Freeman</persName>, I am scared to death, but I am functioning! What’s wrong with me? Why am I so afraid?” He said, (Editor’s note: Interviewee imitates a voice) “Well boy, the moment you start feeling scared, you’re probably going to get killed.”</u>
       <u who="MILAM">Two stars on the CIB (Combat Infantryman Badge), that makes you feel good. How about the officers, platoon leaders and company commander in your training? Did you think they were good officers?</u>
-      <u who="LATIGUE">We had great officers and I was blessed. Being in a mortar platoon, mortar platoon had its own company, which was <orgName>Delta Company</orgName>. We were not attached to the line companies until we were deployed to <placeName>Vietnam</placeName>. One of the officers that I admired was <persName>Captain Edwards</persName>. He was one of the officers that in any training his men were in, if they ran that morning, he ran with him. If they ran that evening, and we did a lot of running, he ran with his company. He was one of the few officers that ran every time his men ran; he ran with them. So I was attached to <orgName>Charlie Company</orgName> and I was really honored to be in his unit.</u>
-      <u who="MILAM">And ultimately you would serve with that unit in <placeName>Vietnam</placeName>. </u>
+      <u who="LATIGUE">We had great officers and I was blessed. Being in a mortar platoon, mortar platoon had its own company, which was <orgName ref="#ttu_470_org_18">Delta Company</orgName>. We were not attached to the line companies until we were deployed to <placeName ref="#ttu_470_place_17">Vietnam</placeName>. One of the officers that I admired was <persName ref="#ttu_470_person_12">Captain Edwards</persName>. He was one of the officers that in any training his men were in, if they ran that morning, he ran with him. If they ran that evening, and we did a lot of running, he ran with his company. He was one of the few officers that ran every time his men ran; he ran with them. So I was attached to <orgName ref="#ttu_470_org_19">Charlie Company</orgName> and I was really honored to be in his unit.</u>
+      <u who="MILAM">And ultimately you would serve with that unit in <placeName ref="#ttu_470_place_18">Vietnam</placeName>. </u>
       <u who="LATIGUE">That’s right, that’s correct.</u>
-      <u who="MILAM">About <date when="1965-08">August</date>, <date when="1965-07">July</date> I believe, <persName>President Johnson</persName> gives his <name type="event">famous speech</name>, “We’re going to deploy the <orgName>1st Air Cav</orgName>.” Is that the first time you realize you were going to <placeName>Vietnam</placeName>? Or did you realize further back?</u>
-      <u who="LATIGUE">I was blessed again, to realize by asking a lot of questions. They were putting containers in front of our unit for weeks. I asked one of the NCOs, “What are they doing?” He said, “Getting ready to ship.” I said “Where?” “<placeName>Vietnam</placeName>.” I said, “Well, nobody is saying that!” He said, “Hey. Take my word for it, we’re going to <placeName>Vietnam</placeName>.” So I go to <persName>Captain Edwards</persName> on a Monday morning and asked for leave that’s Saturday which is not the normal procedure, you need to have two weeks’ notice. But I wanted to go that Saturday because I felt that we would probably be deployed soon. So I go to <persName>Captain Edwards</persName> and for the first time before I can go on leave, I had to go interview with him. He gave me the laws about missing a movement. He said, “If you’re on leave and miss a movement, if you’re called to comeback and you do not return, you’ll get court-martialed.” So I go on and tell them, “We’re going to <placeName>Vietnam</placeName>! <persName>Captain Edwards</persName> just gave me the movement out, or whatever that stuff is.” They said, “Are you crazy, we’re too short.” That’s what we were thinking because most of us had less than four months of service.</u>
+      <u who="MILAM">About <date when="1965-08">August</date>, <date when="1965-07">July</date> I believe, <persName ref="#ttu_470_person_13">President Johnson</persName> gives his <name type="event" ref="#ttu_470_event_3">famous speech</name>, “We’re going to deploy the <orgName ref="#ttu_470_org_20">1st Air Cav</orgName>.” Is that the first time you realize you were going to <placeName ref="#ttu_470_place_19">Vietnam</placeName>? Or did you realize further back?</u>
+      <u who="LATIGUE">I was blessed again, to realize by asking a lot of questions. They were putting containers in front of our unit for weeks. I asked one of the NCOs, “What are they doing?” He said, “Getting ready to ship.” I said “Where?” “<placeName ref="#ttu_470_place_20">Vietnam</placeName>.” I said, “Well, nobody is saying that!” He said, “Hey. Take my word for it, we’re going to <placeName ref="#ttu_470_place_21">Vietnam</placeName>.” So I go to <persName ref="#ttu_470_person_14">Captain Edwards</persName> on a Monday morning and asked for leave that’s Saturday which is not the normal procedure, you need to have two weeks’ notice. But I wanted to go that Saturday because I felt that we would probably be deployed soon. So I go to <persName ref="#ttu_470_person_15">Captain Edwards</persName> and for the first time before I can go on leave, I had to go interview with him. He gave me the laws about missing a movement. He said, “If you’re on leave and miss a movement, if you’re called to comeback and you do not return, you’ll get court-martialed.” So I go on and tell them, “We’re going to <placeName ref="#ttu_470_place_22">Vietnam</placeName>! <persName ref="#ttu_470_person_16">Captain Edwards</persName> just gave me the movement out, or whatever that stuff is.” They said, “Are you crazy, we’re too short.” That’s what we were thinking because most of us had less than four months of service.</u>
       <u who="MILAM">To go?</u>
       <u who="LATIGUE">To go.</u>
       <u who="MILAM">In <date when="1965-07">July</date>?</u>
-      <u who="LATIGUE">Right. <date when="1965-08">August</date>. Most of us were coming out in <date when="1965-12">December</date>. So we went to <placeName>Vietnam</placeName> thinking that we would get extended because we knew most of us would only be there ninety days. It just so happened the <date when="1965-11-14">14th</date>, <date when="1965-11-15">15th</date>, and <date when="1965-11-16">16th</date> we went to battle. The <date when="1965-11-22">22nd</date> I was in the <placeName>United States</placeName> as a civilian. Six days after the <name type="event">battle</name>, the <orgName>United States Government</orgName> didn’t do anything for us, inform us, there was no contact, we were left out in the street on our own. Six days after a major <name type="event">battle</name>. I regret that they didn’t extend it. It would’ve been better for us to be extended for sixty days, ninety days, six months.</u>
-      <u who="MILAM">Well I'm going to ask you more questions about that here in a minute. That’s an interesting story. Had you ever heard of <placeName>Vietnam</placeName> before <date when="1965-07">July of ’65</date>?</u>
-      <u who="LATIGUE">We were getting pieces and bits of what was going on in <placeName>Vietnam</placeName>. When you pull guard duty, the inspecting officer would ask you certain questions about the causalities that would be coming up. Every night, <orgName>special forces</orgName> would be hit. They would ask you these questions to see if you were informed about what was happening in <placeName>Vietnam</placeName>. As far as me knowing that we were going to <placeName>Vietnam</placeName>, like I said I got leave and I was home watching television when the President made a <name type="event">special announcement</name>. I was at my mother’s house and he said, “I just ordered the <orgName>1st Calvary</orgName> to <placeName>Vietnam</placeName>.” I told my mother, “That’s my unit.” I was blessed. I had two weeks leave when everyone else only had a week.</u>
+      <u who="LATIGUE">Right. <date when="1965-08">August</date>. Most of us were coming out in <date when="1965-12">December</date>. So we went to <placeName ref="#ttu_470_place_23">Vietnam</placeName> thinking that we would get extended because we knew most of us would only be there ninety days. It just so happened the <date when="1965-11-14">14th</date>, <date when="1965-11-15">15th</date>, and <date when="1965-11-16">16th</date> we went to battle. The <date when="1965-11-22">22nd</date> I was in the <placeName ref="#ttu_470_place_24">United States</placeName> as a civilian. Six days after the <name type="event" ref="#ttu_470_event_4">battle</name>, the <orgName ref="#ttu_470_org_21">United States Government</orgName> didn’t do anything for us, inform us, there was no contact, we were left out in the street on our own. Six days after a major <name type="event" ref="#ttu_470_event_5">battle</name>. I regret that they didn’t extend it. It would’ve been better for us to be extended for sixty days, ninety days, six months.</u>
+      <u who="MILAM">Well I'm going to ask you more questions about that here in a minute. That’s an interesting story. Had you ever heard of <placeName ref="#ttu_470_place_25">Vietnam</placeName> before <date when="1965-07">July of ’65</date>?</u>
+      <u who="LATIGUE">We were getting pieces and bits of what was going on in <placeName ref="#ttu_470_place_26">Vietnam</placeName>. When you pull guard duty, the inspecting officer would ask you certain questions about the causalities that would be coming up. Every night, <orgName ref="#ttu_470_org_22">special forces</orgName> would be hit. They would ask you these questions to see if you were informed about what was happening in <placeName ref="#ttu_470_place_27">Vietnam</placeName>. As far as me knowing that we were going to <placeName ref="#ttu_470_place_28">Vietnam</placeName>, like I said I got leave and I was home watching television when the President made a <name type="event" ref="#ttu_470_event_6">special announcement</name>. I was at my mother’s house and he said, “I just ordered the <orgName ref="#ttu_470_org_23">1st Calvary</orgName> to <placeName ref="#ttu_470_place_29">Vietnam</placeName>.” I told my mother, “That’s my unit.” I was blessed. I had two weeks leave when everyone else only had a week.</u>
       <u who="MILAM">I see. So you get orders, your unit is going, you’re on leave, you come home, you come back to base and you ship out. What ship did you ride on?</u>
-      <u who="LATIGUE"><orgName>USS Maurice Rose</orgName>.</u>
-      <u who="MILAM">You were on the <orgName>Rose</orgName>, okay. I think, everybody has kind of described it as about a thirty-day trip across the seas and you end up at <placeName>Qui Nhon</placeName>?</u>
+      <u who="LATIGUE"><orgName ref="#ttu_470_org_24">USS Maurice Rose</orgName>.</u>
+      <u who="MILAM">You were on the <orgName ref="#ttu_470_org_25">Rose</orgName>, okay. I think, everybody has kind of described it as about a thirty-day trip across the seas and you end up at <placeName ref="#ttu_470_place_30">Qui Nhon</placeName>?</u>
       <u who="LATIGUE">Right.</u>
-      <u who="MILAM">Now, how did you get from <placeName>Qui Nhon</placeName> to <placeName>An Khe</placeName>?</u>
+      <u who="MILAM">Now, how did you get from <placeName ref="#ttu_470_place_31">Qui Nhon</placeName> to <placeName ref="#ttu_470_place_32">An Khe</placeName>?</u>
       <u who="LATIGUE">We went by truck.</u>
       <u who="MILAM">You went by truck. Deuce and half’s?</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">Okay. How did you feel about arriving in a combat zone? There wasn’t any combat when you first got there, right?</u>
-      <u who="LATIGUE">There was no combat. The perimeter was being guarded by the <orgName>82nd</orgName>. So we had a chance to talk to some of the guys that had been there for months. They were saying every night they had a scrimmage, you know, but nothing serious. It was kind of adventurous at that stage.</u>
+      <u who="LATIGUE">There was no combat. The perimeter was being guarded by the <orgName ref="#ttu_470_org_26">82nd</orgName>. So we had a chance to talk to some of the guys that had been there for months. They were saying every night they had a scrimmage, you know, but nothing serious. It was kind of adventurous at that stage.</u>
       <u who="MILAM">You had to build a base camp out of nothing!</u>
-      <u who="LATIGUE">Right. <placeName>An Khe</placeName> was under development and we had civilians cleaning off the under growth and all that stuff. We didn’t actually do that; we just deployed the area.</u>
-      <u who="MILAM">I see, I see. How much training did you get in <placeName>Vietnam</placeName> before <name type="event">Ia Drang</name>?</u>
+      <u who="LATIGUE">Right. <placeName ref="#ttu_470_place_33">An Khe</placeName> was under development and we had civilians cleaning off the under growth and all that stuff. We didn’t actually do that; we just deployed the area.</u>
+      <u who="MILAM">I see, I see. How much training did you get in <placeName ref="#ttu_470_place_34">Vietnam</placeName> before <name type="event" ref="#ttu_470_event_7">Ia Drang</name>?</u>
       <u who="LATIGUE">We did a lot of jungle training.</u>
       <u who="MILAM">Jungle training?</u>
-      <u who="LATIGUE">Right at <placeName>Benning</placeName>, <placeName>Fort Sill</placeName>. Matter of fact, I’d rather go <placeName>Vietnam</placeName> and crawl around the grounds of <placeName>Vietnam</placeName> than to go to <placeName>Fort Sill</placeName>, there were more snakes there. (Chuckles)</u>
-      <u who="MILAM">So you went out on some in country operations after you got to <placeName>An Khe</placeName>, to get used to the area?</u>
+      <u who="LATIGUE">Right at <placeName ref="#ttu_470_place_35">Benning</placeName>, <placeName ref="#ttu_470_place_36">Fort Sill</placeName>. Matter of fact, I’d rather go <placeName ref="#ttu_470_place_37">Vietnam</placeName> and crawl around the grounds of <placeName ref="#ttu_470_place_38">Vietnam</placeName> than to go to <placeName ref="#ttu_470_place_39">Fort Sill</placeName>, there were more snakes there. (Chuckles)</u>
+      <u who="MILAM">So you went out on some in country operations after you got to <placeName ref="#ttu_470_place_40">An Khe</placeName>, to get used to the area?</u>
       <u who="LATIGUE">For some reason they were trying to find ways to use the ammo for the division because we were going all over the country. We were flying thirty, forty miles south, thirty, forty miles east. They just kept sending us everywhere. I wasn’t surprised on that morning, <date when="1965-11-14">November 14th</date>, that we were informed that we were probably going to encounter a large enemy.</u>
-      <u who="MILAM">Had you, before you went on the <date when="1965-11-14">14th</date> into the <name type="event">Ia Drang</name>, had you experienced any combat? Had you ever been shot at?</u>
+      <u who="MILAM">Had you, before you went on the <date when="1965-11-14">14th</date> into the <name type="event" ref="#ttu_470_event_8">Ia Drang</name>, had you experienced any combat? Had you ever been shot at?</u>
       <u who="LATIGUE">No.</u>
-      <u who="MILAM">Did you participate in an operation called “<name type="event">Silver Bayonet</name>”?</u>
+      <u who="MILAM">Did you participate in an operation called “<name type="event" ref="#ttu_470_event_9">Silver Bayonet</name>”?</u>
       <u who="LATIGUE">I did not.</u>
-      <u who="MILAM">Okay, that was over <placeName>Happy Valley</placeName>, I know some of the vets told me that. Before <date when="1965-11-14">November 14th</date>, did you move with the unit to <placeName>Pleiku</placeName> as a staging area?</u>
-      <u who="LATIGUE">Actually, when they moved to <placeName>Pleiku</placeName>, I was hospitalized.</u>
+      <u who="MILAM">Okay, that was over <placeName ref="#ttu_470_place_41">Happy Valley</placeName>, I know some of the vets told me that. Before <date when="1965-11-14">November 14th</date>, did you move with the unit to <placeName ref="#ttu_470_place_42">Pleiku</placeName> as a staging area?</u>
+      <u who="LATIGUE">Actually, when they moved to <placeName ref="#ttu_470_place_43">Pleiku</placeName>, I was hospitalized.</u>
       <u who="MILAM">With what?</u>
       <u who="LATIGUE">Symptoms of Malaria.</u>
       <u who="MILAM">High fever?</u>
       <u who="LATIGUE">Yes. It prolonged for about twelve years. Even as a civilian, I still had problems with high fever, loss of weight, migraine headaches. But it was never determined by medical examiners that I had Malaria.</u>
       <u who="MILAM">Your records probably say you have FUO. Fever of unknown origin.</u>
       <u who="LATIGUE">(Chuckles) That’s right, that’s right exactly.</u>
-      <u who="MILAM">I know the malady. So you didn’t go to <placeName>Pleiku</placeName> with that group, when they went to <placeName>Pleiku</placeName>?</u>
-      <u who="LATIGUE">I joined them at <placeName>Pleiku</placeName>.</u>
-      <u who="MILAM">At <placeName>Pleiku</placeName>?</u>
-      <u who="LATIGUE">I falsified my illness, I said I was well, and I was reattached to the 3rd platoon as a forward observer. I was with them at <placeName>Pleiku</placeName>.</u>
-      <u who="MILAM">On <date when="1965-11-14">November 14th</date>, you get word that you guys are going into the <placeName>valley</placeName>. What direction came to you as a solider? What was your rank at the time?</u>
+      <u who="MILAM">I know the malady. So you didn’t go to <placeName ref="#ttu_470_place_44">Pleiku</placeName> with that group, when they went to <placeName ref="#ttu_470_place_45">Pleiku</placeName>?</u>
+      <u who="LATIGUE">I joined them at <placeName ref="#ttu_470_place_46">Pleiku</placeName>.</u>
+      <u who="MILAM">At <placeName ref="#ttu_470_place_47">Pleiku</placeName>?</u>
+      <u who="LATIGUE">I falsified my illness, I said I was well, and I was reattached to the 3rd platoon as a forward observer. I was with them at <placeName ref="#ttu_470_place_48">Pleiku</placeName>.</u>
+      <u who="MILAM">On <date when="1965-11-14">November 14th</date>, you get word that you guys are going into the <placeName ref="#ttu_470_place_49">valley</placeName>. What direction came to you as a solider? What was your rank at the time?</u>
       <u who="LATIGUE">E4.</u>
       <u who="MILAM">You were a four, okay. What information did you get about the operation?</u>
-      <u who="LATIGUE">Well, early that morning we received a call from battalion to <persName>Bill Franklin</persName>, our platoon leader, to report to the battalion CP (Command Post) to leave his RTO (Radio Telephone Operator) but to bring his Foxtrot Oscar, which is me, forward observer. So he and I went to the meeting and the reason why I had to go is because in <placeName>Vietnam</placeName>, it’s very difficult to geographically locate something, find it on your map and be able to get a true reading of the coordinates that you’re in. So you have to go to the meetings and synchronize your map. That morning, <persName>Franklin</persName> and I went to the meeting and <persName>General Moore</persName> addressed the idea that we were going into this area and he mentioned the fact it was a large unit. I will never forget him saying, “And they look like they wanted to fight.” They gave us the information, and the project was called “<placeName>Landing Zone X-Ray</placeName>.” I had to take my map and circle that area so that once I get on the ground, I wouldn’t have any problem laying my compass down and getting the coordinates where I was and if I needed to call fire.</u>
+      <u who="LATIGUE">Well, early that morning we received a call from battalion to <persName ref="#ttu_470_person_17">Bill Franklin</persName>, our platoon leader, to report to the battalion CP (Command Post) to leave his RTO (Radio Telephone Operator) but to bring his Foxtrot Oscar, which is me, forward observer. So he and I went to the meeting and the reason why I had to go is because in <placeName ref="#ttu_470_place_50">Vietnam</placeName>, it’s very difficult to geographically locate something, find it on your map and be able to get a true reading of the coordinates that you’re in. So you have to go to the meetings and synchronize your map. That morning, <persName ref="#ttu_470_person_18">Franklin</persName> and I went to the meeting and <persName ref="#ttu_470_person_19">General Moore</persName> addressed the idea that we were going into this area and he mentioned the fact it was a large unit. I will never forget him saying, “And they look like they wanted to fight.” They gave us the information, and the project was called “<placeName ref="#ttu_470_place_51">Landing Zone X-Ray</placeName>.” I had to take my map and circle that area so that once I get on the ground, I wouldn’t have any problem laying my compass down and getting the coordinates where I was and if I needed to call fire.</u>
       <u who="MILAM">Your plan, your MOS, your responsibility, would be once you’re on the ground to help adjust mortar fire?</u>
       <u who="LATIGUE">That’s right.</u>
       <u who="MILAM">These were 81s? You were going to carry 81s in?</u>
-      <u who="LATIGUE">We carried 81s and the way we were doing it in <placeName>Vietnam</placeName>, I would call directly to the mortar platoon fire control. But it was determined by battalion what it was sent. Like one time I called in a fire mission, I thought 81 was coming in, which has a small version, and a 105 came in. I used profanity language on the radio by mistake! It wasn’t—</u>
+      <u who="LATIGUE">We carried 81s and the way we were doing it in <placeName ref="#ttu_470_place_52">Vietnam</placeName>, I would call directly to the mortar platoon fire control. But it was determined by battalion what it was sent. Like one time I called in a fire mission, I thought 81 was coming in, which has a small version, and a 105 came in. I used profanity language on the radio by mistake! It wasn’t—</u>
       <u who="MILAM">Sure!</u>
       <u who="LATIGUE">Because it was a larger bird! </u>
       <u who="MILAM">Absolutely.</u>
@@ -161,20 +161,20 @@
       <u who="LATIGUE">But I was thinking every think I call a fire mission; I'm looking for 81 to come in.</u>
       <u who="MILAM">You’re looking for an 81, and you’re looking for a different response time than you're going to get from a 105 being fired from 5 miles away, right?</u>
       <u who="LATIGUE">That’s right. The accuracy of the 105 was just tremendous. But the bursting area is what I was concerned about because calling close fire with the 81, you get like twenty-five meters. You got a 105, you got fifty meters. If you call in a close fire, you want that thing away from you, not what you expect an 81 to come in at.</u>
-      <u who="MILAM">Sure, absolutely. Let’s talk about the <date when="1965-11-14">14th</date> then, which lift were you on? Were you on the first lift, second lift, third lift of those that first arrived at <placeName>X-Ray</placeName>?</u>
-      <u who="LATIGUE">I wasn’t with the first group and in route to <placeName>X-Ray</placeName> from <placeName>Pleiku</placeName>, we landed on a spot there were about one platoon already on the ground. When we landed and it was the wrong place. The group had been dropped off and since I had radio contact, they didn’t have a radio man with them. I was to stay with them. I had to stay there and wait for them to come back and pick us up. Matter of fact, I just asked that question this morning to <persName>Bill Franklin</persName>. Matter of fact, I didn’t get a chance to see him until—<date when="1999">1999</date> was the first time I saw <persName>Frank</persName>. This morning I asked him a question about that, “Had we landed at the wrong place?” He said, “There was some diversion being used” and that might’ve been one of them. But make a long story short, if you look at a map and this place was similar to <placeName>X-Ray</placeName>, it was a large area like a football field clearance, with elephant grass and looking in the book that <persName>Joe</persName> wrote, that might’ve been <placeName>X-Ray</placeName>, we might’ve landed at <placeName>X-Ray</placeName>, that platoon that was on the ground, that might’ve been <placeName>X-Ray</placeName>. No matter what it was, I can tell you one thing, we all fret because you can sense somebody looking at you. You can sense the eyes staring at you. And I still wonder today why they didn’t attack us; they did not fire on us. We were on the ground maybe thirty-five, forty minutes before the helicopters came back to pick us up. Then I was attached. We went into fire; actions were already going on when we got to—</u>
-      <u who="MILAM">Into <placeName>X-Ray</placeName>?</u>
-      <u who="LATIGUE">Yes. I had to look around, I asked people where the <orgName>Charlie Company</orgName> was and I was scrambling, crawl and crawl and finally I was able to make it to the position where the 3rd platoon was. But they were already under fire when I got there.</u>
+      <u who="MILAM">Sure, absolutely. Let’s talk about the <date when="1965-11-14">14th</date> then, which lift were you on? Were you on the first lift, second lift, third lift of those that first arrived at <placeName ref="#ttu_470_place_53">X-Ray</placeName>?</u>
+      <u who="LATIGUE">I wasn’t with the first group and in route to <placeName ref="#ttu_470_place_54">X-Ray</placeName> from <placeName ref="#ttu_470_place_55">Pleiku</placeName>, we landed on a spot there were about one platoon already on the ground. When we landed and it was the wrong place. The group had been dropped off and since I had radio contact, they didn’t have a radio man with them. I was to stay with them. I had to stay there and wait for them to come back and pick us up. Matter of fact, I just asked that question this morning to <persName ref="#ttu_470_person_20">Bill Franklin</persName>. Matter of fact, I didn’t get a chance to see him until—<date when="1999">1999</date> was the first time I saw <persName ref="#ttu_470_person_21">Frank</persName>. This morning I asked him a question about that, “Had we landed at the wrong place?” He said, “There was some diversion being used” and that might’ve been one of them. But make a long story short, if you look at a map and this place was similar to <placeName ref="#ttu_470_place_56">X-Ray</placeName>, it was a large area like a football field clearance, with elephant grass and looking in the book that <persName ref="#ttu_470_person_22">Joe</persName> wrote, that might’ve been <placeName ref="#ttu_470_place_57">X-Ray</placeName>, we might’ve landed at <placeName ref="#ttu_470_place_58">X-Ray</placeName>, that platoon that was on the ground, that might’ve been <placeName ref="#ttu_470_place_59">X-Ray</placeName>. No matter what it was, I can tell you one thing, we all fret because you can sense somebody looking at you. You can sense the eyes staring at you. And I still wonder today why they didn’t attack us; they did not fire on us. We were on the ground maybe thirty-five, forty minutes before the helicopters came back to pick us up. Then I was attached. We went into fire; actions were already going on when we got to—</u>
+      <u who="MILAM">Into <placeName ref="#ttu_470_place_60">X-Ray</placeName>?</u>
+      <u who="LATIGUE">Yes. I had to look around, I asked people where the <orgName ref="#ttu_470_org_27">Charlie Company</orgName> was and I was scrambling, crawl and crawl and finally I was able to make it to the position where the 3rd platoon was. But they were already under fire when I got there.</u>
       <u who="MILAM">Okay, so let’s describe that, the chopper is coming in, were you receiving fire in the air? On the chopper? Could you hear the pings hitting?</u>
       <u who="LATIGUE">Yes, you could, definitely.</u>
-      <u who="MILAM">You could hear them, so you knew this was a hot <placeName>LZ</placeName>. The first landing of the first unit into <placeName>LZ X-Ray</placeName> didn’t receive fire, it was about the third or fourth that hit it, so you’re coming in and you’re getting fired at. Did the skids set down or did you jump off before?</u>
+      <u who="MILAM">You could hear them, so you knew this was a hot <placeName ref="#ttu_470_place_61">LZ</placeName>. The first landing of the first unit into <placeName ref="#ttu_470_place_62">LZ X-Ray</placeName> didn’t receive fire, it was about the third or fourth that hit it, so you’re coming in and you’re getting fired at. Did the skids set down or did you jump off before?</u>
       <u who="LATIGUE">We jumped, we jumped. We jumped a good distance; I’d say at least four to five feet. These guys were hollering, “Jump! Jump!” As they flew over the position, we just had to jump. I’m quite sure with the radio on my back it was at least four to five feet.</u>
       <u who="MILAM">Okay, so you got the radio on your back and you’re carrying an M16?</u>
       <u who="LATIGUE">I carried an M16. </u>
       <u who="MILAM">Had you trained on that M16?</u>
       <u who="LATIGUE">I was trained on the M16, my MOS requires you to have a .45.</u>
       <u who="MILAM">Okay.</u>
-      <u who="LATIGUE">Once I got to <placeName>Vietnam</placeName> and I saw the terrain and stuff, I had to turn it in, I said, “I don’t want no .45, give me some firepower.” So I got an M16 but normally a forward observer carries a .45.</u>
+      <u who="LATIGUE">Once I got to <placeName ref="#ttu_470_place_63">Vietnam</placeName> and I saw the terrain and stuff, I had to turn it in, I said, “I don’t want no .45, give me some firepower.” So I got an M16 but normally a forward observer carries a .45.</u>
       <u who="MILAM">Right. What were you carrying? How many magazines were you carrying? Do you remember? </u>
       <u who="LATIGUE">I had to have a whole clip or two. At least over a hundred rounds.</u>
       <u who="MILAM">Okay. Then you had your radio, Prick 25?</u>
@@ -182,7 +182,7 @@
       <u who="MILAM">Were you carrying any grenades?</u>
       <u who="LATIGUE">I think at that time I wasn’t carrying any. I had carried them before.</u>
       <u who="MILAM">Yeah.</u>
-      <u who="LATIGUE">A couple of weeks earlier, <persName>Sergeant Freeman</persName> asked me to throw him a can of lima beans. I threw it and it went ahead this way instead of going straight. He walked up to me and said, “You don’t need to be carrying these things” and took them off of me. That’s why I didn’t have any. (Chuckles)</u>
+      <u who="LATIGUE">A couple of weeks earlier, <persName ref="#ttu_470_person_23">Sergeant Freeman</persName> asked me to throw him a can of lima beans. I threw it and it went ahead this way instead of going straight. He walked up to me and said, “You don’t need to be carrying these things” and took them off of me. That’s why I didn’t have any. (Chuckles)</u>
       <u who="MILAM">Okay. How about other provisions, how many canteens?</u>
       <u who="LATIGUE">I had two canteens. </u>
       <u who="MILAM">Two canteens.</u>
@@ -195,11 +195,11 @@
       <u who="LATIGUE">The highest-ranking guy must’ve been a E6.</u>
       <u who="MILAM">An E6. You get off, you’re under fire. You know which direction the fire is coming from?</u>
       <u who="LATIGUE">Everywhere. This time it was mad minute. The time we hit the ground it was mad minute because I stayed close to the ground, because I knew—</u>
-      <u who="MILAM">Did you fire your weapon on the <placeName>LZ</placeName>?</u>
-      <u who="LATIGUE">At that time, I didn’t fire my weapon. I was trying to find where my unit was, the 3rd platoon. So I crawled up into the grass, and so luckily, I guess I was in <persName>Charlie Company</persName>’s area.</u>
+      <u who="MILAM">Did you fire your weapon on the <placeName ref="#ttu_470_place_64">LZ</placeName>?</u>
+      <u who="LATIGUE">At that time, I didn’t fire my weapon. I was trying to find where my unit was, the 3rd platoon. So I crawled up into the grass, and so luckily, I guess I was in <persName ref="#ttu_470_person_24">Charlie Company</persName>’s area.</u>
       <u who="MILAM">So you found them almost immediately.</u>
-      <u who="LATIGUE">Right. So I knew that was the 1st platoon by our training. We would always deploy the way we trained. 1st platoon, 2nd, and 3rd. The guys that I approached was 1st platoon, I knew I had to go the distance of the field to get to 3rd platoon, and that’s what I did. Then I found <persName>Sergeant Freeman</persName> who’s a platoon sergeant.</u>
-      <u who="MILAM">Did you see anybody go down on the <placeName>LZ</placeName>?</u>
+      <u who="LATIGUE">Right. So I knew that was the 1st platoon by our training. We would always deploy the way we trained. 1st platoon, 2nd, and 3rd. The guys that I approached was 1st platoon, I knew I had to go the distance of the field to get to 3rd platoon, and that’s what I did. Then I found <persName ref="#ttu_470_person_25">Sergeant Freeman</persName> who’s a platoon sergeant.</u>
+      <u who="MILAM">Did you see anybody go down on the <placeName ref="#ttu_470_place_65">LZ</placeName>?</u>
       <u who="LATIGUE">Yes, I did. Immediately.</u>
       <u who="MILAM">Was he killed or wounded?</u>
       <u who="LATIGUE">Killed. Some of the guys that came out of the plane with me, they were hit from snipers, they were hit in the face. So it was determined that was probably from snipers.</u>
@@ -208,10 +208,10 @@
       <u who="MILAM">So you work your way over to the third platoon, is that right?</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">So you find them after—because you know from your training where you're supposed to be. You get over to them and what’s the first thing—are you looking for the CP?</u>
-      <u who="LATIGUE">Yeah. I'm looking for my Platoon Leader, <persName>Bill Franklin</persName>.</u>
-      <u who="MILAM">You’re looking for <persName>Franklin</persName>.</u>
+      <u who="LATIGUE">Yeah. I'm looking for my Platoon Leader, <persName ref="#ttu_470_person_26">Bill Franklin</persName>.</u>
+      <u who="MILAM">You’re looking for <persName ref="#ttu_470_person_27">Franklin</persName>.</u>
       <u who="LATIGUE">I crawled around until I finally found him. The moment I get to him, he tells me, “You can ditch that radio because the battalion is directing the fire control.” He said, “Put your radio aside, get ready to be a rifleman.” I took my radio off, put it away from me. Then, started getting into the action.</u>
-      <u who="MILAM">So, <placeName>Franklin</placeName> got his own RTO?</u>
+      <u who="MILAM">So, <placeName ref="#ttu_470_place_66">Franklin</placeName> got his own RTO?</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">That’s monitoring the battalion net, or the company net I guess at that point.</u>
       <u who="LATIGUE">Yeah, company net, right.</u>
@@ -220,18 +220,18 @@
       <u who="MILAM">From the CP, with the captain. Does he say, “Go over there?” Does he tell you where to go or do you stay with him?</u>
       <u who="LATIGUE">There was an empty stop, it was a termite hill. I took cover there and matter of fact, we were told to dig that night and we couldn’t dig in that area. That area where the 3rd platoon was, the ground was too hard. Two guys, one would actually stay on guard, contain the shooting and one would try to dig. We couldn’t even scrape enough dirt to be able to mound so we remained behind this termite hill and it was good fortification because it was as big as this chair that you’re sitting in or the one I'm sitting in, about that high. So if you just stood up a little bit, you could look over and shoot. I remain three days in battle, that’s where I stayed.</u>
       <u who="MILAM">Okay. Did the CP essentially stay where you were? Or did it move? The platoon leader?</u>
-      <u who="LATIGUE"><persName>Captain Edwards</persName> was calling <persName>Franklin</persName> to come to his aid or something. He left and that’s the last time I saw him because next thing I knew, he had been wounded. When <persName>Franklin</persName> left, I was real close to his position. He and <persName>Charlie Dashner</persName>—I think <persName>Charlie</persName> lost his radio. I think a machine gun cut the line or something, but <persName>Charlie</persName> didn’t have a radio, so he was out of action. But <persName>Franklin</persName> left to go to <persName>Captain Edwards</persName>’ rescue or something, so he left the area. I never saw him again until <date when="1999">’99</date>.</u>
+      <u who="LATIGUE"><persName ref="#ttu_470_person_28">Captain Edwards</persName> was calling <persName ref="#ttu_470_person_29">Franklin</persName> to come to his aid or something. He left and that’s the last time I saw him because next thing I knew, he had been wounded. When <persName ref="#ttu_470_person_30">Franklin</persName> left, I was real close to his position. He and <persName ref="#ttu_470_person_31">Charlie Dashner</persName>—I think <persName ref="#ttu_470_person_32">Charlie</persName> lost his radio. I think a machine gun cut the line or something, but <persName ref="#ttu_470_person_33">Charlie</persName> didn’t have a radio, so he was out of action. But <persName ref="#ttu_470_person_34">Franklin</persName> left to go to <persName ref="#ttu_470_person_35">Captain Edwards</persName>’ rescue or something, so he left the area. I never saw him again until <date when="1999">’99</date>.</u>
       <u who="MILAM">Your radio that you set down aside, did you ever use it again?</u>
-      <u who="LATIGUE">I kept it monitored, I had it on battalion because that’s where they were doing fire control. <persName>Sergeant Freeman</persName> was also listening to it. So we had it between us. I had it mounted on the side of a termite hill. We could hear what was being said and what was going on and we could listen to the guy calling the fire power for the jets that were coming in.</u>
-      <u who="MILAM">So you pretty much knew how the <name type="event">battle</name> was going because you were listening.</u>
+      <u who="LATIGUE">I kept it monitored, I had it on battalion because that’s where they were doing fire control. <persName ref="#ttu_470_person_36">Sergeant Freeman</persName> was also listening to it. So we had it between us. I had it mounted on the side of a termite hill. We could hear what was being said and what was going on and we could listen to the guy calling the fire power for the jets that were coming in.</u>
+      <u who="MILAM">So you pretty much knew how the <name type="event" ref="#ttu_470_event_10">battle</name> was going because you were listening.</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">Unlike a lot of the soldiers who were just in their own world and didn’t have any idea because you could hear it. Did that give you a different perspective on how bad things were?</u>
-      <u who="LATIGUE">The truth, I was in such a—the <date when="1965-11-14">very first day</date> I was in such a shock with the noise. I was terrified. I thank god today that I didn’t panic, and I know it was because of the training we had. We had a lot of guys that we would call deadbeats, but once the <name type="event">battle</name> got started, everybody was a hundred percent solider. You can see everybody deploying themselves in the right location, just doing what—the training took over. Your mind, your mind—you don’t know what’s going on. Your training is the only thing that you have to keep you, in that kind of condition, keep you going is your training.</u>
-      <u who="MILAM">What did you say you called some of the guys before <name type="event">battle</name>? What did you call them?</u>
+      <u who="LATIGUE">The truth, I was in such a—the <date when="1965-11-14">very first day</date> I was in such a shock with the noise. I was terrified. I thank god today that I didn’t panic, and I know it was because of the training we had. We had a lot of guys that we would call deadbeats, but once the <name type="event" ref="#ttu_470_event_11">battle</name> got started, everybody was a hundred percent solider. You can see everybody deploying themselves in the right location, just doing what—the training took over. Your mind, your mind—you don’t know what’s going on. Your training is the only thing that you have to keep you, in that kind of condition, keep you going is your training.</u>
+      <u who="MILAM">What did you say you called some of the guys before <name type="event" ref="#ttu_470_event_12">battle</name>? What did you call them?</u>
       <u who="LATIGUE">(Laughs) Deadbeats.</u>
       <u who="MILAM">Deadbeats? Deadbeats. Okay. And they weren’t deadbeats once the fire started?</u>
       <u who="LATIGUE">No, no, no.</u>
-      <u who="MILAM">Were you, in your youth before you joined the <orgName>army</orgName>, had you fired weapons before?</u>
+      <u who="MILAM">Were you, in your youth before you joined the <orgName ref="#ttu_470_org_28">army</orgName>, had you fired weapons before?</u>
       <u who="LATIGUE">I was raised in the country, shooting 22s was a pastime. I’d gotten very good with it.</u>
       <u who="MILAM">Okay. So as you now are a rifleman, how close is the enemy?</u>
       <u who="LATIGUE">Close enough to see them.</u>
@@ -243,12 +243,12 @@
       <u who="LATIGUE">They were picking them up, they were picking them up as they come to the line, they were picking up our weapons. You could see them reaching down and picking them up. Whatever they had, they were throwing them down, reaching and picking up our weapons.</u>
       <u who="MILAM">And they were picking up our weapons of our KIAs (Killed In Action)?</u>
       <u who="LATIGUE">Right.</u>
-      <u who="MILAM">As you're looking out from your firing position behind this termite mound, are you seeing a lot of <orgName>Americans</orgName> down in the ground also?</u>
-      <u who="LATIGUE">You know, I couldn’t see them. After being in the <name type="event">battle</name>, especially after twenty-four hours, you started picking up senses of the small arm fire, you could tell where it was coming from, you could tell if the guy next to you ran out of ammo, you started listening to that burst of the rounds, and if you don’t hear it, you know something’s wrong. Well, the day we lost most of the causalities in <orgName>Charlie Company</orgName>, it just got real quiet to the left of me. At the termite hill that I was at, there was a guy named <persName>Jerry Smith</persName>. He and I had made a decision on what was going to do. We would get up and fire rounds and we would run out of ammo at the same time. I said, “Man this is not going to work! Because we’re running out of ammo at the same time!” We had taken rifles from wounded guys as we put them on the helicopter, we took their rifles. So we had five rifles at our position, and we would take the ammo off of their bodies. Dead or wounded. So we had a lot of ammo. I said, “You load, and I’ll shoot.” Because a couple of times I looked, he was just shooting down into the ground and that was wasting rounds. I said, “You load it man, because we can’t run out at the same time.” So we worked like a machine gun, as soon as I’d run out of a clip, I’d hand him the rifle, and he’d hand me another rifle. So we were constantly shooting.</u>
+      <u who="MILAM">As you're looking out from your firing position behind this termite mound, are you seeing a lot of <orgName ref="#ttu_470_org_29">Americans</orgName> down in the ground also?</u>
+      <u who="LATIGUE">You know, I couldn’t see them. After being in the <name type="event" ref="#ttu_470_event_13">battle</name>, especially after twenty-four hours, you started picking up senses of the small arm fire, you could tell where it was coming from, you could tell if the guy next to you ran out of ammo, you started listening to that burst of the rounds, and if you don’t hear it, you know something’s wrong. Well, the day we lost most of the causalities in <orgName ref="#ttu_470_org_30">Charlie Company</orgName>, it just got real quiet to the left of me. At the termite hill that I was at, there was a guy named <persName ref="#ttu_470_person_37">Jerry Smith</persName>. He and I had made a decision on what was going to do. We would get up and fire rounds and we would run out of ammo at the same time. I said, “Man this is not going to work! Because we’re running out of ammo at the same time!” We had taken rifles from wounded guys as we put them on the helicopter, we took their rifles. So we had five rifles at our position, and we would take the ammo off of their bodies. Dead or wounded. So we had a lot of ammo. I said, “You load, and I’ll shoot.” Because a couple of times I looked, he was just shooting down into the ground and that was wasting rounds. I said, “You load it man, because we can’t run out at the same time.” So we worked like a machine gun, as soon as I’d run out of a clip, I’d hand him the rifle, and he’d hand me another rifle. So we were constantly shooting.</u>
       <u who="MILAM">Were you firing short round burst, or were you firing fully automatic?</u>
       <u who="LATIGUE">At first, I was firing automatic. You waste rounds on automatic because you just— (Interviewee makes gun burst noise) That’s why we became a team. He’d lock, and load and I’d shoot because we were running out, both of us at the same time. I said, “That’s not working. You lock and load these things.” By him locking and loading, and me shooting it, he kept me supplied with a rifle.</u>
       <u who="MILAM">Were you getting direction from your platoon leader to conserve ammo, at any time?</u>
-      <u who="LATIGUE">No, no. Guys were actually running out of ammo. The <date when="1965-11-14">first day</date>, since I was a forward observer and I wasn’t operating as a forward observer, <persName>Sergeant Freeman</persName> told <persName>Charlie Dashner</persName>, who was <persName>Bill Franklin</persName>’s RTO, to go get ammo and the ammo was at the CP. So I volunteered to go with him. I said, “<persName>Sergeant Freeman</persName>, can I go with him?” Since <persName>Smith</persName> was on his position. I said, “Without ammo, we’re not going to win this <name type="event">battle</name> and he’s by himself, so I’ll go with him.” So <persName>Charlie</persName> and I became ammo bearers. We’d crawl to the CP and it was very difficult crawling and carrying two boxes of bullets.</u>
+      <u who="LATIGUE">No, no. Guys were actually running out of ammo. The <date when="1965-11-14">first day</date>, since I was a forward observer and I wasn’t operating as a forward observer, <persName ref="#ttu_470_person_38">Sergeant Freeman</persName> told <persName ref="#ttu_470_person_39">Charlie Dashner</persName>, who was <persName ref="#ttu_470_person_40">Bill Franklin</persName>’s RTO, to go get ammo and the ammo was at the CP. So I volunteered to go with him. I said, “<persName ref="#ttu_470_person_41">Sergeant Freeman</persName>, can I go with him?” Since <persName ref="#ttu_470_person_42">Smith</persName> was on his position. I said, “Without ammo, we’re not going to win this <name type="event" ref="#ttu_470_event_14">battle</name> and he’s by himself, so I’ll go with him.” So <persName ref="#ttu_470_person_43">Charlie</persName> and I became ammo bearers. We’d crawl to the CP and it was very difficult crawling and carrying two boxes of bullets.</u>
       <u who="MILAM">So you're carrying two boxes of 5.56 mm M16 rounds and they’re inside those wooden boxes—</u>
       <u who="LATIGUE">No, they were in metal cans.</u>
       <u who="MILAM">Oh, they were in the metal cans? Okay, but it’s raw ammo, you still have to load your own magazines.</u>
@@ -258,12 +258,12 @@
       <u who="MILAM">Clipped together? Upside down so you can flip it.</u>
       <u who="LATIGUE">Right. So we’d load two of them in in one.</u>
       <u who="MILAM">So you duct tape together. Did your M16 ever jam?</u>
-      <u who="LATIGUE">Not during the <name type="event">battle</name>. We did an assault on a <orgName>VC (Viet Cong)</orgName> camp one day and we came off the helicopters, none of us could get our weapons off safety. (Chuckles) It wouldn’t come off safety.</u>
+      <u who="LATIGUE">Not during the <name type="event" ref="#ttu_470_event_15">battle</name>. We did an assault on a <orgName ref="#ttu_470_org_31">VC (Viet Cong)</orgName> camp one day and we came off the helicopters, none of us could get our weapons off safety. (Chuckles) It wouldn’t come off safety.</u>
       <u who="MILAM">None of us could?</u>
       <u who="LATIGUE">No! The whole squad that came off that assault—we landed and we charged and everybody hollered, “I can’t get it off safety!” Somebody thought about it needing lubrication, we used our insect repellent to spray and that was able to get it off.</u>
       <u who="MILAM">What month was that?</u>
       <u who="LATIGUE">That was our first month in there, it must’ve been <date when="1965-09">September</date>.</u>
-      <u who="MILAM">Okay, so that was when you first got there, a suspected <orgName>VC</orgName> camp you said?</u>
+      <u who="MILAM">Okay, so that was when you first got there, a suspected <orgName ref="#ttu_470_org_32">VC</orgName> camp you said?</u>
       <u who="LATIGUE">Right. It was a camp, they moved out. It was a training school.</u>
       <u who="MILAM">Thank goodness they weren’t there that day.</u>
       <u who="LATIGUE">Good thing that they left. We had dropped bombs from the B-52s, so they were nowhere around.</u>
@@ -286,49 +286,707 @@
       <u who="MILAM">Mm-hmm.</u>
       <u who="LATIGUE">I would basically try to find the direction I would hear the pinging on the termite hill. If it was a lot of fire from my left, I would mostly concentrate my shooting that way, but the guy next to me, we were kind of trying to spread it out because we would shoot like this. He would shoot straight and left—shoot straight and right and I’d go to the left.</u>
       <u who="MILAM">How close were you to anyone that got hit?</u>
-      <u who="LATIGUE">Again, when <persName>Charlie</persName> and I were doing the ammo run, he got hit. I was behind him and he kind of stood up a little bit, just a little bit because I knew my arm was tired and his was too. He had a short distance to get off the <placeName>landing zone</placeName> and into the grass. I think he may have said, “Well, I’m this close, I can get up and run that short distance.” The moment he stood up, he got a round. I saw it come out of his back. He’s just screaming and screaming and screaming. There was a medic that was not too far way and this guy is crying. I mean, hysterical. This guy was crying. “We’re all going to die! We’re all going to die!” I said, “Give this man morphine!” <persName>Charlie</persName> was screaming at the top of his voice; I’d never heard a man scream that loud. With all the fire power that’s going on, I could hear him screaming to the top of his voice and this guy wouldn’t help him, the medic wouldn’t help him. I said, “Give this man morphine, we’re not going to die!” I shook him up, I said, “Hey man, get a hold of yourself!” We’re laying on the ground, so I shook him and said, “Get a hold of yourself man!” And he still wouldn’t respond, so I slapped him in the face and he still didn’t respond. He was just crying. I said, “Please, give me the morphine.” He got in his bag and he gave it to me. I shot <persName>Charlie</persName> in the leg with the morphine and I was amazed. The moment it hit him—this man was screaming constantly before the morphine hit him. He said, “What? I got hit?” I said, “You got hit.” I did a battlefield bandage on him and then <persName>Sergeant Freeman</persName>, because we were close to him, <persName>Sergeant Freeman</persName> said, “Call medevac.” So I crawled over to where my radio was and I called medevac. At this time, I didn’t know anybody else was getting wounded. I’m doing what <persName>Sergeant Freeman</persName> is telling me, to call medevac. So the guy says, “I’ll be over the <placeName>landing zone</placeName> in a couple of seconds. Throw out a smoke bomb and I’ll come to you.” He said, “Okay throw it now.” So we threw a smoke bomb and he landed almost as close as that wall, we took <persName>Charlie</persName> and put him on the helicopter. He remembers all this, even though he was wounded. He remembers saying—I told him the reason why it landed so close was because <persName>Sergeant Freeman</persName> had instructed me to get on my radio and call medevac.</u>
+      <u who="LATIGUE">Again, when <persName ref="#ttu_470_person_44">Charlie</persName> and I were doing the ammo run, he got hit. I was behind him and he kind of stood up a little bit, just a little bit because I knew my arm was tired and his was too. He had a short distance to get off the <placeName ref="#ttu_470_place_67">landing zone</placeName> and into the grass. I think he may have said, “Well, I’m this close, I can get up and run that short distance.” The moment he stood up, he got a round. I saw it come out of his back. He’s just screaming and screaming and screaming. There was a medic that was not too far way and this guy is crying. I mean, hysterical. This guy was crying. “We’re all going to die! We’re all going to die!” I said, “Give this man morphine!” <persName ref="#ttu_470_person_45">Charlie</persName> was screaming at the top of his voice; I’d never heard a man scream that loud. With all the fire power that’s going on, I could hear him screaming to the top of his voice and this guy wouldn’t help him, the medic wouldn’t help him. I said, “Give this man morphine, we’re not going to die!” I shook him up, I said, “Hey man, get a hold of yourself!” We’re laying on the ground, so I shook him and said, “Get a hold of yourself man!” And he still wouldn’t respond, so I slapped him in the face and he still didn’t respond. He was just crying. I said, “Please, give me the morphine.” He got in his bag and he gave it to me. I shot <persName ref="#ttu_470_person_46">Charlie</persName> in the leg with the morphine and I was amazed. The moment it hit him—this man was screaming constantly before the morphine hit him. He said, “What? I got hit?” I said, “You got hit.” I did a battlefield bandage on him and then <persName ref="#ttu_470_person_47">Sergeant Freeman</persName>, because we were close to him, <persName ref="#ttu_470_person_48">Sergeant Freeman</persName> said, “Call medevac.” So I crawled over to where my radio was and I called medevac. At this time, I didn’t know anybody else was getting wounded. I’m doing what <persName ref="#ttu_470_person_49">Sergeant Freeman</persName> is telling me, to call medevac. So the guy says, “I’ll be over the <placeName ref="#ttu_470_place_68">landing zone</placeName> in a couple of seconds. Throw out a smoke bomb and I’ll come to you.” He said, “Okay throw it now.” So we threw a smoke bomb and he landed almost as close as that wall, we took <persName ref="#ttu_470_person_50">Charlie</persName> and put him on the helicopter. He remembers all this, even though he was wounded. He remembers saying—I told him the reason why it landed so close was because <persName ref="#ttu_470_person_51">Sergeant Freeman</persName> had instructed me to get on my radio and call medevac.</u>
       <u who="MILAM">The medevac that you call, was it truly a medevac?</u>
       <u who="LATIGUE">I don't know, it might’ve been what happened. I heard later that everybody became medevac.</u>
       <u who="MILAM">Right. So all you were letting them do is know that you had a man down at that location.</u>
-      <u who="LATIGUE">See, every radio operator has a frequency to go to medevac. My frequency, whatever it was, I went to my frequency and made direct contact with pilot. That was the purpose of going to that frequency. So he came in, the moment that I called him he said, “I’ll be at the <placeName>landing zone</placeName> in a few minutes, throw out a smoke bomb.” Thank god we had a short distance to bring <persName>Charlie</persName>.</u>
-      <u who="MILAM">So you put <persName>Charlie</persName> on the chopper, were there other wounded being put on that chopper, from other places?</u>
-      <u who="LATIGUE">Well, the guy that helped me put <persName>Charlie</persName>, I don’t remember his name, I can’t—I don’t know if he was a <orgName>Charlie Company</orgName> solider, but I can remember he and I turned around to go back for cover and he got shot on the foot. He was hollering, I said, “That’s your ticket out of here man, get on the helicopter!” So he got on the helicopter and there was two guys that left instead of just one, but I didn’t see anybody else get on it from where we put <persName>Charlie</persName>.</u>
+      <u who="LATIGUE">See, every radio operator has a frequency to go to medevac. My frequency, whatever it was, I went to my frequency and made direct contact with pilot. That was the purpose of going to that frequency. So he came in, the moment that I called him he said, “I’ll be at the <placeName ref="#ttu_470_place_69">landing zone</placeName> in a few minutes, throw out a smoke bomb.” Thank god we had a short distance to bring <persName ref="#ttu_470_person_52">Charlie</persName>.</u>
+      <u who="MILAM">So you put <persName ref="#ttu_470_person_53">Charlie</persName> on the chopper, were there other wounded being put on that chopper, from other places?</u>
+      <u who="LATIGUE">Well, the guy that helped me put <persName ref="#ttu_470_person_54">Charlie</persName>, I don’t remember his name, I can’t—I don’t know if he was a <orgName ref="#ttu_470_org_33">Charlie Company</orgName> solider, but I can remember he and I turned around to go back for cover and he got shot on the foot. He was hollering, I said, “That’s your ticket out of here man, get on the helicopter!” So he got on the helicopter and there was two guys that left instead of just one, but I didn’t see anybody else get on it from where we put <persName ref="#ttu_470_person_55">Charlie</persName>.</u>
       <u who="MILAM">I see. This was in—what part of the <date when="1965-11-14">14th</date>, that day?</u>
       <u who="LATIGUE">No, that was the <date when="1965-11-15">15th</date>.</u>
       <u who="MILAM">That was the <date when="1965-11-15">next day</date>?</u>
       <u who="LATIGUE"><date when="1965-11-15">Next day</date>.</u>
-      <u who="MILAM">Okay, okay. Well, there were probably monitoring, all the choppers, they were probably monitoring your medevac frequency because they were bringing in resupplies and everything, so they had to know where to put it down. <persName>Charlie</persName> made it, you said?</u>
+      <u who="MILAM">Okay, okay. Well, there were probably monitoring, all the choppers, they were probably monitoring your medevac frequency because they were bringing in resupplies and everything, so they had to know where to put it down. <persName ref="#ttu_470_person_56">Charlie</persName> made it, you said?</u>
       <u who="LATIGUE">Yes. It was—he got wounded on his birthday. I’d assumed he died from the wound he had.</u>
       <u who="MILAM">You assumed he did?</u>
-      <u who="LATIGUE">Yes, because when he left, when I put him on the chopper, I had no idea with that type of wound that he would be able to survive and the story is, if you talk to these guys that were wounded in <placeName>Vietnam</placeName>, especially in the <name type="event">Ia Drang</name>, there was a field hospital only five miles away. There was a second one a little distance from there. There were actually—we had no idea. Some of the guys I saw wounded, I didn’t think any of them lived, and they did survive.</u>
+      <u who="LATIGUE">Yes, because when he left, when I put him on the chopper, I had no idea with that type of wound that he would be able to survive and the story is, if you talk to these guys that were wounded in <placeName ref="#ttu_470_place_70">Vietnam</placeName>, especially in the <name type="event" ref="#ttu_470_event_16">Ia Drang</name>, there was a field hospital only five miles away. There was a second one a little distance from there. There were actually—we had no idea. Some of the guys I saw wounded, I didn’t think any of them lived, and they did survive.</u>
       <u who="MILAM">You saw the exit wound too, you said?</u>
       <u who="LATIGUE">Yeah. I was behind him, so I saw it come out.</u>
       <u who="MILAM">And it was an AK?</u>
       <u who="LATIGUE">No, it was a single bullet that hit him.</u>
       <u who="MILAM">But from an AK-47?</u>
       <u who="LATIGUE">I don’t know the caliber. I just know he was wounded.</u>
-      <u who="MILAM">Yeah, yeah. Wow. So you stayed through the <date when="1965-11-14">14th</date>, <date when="1965-11-15">15th</date>, <date when="1965-11-16">16th</date>. The <name type="event">battle</name> is over at <placeName>X-Ray</placeName> and then your taken where?</u>
-      <u who="LATIGUE">We went to <placeName>Plei Me</placeName>—<placeName>Pleiku</placeName>. At the <placeName>base</placeName> there.</u>
-      <u who="MILAM"><placeName>Camp Holloway</placeName>?</u>
-      <u who="LATIGUE"><placeName>Camp Holloway</placeName>. We were there for, I don't know, maybe a day or so and then we went back to <placeName>An Khe</placeName>. At <placeName>An Khe</placeName>, we started processing to leave, to go to <placeName>Camp Alpha</placeName> in <placeName>Saigon</placeName>, to come back to the <placeName>United States</placeName>.</u>
+      <u who="MILAM">Yeah, yeah. Wow. So you stayed through the <date when="1965-11-14">14th</date>, <date when="1965-11-15">15th</date>, <date when="1965-11-16">16th</date>. The <name type="event" ref="#ttu_470_event_17">battle</name> is over at <placeName ref="#ttu_470_place_71">X-Ray</placeName> and then your taken where?</u>
+      <u who="LATIGUE">We went to <placeName ref="#ttu_470_place_72">Plei Me</placeName>—<placeName ref="#ttu_470_place_73">Pleiku</placeName>. At the <placeName ref="#ttu_470_place_74">base</placeName> there.</u>
+      <u who="MILAM"><placeName ref="#ttu_470_place_75">Camp Holloway</placeName>?</u>
+      <u who="LATIGUE"><placeName ref="#ttu_470_place_76">Camp Holloway</placeName>. We were there for, I don't know, maybe a day or so and then we went back to <placeName ref="#ttu_470_place_77">An Khe</placeName>. At <placeName ref="#ttu_470_place_78">An Khe</placeName>, we started processing to leave, to go to <placeName ref="#ttu_470_place_79">Camp Alpha</placeName> in <placeName ref="#ttu_470_place_80">Saigon</placeName>, to come back to the <placeName ref="#ttu_470_place_81">United States</placeName>.</u>
       <u who="MILAM">Were you surprised that you got orders to go home?</u>
       <u who="LATIGUE">My ETS (Expiration of Term of Service) was coming up.</u>
       <u who="MILAM">Yes.</u>
-      <u who="LATIGUE">I was getting on sick call because I was at the battalion and a guy came by to get his orders. I said, “What are you doing?” He said, “Man, guy that’s leaving our ETS on <date when="1965-12-02">December 2nd</date>, he’s leaving tomorrow!” I said, “What?” “Yeah, tomorrow!” I said, “Are you kidding?” So I asked him, “How are you getting out? How are you processing out? There’s ten places you have to go!” He said, “You don’t have to go to all these places, just check them.” He said, “All you have you go is battalion, the mail room, and payroll.” Like the <orgName>red cross</orgName> and all that stuff, you don’t have to follow through. Next thing I knew, I was on a plane the next morning from <placeName>An Khe</placeName> going to <placeName>Saigon</placeName>. Which is <date when="1965-11-25">Thanksgiving Day</date>.</u>
-      <u who="MILAM">And then you were out of the <orgName>army</orgName>? (Interviewee nods his head.) So you went into <name type="event">battle</name> with an ETS of <date when="1965-12-01">December 1st</date>, is that right?</u>
+      <u who="LATIGUE">I was getting on sick call because I was at the battalion and a guy came by to get his orders. I said, “What are you doing?” He said, “Man, guy that’s leaving our ETS on <date when="1965-12-02">December 2nd</date>, he’s leaving tomorrow!” I said, “What?” “Yeah, tomorrow!” I said, “Are you kidding?” So I asked him, “How are you getting out? How are you processing out? There’s ten places you have to go!” He said, “You don’t have to go to all these places, just check them.” He said, “All you have you go is battalion, the mail room, and payroll.” Like the <orgName ref="#ttu_470_org_34">red cross</orgName> and all that stuff, you don’t have to follow through. Next thing I knew, I was on a plane the next morning from <placeName ref="#ttu_470_place_82">An Khe</placeName> going to <placeName ref="#ttu_470_place_83">Saigon</placeName>. Which is <date when="1965-11-25">Thanksgiving Day</date>.</u>
+      <u who="MILAM">And then you were out of the <orgName ref="#ttu_470_org_35">army</orgName>? (Interviewee nods his head.) So you went into <name type="event" ref="#ttu_470_event_18">battle</name> with an ETS of <date when="1965-12-01">December 1st</date>, is that right?</u>
       <u who="LATIGUE">Right.</u>
-      <u who="MILAM">They process you out on the <date when="1965-11-22">22nd of November</date>, but you went into <name type="event">battle</name> on <date when="1965-11-14">November 14th</date>, two weeks before you ETS?</u>
+      <u who="MILAM">They process you out on the <date when="1965-11-22">22nd of November</date>, but you went into <name type="event" ref="#ttu_470_event_19">battle</name> on <date when="1965-11-14">November 14th</date>, two weeks before you ETS?</u>
       <u who="LATIGUE">Right.</u>
       <u who="MILAM">You weren’t the only one? There were a few others?</u>
-      <u who="LATIGUE">Most of every guy that was there were out of the service within two weeks. What they were trying to do—they were trying to bring in guys as we would— as our ETS would come up. We had received guys out of AIT from <placeName>Fort Benning</placeName>. I think eight, nine, ten guys came in that was in our unit. None of them survived the battle. They were only in <placeName>Vietnam</placeName> a week. There were supposed to have been replacements for the guys like myself that were leaving.</u>
-      <u who="MILAM">Later in the <name type="event">war</name>, it would almost become unheard of to send men into battle with thirty days to go in their tour. I'm telling you that, as a historian I know that the case and you went into battle with two weeks left to go.</u>
-      <u who="LATIGUE">That operation started two weeks before it happened on the <date when="1965-11-14">14th</date>. The <orgName>1st of the 7th</orgName> had been out on the field from two weeks prior to <date when="1965-11-14">that date</date>. It just so happened <date when="1965-11-14">that Sunday</date> morning everything broke loose.</u>
-      <u who="MILAM"><persName>Martin</persName>, I want to ask you another question that as historians and sociologists and people that have studied the <name type="event">war</name> afterwards, and that is the issue of racial tension. You’re an African American. Did you feel in the beginning—well, in your tour, in <placeName>Vietnam</placeName>, that you were treated differently than white soldiers?</u>
-      <u who="LATIGUE"><placeName>Stateside</placeName>. At <placeName>Benning</placeName>, we had a lot of sudden officers.</u>
+      <u who="LATIGUE">Most of every guy that was there were out of the service within two weeks. What they were trying to do—they were trying to bring in guys as we would— as our ETS would come up. We had received guys out of AIT from <placeName ref="#ttu_470_place_84">Fort Benning</placeName>. I think eight, nine, ten guys came in that was in our unit. None of them survived the battle. They were only in <placeName ref="#ttu_470_place_85">Vietnam</placeName> a week. There were supposed to have been replacements for the guys like myself that were leaving.</u>
+      <u who="MILAM">Later in the <name type="event" ref="#ttu_470_event_20">war</name>, it would almost become unheard of to send men into battle with thirty days to go in their tour. I'm telling you that, as a historian I know that the case and you went into battle with two weeks left to go.</u>
+      <u who="LATIGUE">That operation started two weeks before it happened on the <date when="1965-11-14">14th</date>. The <orgName ref="#ttu_470_org_36">1st of the 7th</orgName> had been out on the field from two weeks prior to <date when="1965-11-14">that date</date>. It just so happened <date when="1965-11-14">that Sunday</date> morning everything broke loose.</u>
+      <u who="MILAM"><persName ref="#ttu_470_person_57">Martin</persName>, I want to ask you another question that as historians and sociologists and people that have studied the <name type="event" ref="#ttu_470_event_21">war</name> afterwards, and that is the issue of racial tension. You’re an African American. Did you feel in the beginning—well, in your tour, in <placeName ref="#ttu_470_place_86">Vietnam</placeName>, that you were treated differently than white soldiers?</u>
+      <u who="LATIGUE"><placeName ref="#ttu_470_place_87">Stateside</placeName>. At <placeName ref="#ttu_470_place_88">Benning</placeName>, we had a lot of sudden officers.</u>
       <u who="MILAM">Of?</u>
-      <u who="LATIGUE">All the guys that were lieutenants, platoon leaders, most of those guys and they were kind of rough on us, they would show that prejudice. I mean, they would try to cover it up, but they’d show it. By the time we got to <placeName>Vietnam</placeName>, amazingly, most of those guys were not in our unit, when we went to <placeName>Vietnam</placeName>. As far as race harmony, it’s probably as big as a surprise for all of us. We had guys from <placeName>Mississippi</placeName>, <placeName>Alabama</placeName>, <placeName>Louisiana</placeName>, all the southern states. Matter of fact, one of my closest associates and friend, had never been in the presence of a black man because in <placeName>Mississippi</placeName> it’s against the law. And he was surprised that we were the same. At this time, we remained close friends. I think it was basically something about the people that trained us. We didn’t see colors. We didn’t have any racial flair up between Hispanics, whites, or anything. It just didn’t happen. Amazingly, we all liked each other. We spent a lot time together because of the training. That may be why we are still together today. Forty years later, the men that were in that unit are still close and true brothers.</u>
-      <u who="MILAM">Very interesting. Very interesting. Well <persName>Martin</persName>, I have— I sure do appreciate you sitting down for this interview. This is very important to us as historians to put all this on tape for future generations to study. I would invite you if you are ever in <placeName>Lubbock, Texas</placeName> or if you can ever get out to <placeName>Lubbock, Texas</placeName> to come visit our <orgName>Vietnam Center</orgName> out there, We’re the number one center of archival material in the world. This will become part of that archive. So we very much appreciate you being here <date when="2005-11-11">today</date>. Thank you very much.</u>
+      <u who="LATIGUE">All the guys that were lieutenants, platoon leaders, most of those guys and they were kind of rough on us, they would show that prejudice. I mean, they would try to cover it up, but they’d show it. By the time we got to <placeName ref="#ttu_470_place_89">Vietnam</placeName>, amazingly, most of those guys were not in our unit, when we went to <placeName ref="#ttu_470_place_90">Vietnam</placeName>. As far as race harmony, it’s probably as big as a surprise for all of us. We had guys from <placeName ref="#ttu_470_place_91">Mississippi</placeName>, <placeName ref="#ttu_470_place_92">Alabama</placeName>, <placeName ref="#ttu_470_place_93">Louisiana</placeName>, all the southern states. Matter of fact, one of my closest associates and friend, had never been in the presence of a black man because in <placeName ref="#ttu_470_place_94">Mississippi</placeName> it’s against the law. And he was surprised that we were the same. At this time, we remained close friends. I think it was basically something about the people that trained us. We didn’t see colors. We didn’t have any racial flair up between Hispanics, whites, or anything. It just didn’t happen. Amazingly, we all liked each other. We spent a lot time together because of the training. That may be why we are still together today. Forty years later, the men that were in that unit are still close and true brothers.</u>
+      <u who="MILAM">Very interesting. Very interesting. Well <persName ref="#ttu_470_person_58">Martin</persName>, I have— I sure do appreciate you sitting down for this interview. This is very important to us as historians to put all this on tape for future generations to study. I would invite you if you are ever in <placeName ref="#ttu_470_place_95">Lubbock, Texas</placeName> or if you can ever get out to <placeName ref="#ttu_470_place_96">Lubbock, Texas</placeName> to come visit our <orgName ref="#ttu_470_org_37">Vietnam Center</orgName> out there, We’re the number one center of archival material in the world. This will become part of that archive. So we very much appreciate you being here <date when="2005-11-11">today</date>. Thank you very much.</u>
       <u who="LATIGUE">Thank you for having me. (End of Interview.)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_470_place_0">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_1">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_2">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_3">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_4">
+        <placeName>Fort Polk, Louisiana</placeName>
+      </place>
+      <place xml:id="ttu_470_place_5">
+        <placeName>Fort Polk, Louisiana</placeName>
+      </place>
+      <place xml:id="ttu_470_place_6">
+        <placeName>Leesville</placeName>
+      </place>
+      <place xml:id="ttu_470_place_7">
+        <placeName>Leesville</placeName>
+      </place>
+      <place xml:id="ttu_470_place_8">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_9">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_10">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_11">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_12">
+        <placeName>States</placeName>
+      </place>
+      <place xml:id="ttu_470_place_13">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_14">
+        <placeName>Camden, South Carolina</placeName>
+      </place>
+      <place xml:id="ttu_470_place_15">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_16">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_17">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_18">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_19">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_20">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_21">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_22">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_23">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_24">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="ttu_470_place_25">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_26">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_27">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_28">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_29">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_30">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_470_place_31">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_470_place_32">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_470_place_33">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_470_place_34">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_35">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_36">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_470_place_37">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_38">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_39">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_470_place_40">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_470_place_41">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_470_place_42">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_43">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_44">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_45">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_46">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_47">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_48">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_49">
+        <placeName>valley</placeName>
+      </place>
+      <place xml:id="ttu_470_place_50">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_51">
+        <placeName>Landing Zone X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_52">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_53">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_54">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_55">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_56">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_57">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_58">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_59">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_60">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_61">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_470_place_62">
+        <placeName>LZ X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_63">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_64">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_470_place_65">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_470_place_66">
+        <placeName>Franklin</placeName>
+      </place>
+      <place xml:id="ttu_470_place_67">
+        <placeName>landing zone</placeName>
+      </place>
+      <place xml:id="ttu_470_place_68">
+        <placeName>landing zone</placeName>
+      </place>
+      <place xml:id="ttu_470_place_69">
+        <placeName>landing zone</placeName>
+      </place>
+      <place xml:id="ttu_470_place_70">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_71">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_470_place_72">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_470_place_73">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_470_place_74">
+        <placeName>base</placeName>
+      </place>
+      <place xml:id="ttu_470_place_75">
+        <placeName>Camp Holloway</placeName>
+      </place>
+      <place xml:id="ttu_470_place_76">
+        <placeName>Camp Holloway</placeName>
+      </place>
+      <place xml:id="ttu_470_place_77">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_470_place_78">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_470_place_79">
+        <placeName>Camp Alpha</placeName>
+      </place>
+      <place xml:id="ttu_470_place_80">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="ttu_470_place_81">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="ttu_470_place_82">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_470_place_83">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="ttu_470_place_84">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_85">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_86">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_87">
+        <placeName>Stateside</placeName>
+      </place>
+      <place xml:id="ttu_470_place_88">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_470_place_89">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_90">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_470_place_91">
+        <placeName>Mississippi</placeName>
+      </place>
+      <place xml:id="ttu_470_place_92">
+        <placeName>Alabama</placeName>
+      </place>
+      <place xml:id="ttu_470_place_93">
+        <placeName>Louisiana</placeName>
+      </place>
+      <place xml:id="ttu_470_place_94">
+        <placeName>Mississippi</placeName>
+      </place>
+      <place xml:id="ttu_470_place_95">
+        <placeName>Lubbock, Texas</placeName>
+      </place>
+      <place xml:id="ttu_470_place_96">
+        <placeName>Lubbock, Texas</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_470_event_0">
+        <desc>Korea</desc>
+      </event>
+      <event xml:id="ttu_470_event_1">
+        <desc>Guadalcanal</desc>
+      </event>
+      <event xml:id="ttu_470_event_2">
+        <desc>Korea</desc>
+      </event>
+      <event xml:id="ttu_470_event_3">
+        <desc>famous speech</desc>
+      </event>
+      <event xml:id="ttu_470_event_4">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_5">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_6">
+        <desc>special announcement</desc>
+      </event>
+      <event xml:id="ttu_470_event_7">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_470_event_8">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_470_event_9">
+        <desc>Silver Bayonet</desc>
+      </event>
+      <event xml:id="ttu_470_event_10">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_11">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_12">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_13">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_14">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_15">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_16">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_470_event_17">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_18">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_19">
+        <desc>battle</desc>
+      </event>
+      <event xml:id="ttu_470_event_20">
+        <desc>war</desc>
+      </event>
+      <event xml:id="ttu_470_event_21">
+        <desc>war</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_470_person_0">
+        <persName>Dr. Ron Milam</persName>
+      </person>
+      <person xml:id="ttu_470_person_1">
+        <persName>Martin Latigue</persName>
+      </person>
+      <person xml:id="ttu_470_person_2">
+        <persName>Latigue</persName>
+      </person>
+      <person xml:id="ttu_470_person_3">
+        <persName>Latigue</persName>
+      </person>
+      <person xml:id="ttu_470_person_4">
+        <persName>Martin</persName>
+      </person>
+      <person xml:id="ttu_470_person_5">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_6">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_7">
+        <persName>Bill Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_8">
+        <persName>Bill Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_9">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_10">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_11">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_12">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_13">
+        <persName>President Johnson</persName>
+      </person>
+      <person xml:id="ttu_470_person_14">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_15">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_16">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_17">
+        <persName>Bill Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_18">
+        <persName>Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_19">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_470_person_20">
+        <persName>Bill Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_21">
+        <persName>Frank</persName>
+      </person>
+      <person xml:id="ttu_470_person_22">
+        <persName>Joe</persName>
+      </person>
+      <person xml:id="ttu_470_person_23">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_24">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="ttu_470_person_25">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_26">
+        <persName>Bill Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_27">
+        <persName>Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_28">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_29">
+        <persName>Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_30">
+        <persName>Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_31">
+        <persName>Charlie Dashner</persName>
+      </person>
+      <person xml:id="ttu_470_person_32">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_33">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_34">
+        <persName>Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_35">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_470_person_36">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_37">
+        <persName>Jerry Smith</persName>
+      </person>
+      <person xml:id="ttu_470_person_38">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_39">
+        <persName>Charlie Dashner</persName>
+      </person>
+      <person xml:id="ttu_470_person_40">
+        <persName>Bill Franklin</persName>
+      </person>
+      <person xml:id="ttu_470_person_41">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_42">
+        <persName>Smith</persName>
+      </person>
+      <person xml:id="ttu_470_person_43">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_44">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_45">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_46">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_47">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_48">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_49">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_50">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_51">
+        <persName>Sergeant Freeman</persName>
+      </person>
+      <person xml:id="ttu_470_person_52">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_53">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_54">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_55">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_56">
+        <persName>Charlie</persName>
+      </person>
+      <person xml:id="ttu_470_person_57">
+        <persName>Martin</persName>
+      </person>
+      <person xml:id="ttu_470_person_58">
+        <persName>Martin</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_470_org_0">
+        <orgName>Texas Tech University</orgName>
+      </org>
+      <org xml:id="ttu_470_org_1">
+        <orgName>Vietnam Center</orgName>
+      </org>
+      <org xml:id="ttu_470_org_2">
+        <orgName>Charlie Company, 1st of the 7th Cav</orgName>
+      </org>
+      <org xml:id="ttu_470_org_3">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_470_org_4">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_470_org_5">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_470_org_6">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_470_org_7">
+        <orgName>2nd Division</orgName>
+      </org>
+      <org xml:id="ttu_470_org_8">
+        <orgName>11th Air Assault Division</orgName>
+      </org>
+      <org xml:id="ttu_470_org_9">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_470_org_10">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_470_org_11">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_470_org_12">
+        <orgName>82nd division</orgName>
+      </org>
+      <org xml:id="ttu_470_org_13">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_470_org_14">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_470_org_15">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_470_org_16">
+        <orgName>marine</orgName>
+      </org>
+      <org xml:id="ttu_470_org_17">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_470_org_18">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_470_org_19">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_470_org_20">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_470_org_21">
+        <orgName>United States Government</orgName>
+      </org>
+      <org xml:id="ttu_470_org_22">
+        <orgName>special forces</orgName>
+      </org>
+      <org xml:id="ttu_470_org_23">
+        <orgName>1st Calvary</orgName>
+      </org>
+      <org xml:id="ttu_470_org_24">
+        <orgName>USS Maurice Rose</orgName>
+      </org>
+      <org xml:id="ttu_470_org_25">
+        <orgName>Rose</orgName>
+      </org>
+      <org xml:id="ttu_470_org_26">
+        <orgName>82nd</orgName>
+      </org>
+      <org xml:id="ttu_470_org_27">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_470_org_28">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_470_org_29">
+        <orgName>Americans</orgName>
+      </org>
+      <org xml:id="ttu_470_org_30">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_470_org_31">
+        <orgName>VC (Viet Cong)</orgName>
+      </org>
+      <org xml:id="ttu_470_org_32">
+        <orgName>VC</orgName>
+      </org>
+      <org xml:id="ttu_470_org_33">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_470_org_34">
+        <orgName>red cross</orgName>
+      </org>
+      <org xml:id="ttu_470_org_35">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_470_org_36">
+        <orgName>1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_470_org_37">
+        <orgName>Vietnam Center</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
