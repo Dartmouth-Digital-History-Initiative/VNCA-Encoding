@@ -12,7 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
-       <idno type="DDHI">ttu_471</idno>
+        <idno type="DDHI">ttu_471</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
@@ -59,100 +59,100 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MILAM">My name is <persName>Dr. Ron Milam</persName> with <orgName>Texas Tech University</orgName>, <orgName>Vietnam Center</orgName>. Today I am interviewing <persName>Bob Loudermilk</persName>. <persName>Bob</persName>, I’d like to start by asking you to tell me what your MOS (Military Occupational Specialty) and responsibility was on <date when="1965-11-14">November 14th, 1965</date>.</u>
-      <u who="LOUDERMILK">My MOS was 1981, which is rotary-wing aviator assigned to <orgName>Delta Company, 229th Assault Helicopter Battalion of the 1st Cav Division</orgName>.</u>
+      <u who="MILAM">My name is <persName ref="#ttu_471_person_0">Dr. Ron Milam</persName> with <orgName ref="#ttu_471_org_0">Texas Tech University</orgName>, <orgName ref="#ttu_471_org_1">Vietnam Center</orgName>. Today I am interviewing <persName ref="#ttu_471_person_1">Bob Loudermilk</persName>. <persName ref="#ttu_471_person_2">Bob</persName>, I’d like to start by asking you to tell me what your MOS (Military Occupational Specialty) and responsibility was on <date when="1965-11-14">November 14th, 1965</date>.</u>
+      <u who="LOUDERMILK">My MOS was 1981, which is rotary-wing aviator assigned to <orgName ref="#ttu_471_org_2">Delta Company, 229th Assault Helicopter Battalion of the 1st Cav Division</orgName>.</u>
       <u who="MILAM">And your rank?</u>
       <u who="LOUDERMILK">I was a captain.</u>
       <u who="MILAM">You were a Captain. Where did you get your commission? From what commissioning source?</u>
-      <u who="LOUDERMILK">Commission source was <orgName>ROTC (Reserve Officer Training Corps)</orgName> <orgName>Marshall College</orgName>, in <date when="1958">1958</date>.</u>
+      <u who="LOUDERMILK">Commission source was <orgName ref="#ttu_471_org_3">ROTC (Reserve Officer Training Corps)</orgName> <orgName ref="#ttu_471_org_4">Marshall College</orgName>, in <date when="1958">1958</date>.</u>
       <u who="MILAM"><date when="1958">1958</date>. When did you become a helicopter pilot? What time—</u>
       <u who="LOUDERMILK">I went through fixed-wing transition first, in the qualification course. Then in <date when="1960-07">July of 1960</date>, I went to helicopter school.</u>
       <u who="MILAM"><date when="1960-07">July of ’60</date>?</u>
       <u who="LOUDERMILK">Yeah.</u>
-      <u who="MILAM">So you’d been flying helicopters for about four years, before the <orgName>11th Air Assault</orgName> was formed at <placeName>Benning</placeName>.</u>
+      <u who="MILAM">So you’d been flying helicopters for about four years, before the <orgName ref="#ttu_471_org_5">11th Air Assault</orgName> was formed at <placeName ref="#ttu_471_place_0">Benning</placeName>.</u>
       <u who="LOUDERMILK">That’s true.</u>
-      <u who="MILAM">When did you go to <placeName>Benning</placeName>?</u>
-      <u who="LOUDERMILK">I went to the <orgName>11th Air Assault</orgName> in <date when="1963">’63</date>.</u>
+      <u who="MILAM">When did you go to <placeName ref="#ttu_471_place_1">Benning</placeName>?</u>
+      <u who="LOUDERMILK">I went to the <orgName ref="#ttu_471_org_6">11th Air Assault</orgName> in <date when="1963">’63</date>.</u>
       <u who="MILAM"><date when="1963">1963</date>. So you were there from essentially the beginning, the experimentation with airmobile concept?</u>
       <u who="LOUDERMILK">I got there right after Air Assault One, if you’re familiar with that program. Air Assault One had been run—small version of the airmobile division was tested. The full division testing was Air Assault II, and I was there for the training up to and including that. Sometime after that it was finished.</u>
-      <u who="MILAM">Between <date when="1960">1960</date>, <date when="1960-07">July of ’60</date>, when you become a helicopter pilot and you’re going to <placeName>Benning</placeName>—you had flown, were you on flying duty that whole time?</u>
-      <u who="LOUDERMILK">Yes. I spent 14th months of that time in <placeName>Korea</placeName>.</u>
-      <u who="MILAM">In <placeName>Korea</placeName>.</u>
-      <u who="LOUDERMILK">Flying both fixed wing and rotary wing aircraft, then I spent about a year and a half at <placeName>Fort Devens, Massachusetts</placeName>. From there I went to helicopter school, from <placeName>Fort Devens</placeName>.</u>
-      <u who="MILAM">When you were in <placeName>Korea</placeName>, what were you flying? You said fixed wing and rotary. What rotary wing were you flying there?</u>
+      <u who="MILAM">Between <date when="1960">1960</date>, <date when="1960-07">July of ’60</date>, when you become a helicopter pilot and you’re going to <placeName ref="#ttu_471_place_2">Benning</placeName>—you had flown, were you on flying duty that whole time?</u>
+      <u who="LOUDERMILK">Yes. I spent 14th months of that time in <placeName ref="#ttu_471_place_3">Korea</placeName>.</u>
+      <u who="MILAM">In <placeName ref="#ttu_471_place_4">Korea</placeName>.</u>
+      <u who="LOUDERMILK">Flying both fixed wing and rotary wing aircraft, then I spent about a year and a half at <placeName ref="#ttu_471_place_5">Fort Devens, Massachusetts</placeName>. From there I went to helicopter school, from <placeName ref="#ttu_471_place_6">Fort Devens</placeName>.</u>
+      <u who="MILAM">When you were in <placeName ref="#ttu_471_place_7">Korea</placeName>, what were you flying? You said fixed wing and rotary. What rotary wing were you flying there?</u>
       <u who="LOUDERMILK">H-13.</u>
-      <u who="MILAM">H-13s. So, did you—when you went to <placeName>Benning</placeName>, did you immediately start flying the UH-1s?</u>
-      <u who="LOUDERMILK">No. When I went to <placeName>Benning</placeName>, I volunteered to fly Mohawks.</u>
+      <u who="MILAM">H-13s. So, did you—when you went to <placeName ref="#ttu_471_place_8">Benning</placeName>, did you immediately start flying the UH-1s?</u>
+      <u who="LOUDERMILK">No. When I went to <placeName ref="#ttu_471_place_9">Benning</placeName>, I volunteered to fly Mohawks.</u>
       <u who="MILAM">Mohawks.</u>
       <u who="LOUDERMILK">OV-1.</u>
       <u who="MILAM">Yeah.</u>
       <u who="LOUDERMILK">I spent two years, better than two years, flying an armed Mohawk in support of helicopter operations.</u>
       <u who="MILAM">I see. When did you first get in a UH-1?</u>
-      <u who="LOUDERMILK">First time I got in a UH-1 was in <placeName>Vietnam</placeName>.</u>
+      <u who="LOUDERMILK">First time I got in a UH-1 was in <placeName ref="#ttu_471_place_10">Vietnam</placeName>.</u>
       <u who="MILAM">Really?</u>
       <u who="LOUDERMILK">I got one hour and thirty-minute transition from my H-13 days to my UH-1 days and I was not only a Huey pilot, but I was also made aircraft commander at the same stroke.</u>
       <u who="MILAM">I see.</u>
       <u who="LOUDERMILK">We were in a hurt for people and qualified people, so we produced them pretty quickly over there.</u>
-      <u who="MILAM">Tell me a little about your training with the <orgName>11th Air Assault</orgName> once the airmobile concept was up and running. What did you do there?</u>
-      <u who="LOUDERMILK">I'm not sure the timing of this, but the notice came out that the <orgName>11th Air Assault</orgName> would be transitioning into the <orgName>1st Cav Division</orgName> with no other assignments at that time, but everyone kind of had a feeling what was going to happen. At the same time, they did away with the armed Mohawk. We had a surveillance company of Mohawks, same airframe, different capabilities electronically in the unit and they kept that. Made a platoon private.</u>
+      <u who="MILAM">Tell me a little about your training with the <orgName ref="#ttu_471_org_7">11th Air Assault</orgName> once the airmobile concept was up and running. What did you do there?</u>
+      <u who="LOUDERMILK">I'm not sure the timing of this, but the notice came out that the <orgName ref="#ttu_471_org_8">11th Air Assault</orgName> would be transitioning into the <orgName ref="#ttu_471_org_9">1st Cav Division</orgName> with no other assignments at that time, but everyone kind of had a feeling what was going to happen. At the same time, they did away with the armed Mohawk. We had a surveillance company of Mohawks, same airframe, different capabilities electronically in the unit and they kept that. Made a platoon private.</u>
       <u who="MILAM">Could you explain the Mohawk a little bit? Is this an observation—armed observation helicopter?</u>
       <u who="LOUDERMILK">This is a fixed wing airplane.</u>
       <u who="MILAM">I'm sorry, a fixed wing. Okay. But armed?</u>
       <u who="LOUDERMILK">Armed. The version that we used because of the assault support for the helicopters had to be armed. So they didn’t come out of the factory that way, but they were remanufactured and pods hung on the wings and gun sights placed in front of the pilot, and all the switches and associated things that went with it.</u>
-      <u who="MILAM">So your role in training at <placeName>Benning</placeName> with what becomes the <orgName>1st Air Cav</orgName> was different than the role you would be with them in combat?</u>
+      <u who="MILAM">So your role in training at <placeName ref="#ttu_471_place_11">Benning</placeName> with what becomes the <orgName ref="#ttu_471_org_10">1st Air Cav</orgName> was different than the role you would be with them in combat?</u>
       <u who="LOUDERMILK">It was different, and it was the same. Different because I was flying a completely different aircraft in a completely different environment. When we flew Mohawks, the fleet of helicopters would fly by and we would escort them by flying around them. We were so much faster than they were that we couldn’t just slow down and fly beside them. So we would fly around them in a wagon wheel type support in route to the objective and as they began to slow for the assault, we would go ahead of them and fire into the designated landing areas on both sides, front and back and try to keep down the heads of anybody that might be in there.</u>
       <u who="MILAM">Did you ever do that in combat?</u>
       <u who="LOUDERMILK">In the helicopter, yes.</u>
       <u who="MILAM">I mean in the Mohawk?</u>
       <u who="LOUDERMILK">In the Mohawk, no.</u>
-      <u who="MILAM">Did the <orgName>army</orgName> ever do that in the Mohawk?</u>
-      <u who="LOUDERMILK">The <orgName>army</orgName> used the iron Mohawk from way of <placeName>Phu Bai</placeName>, in an out of country mission that I was not privy to know what it was. I was not in the unit, so I wasn’t privy to know.</u>
-      <u who="MILAM">I'm learning something from this interview, I mean not that I don’t learn something from every interview, but I was not familiar with that concept. In <placeName>Vietnam</placeName>, in the beginning days with <name type="event">Ia Drang</name> being one of those beginning times, the gunships, as I understand it were essentially Hueys and the Cobra comes in later. But it was Huey gunships here in the beginning. Did they fly? Was that the role the that the gunships flew in escort?</u>
+      <u who="MILAM">Did the <orgName ref="#ttu_471_org_11">army</orgName> ever do that in the Mohawk?</u>
+      <u who="LOUDERMILK">The <orgName ref="#ttu_471_org_12">army</orgName> used the iron Mohawk from way of <placeName ref="#ttu_471_place_12">Phu Bai</placeName>, in an out of country mission that I was not privy to know what it was. I was not in the unit, so I wasn’t privy to know.</u>
+      <u who="MILAM">I'm learning something from this interview, I mean not that I don’t learn something from every interview, but I was not familiar with that concept. In <placeName ref="#ttu_471_place_13">Vietnam</placeName>, in the beginning days with <name type="event" ref="#ttu_471_event_0">Ia Drang</name> being one of those beginning times, the gunships, as I understand it were essentially Hueys and the Cobra comes in later. But it was Huey gunships here in the beginning. Did they fly? Was that the role the that the gunships flew in escort?</u>
       <u who="LOUDERMILK">I flew the B Models and later what they called the C Model 540. It had a stiffer rotor system and different engines, basically the same airframe. The B Model was a little slower than the Delta Model UH-1, that was the troop-carrying aircraft. We were slower because we just didn’t have the engine power and we didn’t have the rotor size; our rotor was shorter and not as wide spanwise as theirs. Also, we were loaded to the hilt when we took off the ground. We were at max gross weight every time we took off. When you put fuel in it, four souls, pilot, crew-chief, gunner, and co-pilot and then put ammunition and the armament kit that hung on the sides of the helicopters, which were pneumatic and hydraulic and electric and all the things that went with that, and all the ammunition for both rockets and machine guns. Many times, to get those aircraft out of the revetments where they were parked, they were parked between sandbag revetments to protect them from mortar fire in the evenings and all. To get them out of there, the crew-chief and gunner had to get out. We picked the airplane up and hover it back and slowly turn it in the direction we were going to take off and lightly touch the skids to the ground enough for the crew-chief and the gunner to hop on and then just like eggshells, get that airplane off the ground. Especially on real hot days or high altitudes, it was just loaded, and it was loaded to the max gross weight of the aircraft. The UH-1Ds were a little more powerful, they didn’t always have—although a lot of times they were loaded too, but not always did they have a full load of troops on. Maybe they only had half a load of fuel because of the amount of troops that they had. But anyway, they were faster than we were. But we could—or they would allow us to keep up with them in flight. There wasn’t any ringing around the formation, no way. (Chuckles) That’s up for Cobras to do maybe, but not us. We sat right out here on their wing. The whole formation being stacked back here as they went. We sat out right here, and when they started to slow down, we wouldn’t go any faster, we were going as fast as we could go then. But when they slowed down their relative speed, put us ahead of them, going into the LZ (Landing Zone). </u>
-      <u who="MILAM">When did you get notified, that you were going to <placeName>Vietnam</placeName>?</u>
-      <u who="LOUDERMILK">When <persName>President Johnson</persName> came to <placeName>Fort Benning</placeName> and made his <name type="event">stadium speech</name>. That day he had notified the <orgName>1st Cav Division</orgName> that they were going to southeast Asia.</u>
+      <u who="MILAM">When did you get notified, that you were going to <placeName ref="#ttu_471_place_14">Vietnam</placeName>?</u>
+      <u who="LOUDERMILK">When <persName ref="#ttu_471_person_3">President Johnson</persName> came to <placeName ref="#ttu_471_place_15">Fort Benning</placeName> and made his <name type="event" ref="#ttu_471_event_1">stadium speech</name>. That day he had notified the <orgName ref="#ttu_471_org_13">1st Cav Division</orgName> that they were going to southeast Asia.</u>
       <u who="MILAM">You already had orders with the unit, you knew what you were doing in the unit and it was just a matter of when you left?</u>
-      <u who="LOUDERMILK">Actually, at that time I was assigned to the remaining platoon of the surveillance Mohawks, as a fixed wing aviator and I was going to go with what’s called the ASTA (Aerial Surveillance and Target Acquisition) platoon of the <orgName>Cav</orgName>, part of the <orgName>11th General Support Aviation Company</orgName> and go to <placeName>Vietnam</placeName> in the <orgName>1st Cav</orgName> as a Mohawk driver.</u>
-      <u who="MILAM">That’s what you were on? So when they said the <orgName>1st Air Cav</orgName> was being sent to <placeName>‘Nam</placeName>, you knew you were going in the role of being a Mohawk pilot.</u>
+      <u who="LOUDERMILK">Actually, at that time I was assigned to the remaining platoon of the surveillance Mohawks, as a fixed wing aviator and I was going to go with what’s called the ASTA (Aerial Surveillance and Target Acquisition) platoon of the <orgName ref="#ttu_471_org_14">Cav</orgName>, part of the <orgName ref="#ttu_471_org_15">11th General Support Aviation Company</orgName> and go to <placeName ref="#ttu_471_place_16">Vietnam</placeName> in the <orgName ref="#ttu_471_org_16">1st Cav</orgName> as a Mohawk driver.</u>
+      <u who="MILAM">That’s what you were on? So when they said the <orgName ref="#ttu_471_org_17">1st Air Cav</orgName> was being sent to <placeName ref="#ttu_471_place_17">‘Nam</placeName>, you knew you were going in the role of being a Mohawk pilot.</u>
       <u who="LOUDERMILK">That’s right.</u>
-      <u who="MILAM">How did they take the Mohawks to <placeName>Vietnam</placeName>? Did they take them on the ships?</u>
+      <u who="MILAM">How did they take the Mohawks to <placeName ref="#ttu_471_place_18">Vietnam</placeName>? Did they take them on the ships?</u>
       <u who="LOUDERMILK">They went on ships, on carriers.</u>
       <u who="MILAM">Just like the choppers and everything?</u>
-      <u who="LOUDERMILK">They went through the <placeName>Suez Canal</placeName>, on the <orgName>Boxer</orgName>. </u>
+      <u who="LOUDERMILK">They went through the <placeName ref="#ttu_471_place_19">Suez Canal</placeName>, on the <orgName ref="#ttu_471_org_18">Boxer</orgName>. </u>
       <u who="MILAM">How about you? How’d you go?</u>
-      <u who="LOUDERMILK">(Chuckles) I went on the <orgName>Darby</orgName>, out of <placeName>Charleston, South Carolina</placeName>.</u>
+      <u who="LOUDERMILK">(Chuckles) I went on the <orgName ref="#ttu_471_org_19">Darby</orgName>, out of <placeName ref="#ttu_471_place_20">Charleston, South Carolina</placeName>.</u>
       <u who="MILAM">You’re planning on getting there and jumping into your Mohawk?</u>
-      <u who="LOUDERMILK">Well, I planned on going over on the <orgName>Boxer</orgName>. However, after I loaded all of my equipment, the <orgName>1st Cav</orgName>’s ASTA Platoon, all of my personal gear in there CONEX container that was going to be shipped with the platoon, they decided that they were short helicopter pilots, so that anyone filling a fixed-wing job that had a helicopter MOS would henceforth become a helicopter pilot only and to find themselves a helicopter job in the <orgName>1st Cav</orgName>.</u>
+      <u who="LOUDERMILK">Well, I planned on going over on the <orgName ref="#ttu_471_org_20">Boxer</orgName>. However, after I loaded all of my equipment, the <orgName ref="#ttu_471_org_21">1st Cav</orgName>’s ASTA Platoon, all of my personal gear in there CONEX container that was going to be shipped with the platoon, they decided that they were short helicopter pilots, so that anyone filling a fixed-wing job that had a helicopter MOS would henceforth become a helicopter pilot only and to find themselves a helicopter job in the <orgName ref="#ttu_471_org_22">1st Cav</orgName>.</u>
       <u who="MILAM">Go find yourself? Or they’ll find it for you?</u>
       <u who="LOUDERMILK">No, you find it yourself. I'm sure they would’ve found something for you, but the best deal was to go find the job you wanted, rather than to have them tell you where to go which is always better.</u>
-      <u who="MILAM">If the Mohawks—and the Mohawks ended up going to <placeName>Vietnam</placeName>, the planes themselves.</u>
+      <u who="MILAM">If the Mohawks—and the Mohawks ended up going to <placeName ref="#ttu_471_place_21">Vietnam</placeName>, the planes themselves.</u>
       <u who="LOUDERMILK">Oh yes, sure.</u>
       <u who="MILAM">What percentage of fixed-wing pilots, that you knew, were also rotary qualified?</u>
-      <u who="LOUDERMILK">Probably sixty percent, maybe more. At that time for an officer to get into aviation program, you went through fixed-wing training first. That’s just the way you did it in the army. In <date when="1958">’58</date>, <date when="1959">’59</date>, when I went to school, the ponderance of the army aircraft were small, light, fixed-wing airplanes. Helicopters were coming but H-13 type coming, not anything real big except maybe H-21s and H-19s. That changed when the warrant officer program took off. They all went to helicopter school first. We never got many warrant officers in the Mohawks. Most of the ones we had were commissioned officers, so they were I think almost eighty, ninety percent of those were dual rated. But some of the ones that we had assigned had been to <placeName>Vietnam</placeName> before and were exempt from going back because of the policy by the <orgName>army</orgName> at that time, so they brought the pilots from <placeName>Vietnam</placeName> that had been there originally in <date when="1963">’63</date> and <date when="1964">’64</date>, back to <placeName>Fort Benning</placeName>, to fly in the <orgName>11th Air Assault</orgName> because of their expertise in combat operations. As soon as the gong went up to go to <placeName>Vietnam</placeName>, those pilots were all exempted from going back to <placeName>Vietnam</placeName>, so they had to fill cockpits.</u>
-      <u who="MILAM">And those pilots in <placeName>Vietnam</placeName>, supporting mostly the <orgName>US</orgName> advisory effort period <date when="1962">’62</date>, <date when="1963">’63</date>, and <date when="1964">’64</date>, were they flying Hueys?</u>
-      <u who="LOUDERMILK">Some flew Hueys. Some flew H-21s. There was a mix of aircraft in country, as units that did most of the support of the <orgName>ARVN (Army of the Republic of Vietnam)</orgName> troops. We didn’t have any <orgName>US</orgName> troops over there then at the time, in big numbers anyway.</u>
+      <u who="LOUDERMILK">Probably sixty percent, maybe more. At that time for an officer to get into aviation program, you went through fixed-wing training first. That’s just the way you did it in the army. In <date when="1958">’58</date>, <date when="1959">’59</date>, when I went to school, the ponderance of the army aircraft were small, light, fixed-wing airplanes. Helicopters were coming but H-13 type coming, not anything real big except maybe H-21s and H-19s. That changed when the warrant officer program took off. They all went to helicopter school first. We never got many warrant officers in the Mohawks. Most of the ones we had were commissioned officers, so they were I think almost eighty, ninety percent of those were dual rated. But some of the ones that we had assigned had been to <placeName ref="#ttu_471_place_22">Vietnam</placeName> before and were exempt from going back because of the policy by the <orgName ref="#ttu_471_org_23">army</orgName> at that time, so they brought the pilots from <placeName ref="#ttu_471_place_23">Vietnam</placeName> that had been there originally in <date when="1963">’63</date> and <date when="1964">’64</date>, back to <placeName ref="#ttu_471_place_24">Fort Benning</placeName>, to fly in the <orgName ref="#ttu_471_org_24">11th Air Assault</orgName> because of their expertise in combat operations. As soon as the gong went up to go to <placeName ref="#ttu_471_place_25">Vietnam</placeName>, those pilots were all exempted from going back to <placeName ref="#ttu_471_place_26">Vietnam</placeName>, so they had to fill cockpits.</u>
+      <u who="MILAM">And those pilots in <placeName ref="#ttu_471_place_27">Vietnam</placeName>, supporting mostly the <orgName ref="#ttu_471_org_25">US</orgName> advisory effort period <date when="1962">’62</date>, <date when="1963">’63</date>, and <date when="1964">’64</date>, were they flying Hueys?</u>
+      <u who="LOUDERMILK">Some flew Hueys. Some flew H-21s. There was a mix of aircraft in country, as units that did most of the support of the <orgName ref="#ttu_471_org_26">ARVN (Army of the Republic of Vietnam)</orgName> troops. We didn’t have any <orgName ref="#ttu_471_org_27">US</orgName> troops over there then at the time, in big numbers anyway.</u>
       <u who="MILAM">Right. So—</u>
-      <u who="LOUDERMILK">In my company, for instance <orgName>Delta 229</orgName>, as we landed to shore in <placeName>Qui Nhon</placeName>, from the <orgName>Darby</orgName>, to my recollection, there was one member of that company as a commissioned officer trained helicopter driver, that had trained with the <orgName>11th Air Assault Division</orgName>.</u>
+      <u who="LOUDERMILK">In my company, for instance <orgName ref="#ttu_471_org_28">Delta 229</orgName>, as we landed to shore in <placeName ref="#ttu_471_place_28">Qui Nhon</placeName>, from the <orgName ref="#ttu_471_org_29">Darby</orgName>, to my recollection, there was one member of that company as a commissioned officer trained helicopter driver, that had trained with the <orgName ref="#ttu_471_org_30">11th Air Assault Division</orgName>.</u>
       <u who="MILAM">Only one?</u>
       <u who="LOUDERMILK">In rotary-wing airplanes. We had five of us that had been Mohawk drivers that were in my company.</u>
       <u who="MILAM">I see, my goodness.</u>
       <u who="LOUDERMILK">The rest of them came from all over the world, some Huey qualified, some not.</u>
-      <u who="MILAM">So the training that the infantry soldiers got at <placeName>Benning</placeName>, to learn how to get in and out, do all those things, most of that was with pilots who would not then accompany them into combat.</u>
+      <u who="MILAM">So the training that the infantry soldiers got at <placeName ref="#ttu_471_place_29">Benning</placeName>, to learn how to get in and out, do all those things, most of that was with pilots who would not then accompany them into combat.</u>
       <u who="LOUDERMILK">In most cases, that’s true.</u>
       <u who="MILAM">Interesting.</u>
-      <u who="LOUDERMILK">The <orgName>11th Air Assault</orgName>, in my understanding was that the helicopters were being flown with a pilot and a crew-chief sitting in the co-pilot seat. No gunner and crew-chief in the back with weapons because there wasn’t anything to for them to fire at, it was a training exercise. Only later when they got to <placeName>Vietnam</placeName>, were they armed with M60s and placed in the back. The gunners actually came to us from the infantry.</u>
+      <u who="LOUDERMILK">The <orgName ref="#ttu_471_org_31">11th Air Assault</orgName>, in my understanding was that the helicopters were being flown with a pilot and a crew-chief sitting in the co-pilot seat. No gunner and crew-chief in the back with weapons because there wasn’t anything to for them to fire at, it was a training exercise. Only later when they got to <placeName ref="#ttu_471_place_30">Vietnam</placeName>, were they armed with M60s and placed in the back. The gunners actually came to us from the infantry.</u>
       <u who="MILAM">Right, there was no gunner MOS at the beginning, as I understand it. </u>
       <u who="LOUDERMILK">No.</u>
-      <u who="MILAM">Okay, let’s talk about—you come into <placeName>Qui Nhon</placeName> and you know you’re going to be a chopper pilot and then you transfer to <placeName>An Khe</placeName> and we build this base at <placeName>An Khe</placeName>. When do you start flying for real in these Hueys? Right away?</u>
-      <u who="LOUDERMILK">No, about two weeks after we got there. The main reason was that I spent one night at <placeName>An Khe</placeName>, in a pup-tent like everybody else did, shifting sandbags from one side of the pup-tent to the other side because that’s where the sniper was supposed to have been, now he’s on this side, so we put the sandbags over here. The next day the company commander detailed me to go back to <placeName>Qui Nhon</placeName> to pick up all of our company equipment that was being offloaded from the ships, and get it all together and he would send people by truck or helicopter back there to <placeName>Qui Nhon</placeName> and then they would bring the equipment back to <placeName>An Khe</placeName>. We had nothing. We had what we carried over there and that was the company. So all of our mess equipment, all of the company administrative equipment, trucks, vehicles, water tankers, all that stuff was still on the ships. So I became the go-getter for that type of equipment and all of the vehicles were identified by plaques that they put on there, of what unit they belonged to, so that supposedly you could get your own unit vehicles when they got off the ship.</u>
+      <u who="MILAM">Okay, let’s talk about—you come into <placeName ref="#ttu_471_place_31">Qui Nhon</placeName> and you know you’re going to be a chopper pilot and then you transfer to <placeName ref="#ttu_471_place_32">An Khe</placeName> and we build this base at <placeName ref="#ttu_471_place_33">An Khe</placeName>. When do you start flying for real in these Hueys? Right away?</u>
+      <u who="LOUDERMILK">No, about two weeks after we got there. The main reason was that I spent one night at <placeName ref="#ttu_471_place_34">An Khe</placeName>, in a pup-tent like everybody else did, shifting sandbags from one side of the pup-tent to the other side because that’s where the sniper was supposed to have been, now he’s on this side, so we put the sandbags over here. The next day the company commander detailed me to go back to <placeName ref="#ttu_471_place_35">Qui Nhon</placeName> to pick up all of our company equipment that was being offloaded from the ships, and get it all together and he would send people by truck or helicopter back there to <placeName ref="#ttu_471_place_36">Qui Nhon</placeName> and then they would bring the equipment back to <placeName ref="#ttu_471_place_37">An Khe</placeName>. We had nothing. We had what we carried over there and that was the company. So all of our mess equipment, all of the company administrative equipment, trucks, vehicles, water tankers, all that stuff was still on the ships. So I became the go-getter for that type of equipment and all of the vehicles were identified by plaques that they put on there, of what unit they belonged to, so that supposedly you could get your own unit vehicles when they got off the ship.</u>
       <u who="MILAM">When you started training on the Hueys, since you had limited experience, you flew solo for a while? I mean, no troops obviously, you got out and learned to fly that thing?</u>
       <u who="LOUDERMILK">No, I went out with the instructor pilot in the Huey, UH-1B for my training flight. It consisted of an hour and a half. We did all the basic stuff. He gave me credit for a lot of knowledge I'm not sure I had.</u>
       <u who="MILAM">(Laughs)</u>
       <u who="LOUDERMILK">But anyway, at the end of that period I asked him, “What was the difference between this helicopter that we just flew, and a fully on, ready to go helicopter on a mission.” He said, “The one difference is we took the machine gun barrels out for this flight, but the flight that you go on next, we’ll put the machine gun barrels in that same aircraft and that’s the one you fly on in the first mission.” So I had a fully loaded, fully armed flyable, viable gunship to train in for an hour and a half and then it was mine.</u>
-      <u who="MILAM">Before <date when="1965-11-14">November 14th, 1965</date>, there were a few other operations I understand. One called “<name type="event">Silver Bayonet</name>”; I believe over in <placeName>Happy Valley</placeName>. Did you participate in that?</u>
+      <u who="MILAM">Before <date when="1965-11-14">November 14th, 1965</date>, there were a few other operations I understand. One called “<name type="event" ref="#ttu_471_event_2">Silver Bayonet</name>”; I believe over in <placeName ref="#ttu_471_place_38">Happy Valley</placeName>. Did you participate in that?</u>
       <u who="LOUDERMILK">Yes.</u>
-      <u who="MILAM">And you were flying guns? The gunship? (Editor’s Note: Interviewee nods head) From an infantry standpoint, I understand they had relatively low incidents of contact on the ground. As a gunner, did you have—were you shot at on “<name type="event">Silver Bayonet</name>”?</u>
-      <u who="LOUDERMILK">Yes, we lost one helicopter to enemy fire near an LZ. On the first or second day of the work over by <placeName>Happy Valley</placeName>.</u>
+      <u who="MILAM">And you were flying guns? The gunship? (Editor’s Note: Interviewee nods head) From an infantry standpoint, I understand they had relatively low incidents of contact on the ground. As a gunner, did you have—were you shot at on “<name type="event" ref="#ttu_471_event_3">Silver Bayonet</name>”?</u>
+      <u who="LOUDERMILK">Yes, we lost one helicopter to enemy fire near an LZ. On the first or second day of the work over by <placeName ref="#ttu_471_place_39">Happy Valley</placeName>.</u>
       <u who="MILAM">I see.</u>
       <u who="LOUDERMILK">That—they didn’t make a mistake; they had the inopportune chance to fly right over a machine gun that was sitting there waiting for them.</u>
       <u who="MILAM">.50 cal? Or—</u>
@@ -161,44 +161,44 @@
       <u who="LOUDERMILK">It wasn’t an AK-47. One round came up and shot the co-pilot’s pedals off during this raking of a helicopter and shot out the field control, the helicopter was uncontrollable as far as flying is concerned so they hit hard and the co-pilot was cut up in the face, got out and came back to us as a viable pilot. The pilot was hurt, back was hurt substantially. He was medevac’d and we didn’t see him again. </u>
       <u who="MILAM">I see.</u>
       <u who="LOUDERMILK">I have seen him since, he’s still doing fine but he’s crippled.</u>
-      <u who="MILAM">I see. Was that the most significant operation that you were involved before <name type="event">Ia Drang</name>?</u>
+      <u who="MILAM">I see. Was that the most significant operation that you were involved before <name type="event" ref="#ttu_471_event_4">Ia Drang</name>?</u>
       <u who="LOUDERMILK">That was it. That was where we found the most action. We went into a lot of scenarios where we were looking for something to get into, but each one came up pretty much dry.</u>
       <u who="MILAM">Let me understand a little bit—as an old infantry solider, I know how valuable gun support is, but I don’t know enough about what it was like back in <date when="1965">1965</date> when it’s kind of in its infancy. You were going to support the introduction of slicks into an LZ. You were going to support it in terms of security.</u>
       <u who="LOUDERMILK">Yes.</u>
       <u who="MILAM">Were you also tasked with responsibility for supplying close end gun support to troops on the ground, at their call?</u>
       <u who="LOUDERMILK">Emergency only.</u>
       <u who="MILAM">Emergency only, okay.</u>
-      <u who="LOUDERMILK">Even during <name type="event">LZ X-Ray</name>, we were never tasked to deliver fire in direct support of the engagement.</u>
+      <u who="LOUDERMILK">Even during <name type="event" ref="#ttu_471_event_5">LZ X-Ray</name>, we were never tasked to deliver fire in direct support of the engagement.</u>
       <u who="MILAM">Right.</u>
       <u who="LOUDERMILK">Helicopters that did that were ARA, aerial rocket artillery. They weren’t called, they had a forward observer who would direct their fire. We had no one except a very excited company clerk on the phone, down on the mic down there or the battalion commander maybe, but someone who is imminently involved in getting orders and actions taken care of, that would be trying to tell us where we could fire and where we couldn’t fire.</u>
       <u who="MILAM">Sure, sure.</u>
       <u who="LOUDERMILK">We were trained in air deliver of weapons, but not in support of our own troops on the ground.</u>
       <u who="MILAM">Right, tactical errors—</u>
       <u who="LOUDERMILK">Because we didn’t know where they were. </u>
-      <u who="MILAM">Tactical errors support, as I understand it studying the history of the <name type="event">war</name>, comes later when the Cobra gunships are put in where troops can pop smoke and direct it and essentially talk to the chopper pilots from the ground, but not in these earlier days.</u>
-      <u who="LOUDERMILK">Well, the popping smoke was another problem because sometimes the <orgName>Vietnamese</orgName> would monitor the broadcast and they say, “Pop red smoke” and we’ll fire twenty-five meters in front of it. Well, the <orgName>Vietnamese</orgName> would throw the <orgName>North Vietnamese</orgName>, or the <orgName>Viet Cong</orgName> would have smoke from wherever they got it, they’d pop it so the guy would say, “Well, I guess it’s here.” And we have—it had actually happened the ARA, in one instance that I'm aware of, fired on our own troops because someone popped the wrong smoke or identified the wrong smoke. So that was not a good way to—</u>
+      <u who="MILAM">Tactical errors support, as I understand it studying the history of the <name type="event" ref="#ttu_471_event_6">war</name>, comes later when the Cobra gunships are put in where troops can pop smoke and direct it and essentially talk to the chopper pilots from the ground, but not in these earlier days.</u>
+      <u who="LOUDERMILK">Well, the popping smoke was another problem because sometimes the <orgName ref="#ttu_471_org_32">Vietnamese</orgName> would monitor the broadcast and they say, “Pop red smoke” and we’ll fire twenty-five meters in front of it. Well, the <orgName ref="#ttu_471_org_33">Vietnamese</orgName> would throw the <orgName ref="#ttu_471_org_34">North Vietnamese</orgName>, or the <orgName ref="#ttu_471_org_35">Viet Cong</orgName> would have smoke from wherever they got it, they’d pop it so the guy would say, “Well, I guess it’s here.” And we have—it had actually happened the ARA, in one instance that I'm aware of, fired on our own troops because someone popped the wrong smoke or identified the wrong smoke. So that was not a good way to—</u>
       <u who="MILAM">Right. It became a matter of smoke out, please identify, and you’d carry three or four colors.</u>
       <u who="LOUDERMILK">That’s right. The direction in front of that smoke- if he’s coming from a different direction, say to my front and he doesn’t know where your front is, it’s hard to tell where those rounds are going to end up and you don’t want to be on that receiving end of your own fire.</u>
-      <u who="MILAM">This is very interesting because this is the guns—I’ve always personally wondered how the gun support worked at <name type="event">Ia Drang</name> and I think I’m about and find out. Okay, let’s talk about your role on the <date when="1965-11-14">14th, November 14th</date>. When did you get the order to move out? And in what order were you going to be in support that morning?</u>
-      <u who="LOUDERMILK">Prior to the <date when="1965-11-14">14th</date>, we had made several different forays relative to that area in the <placeName>Pleiku</placeName>, <placeName>Plei Me</placeName> area. I believe, in my recollection it was after the <name type="event">Plei Me siege</name>, where the camp was under siege and they set up an ambush for the relief forces coming down the road, the <orgName>Vietnamese</orgName>. The <orgName>North Vietnamese</orgName> set up for them. The camp was really a ruse to get them down there. They set up an ambush on the road, so they wanted to kill a lot of them in the main forest and they did. That’s when the cav, I believe, started looking in that area. They knew they had some large forces in that area, they did not know where. We started leap frogging from <placeName>An Khe</placeName>, we went to <placeName>Pleiku</placeName>, <placeName>Holloway</placeName>, <placeName>Holloway Field</placeName> and set up a sort of base camp there with our tents. Then we set up a refueling point, an arming point at a place called <placeName>Plantation</placeName>, which is farther to the west, getting over to no-man’s land. As a big—it was a <placeName>Plantation</placeName> because it was a little air strip that supported a <orgName>Michelin</orgName> rubber plantation and we encamped right beside the rubber trees, so we knew what it was. That was a fairly large forward base. From there, after <placeName>Plei Me</placeName> was secured, we moved the refueling and rearming point to <placeName>Plei Me</placeName>, the little triangular camp right down near the border. From there, we would go in and logger there, sit on the ground there for a while until everybody got ready to go. Then, when the troops were ready, either the troops came out of <placeName>Plei Me</placeName> or they came from <placeName>Pleiku</placeName>—I'm not sure then because that was the slicks, and we weren’t involved in that particular administrative part of the move, but as soon as we left from <placeName>Plei Me</placeName>, joined the flight—</u>
+      <u who="MILAM">This is very interesting because this is the guns—I’ve always personally wondered how the gun support worked at <name type="event" ref="#ttu_471_event_7">Ia Drang</name> and I think I’m about and find out. Okay, let’s talk about your role on the <date when="1965-11-14">14th, November 14th</date>. When did you get the order to move out? And in what order were you going to be in support that morning?</u>
+      <u who="LOUDERMILK">Prior to the <date when="1965-11-14">14th</date>, we had made several different forays relative to that area in the <placeName ref="#ttu_471_place_40">Pleiku</placeName>, <placeName ref="#ttu_471_place_41">Plei Me</placeName> area. I believe, in my recollection it was after the <name type="event" ref="#ttu_471_event_8">Plei Me siege</name>, where the camp was under siege and they set up an ambush for the relief forces coming down the road, the <orgName ref="#ttu_471_org_36">Vietnamese</orgName>. The <orgName ref="#ttu_471_org_37">North Vietnamese</orgName> set up for them. The camp was really a ruse to get them down there. They set up an ambush on the road, so they wanted to kill a lot of them in the main forest and they did. That’s when the cav, I believe, started looking in that area. They knew they had some large forces in that area, they did not know where. We started leap frogging from <placeName ref="#ttu_471_place_42">An Khe</placeName>, we went to <placeName ref="#ttu_471_place_43">Pleiku</placeName>, <placeName ref="#ttu_471_place_44">Holloway</placeName>, <placeName ref="#ttu_471_place_45">Holloway Field</placeName> and set up a sort of base camp there with our tents. Then we set up a refueling point, an arming point at a place called <placeName ref="#ttu_471_place_46">Plantation</placeName>, which is farther to the west, getting over to no-man’s land. As a big—it was a <placeName ref="#ttu_471_place_47">Plantation</placeName> because it was a little air strip that supported a <orgName ref="#ttu_471_org_38">Michelin</orgName> rubber plantation and we encamped right beside the rubber trees, so we knew what it was. That was a fairly large forward base. From there, after <placeName ref="#ttu_471_place_48">Plei Me</placeName> was secured, we moved the refueling and rearming point to <placeName ref="#ttu_471_place_49">Plei Me</placeName>, the little triangular camp right down near the border. From there, we would go in and logger there, sit on the ground there for a while until everybody got ready to go. Then, when the troops were ready, either the troops came out of <placeName ref="#ttu_471_place_50">Plei Me</placeName> or they came from <placeName ref="#ttu_471_place_51">Pleiku</placeName>—I'm not sure then because that was the slicks, and we weren’t involved in that particular administrative part of the move, but as soon as we left from <placeName ref="#ttu_471_place_52">Plei Me</placeName>, joined the flight—</u>
       <u who="MILAM">In air? When troops are coming out, you come in with them?</u>
-      <u who="LOUDERMILK">In the air, as well as I can remember, we joined them in the air. We had our radios on and when they were coming, we took off our flight of four—two from each two sections, one on one side of the formation, one on the side and it was a fairly large formation, maybe twelve, I forgot the exact number. I'm sure our aviation historians can bring me up to date, but I'm not aware of it. But anyway, however many it was, it was a good size fleet. We had four gunships, usually we’d only use two maybe on a small flight, but this time we had four. We escorted them out until they started descending, in which they started slowing down and then we were able to go ahead of them. We were fortunate because that was the only <placeName>LZ</placeName> in my twelve o’clock position. It was right at the base of this big hill, I'm from <placeName>West Virginia</placeName> so it was just a hill, not a mastiff, but it’s called a massif.</u>
-      <u who="MILAM"><placeName>Chu Pong</placeName>?</u>
-      <u who="LOUDERMILK"><placeName>Chu Pong</placeName>.</u>
+      <u who="LOUDERMILK">In the air, as well as I can remember, we joined them in the air. We had our radios on and when they were coming, we took off our flight of four—two from each two sections, one on one side of the formation, one on the side and it was a fairly large formation, maybe twelve, I forgot the exact number. I'm sure our aviation historians can bring me up to date, but I'm not aware of it. But anyway, however many it was, it was a good size fleet. We had four gunships, usually we’d only use two maybe on a small flight, but this time we had four. We escorted them out until they started descending, in which they started slowing down and then we were able to go ahead of them. We were fortunate because that was the only <placeName ref="#ttu_471_place_53">LZ</placeName> in my twelve o’clock position. It was right at the base of this big hill, I'm from <placeName ref="#ttu_471_place_54">West Virginia</placeName> so it was just a hill, not a mastiff, but it’s called a massif.</u>
+      <u who="MILAM"><placeName ref="#ttu_471_place_55">Chu Pong</placeName>?</u>
+      <u who="LOUDERMILK"><placeName ref="#ttu_471_place_56">Chu Pong</placeName>.</u>
       <u who="MILAM">Yes.</u>
       <u who="LOUDERMILK">And it went all the way back into the dividing between the two countries. Anyway, it was the only area that looked suitable to me for a landing, so—a lot of times you did recon where you’re going to do it. You go on a set of map coordinates, and the maps weren’t all that great either. The flight leader of the slicks said, “My twelve o’clock, thousand meters, do you see it? Do you see it? Do you see it? Okay, you got it.” So we go ahead of them and fire. ARA had gotten there before us, as the armed helicopters. They had already had the coordinates, so they fired, so we could see where they were firing and then it was a piece of cake for us to find it after they had already found it for us.</u>
-      <u who="MILAM">They’re lighting up the <placeName>LZ</placeName> or just beyond it?</u>
+      <u who="MILAM">They’re lighting up the <placeName ref="#ttu_471_place_57">LZ</placeName> or just beyond it?</u>
       <u who="LOUDERMILK">As far as I know, what I saw anyway, a rocket is an area munition. It is not a directly fire like they have now, that go down and find people some place and go in it. When you fire a rocket, you just say goodbye to it because it goes out and when you see it go out, it does this kind of thing. (Editor’s note: Interviewee expresses with hand gestures.) So it’s an area weapon, when you fire two of them, one could hit over here, and one can hit over here.</u>
       <u who="MILAM">Is it HE (High Explosive) or is it “Willie Pete”?</u>
       <u who="LOUDERMILK">Depending on the head that you roll onto it when you—</u>
       <u who="MILAM">What were they using, do you know?</u>
       <u who="LOUDERMILK">Some of them had—most of them were just HE. Later, we got some heads that had an extend fuse on the front of them, had a tip extender that stuck out this far. When they hit, they went off and spread it all laterally, shrapnel, but the ones we had initially were just the rounded bullet like heads and when they hit, I'm sure they penetrated and made a big hole and blasted anything that was there. You could be maybe fifteen yards from it, and you’d get an earache and maybe that’s all if you were laying down.</u>
-      <u who="MILAM">The idea was to prepare the edges of the <placeName>LZ</placeName> in case—most likely that would be where the enemy was located, not firing on the <placeName>LZ</placeName> itself because there’s no point in that.</u>
+      <u who="MILAM">The idea was to prepare the edges of the <placeName ref="#ttu_471_place_58">LZ</placeName> in case—most likely that would be where the enemy was located, not firing on the <placeName ref="#ttu_471_place_59">LZ</placeName> itself because there’s no point in that.</u>
       <u who="LOUDERMILK">The LZs in most cases over there were grass, if you fired HE onto grass, it set it on fire, and you don’t want helicopters landing on the fire, that doesn’t go good at all.</u>
       <u who="MILAM">Of course, you don’t want—</u>
       <u who="LOUDERMILK">It makes for a lot of mad helicopter pilots, I know that.</u>
       <u who="MILAM">Right, and you don’t want holes in the ground that infantry troops have to get over and everything else.</u>
-      <u who="LOUDERMILK">But <placeName>LZ X-Ray</placeName> was not only lit up, by lit up I mean fired on and smoke coming from the sides of <placeName>LZ X-Ray</placeName>, you could see the termite mounts. It was clear enough, they had reeds down there. They were so tall they looked like big grass, tall grass, but it was suitable for a small helicopter operation.</u>
+      <u who="LOUDERMILK">But <placeName ref="#ttu_471_place_60">LZ X-Ray</placeName> was not only lit up, by lit up I mean fired on and smoke coming from the sides of <placeName ref="#ttu_471_place_61">LZ X-Ray</placeName>, you could see the termite mounts. It was clear enough, they had reeds down there. They were so tall they looked like big grass, tall grass, but it was suitable for a small helicopter operation.</u>
       <u who="MILAM">Did you fly in the first lifts? Were you escorting the first lifts in?</u>
       <u who="LOUDERMILK">Yeah, yeah.</u>
       <u who="MILAM">As I understand it, the first couple of lifts in, there was no enemy fire.</u>
@@ -206,15 +206,15 @@
       <u who="MILAM">Sure.</u>
       <u who="LOUDERMILK">We heard nothing but normal administrative chatter, you know, get here, get there, dig in here, set this up. Nothing about any fire, nobody getting excited about anything, we had done that, and they had done that numerous times up to then and then we gone in later and picked them up with no contact. So we expected it to be just another day just like that.</u>
       <u who="MILAM">That’s lift one and two or so. You get your choppers in, and then you go back to wait for the next wave?</u>
-      <u who="LOUDERMILK">We made our break around after we’d fired, and we just set up an orbit on both sides of the <placeName>LZ</placeName>, on the incoming azimuth until the helicopters had gone in, dropped and picked up. When they pick up our lead gunship, picks up his initial position, flying the wing of the lead ship, we escorted them out of the <placeName>LZ</placeName>, because coming out is as bad as going in. You can kill all the good guys coming in and left all the bad guys at the far end. When you came out, they could’ve rigged the helicopter. We were there in case they got fire.</u>
+      <u who="LOUDERMILK">We made our break around after we’d fired, and we just set up an orbit on both sides of the <placeName ref="#ttu_471_place_62">LZ</placeName>, on the incoming azimuth until the helicopters had gone in, dropped and picked up. When they pick up our lead gunship, picks up his initial position, flying the wing of the lead ship, we escorted them out of the <placeName ref="#ttu_471_place_63">LZ</placeName>, because coming out is as bad as going in. You can kill all the good guys coming in and left all the bad guys at the far end. When you came out, they could’ve rigged the helicopter. We were there in case they got fire.</u>
       <u who="MILAM">So there was no fire either coming in or going out on the first couple of lifts.</u>
       <u who="LOUDERMILK">No fire. None reported.</u>
       <u who="MILAM">Then, about lifts three or four, somewhere in there, things changed. Tell me about that.</u>
-      <u who="LOUDERMILK">Yeah. The second trip in, as well as I know, the only reason it was more than one trip in because the first trip couldn’t get all the guys in, so he wanted the whole battalion in there and I don’t blame him. Even though—because he didn’t know what he was going to have to face. So we went back and got more. Rearmed and refueled and came back in, expected to set them in and you know, another lazy day of circling around the sky. Everything was fine, nothing going on. We went back, rearmed and refueled for the last—we thought would be the last load of the day. I think it might’ve been on the way back, before I changed frequencies, I heard something about sniper fire. I looked at the co-pilot and said, “Did I hear that right?” He said, “Yes. I was likely to take fire in there.” I said, “Well, it’s probably isolated, but we’ll find out when we come back. Time we took off again, they had obviously taken fire, a lot of it and it was getting heavier. They’d called artillery in and when we took off from <placeName>Plei Me</placeName>, which is, I would guess ten or twelve miles from <placeName>LZ X-Ray</placeName>, you could see the plume of artillery smoke which wasn’t there earlier and it certainly didn’t come from us going up to three or four thousand feet and getting higher. Which meant, to the people that observed our artillery, that there is a lot of stuff falling on the ground there and for a reason. That reason was because they were getting hit.</u>
+      <u who="LOUDERMILK">Yeah. The second trip in, as well as I know, the only reason it was more than one trip in because the first trip couldn’t get all the guys in, so he wanted the whole battalion in there and I don’t blame him. Even though—because he didn’t know what he was going to have to face. So we went back and got more. Rearmed and refueled and came back in, expected to set them in and you know, another lazy day of circling around the sky. Everything was fine, nothing going on. We went back, rearmed and refueled for the last—we thought would be the last load of the day. I think it might’ve been on the way back, before I changed frequencies, I heard something about sniper fire. I looked at the co-pilot and said, “Did I hear that right?” He said, “Yes. I was likely to take fire in there.” I said, “Well, it’s probably isolated, but we’ll find out when we come back. Time we took off again, they had obviously taken fire, a lot of it and it was getting heavier. They’d called artillery in and when we took off from <placeName ref="#ttu_471_place_64">Plei Me</placeName>, which is, I would guess ten or twelve miles from <placeName ref="#ttu_471_place_65">LZ X-Ray</placeName>, you could see the plume of artillery smoke which wasn’t there earlier and it certainly didn’t come from us going up to three or four thousand feet and getting higher. Which meant, to the people that observed our artillery, that there is a lot of stuff falling on the ground there and for a reason. That reason was because they were getting hit.</u>
       <u who="MILAM">In monitoring the frequency, did it then become—well, let me ask you this question, what then became your role? Troops on the ground engaged in big fire fights—</u>
       <u who="LOUDERMILK">Our role became stay with the slicks and don’t fire,</u>
       <u who="MILAM">Stay with the slicks, don’t fire and then it would become a matter of the slicks are going to be going in and out of resupply missions, and evacuations of the wounded for the next two days.</u>
-      <u who="LOUDERMILK">Well, I can only speak for the rest of <date when="1965-11-14">that day</date>, and I’ll explain that in a minute. When we took the slicks in for the—I believe it was the third time, it could’ve been the second time, maybe the third, things got confusing that day. Thinking back forty years is tough right now. Anyway, on the time when the ground commander said, “Don’t come in.” I mean we had the troops on board, we had the supplies for him on board, we had the slicks. He said, “Don’t come in, it’s too hot right now. Go someplace else and orbit until I let you know.” We took off and when out a little bit and orbited. Meanwhile, I saw some <orgName>Air Force</orgName> airplanes come in, and possibly some <orgName>Navy</orgName> airplanes, I don’t know, the jets were so fast you couldn’t tell what they were. They were ours anyways. They were bombing in close proximity to that <placeName>LZ</placeName>, something I hadn’t seen before. Usually, they got back in the headquarters and did their bombing in the <orgName>Viet Cong</orgName> headquarters or something, but not up on the front lines. This was pretty close to what I had to consider as the perimeter, knowing they hadn’t gone too far. We’d heard that there was a platoon on reconnaissance. We didn’t know where they were. I didn’t know they were back. All we knew is that they had sent a platoon someplace and it was cut off and they couldn’t get them back in. That was weighing on my mind, about where to fire. Plus, the fact that from where we were, I couldn’t see anything happening. We were far enough away, so to get out of the way from the <orgName>Air Force</orgName> and arterially that was still coming, they had to coordinate the artillery coming in and pull it off long enough for the lift to get in so they wouldn’t knock down their own helicopters. That’s when I saw two A-1Es. Two A1s, I did not know if they were Es or not, whether they were <orgName>Air Force</orgName> or <orgName>Navy</orgName>, I'm not sure now. I believe they were <orgName>Air Force</orgName> that had been called in and I looked at them with awe because if it wasn’t for the change in doctrine in the <orgName>cav</orgName>, I would’ve been flying a fixed-wing airplane possibly with armament on it. Anyway, I saw them peel off, by that, make their run. One behind the other. The first one dropped ordinates and pulled up. The second one, I looked up and there he came, he never pulled up. He didn’t drop anything that I saw, and I was a mile away. He went straight into the ground. I believe it was just north of <placeName>LZ X-Ray</placeName>, maybe a half a mile. I'm not positive with that, but I think recollection wise, that might’ve been where he was. It just exploded. All the ordinates went in the fuel and it just burned right there on the spot. It went in about a fifty-degree glide, which is a normal ordinate delivery glide. Forty-five would be like this, and fifty is about this. So very steep glide and then just straight into the ground, for reasons that I don’t know. I didn’t see anybody shoot at him, but they could have. I was dumbfounded, I couldn’t believe it, what I’d just seen. That’s not supposed to happen. We were away from there, so I told the slick that I was going over to recon, I went over and flew around one time at about three-hundred feet, and a helicopter came underneath me, a slick helicopter. One that had just departed over there in <placeName>LZ</placeName> and it come in and landed in a little—barley big enough for a little helicopter to get in, a little clearing underneath and the crew chief and the gunner got out of the helicopter and ran three-hundred yards. That’s the closest they can get with the helicopter. Three-hundred yards to the wreckage to see if there are any survivors. Meanwhile, I pulled up around and said, “My goodness, I’ve never seen anybody do anything like that.” I came back around again and then I saw, about a hundred and fifty yards or two hundred yards from the helicopter, people in black uniforms.</u>
+      <u who="LOUDERMILK">Well, I can only speak for the rest of <date when="1965-11-14">that day</date>, and I’ll explain that in a minute. When we took the slicks in for the—I believe it was the third time, it could’ve been the second time, maybe the third, things got confusing that day. Thinking back forty years is tough right now. Anyway, on the time when the ground commander said, “Don’t come in.” I mean we had the troops on board, we had the supplies for him on board, we had the slicks. He said, “Don’t come in, it’s too hot right now. Go someplace else and orbit until I let you know.” We took off and when out a little bit and orbited. Meanwhile, I saw some <orgName ref="#ttu_471_org_39">Air Force</orgName> airplanes come in, and possibly some <orgName ref="#ttu_471_org_40">Navy</orgName> airplanes, I don’t know, the jets were so fast you couldn’t tell what they were. They were ours anyways. They were bombing in close proximity to that <placeName ref="#ttu_471_place_66">LZ</placeName>, something I hadn’t seen before. Usually, they got back in the headquarters and did their bombing in the <orgName ref="#ttu_471_org_41">Viet Cong</orgName> headquarters or something, but not up on the front lines. This was pretty close to what I had to consider as the perimeter, knowing they hadn’t gone too far. We’d heard that there was a platoon on reconnaissance. We didn’t know where they were. I didn’t know they were back. All we knew is that they had sent a platoon someplace and it was cut off and they couldn’t get them back in. That was weighing on my mind, about where to fire. Plus, the fact that from where we were, I couldn’t see anything happening. We were far enough away, so to get out of the way from the <orgName ref="#ttu_471_org_42">Air Force</orgName> and arterially that was still coming, they had to coordinate the artillery coming in and pull it off long enough for the lift to get in so they wouldn’t knock down their own helicopters. That’s when I saw two A-1Es. Two A1s, I did not know if they were Es or not, whether they were <orgName ref="#ttu_471_org_43">Air Force</orgName> or <orgName ref="#ttu_471_org_44">Navy</orgName>, I'm not sure now. I believe they were <orgName ref="#ttu_471_org_45">Air Force</orgName> that had been called in and I looked at them with awe because if it wasn’t for the change in doctrine in the <orgName ref="#ttu_471_org_46">cav</orgName>, I would’ve been flying a fixed-wing airplane possibly with armament on it. Anyway, I saw them peel off, by that, make their run. One behind the other. The first one dropped ordinates and pulled up. The second one, I looked up and there he came, he never pulled up. He didn’t drop anything that I saw, and I was a mile away. He went straight into the ground. I believe it was just north of <placeName ref="#ttu_471_place_67">LZ X-Ray</placeName>, maybe a half a mile. I'm not positive with that, but I think recollection wise, that might’ve been where he was. It just exploded. All the ordinates went in the fuel and it just burned right there on the spot. It went in about a fifty-degree glide, which is a normal ordinate delivery glide. Forty-five would be like this, and fifty is about this. So very steep glide and then just straight into the ground, for reasons that I don’t know. I didn’t see anybody shoot at him, but they could have. I was dumbfounded, I couldn’t believe it, what I’d just seen. That’s not supposed to happen. We were away from there, so I told the slick that I was going over to recon, I went over and flew around one time at about three-hundred feet, and a helicopter came underneath me, a slick helicopter. One that had just departed over there in <placeName ref="#ttu_471_place_68">LZ</placeName> and it come in and landed in a little—barley big enough for a little helicopter to get in, a little clearing underneath and the crew chief and the gunner got out of the helicopter and ran three-hundred yards. That’s the closest they can get with the helicopter. Three-hundred yards to the wreckage to see if there are any survivors. Meanwhile, I pulled up around and said, “My goodness, I’ve never seen anybody do anything like that.” I came back around again and then I saw, about a hundred and fifty yards or two hundred yards from the helicopter, people in black uniforms.</u>
       <u who="MILAM">Black uniforms?</u>
       <u who="LOUDERMILK">Black uniforms. I didn’t notice if they had hats on or not. Usually you see them—yeah, you see them with—I wasn’t used to seeing them up that close, but they were moving to what looked like encircling movement on the helicopter who was just sitting out there, the pilot and co-pilot were sitting the helicopter running while the crew chief and gunner and they were running back. I was afraid they were going to get around them and shoot at them. They looked like they were trying to encircle a helicopter and keep them from going back out again. So I fired at them.</u>
       <u who="MILAM">You fired at the pajamas? </u>
@@ -226,10 +226,10 @@
       <u who="MILAM">Can you talk to him?</u>
       <u who="LOUDERMILK">I had no communications with him whatsoever.</u>
       <u who="MILAM">You had no frequency to him, okay.</u>
-      <u who="LOUDERMILK">I called him a couple of times, “Helicopter on the ground, what’s your ID?” No return, I don’t know. I never found out. But anyway, I know somebody— I know the boys knew who it was, but the gun people never found out. So then I made two more passes, slow with the guns pointed straight down. The crew chief and gunner both standing on the skids with M60s firing straight down and there’s no way to hide behind a tree straight down. So we did a pretty good job on them. I don’t know what part of the <orgName>Viet</orgName>—the <orgName>PAVN</orgName> we called them then, <orgName>People’s Army of North Vietnam</orgName>. I don’t know what part they were or whether they were <orgName>Vietnam</orgName> irregulars or what.</u>
+      <u who="LOUDERMILK">I called him a couple of times, “Helicopter on the ground, what’s your ID?” No return, I don’t know. I never found out. But anyway, I know somebody— I know the boys knew who it was, but the gun people never found out. So then I made two more passes, slow with the guns pointed straight down. The crew chief and gunner both standing on the skids with M60s firing straight down and there’s no way to hide behind a tree straight down. So we did a pretty good job on them. I don’t know what part of the <orgName ref="#ttu_471_org_47">Viet</orgName>—the <orgName ref="#ttu_471_org_48">PAVN</orgName> we called them then, <orgName ref="#ttu_471_org_49">People’s Army of North Vietnam</orgName>. I don’t know what part they were or whether they were <orgName ref="#ttu_471_org_50">Vietnam</orgName> irregulars or what.</u>
       <u who="MILAM">It sounds like they were—but they were in black you said?</u>
       <u who="LOUDERMILK">They were in black tops and bottoms.</u>
-      <u who="MILAM">Chances are they were <orgName>VC (Viet Cong)</orgName> regiment.</u>
+      <u who="MILAM">Chances are they were <orgName ref="#ttu_471_org_51">VC (Viet Cong)</orgName> regiment.</u>
       <u who="LOUDERMILK">But they never fired at me, if they did, I didn’t see them and I didn’t hear the round go by. They didn’t hit the helicopter.</u>
       <u who="MILAM">Did the men get back from the—</u>
       <u who="LOUDERMILK">Yes, they did. To finish the story, they came back clamoring onboard the helicopter and he got what we called “didi mao”. He got out of there.</u>
@@ -242,44 +242,615 @@
       <u who="MILAM">Whatever it is, you were—that’s what you did.</u>
       <u who="LOUDERMILK">I felt better about it.</u>
       <u who="MILAM">Sure, you did, absolutely. Now, we’re now in mid-afternoon, tell me about the rest of your day.</u>
-      <u who="LOUDERMILK">The rest of the day was back to <placeName>Plei Me</placeName>. Rearm, refuel, back out again. Each time we went in, the slicks were going in, not as a unit now, as eight to ten slicks. They were going in as one, two. So it was hard to escort—we tried to escort each one. By the time we got around, he was coming out and another one was trying—they’d say, “That’s not a good way to go in, go in another way.” So they’d come over and try to come in this way. They really made it tough for us because we didn’t know where he was going to go. So anyway, we just kind of loosened up a little bit but there wasn’t anything we could do anyway. We could give him moral support.</u>
-      <u who="MILAM"><persName>Colonel Moore</persName> was talking to the slicks and telling them how to come in, and all you could do was to follow the slick in and give him the support. He was talking to the slick as a slick and you guys were the slick support.</u>
+      <u who="LOUDERMILK">The rest of the day was back to <placeName ref="#ttu_471_place_69">Plei Me</placeName>. Rearm, refuel, back out again. Each time we went in, the slicks were going in, not as a unit now, as eight to ten slicks. They were going in as one, two. So it was hard to escort—we tried to escort each one. By the time we got around, he was coming out and another one was trying—they’d say, “That’s not a good way to go in, go in another way.” So they’d come over and try to come in this way. They really made it tough for us because we didn’t know where he was going to go. So anyway, we just kind of loosened up a little bit but there wasn’t anything we could do anyway. We could give him moral support.</u>
+      <u who="MILAM"><persName ref="#ttu_471_person_4">Colonel Moore</persName> was talking to the slicks and telling them how to come in, and all you could do was to follow the slick in and give him the support. He was talking to the slick as a slick and you guys were the slick support.</u>
       <u who="LOUDERMILK">He didn’t even know we were up there; I think. I mean, he was only interested in his slick, his people or the supplies and getting his wounded out. He didn’t care about some gunship sitting out there, whether we supported or not. We were there for moral support for the helicopter crew that were going in. Whether they thought about us or not, that’s not here nor there.</u>
-      <u who="MILAM">You worked <placeName>LZ X-Ray</placeName> in support of these slicks, one at a time coming in, for the rest of that day?</u>
+      <u who="MILAM">You worked <placeName ref="#ttu_471_place_70">LZ X-Ray</placeName> in support of these slicks, one at a time coming in, for the rest of that day?</u>
       <u who="LOUDERMILK">Past dark.</u>
       <u who="MILAM">Past dark. Then you went where?</u>
-      <u who="LOUDERMILK">Then we went to <placeName>Plei Me</placeName> and refueled, and some of those were rather long flights because the spread out of the individual helicopters going in. There weren’t as many of them toward the end, they didn’t have as many go back, but the ones that did go back were spread out pretty far, so it took longer. So each time we were burning up fuel. Anyway, we go back to <placeName>Plei Me</placeName> and refuel. I know one of our helicopters on the last trip in, as he set the helicopter down at the refueling point, it flamed out. It ran out of gas. Just as he cut the throttle to shut it down to get fuel, it quit. Mine was—I had a couple lights on. You start getting—when you get low on fuel, you’ll get a pump light on that tells you that your down to a certain level and friends, you better be on the ground pretty soon. You know how your gauge is, you know it’s there and you know it’s saying empty, but you can always wish that there is hope, that there’s a little bit more fuel in there. I never ran out of fuel, I sweated it a few times and he sweated it that time. But anyway, it was on the ground when it quit so it wasn’t a big problem, but that’s how drastic it was to get the support out there, at least to get the helicopters out there and do whatever it took to put them to bed for the night out there and get themselves protected.</u>
+      <u who="LOUDERMILK">Then we went to <placeName ref="#ttu_471_place_71">Plei Me</placeName> and refueled, and some of those were rather long flights because the spread out of the individual helicopters going in. There weren’t as many of them toward the end, they didn’t have as many go back, but the ones that did go back were spread out pretty far, so it took longer. So each time we were burning up fuel. Anyway, we go back to <placeName ref="#ttu_471_place_72">Plei Me</placeName> and refuel. I know one of our helicopters on the last trip in, as he set the helicopter down at the refueling point, it flamed out. It ran out of gas. Just as he cut the throttle to shut it down to get fuel, it quit. Mine was—I had a couple lights on. You start getting—when you get low on fuel, you’ll get a pump light on that tells you that your down to a certain level and friends, you better be on the ground pretty soon. You know how your gauge is, you know it’s there and you know it’s saying empty, but you can always wish that there is hope, that there’s a little bit more fuel in there. I never ran out of fuel, I sweated it a few times and he sweated it that time. But anyway, it was on the ground when it quit so it wasn’t a big problem, but that’s how drastic it was to get the support out there, at least to get the helicopters out there and do whatever it took to put them to bed for the night out there and get themselves protected.</u>
       <u who="MILAM">Did you wait for the calls for the next two days or how?</u>
-      <u who="LOUDERMILK">The next two days—we had a maintenance program in <placeName>Vietnam</placeName>, very much like they have in the <placeName>States</placeName>. Hundred hours and then you inspect. In <placeName>Vietnam</placeName>, they allowed us to fly ten percent over that if it was necessary. When I came back that day, my helicopter was a hundred and twenty-five hours since it’s last inspection. We didn’t put twenty-five that day, we put on—I don’t know, seven or eight-nine hours. But it was above and beyond, I was already pushing the point when I went out that day. I knew it, the maintenance also knew it, he said, “When you bring it back tonight, it’s down. I don’t care what happens.” Of course, he didn’t know about <name type="event">X-Ray</name>. But anyway, he was an administrator at that point. So when I got back, he said “Unh-unh, it’s down.” So I flew it back to <placeName>Pleiku</placeName> and they pulled it into the field there at <placeName>Pleiku</placeName>. It took a day and a half to pull the inspection and then I was back. Meanwhile, the second day, our boys were doing—my compatriots were doing the same thing in and out. By the time I got back in the air, <placeName>X-Ray</placeName> was evacuated. <placeName>Albany</placeName>, which was the firebase, was about to be—I think <placeName>Albany</placeName> was the firebase, anyway—</u>
-      <u who="MILAM"><placeName>Falcon</placeName>?</u>
-      <u who="MILAM"><placeName>Falcon</placeName>. <placeName>Falcon</placeName> was being evacuated. The Chinooks had picked up all the artillery tubes and all the good artillery. All the rounds. I guess I'm not an artilleryman but I'm sure they had some—then they were going to blow the <placeName>LZ</placeName>. They did that quite often when they left the <placeName>LZ</placeName> where they had a lot of artillery. If they get a bad lot of ammunition, rather than bring it out and take a chance on getting it mixed with good ammunition, they wouldn’t waste a helicopter going in to get bad ammunition, they would blow it after they left. All the revetments where the helicopters were set and all that. Anything that was the garbage dump. Anything that could be possibly used by the enemy for anything, was blown up. I was in the air orbiting when the last ship came out with the engineers. I believe the engineers went in and set all the charges and the timer and then got on the last helicopter. The commander wanted verification that everybody was out. “Is everybody out? Are you sure?” “Yeah, I'm sure there’s nobody down there.” It looked like a small atomic blast went off when <placeName>Falcon</placeName> was leveled.</u>
-      <u who="MILAM">So you spent then—your tour is only three or four months old. Did you spend another eight months there in <placeName>Vietnam</placeName>?</u>
+      <u who="LOUDERMILK">The next two days—we had a maintenance program in <placeName ref="#ttu_471_place_73">Vietnam</placeName>, very much like they have in the <placeName ref="#ttu_471_place_74">States</placeName>. Hundred hours and then you inspect. In <placeName ref="#ttu_471_place_75">Vietnam</placeName>, they allowed us to fly ten percent over that if it was necessary. When I came back that day, my helicopter was a hundred and twenty-five hours since it’s last inspection. We didn’t put twenty-five that day, we put on—I don’t know, seven or eight-nine hours. But it was above and beyond, I was already pushing the point when I went out that day. I knew it, the maintenance also knew it, he said, “When you bring it back tonight, it’s down. I don’t care what happens.” Of course, he didn’t know about <name type="event" ref="#ttu_471_event_9">X-Ray</name>. But anyway, he was an administrator at that point. So when I got back, he said “Unh-unh, it’s down.” So I flew it back to <placeName ref="#ttu_471_place_76">Pleiku</placeName> and they pulled it into the field there at <placeName ref="#ttu_471_place_77">Pleiku</placeName>. It took a day and a half to pull the inspection and then I was back. Meanwhile, the second day, our boys were doing—my compatriots were doing the same thing in and out. By the time I got back in the air, <placeName ref="#ttu_471_place_78">X-Ray</placeName> was evacuated. <placeName ref="#ttu_471_place_79">Albany</placeName>, which was the firebase, was about to be—I think <placeName ref="#ttu_471_place_80">Albany</placeName> was the firebase, anyway—</u>
+      <u who="MILAM"><placeName ref="#ttu_471_place_81">Falcon</placeName>?</u>
+      <u who="MILAM"><placeName ref="#ttu_471_place_82">Falcon</placeName>. <placeName ref="#ttu_471_place_83">Falcon</placeName> was being evacuated. The Chinooks had picked up all the artillery tubes and all the good artillery. All the rounds. I guess I'm not an artilleryman but I'm sure they had some—then they were going to blow the <placeName ref="#ttu_471_place_84">LZ</placeName>. They did that quite often when they left the <placeName ref="#ttu_471_place_85">LZ</placeName> where they had a lot of artillery. If they get a bad lot of ammunition, rather than bring it out and take a chance on getting it mixed with good ammunition, they wouldn’t waste a helicopter going in to get bad ammunition, they would blow it after they left. All the revetments where the helicopters were set and all that. Anything that was the garbage dump. Anything that could be possibly used by the enemy for anything, was blown up. I was in the air orbiting when the last ship came out with the engineers. I believe the engineers went in and set all the charges and the timer and then got on the last helicopter. The commander wanted verification that everybody was out. “Is everybody out? Are you sure?” “Yeah, I'm sure there’s nobody down there.” It looked like a small atomic blast went off when <placeName ref="#ttu_471_place_86">Falcon</placeName> was leveled.</u>
+      <u who="MILAM">So you spent then—your tour is only three or four months old. Did you spend another eight months there in <placeName ref="#ttu_471_place_87">Vietnam</placeName>?</u>
       <u who="LOUDERMILK">Yeah, I was the last of the original sailors that came over on the—not the advanced party, but the sailors that came over on the boats. I was the last one to leave the company, last officer. </u>
       <u who="MILAM">I see.</u>
       <u who="LOUDERMILK">As far as I know, the last person. We had a whole new second team in, when I left there.</u>
-      <u who="MILAM">How about—was that your only tour there in <placeName>Vietnam</placeName>? Or did you spend another one?</u>
+      <u who="MILAM">How about—was that your only tour there in <placeName ref="#ttu_471_place_88">Vietnam</placeName>? Or did you spend another one?</u>
       <u who="LOUDERMILK">No, I went back a year and half later.</u>
       <u who="MILAM">With what unit?</u>
-      <u who="LOUDERMILK">The <orgName>1st Cav Division</orgName>.</u>
+      <u who="LOUDERMILK">The <orgName ref="#ttu_471_org_52">1st Cav Division</orgName>.</u>
       <u who="MILAM">Oh, you did?</u>
       <u who="LOUDERMILK">I went back and flew Mohawks!</u>
       <u who="MILAM">Oh, you did? So you got to fly your fixed-wings. </u>
-      <u who="LOUDERMILK">I got to go back and fly fixed-wings. It wasn’t the armed ones; I flew surveillance out <placeName>Phu Bai</placeName>. I got back just in time for <name type="event">Tet</name>. I got there the day <name type="event">Tet</name> started.</u>
+      <u who="LOUDERMILK">I got to go back and fly fixed-wings. It wasn’t the armed ones; I flew surveillance out <placeName ref="#ttu_471_place_89">Phu Bai</placeName>. I got back just in time for <name type="event" ref="#ttu_471_event_10">Tet</name>. I got there the day <name type="event" ref="#ttu_471_event_11">Tet</name> started.</u>
       <u who="MILAM">For goodness sake.</u>
       <u who="LOUDERMILK">I thought it was in commemoration for me, for coming back.</u>
       <u who="MILAM">You spend another year then?</u>
       <u who="LOUDERMILK">I spend another year.</u>
-      <u who="MILAM">How much more time did you spend in the <orgName>army</orgName>?</u>
+      <u who="MILAM">How much more time did you spend in the <orgName ref="#ttu_471_org_53">army</orgName>?</u>
       <u who="LOUDERMILK">I spent a total of twenty years; I came back in <date when="1969-01">January of ’69</date>. I got out in <date when="1978">’78</date>. So I got nine more years in.</u>
       <u who="MILAM">What was your rank when you came out?</u>
       <u who="LOUDERMILK">Lieutenant colonel.</u>
-      <u who="MILAM">Lieutenant colonel. In your second tour, did you experienced—I know there has been nothing of the magnitude, from a unit standpoint, like <name type="event">LZ X-Ray</name> and <name type="event">Albany</name>, like the <name type="event">Ia Drang</name>. But did you experience anything personally, to compare with what you went through at <name type="event">Ia Drang</name>?</u>
-      <u who="LOUDERMILK">Well, I never experienced anything like the troopers went through at <name type="event">Ia Drang</name>. Mine was a support role, I saw what they had to contend with, but I didn’t contend with it because I flew around, and I went back. Then I came back, and I went back. They stayed there and did their job on the ground and did a tremendous job of it. The second tour, it was filled with several things. The <placeName>A Shau Valley</placeName>, the <orgName>1st Cav</orgName> in the <placeName>A Shau Valley</placeName> was a very deadly time. Against a much heavily armed foe than we had the time. They had anti-aircraft position dug in and they changed them quite often. I got to go over to <placeName>An Khe</placeName>—yeah.</u>
-      <u who="MILAM"><placeName>Khe Sanh</placeName>?</u>
-      <u who="LOUDERMILK"><placeName>Khe Sanh</placeName>, when the <orgName>Marines</orgName> were going through all that they went through there. B-52s had been called in. The <orgName>1st Cav</orgName> at this time was up at <placeName>LZ Evans</placeName>, up in the northern <placeName>I Corps</placeName>, operating around the <placeName>Huế</placeName> area. Up and down the <placeName>QL1</placeName>. But <placeName>An Khe</placeName> was—I mean <placeName>Khe Sanh</placeName>, was liberated supposedly by the <orgName>1st Cav</orgName>. At least when we got there, the <orgName>cav</orgName> got there up the road and moved off, got the <orgName>Marines</orgName> out of there, then we all walked out of there, the <orgName>Marines</orgName> and everybody. But they were using B-52s during the <name type="event">siege</name>. They made a strike and asked for a BDA, a battle damage—bomb damage assessment. Since we had a photographic aircraft, they called us to go up and do a BDA. So I took a mosaic and drew the chart of where I was going to fly. Then went back and flew up and down that mosaic and took verticals and obliques, we called them, of the right and left side of the airplane. It looked like the face of the moon. I don’t know how anybody could’ve survived a B-52 strike. I’ve seen them from afar, and I’ve seen them from fairly close and I’ve seen afterwards. I wouldn’t want to be in the same county with a B-52.</u>
-      <u who="MILAM">Well <persName>Bob</persName>, we very much appreciate you allowing us to interview you and for you to go on record with these experiences. We at <orgName>Texas Tech</orgName>, know that your interview will be there for a very long time. It will be part of our archives and it will be accessible to historians in the future and that’s very important to us as historians, so we can talk about this terrible time.</u>
+      <u who="MILAM">Lieutenant colonel. In your second tour, did you experienced—I know there has been nothing of the magnitude, from a unit standpoint, like <name type="event" ref="#ttu_471_event_12">LZ X-Ray</name> and <name type="event" ref="#ttu_471_event_13">Albany</name>, like the <name type="event" ref="#ttu_471_event_14">Ia Drang</name>. But did you experience anything personally, to compare with what you went through at <name type="event" ref="#ttu_471_event_15">Ia Drang</name>?</u>
+      <u who="LOUDERMILK">Well, I never experienced anything like the troopers went through at <name type="event" ref="#ttu_471_event_16">Ia Drang</name>. Mine was a support role, I saw what they had to contend with, but I didn’t contend with it because I flew around, and I went back. Then I came back, and I went back. They stayed there and did their job on the ground and did a tremendous job of it. The second tour, it was filled with several things. The <placeName ref="#ttu_471_place_90">A Shau Valley</placeName>, the <orgName ref="#ttu_471_org_54">1st Cav</orgName> in the <placeName ref="#ttu_471_place_91">A Shau Valley</placeName> was a very deadly time. Against a much heavily armed foe than we had the time. They had anti-aircraft position dug in and they changed them quite often. I got to go over to <placeName ref="#ttu_471_place_92">An Khe</placeName>—yeah.</u>
+      <u who="MILAM"><placeName ref="#ttu_471_place_93">Khe Sanh</placeName>?</u>
+      <u who="LOUDERMILK"><placeName ref="#ttu_471_place_94">Khe Sanh</placeName>, when the <orgName ref="#ttu_471_org_55">Marines</orgName> were going through all that they went through there. B-52s had been called in. The <orgName ref="#ttu_471_org_56">1st Cav</orgName> at this time was up at <placeName ref="#ttu_471_place_95">LZ Evans</placeName>, up in the northern <placeName ref="#ttu_471_place_96">I Corps</placeName>, operating around the <placeName ref="#ttu_471_place_97">Huế</placeName> area. Up and down the <placeName ref="#ttu_471_place_98">QL1</placeName>. But <placeName ref="#ttu_471_place_99">An Khe</placeName> was—I mean <placeName ref="#ttu_471_place_100">Khe Sanh</placeName>, was liberated supposedly by the <orgName ref="#ttu_471_org_57">1st Cav</orgName>. At least when we got there, the <orgName ref="#ttu_471_org_58">cav</orgName> got there up the road and moved off, got the <orgName ref="#ttu_471_org_59">Marines</orgName> out of there, then we all walked out of there, the <orgName ref="#ttu_471_org_60">Marines</orgName> and everybody. But they were using B-52s during the <name type="event" ref="#ttu_471_event_17">siege</name>. They made a strike and asked for a BDA, a battle damage—bomb damage assessment. Since we had a photographic aircraft, they called us to go up and do a BDA. So I took a mosaic and drew the chart of where I was going to fly. Then went back and flew up and down that mosaic and took verticals and obliques, we called them, of the right and left side of the airplane. It looked like the face of the moon. I don’t know how anybody could’ve survived a B-52 strike. I’ve seen them from afar, and I’ve seen them from fairly close and I’ve seen afterwards. I wouldn’t want to be in the same county with a B-52.</u>
+      <u who="MILAM">Well <persName ref="#ttu_471_person_5">Bob</persName>, we very much appreciate you allowing us to interview you and for you to go on record with these experiences. We at <orgName ref="#ttu_471_org_61">Texas Tech</orgName>, know that your interview will be there for a very long time. It will be part of our archives and it will be accessible to historians in the future and that’s very important to us as historians, so we can talk about this terrible time.</u>
       <u who="LOUDERMILK">Good. I hope your project is successful.</u>
       <u who="MILAM">Thank you very much, we appreciate it. (End of interview.)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_471_place_0">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_1">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_2">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_3">
+        <placeName>Korea</placeName>
+      </place>
+      <place xml:id="ttu_471_place_4">
+        <placeName>Korea</placeName>
+      </place>
+      <place xml:id="ttu_471_place_5">
+        <placeName>Fort Devens, Massachusetts</placeName>
+      </place>
+      <place xml:id="ttu_471_place_6">
+        <placeName>Fort Devens</placeName>
+      </place>
+      <place xml:id="ttu_471_place_7">
+        <placeName>Korea</placeName>
+      </place>
+      <place xml:id="ttu_471_place_8">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_9">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_10">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_11">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_12">
+        <placeName>Phu Bai</placeName>
+      </place>
+      <place xml:id="ttu_471_place_13">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_14">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_15">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_16">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_17">
+        <placeName>‘Nam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_18">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_19">
+        <placeName>Suez Canal</placeName>
+      </place>
+      <place xml:id="ttu_471_place_20">
+        <placeName>Charleston, South Carolina</placeName>
+      </place>
+      <place xml:id="ttu_471_place_21">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_22">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_23">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_24">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_25">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_26">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_27">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_28">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_29">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_471_place_30">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_31">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_32">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_471_place_33">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_471_place_34">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_471_place_35">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_36">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_37">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_471_place_38">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_471_place_39">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_471_place_40">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_471_place_41">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_42">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_471_place_43">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_471_place_44">
+        <placeName>Holloway</placeName>
+      </place>
+      <place xml:id="ttu_471_place_45">
+        <placeName>Holloway Field</placeName>
+      </place>
+      <place xml:id="ttu_471_place_46">
+        <placeName>Plantation</placeName>
+      </place>
+      <place xml:id="ttu_471_place_47">
+        <placeName>Plantation</placeName>
+      </place>
+      <place xml:id="ttu_471_place_48">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_49">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_50">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_51">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_471_place_52">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_53">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_54">
+        <placeName>West Virginia</placeName>
+      </place>
+      <place xml:id="ttu_471_place_55">
+        <placeName>Chu Pong</placeName>
+      </place>
+      <place xml:id="ttu_471_place_56">
+        <placeName>Chu Pong</placeName>
+      </place>
+      <place xml:id="ttu_471_place_57">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_58">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_59">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_60">
+        <placeName>LZ X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_471_place_61">
+        <placeName>LZ X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_471_place_62">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_63">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_64">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_65">
+        <placeName>LZ X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_471_place_66">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_67">
+        <placeName>LZ X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_471_place_68">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_69">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_70">
+        <placeName>LZ X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_471_place_71">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_72">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_471_place_73">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_74">
+        <placeName>States</placeName>
+      </place>
+      <place xml:id="ttu_471_place_75">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_76">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_471_place_77">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_471_place_78">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_471_place_79">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_471_place_80">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_471_place_81">
+        <placeName>Falcon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_82">
+        <placeName>Falcon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_83">
+        <placeName>Falcon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_84">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_85">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_471_place_86">
+        <placeName>Falcon</placeName>
+      </place>
+      <place xml:id="ttu_471_place_87">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_88">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_471_place_89">
+        <placeName>Phu Bai</placeName>
+      </place>
+      <place xml:id="ttu_471_place_90">
+        <placeName>A Shau Valley</placeName>
+      </place>
+      <place xml:id="ttu_471_place_91">
+        <placeName>A Shau Valley</placeName>
+      </place>
+      <place xml:id="ttu_471_place_92">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_471_place_93">
+        <placeName>Khe Sanh</placeName>
+      </place>
+      <place xml:id="ttu_471_place_94">
+        <placeName>Khe Sanh</placeName>
+      </place>
+      <place xml:id="ttu_471_place_95">
+        <placeName>LZ Evans</placeName>
+      </place>
+      <place xml:id="ttu_471_place_96">
+        <placeName>I Corps</placeName>
+      </place>
+      <place xml:id="ttu_471_place_97">
+        <placeName>Huế</placeName>
+      </place>
+      <place xml:id="ttu_471_place_98">
+        <placeName>QL1</placeName>
+      </place>
+      <place xml:id="ttu_471_place_99">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_471_place_100">
+        <placeName>Khe Sanh</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_471_event_0">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_471_event_1">
+        <desc>stadium speech</desc>
+      </event>
+      <event xml:id="ttu_471_event_2">
+        <desc>Silver Bayonet</desc>
+      </event>
+      <event xml:id="ttu_471_event_3">
+        <desc>Silver Bayonet</desc>
+      </event>
+      <event xml:id="ttu_471_event_4">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_471_event_5">
+        <desc>LZ X-Ray</desc>
+      </event>
+      <event xml:id="ttu_471_event_6">
+        <desc>war</desc>
+      </event>
+      <event xml:id="ttu_471_event_7">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_471_event_8">
+        <desc>Plei Me siege</desc>
+      </event>
+      <event xml:id="ttu_471_event_9">
+        <desc>X-Ray</desc>
+      </event>
+      <event xml:id="ttu_471_event_10">
+        <desc>Tet</desc>
+      </event>
+      <event xml:id="ttu_471_event_11">
+        <desc>Tet</desc>
+      </event>
+      <event xml:id="ttu_471_event_12">
+        <desc>LZ X-Ray</desc>
+      </event>
+      <event xml:id="ttu_471_event_13">
+        <desc>Albany</desc>
+      </event>
+      <event xml:id="ttu_471_event_14">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_471_event_15">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_471_event_16">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_471_event_17">
+        <desc>siege</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_471_person_0">
+        <persName>Dr. Ron Milam</persName>
+      </person>
+      <person xml:id="ttu_471_person_1">
+        <persName>Bob Loudermilk</persName>
+      </person>
+      <person xml:id="ttu_471_person_2">
+        <persName>Bob</persName>
+      </person>
+      <person xml:id="ttu_471_person_3">
+        <persName>President Johnson</persName>
+      </person>
+      <person xml:id="ttu_471_person_4">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_471_person_5">
+        <persName>Bob</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_471_org_0">
+        <orgName>Texas Tech University</orgName>
+      </org>
+      <org xml:id="ttu_471_org_1">
+        <orgName>Vietnam Center</orgName>
+      </org>
+      <org xml:id="ttu_471_org_2">
+        <orgName>Delta Company, 229th Assault Helicopter Battalion of the 1st Cav Division</orgName>
+      </org>
+      <org xml:id="ttu_471_org_3">
+        <orgName>ROTC (Reserve Officer Training Corps)</orgName>
+      </org>
+      <org xml:id="ttu_471_org_4">
+        <orgName>Marshall College</orgName>
+      </org>
+      <org xml:id="ttu_471_org_5">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_471_org_6">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_471_org_7">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_471_org_8">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_471_org_9">
+        <orgName>1st Cav Division</orgName>
+      </org>
+      <org xml:id="ttu_471_org_10">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_11">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_471_org_12">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_471_org_13">
+        <orgName>1st Cav Division</orgName>
+      </org>
+      <org xml:id="ttu_471_org_14">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_15">
+        <orgName>11th General Support Aviation Company</orgName>
+      </org>
+      <org xml:id="ttu_471_org_16">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_17">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_18">
+        <orgName>Boxer</orgName>
+      </org>
+      <org xml:id="ttu_471_org_19">
+        <orgName>Darby</orgName>
+      </org>
+      <org xml:id="ttu_471_org_20">
+        <orgName>Boxer</orgName>
+      </org>
+      <org xml:id="ttu_471_org_21">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_22">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_23">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_471_org_24">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_471_org_25">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="ttu_471_org_26">
+        <orgName>ARVN (Army of the Republic of Vietnam)</orgName>
+      </org>
+      <org xml:id="ttu_471_org_27">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="ttu_471_org_28">
+        <orgName>Delta 229</orgName>
+      </org>
+      <org xml:id="ttu_471_org_29">
+        <orgName>Darby</orgName>
+      </org>
+      <org xml:id="ttu_471_org_30">
+        <orgName>11th Air Assault Division</orgName>
+      </org>
+      <org xml:id="ttu_471_org_31">
+        <orgName>11th Air Assault</orgName>
+      </org>
+      <org xml:id="ttu_471_org_32">
+        <orgName>Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_471_org_33">
+        <orgName>Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_471_org_34">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_471_org_35">
+        <orgName>Viet Cong</orgName>
+      </org>
+      <org xml:id="ttu_471_org_36">
+        <orgName>Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_471_org_37">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_471_org_38">
+        <orgName>Michelin</orgName>
+      </org>
+      <org xml:id="ttu_471_org_39">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_471_org_40">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="ttu_471_org_41">
+        <orgName>Viet Cong</orgName>
+      </org>
+      <org xml:id="ttu_471_org_42">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_471_org_43">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_471_org_44">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="ttu_471_org_45">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_471_org_46">
+        <orgName>cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_47">
+        <orgName>Viet</orgName>
+      </org>
+      <org xml:id="ttu_471_org_48">
+        <orgName>PAVN</orgName>
+      </org>
+      <org xml:id="ttu_471_org_49">
+        <orgName>People’s Army of North Vietnam</orgName>
+      </org>
+      <org xml:id="ttu_471_org_50">
+        <orgName>Vietnam</orgName>
+      </org>
+      <org xml:id="ttu_471_org_51">
+        <orgName>VC (Viet Cong)</orgName>
+      </org>
+      <org xml:id="ttu_471_org_52">
+        <orgName>1st Cav Division</orgName>
+      </org>
+      <org xml:id="ttu_471_org_53">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_471_org_54">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_55">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="ttu_471_org_56">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_57">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_58">
+        <orgName>cav</orgName>
+      </org>
+      <org xml:id="ttu_471_org_59">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="ttu_471_org_60">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="ttu_471_org_61">
+        <orgName>Texas Tech</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
