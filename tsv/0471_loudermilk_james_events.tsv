@@ -1,19 +1,19 @@
-id	name
-ttu_471_event_0	Ia Drang
-ttu_471_event_1	stadium speech
-ttu_471_event_2	Silver Bayonet
-ttu_471_event_3	Silver Bayonet
-ttu_471_event_4	Ia Drang
-ttu_471_event_5	LZ X-Ray
-ttu_471_event_6	war
-ttu_471_event_7	Ia Drang
-ttu_471_event_8	Plei Me siege
-ttu_471_event_9	X-Ray
-ttu_471_event_10	Tet
-ttu_471_event_11	Tet
-ttu_471_event_12	LZ X-Ray
-ttu_471_event_13	Albany
-ttu_471_event_14	Ia Drang
-ttu_471_event_15	Ia Drang
-ttu_471_event_16	Ia Drang
-ttu_471_event_17	siege
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_471_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_471_event_1	stadium speech					
+ttu_471_event_2	Pleiku Campaign	Q24189107				1965-11-26T00:00:00Z
+ttu_471_event_3	Pleiku Campaign	Q24189107				1965-11-26T00:00:00Z
+ttu_471_event_4	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_471_event_5	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_471_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_471_event_7	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_471_event_8	Siege of Plei Me	Q7510313		1965-10-19T00:00:00Z	1965-10-25T00:00:00Z	
+ttu_471_event_9	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_471_event_10	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+ttu_471_event_11	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+ttu_471_event_12	LZ X-Ray	Q110624850				
+ttu_471_event_13	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_471_event_14	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_471_event_15	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_471_event_16	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_471_event_17	Battle of Khe Sanh	Q247253		1968-01-21T00:00:00Z	1968-04-08T00:00:00Z	
