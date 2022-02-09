@@ -3,11 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with a Ervin Lawrence Brown, Jr.</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Sam Johnson Vietnam Center and Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,7 +15,7 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="00:48:40">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
