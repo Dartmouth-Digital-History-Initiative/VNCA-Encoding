@@ -1,41 +1,41 @@
-id	orgName
-ttu_463_org_0	Texas Tech University
-ttu_463_org_1	B Company
-ttu_463_org_2	2nd of the 7th
-ttu_463_org_3	1st of the 7th
-ttu_463_org_4	ROTC (Reserve Officer Training Corps)
-ttu_463_org_5	University of Minnesota
-ttu_463_org_6	University of Minnesota
-ttu_463_org_7	ROTC
-ttu_463_org_8	11th Air Assault
-ttu_463_org_9	ROTC
-ttu_463_org_10	11th Air Assault
-ttu_463_org_11	1st Air Cav
-ttu_463_org_12	1st Air Cav
-ttu_463_org_13	1st Air Cav
-ttu_463_org_14	11th Air Assault
-ttu_463_org_15	1st Air Cav
-ttu_463_org_16	7th Cavalry
-ttu_463_org_17	21st Artillery
-ttu_463_org_18	B Company
-ttu_463_org_19	2nd and 7th
-ttu_463_org_20	1st Air Cav
-ttu_463_org_21	Air Force
-ttu_463_org_22	FDC (Fire Direction Control)
-ttu_463_org_23	Alpha Company
-ttu_463_org_24	Air Force
-ttu_463_org_25	ARA (Aerial Rocket Artillery)
-ttu_463_org_26	Air Force
-ttu_463_org_27	Air Force
-ttu_463_org_28	Air Force
-ttu_463_org_29	Air Force
-ttu_463_org_30	Air Force
-ttu_463_org_31	Air Force
-ttu_463_org_32	Air Force
-ttu_463_org_33	B Company
-ttu_463_org_34	2nd of the 7th
-ttu_463_org_35	5th
-ttu_463_org_36	B Company
-ttu_463_org_37	B Company
-ttu_463_org_38	B Company
-ttu_463_org_39	Vietnam Archive
+id	orgName	ttu_id
+ttu_463_org_0	Texas Tech University	
+ttu_463_org_1	B Company, 229th Aviation Battalion	
+ttu_463_org_2	2nd Battalion 7th Marines	
+ttu_463_org_3	1st Battalion 7th Marines	
+ttu_463_org_4	Reserve Officers' Training Corps	
+ttu_463_org_5	University of Minnesota	
+ttu_463_org_6	University of Minnesota	
+ttu_463_org_7	Reserve Officers' Training Corps	
+ttu_463_org_8	11th Airborne Division	
+ttu_463_org_9	Reserve Officers' Training Corps	
+ttu_463_org_10	11th Airborne Division	
+ttu_463_org_11	1st Air Cavalry Brigade, 1st Cavalry Division	
+ttu_463_org_12	1st Air Cavalry Brigade, 1st Cavalry Division	
+ttu_463_org_13	1st Air Cavalry Brigade, 1st Cavalry Division	
+ttu_463_org_14	11th Airborne Division	
+ttu_463_org_15	1st Air Cavalry Brigade, 1st Cavalry Division	
+ttu_463_org_16	7th Cavalry	
+ttu_463_org_17	21st Coast Artillery	
+ttu_463_org_18	B Company, 229th Aviation Battalion	
+ttu_463_org_19	2nd Battalion 7th Marines	
+ttu_463_org_20	1st Air Cavalry Brigade, 1st Cavalry Division	
+ttu_463_org_21	United States Air Force	
+ttu_463_org_22	FDC (Fire Direction Control)	
+ttu_463_org_23	Alpha Company, Anti-Terrorism Battalion, 4th Marine Division	
+ttu_463_org_24	United States Air Force	
+ttu_463_org_25	Aerial Rocket Artillery	
+ttu_463_org_26	United States Air Force	
+ttu_463_org_27	United States Air Force	
+ttu_463_org_28	United States Air Force	
+ttu_463_org_29	United States Air Force	
+ttu_463_org_30	United States Air Force	
+ttu_463_org_31	United States Air Force	
+ttu_463_org_32	United States Air Force	
+ttu_463_org_33	B Company, 229th Aviation Battalion	
+ttu_463_org_34	2nd Battalion 7th Marines	
+ttu_463_org_35	5th Battalion 7th Air Defense Artillery Regiment	
+ttu_463_org_36	B Company, 229th Aviation Battalion	
+ttu_463_org_37	B Company, 229th Aviation Battalion	
+ttu_463_org_38	B Company, 229th Aviation Battalion	
+ttu_463_org_39	Vietnam Center and Sam Johnson Vietnam Archive	

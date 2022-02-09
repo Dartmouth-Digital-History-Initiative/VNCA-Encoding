@@ -1,53 +1,53 @@
-id	persName
-ttu_463_person_0	Dr. Ron Milam
-ttu_463_person_1	Bill Lund
-ttu_463_person_2	Bill
-ttu_463_person_3	Myron Diduryk
-ttu_463_person_4	Hal Moore
-ttu_463_person_5	Mel Gibson
-ttu_463_person_6	Myron Diduryk
-ttu_463_person_7	Rick Rescorla
-ttu_463_person_8	John
-ttu_463_person_9	Rick Rescorla
-ttu_463_person_10	Lieutenant Colonel Miranda
-ttu_463_person_11	Diduryk
-ttu_463_person_12	Diduryk
-ttu_463_person_13	Hal Moore
-ttu_463_person_14	Diduryk
-ttu_463_person_15	Lieutenant Colonel Moore
-ttu_463_person_16	Diduryk
-ttu_463_person_17	Diduryk
-ttu_463_person_18	Diduryk
-ttu_463_person_19	Timmy Blake
-ttu_463_person_20	Tony Nadal
-ttu_463_person_21	Bill Riddle
-ttu_463_person_22	Charlie Hastings
-ttu_463_person_23	Diduryk
-ttu_463_person_24	Charlie Hastings
-ttu_463_person_25	Chu Pong
-ttu_463_person_26	General Moore
-ttu_463_person_27	Moore
-ttu_463_person_28	Bill
-ttu_463_person_29	Moore
-ttu_463_person_30	Myron Diduryk
-ttu_463_person_31	Myron Diduryk
-ttu_463_person_32	Rescorla
-ttu_463_person_33	Jim Lane
-ttu_463_person_34	Myron
-ttu_463_person_35	Hal Moore
-ttu_463_person_36	Diduryk
-ttu_463_person_37	Rick Rescorla
-ttu_463_person_38	Bill
-ttu_463_person_39	Tony Nadal
-ttu_463_person_40	Hal Moore
-ttu_463_person_41	Myron Diduryk
-ttu_463_person_42	Diduryk
-ttu_463_person_43	Diduryk
-ttu_463_person_44	Captain Forrest
-ttu_463_person_45	Diduryk
-ttu_463_person_46	Major Henry
-ttu_463_person_47	Bill
-ttu_463_person_48	Hal Moore
-ttu_463_person_49	Myron
-ttu_463_person_50	Hal
-ttu_463_person_51	Joe
+id	persName	QID	ttu_id
+ttu_463_person_0	Ron Milam	Q110624764	
+ttu_463_person_1	Bill Lund		ttu_0093
+ttu_463_person_2	Bill		ttu_0093
+ttu_463_person_3	Myron F. Diduryk	Q16749760	
+ttu_463_person_4	Hal Moore	Q430209	
+ttu_463_person_5	Mel Gibson	Q42229	
+ttu_463_person_6	Myron F. Diduryk	Q16749760	
+ttu_463_person_7	Rick Rescorla	Q6068455	
+ttu_463_person_8	John		
+ttu_463_person_9	Rick Rescorla	Q6068455	
+ttu_463_person_10	Lieutenant Colonel Miranda		ttu_0094
+ttu_463_person_11	Andrey Diduryk	Q4161376	
+ttu_463_person_12	Andrey Diduryk	Q4161376	
+ttu_463_person_13	Hal Moore	Q430209	
+ttu_463_person_14	Andrey Diduryk	Q4161376	
+ttu_463_person_15	Hal Moore	Q430209	
+ttu_463_person_16	Andrey Diduryk	Q4161376	
+ttu_463_person_17	Andrey Diduryk	Q4161376	
+ttu_463_person_18	Andrey Diduryk	Q4161376	
+ttu_463_person_19	Timmy Blake		ttu_0095
+ttu_463_person_20	Tony Nadal		ttu_0080
+ttu_463_person_21	Bill Riddle		
+ttu_463_person_22	Charlie Hastings	Q5085005	
+ttu_463_person_23	Andrey Diduryk	Q4161376	
+ttu_463_person_24	Charlie Hastings	Q5085005	
+ttu_463_person_25	Chu Pong		
+ttu_463_person_26	Hal Moore	Q430209	
+ttu_463_person_27	Hal Moore	Q430209	
+ttu_463_person_28	Bill		ttu_0093
+ttu_463_person_29	Hal Moore	Q430209	
+ttu_463_person_30	Myron F. Diduryk	Q16749760	
+ttu_463_person_31	Myron F. Diduryk	Q16749760	
+ttu_463_person_32	Rick Rescorla	Q6068455	
+ttu_463_person_33	Jim Lane		ttu_0059
+ttu_463_person_34	Myron F. Diduryk	Q16749760	
+ttu_463_person_35	Hal Moore	Q430209	
+ttu_463_person_36	Andrey Diduryk	Q4161376	
+ttu_463_person_37	Rick Rescorla	Q6068455	
+ttu_463_person_38	Bill		ttu_0093
+ttu_463_person_39	Tony Nadal		ttu_0080
+ttu_463_person_40	Hal Moore	Q430209	
+ttu_463_person_41	Myron F. Diduryk	Q16749760	
+ttu_463_person_42	Andrey Diduryk	Q4161376	
+ttu_463_person_43	Andrey Diduryk	Q4161376	
+ttu_463_person_44	Haughton Forrest	Q16031020	
+ttu_463_person_45	Andrey Diduryk	Q4161376	
+ttu_463_person_46	Major Henry		ttu_0073
+ttu_463_person_47	Bill		ttu_0093
+ttu_463_person_48	Hal Moore	Q430209	
+ttu_463_person_49	Myron F. Diduryk	Q16749760	
+ttu_463_person_50	Hal Moore	Q430209	
+ttu_463_person_51	Joe		ttu_0056
