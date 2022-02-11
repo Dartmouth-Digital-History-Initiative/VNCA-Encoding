@@ -1,7 +1,7 @@
-id	name
-ttu_467_event_0	a Korean War Veteran
-ttu_467_event_1	Korean War
-ttu_467_event_2	Korean War
-ttu_467_event_3	X-Ray
-ttu_467_event_4	X-Ray
-ttu_467_event_5	X-Ray
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_467_event_0	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_467_event_1	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_467_event_2	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_467_event_3	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_467_event_4	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_467_event_5	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
