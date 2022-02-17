@@ -12,7 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
-      <idno type="DDHI">ttu_469</idno>
+        <idno type="DDHI">ttu_469</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
@@ -59,34 +59,34 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MILAM"><persName>Ervin</persName>, I’d like to start by talking a little bit about your MOS (Military Occupational Specialty) on <date when="1965-11-14">November 14th, 1965</date> and your rank.</u>
-      <u who="BROWN">I was a radio operator for the forward observer and the artillery. I was with <orgName>1st of the 21st artillery</orgName>. We were carrying a radio with <persName>Captain Edwards</persName> and his RTO (Radio Telephone Operator), operative <persName>Ernie Paolone</persName>. I was with <persName>Sergeant Castleberry</persName>; he was a forward observer at that time.</u>
-      <u who="MILAM">So you were an RTO. Let’s go back to when you joined the <orgName>1st Air Cav</orgName>. What month and year was that?</u>
-      <u who="BROWN">I was with the <orgName>1st Cav</orgName> whenever we left the <placeName>States</placeName>. That was in <date when="1965-08">August</date>.MILAM: Right, <date when="1965-08">August of ’65</date>. </u>
+      <u who="MILAM"><persName ref="#ttu_469_person_0">Ervin</persName>, I’d like to start by talking a little bit about your MOS (Military Occupational Specialty) on <date when="1965-11-14">November 14th, 1965</date> and your rank.</u>
+      <u who="BROWN">I was a radio operator for the forward observer and the artillery. I was with <orgName ref="#ttu_469_org_0">1st of the 21st artillery</orgName>. We were carrying a radio with <persName ref="#ttu_469_person_1">Captain Edwards</persName> and his RTO (Radio Telephone Operator), operative <persName ref="#ttu_469_person_2">Ernie Paolone</persName>. I was with <persName ref="#ttu_469_person_3">Sergeant Castleberry</persName>; he was a forward observer at that time.</u>
+      <u who="MILAM">So you were an RTO. Let’s go back to when you joined the <orgName ref="#ttu_469_org_1">1st Air Cav</orgName>. What month and year was that?</u>
+      <u who="BROWN">I was with the <orgName ref="#ttu_469_org_2">1st Cav</orgName> whenever we left the <placeName ref="#ttu_469_place_0">States</placeName>. That was in <date when="1965-08">August</date>.MILAM: Right, <date when="1965-08">August of ’65</date>. </u>
       <u who="BROWN">Of <date when="1965">’65</date>.</u>
       <u who="MILAM">Is that when you joined?</u>
       <u who="BROWN">No, I was in the army for a year before that.</u>
-      <u who="MILAM">But I mean, is that when you joined the <orgName>1st Air Cav</orgName>?</u>
+      <u who="MILAM">But I mean, is that when you joined the <orgName ref="#ttu_469_org_3">1st Air Cav</orgName>?</u>
       <u who="BROWN">Right.</u>
       <u who="MILAM">Okay, take me from the time that you went through—did you enlist or were you drafted?</u>
       <u who="BROWN">I enlisted.</u>
       <u who="MILAM">You enlisted; you went through basic. Did you go through AIT (Advanced Individual Training)?</u>
-      <u who="BROWN">AIT at <placeName>Fort Sill</placeName> in <placeName>Oklahoma</placeName>, for artillery.</u>
-      <u who="MILAM">Between the time you came out of <placeName>Sill</placeName> and the time you went to <placeName>Vietnam</placeName>, what was your duties in there?</u>
+      <u who="BROWN">AIT at <placeName ref="#ttu_469_place_1">Fort Sill</placeName> in <placeName ref="#ttu_469_place_2">Oklahoma</placeName>, for artillery.</u>
+      <u who="MILAM">Between the time you came out of <placeName ref="#ttu_469_place_3">Sill</placeName> and the time you went to <placeName ref="#ttu_469_place_4">Vietnam</placeName>, what was your duties in there?</u>
       <u who="BROWN">We were just mainly artillery.</u>
       <u who="MILAM">Where were you then?</u>
-      <u who="BROWN"><placeName>Fort Benning, Georgia</placeName>. </u>
-      <u who="MILAM">You were at <placeName>Fort Benning</placeName>.</u>
+      <u who="BROWN"><placeName ref="#ttu_469_place_5">Fort Benning, Georgia</placeName>. </u>
+      <u who="MILAM">You were at <placeName ref="#ttu_469_place_6">Fort Benning</placeName>.</u>
       <u who="BROWN">Right.</u>
-      <u who="MILAM">At what point did you get assigned to the—what would become the <orgName>1st Air Cav</orgName>? Immediately after <placeName>Sill</placeName>?</u>
-      <u who="BROWN">No, we were—I can't remember what unit we really were. But they brought <orgName>1st Cav</orgName> colors back from <placeName>Korea</placeName>. We had been training as far as how to load artillery onto helicopters and under the helicopter. We knew something was up. In the process of doing that, then they changed colors over to the <orgName>1st Cav</orgName>. At that time, we did more extensive training, we’d go to the field and fire and things like that. But we never took the artillery out to the field by chopper at that time. We didn’t do that until we got to <placeName>Vietnam</placeName>.</u>
-      <u who="MILAM">I see. At what point during your tour at <placeName>Benning</placeName>, did you realize that you were headed for <placeName>Vietnam</placeName>?</u>
+      <u who="MILAM">At what point did you get assigned to the—what would become the <orgName ref="#ttu_469_org_4">1st Air Cav</orgName>? Immediately after <placeName ref="#ttu_469_place_7">Sill</placeName>?</u>
+      <u who="BROWN">No, we were—I can't remember what unit we really were. But they brought <orgName ref="#ttu_469_org_5">1st Cav</orgName> colors back from <placeName ref="#ttu_469_place_8">Korea</placeName>. We had been training as far as how to load artillery onto helicopters and under the helicopter. We knew something was up. In the process of doing that, then they changed colors over to the <orgName ref="#ttu_469_org_6">1st Cav</orgName>. At that time, we did more extensive training, we’d go to the field and fire and things like that. But we never took the artillery out to the field by chopper at that time. We didn’t do that until we got to <placeName ref="#ttu_469_place_9">Vietnam</placeName>.</u>
+      <u who="MILAM">I see. At what point during your tour at <placeName ref="#ttu_469_place_10">Benning</placeName>, did you realize that you were headed for <placeName ref="#ttu_469_place_11">Vietnam</placeName>?</u>
       <u who="BROWN">Probably about a month.</u>
-      <u who="MILAM">We all know about the famous <persName>President Johnson</persName> speech, where he mobilizes the <orgName>1st Air Cav</orgName> that happens, I think in July, and then a month later, you guys were on your way—</u>
+      <u who="MILAM">We all know about the famous <persName ref="#ttu_469_person_4">President Johnson</persName> speech, where he mobilizes the <orgName ref="#ttu_469_org_7">1st Air Cav</orgName> that happens, I think in July, and then a month later, you guys were on your way—</u>
       <u who="BROWN">That’s when we realized when we were going. (Chuckles)</u>
       <u who="MILAM">But in the build up to that time, did you as a young—what was your rank then?</u>
       <u who="BROWN">I was a PFC (Private First Class).</u>
-      <u who="MILAM">You were PFC, a young man. You ever heard of <placeName>Vietnam</placeName>?</u>
+      <u who="MILAM">You were PFC, a young man. You ever heard of <placeName ref="#ttu_469_place_12">Vietnam</placeName>?</u>
       <u who="BROWN">No, not really.</u>
       <u who="MILAM">Did you know where it was?</u>
       <u who="BROWN">Not really. (Chuckles) Didn’t have any idea where we were going. It was like you were saying, I’d never really heard of it. You know, the higher ranking probably had because they stayed up to date on what was going on around the world, where a PFC, the colonel comes down and he tells the lieutenant, he says “Get them ready to do something.” So we get ready and do something, we don’t ask why.</u>
@@ -95,12 +95,12 @@
       <u who="MILAM">Once you know you’re going; do you start thinking about it more?</u>
       <u who="BROWN">Oh yes, yes.</u>
       <u who="MILAM">What were your thoughts at that time? About what this place is and what you’re going to do there?</u>
-      <u who="BROWN">Well, I wasn’t too happy about going. I don’t think anybody ever is. But it was kind of—you know, you get in the <orgName>army</orgName> and you get told where to go.</u>
+      <u who="BROWN">Well, I wasn’t too happy about going. I don’t think anybody ever is. But it was kind of—you know, you get in the <orgName ref="#ttu_469_org_8">army</orgName> and you get told where to go.</u>
       <u who="MILAM">Right.</u>
       <u who="BROWN">Your main thought is, “I won’t come back.”</u>
       <u who="MILAM">Sure. Your RTO training, when did you start?</u>
       <u who="BROWN">I didn’t have any.</u>
-      <u who="MILAM">You didn’t get any training. So you had gone to <placeName>Sill</placeName> as a battery—</u>
+      <u who="MILAM">You didn’t get any training. So you had gone to <placeName ref="#ttu_469_place_13">Sill</placeName> as a battery—</u>
       <u who="BROWN">I was a “cannon-cocker”.</u>
       <u who="MILAM">You’re a “cannon-cocker”.</u>
       <u who="BROWN">(Chuckles)</u>
@@ -109,63 +109,63 @@
       <u who="MILAM">Yeah. Mm-hmm.</u>
       <u who="BROWN">Of course, we went to artillery training and you don’t have—you learn camouflage methods but that’s about it.</u>
       <u who="MILAM">Yeah, you can camouflage that big ol’ 155 or whatever. (Chuckles)</u>
-      <u who="BROWN">That’s it! Once we got to ‘<placeName>Nam</placeName>, the reason I ended up as radio telephone operator was because the one that was up there caught Malaria.</u>
+      <u who="BROWN">That’s it! Once we got to ‘<placeName ref="#ttu_469_place_14">Nam</placeName>, the reason I ended up as radio telephone operator was because the one that was up there caught Malaria.</u>
       <u who="MILAM">Okay.</u>
       <u who="BROWN">And they needed a volunteer to go up and carry a radio, so I volunteered.</u>
-      <u who="MILAM">That’s where I was going to go next. Let’s talk a little bit about—first of all, your training at <placeName>Sill</placeName> and then your training at <placeName>Benning</placeName>. You had never had a M16 in your hand, I assume?</u>
+      <u who="MILAM">That’s where I was going to go next. Let’s talk a little bit about—first of all, your training at <placeName ref="#ttu_469_place_15">Sill</placeName> and then your training at <placeName ref="#ttu_469_place_16">Benning</placeName>. You had never had a M16 in your hand, I assume?</u>
       <u who="BROWN">Yes, we had some training with the M16.</u>
-      <u who="MILAM">At <placeName>Sill</placeName>?</u>
+      <u who="MILAM">At <placeName ref="#ttu_469_place_17">Sill</placeName>?</u>
       <u who="BROWN">No.</u>
-      <u who="MILAM">At <placeName>Benning</placeName>?</u>
+      <u who="MILAM">At <placeName ref="#ttu_469_place_18">Benning</placeName>?</u>
       <u who="BROWN">Right.</u>
       <u who="MILAM">Okay, but basically your weapon up to that time was the M14 and that was your—</u>
       <u who="BROWN">Right.</u>
-      <u who="MILAM">Okay. So you’ve been loading artillery pieces onto this ship, to put it on the port to take it over there. What ship did you go over to <placeName>Vietnam</placeName> on?</u>
+      <u who="MILAM">Okay. So you’ve been loading artillery pieces onto this ship, to put it on the port to take it over there. What ship did you go over to <placeName ref="#ttu_469_place_19">Vietnam</placeName> on?</u>
       <u who="BROWN">The Rose.</u>
       <u who="MILAM">You went on the Rose? </u>
       <u who="BROWN">Right.</u>
-      <u who="MILAM">Okay. You pull into <placeName>Qui Nhon</placeName> after about thirty days, I guess at sea. What kind of training did you get on board the ship?</u>
+      <u who="MILAM">Okay. You pull into <placeName ref="#ttu_469_place_20">Qui Nhon</placeName> after about thirty days, I guess at sea. What kind of training did you get on board the ship?</u>
       <u who="BROWN">We just exercised mainly. There’s nothing you can do in artillery on the ship. We just mainly did exercise, stayed in fair shape, but that was basically it.</u>
-      <u who="MILAM">Okay. Then you pull into <placeName>Qui Nhon</placeName>, I believe. Then, did you go by chopper over to <placeName>An Khe</placeName>?</u>
-      <u who="BROWN">No, I stayed on ship the first night. Supposedly, to help offload equipment, which port authorities did not let us get close to it, they handled all that just like whenever we carried it down to load it, they took care of all the loading and unloading. Then, as I far as I can remember, they pulled a lot of the artillery. I think they took some of it by chopper up to <placeName>An Khe</placeName>. Then the ones that were left on the ship, in my group we went by truck up. Up through the paths.</u>
+      <u who="MILAM">Okay. Then you pull into <placeName ref="#ttu_469_place_21">Qui Nhon</placeName>, I believe. Then, did you go by chopper over to <placeName ref="#ttu_469_place_22">An Khe</placeName>?</u>
+      <u who="BROWN">No, I stayed on ship the first night. Supposedly, to help offload equipment, which port authorities did not let us get close to it, they handled all that just like whenever we carried it down to load it, they took care of all the loading and unloading. Then, as I far as I can remember, they pulled a lot of the artillery. I think they took some of it by chopper up to <placeName ref="#ttu_469_place_23">An Khe</placeName>. Then the ones that were left on the ship, in my group we went by truck up. Up through the paths.</u>
       <u who="MILAM">What artillery pieces did you take over? Obviously 105s, did you take 155s also?</u>
       <u who="BROWN">I was with the old split trail 105s at that time. I mean, they had 155s. Some 1757, some eight-inch.</u>
-      <u who="MILAM">Oh, okay. You’re at <placeName>An Khe</placeName>, and you guys have to build a base.</u>
+      <u who="MILAM">Oh, okay. You’re at <placeName ref="#ttu_469_place_24">An Khe</placeName>, and you guys have to build a base.</u>
       <u who="BROWN">Right.</u>
       <u who="MILAM">As “Cannon-Cocker”, you got to participate in that I guess, huh?</u>
       <u who="BROWN">Oh yes, we got to do our little thing too, cleaning the area. We had to build pits for the guns, for protections because at that time the base wasn’t secured at all. It was kind of pulled perimeter duty some and things like that.</u>
       <u who="MILAM">So you built, essentially, an artillery fire base within the larger air cav base camp. </u>
       <u who="BROWN">Yes, sir.</u>
-      <u who="MILAM"><placeName>Camp Radcliff</placeName>? What did you call it when you first got there? Did you have a name for it?</u>
+      <u who="MILAM"><placeName ref="#ttu_469_place_25">Camp Radcliff</placeName>? What did you call it when you first got there? Did you have a name for it?</u>
       <u who="BROWN">I don’t even know.</u>
-      <u who="MILAM">It was just <placeName>An Khe</placeName>.</u>
-      <u who="BROWN">It was <placeName>An Khe</placeName>. That was it.</u>
+      <u who="MILAM">It was just <placeName ref="#ttu_469_place_26">An Khe</placeName>.</u>
+      <u who="BROWN">It was <placeName ref="#ttu_469_place_27">An Khe</placeName>. That was it.</u>
       <u who="MILAM">Tell me about becoming an RTO.</u>
       <u who="BROWN">Well, like I said, the fellow that was carrying the radio with infantry at the time caught Malaria.</u>
-      <u who="MILAM">Okay. Is this while you’re in <placeName>An Khe</placeName> and before <date when="1965-11-14">November 14th</date>?</u>
+      <u who="MILAM">Okay. Is this while you’re in <placeName ref="#ttu_469_place_28">An Khe</placeName> and before <date when="1965-11-14">November 14th</date>?</u>
       <u who="BROWN">Right.</u>
       <u who="MILAM">He’s carrying a radio for, who did you say?</u>
-      <u who="BROWN"><persName>Sergeant Castleberry</persName>.</u>
+      <u who="BROWN"><persName ref="#ttu_469_person_5">Sergeant Castleberry</persName>.</u>
       <u who="MILAM">His unit never—</u>
-      <u who="BROWN">He was with <orgName>C Company, 1st of the 7th</orgName>.</u>
-      <u who="MILAM">Okay, <orgName>C of 1st of the 7th</orgName>. But you’re in artillery and this is an infantry unit.</u>
+      <u who="BROWN">He was with <orgName ref="#ttu_469_org_9">C Company, 1st of the 7th</orgName>.</u>
+      <u who="MILAM">Okay, <orgName ref="#ttu_469_org_10">C of 1st of the 7th</orgName>. But you’re in artillery and this is an infantry unit.</u>
       <u who="BROWN">Right.</u>
       <u who="MILAM">Got to be a story there.</u>
       <u who="BROWN">Well, it was just, pack your little bag up, go up and learn how to operate a radio.</u>
       <u who="MILAM">But you’re over in another physical part of the camp.</u>
       <u who="BROWN">Well, not that far away, we probably were a quarter of a mile away from each other. We didn’t meet each other in as much, you know, it was a basic—we knew who we supported. Whenever we heard they were going out, we knew we were going out. We probably had a five-mile range. So we had to be within five miles of the area they were patrolling, so that we could fire support for them.</u>
       <u who="MILAM">Right, sure.</u>
-      <u who="BROWN">The fellow, I'm trying to remember his name. I'm thinking he was <persName>Billy Connors</persName> from <placeName>Newman, North Carolina</placeName>. He was carrying a radio at the time. They had been out, and they had fire mission that, you know some of the fellows in the <orgName>1st of the 7th</orgName> got hurt and so he ended up catching Malaria. I went up and took the radio. <persName>Sergeant Castleberry</persName> explained to me how to operate it and I was up there. Let’s see, we got there in <date when="1965-09">September</date> and I took the radio over probably on <date when="1965-10-01">the 1st of October</date>.</u>
-      <u who="MILAM">Okay, I was going to ask—you had about six weeks as an RTO before you went into <name type="event">Ia Drang</name>. Did you participate in <name type="event">“Operation Silver Bayonet”</name>? Over around in <placeName>Happy Valley</placeName>?</u>
+      <u who="BROWN">The fellow, I'm trying to remember his name. I'm thinking he was <persName ref="#ttu_469_person_6">Billy Connors</persName> from <placeName ref="#ttu_469_place_29">Newman, North Carolina</placeName>. He was carrying a radio at the time. They had been out, and they had fire mission that, you know some of the fellows in the <orgName ref="#ttu_469_org_11">1st of the 7th</orgName> got hurt and so he ended up catching Malaria. I went up and took the radio. <persName ref="#ttu_469_person_7">Sergeant Castleberry</persName> explained to me how to operate it and I was up there. Let’s see, we got there in <date when="1965-09">September</date> and I took the radio over probably on <date when="1965-10-01">the 1st of October</date>.</u>
+      <u who="MILAM">Okay, I was going to ask—you had about six weeks as an RTO before you went into <name type="event" ref="#ttu_469_event_0">Ia Drang</name>. Did you participate in <name type="event" ref="#ttu_469_event_1">“Operation Silver Bayonet”</name>? Over around in <placeName ref="#ttu_469_place_30">Happy Valley</placeName>?</u>
       <u who="BROWN">I’m not sure.</u>
-      <u who="MILAM">Okay, I was just trying to get a handle on any experience that you had before <name type="event">Ia Drang</name>.</u>
+      <u who="MILAM">Okay, I was just trying to get a handle on any experience that you had before <name type="event" ref="#ttu_469_event_2">Ia Drang</name>.</u>
       <u who="BROWN">We had been out, and we had been sniped at some, but I don’t remember any major engagement up until that point.</u>
       <u who="MILAM">So let me get the unit straight again. Now, you’re an RTO for Charlie—</u>
-      <u who="BROWN"><orgName>Charlie Company, 1st of the 7th</orgName>.</u>
-      <u who="MILAM"><orgName>Charlie Company, 1st of the 7th</orgName>. So you’re the RTO for the company commander?</u>
-      <u who="BROWN">Right. That was <persName>Captain Edwards</persName>. </u>
-      <u who="MILAM">That was <persName>Captain Edwards</persName>. Okay. <date when="1965-11-14">November 14th</date>. You get—how soon before you get on the chopper, do you get word that there’s going to be an operation? A large operation?</u>
-      <u who="BROWN">We had been out, and they had pulled us out of the area that we were in the day before. We flew back into a staging area. It wasn’t a base camp, military camp or anything, it was out in a landing zone. We kind of had word that we were going into an area. In other words, we were on patrol at that time. That morning, <orgName>Charlie Company</orgName> was not the first company going in, I do not believe. In other words, some of them had already gone in and <orgName>Charlie Company</orgName> started going in. <persName>Captain Edwards</persName> and <persName>Castleberry</persName> and <persName>Paolone</persName> and some of the troops went in first. They made two lifts with <orgName>Charlie Company</orgName> before I went in because they needed the troops on the ground, we knew we were getting hit at the time.</u>
+      <u who="BROWN"><orgName ref="#ttu_469_org_12">Charlie Company, 1st of the 7th</orgName>.</u>
+      <u who="MILAM"><orgName ref="#ttu_469_org_13">Charlie Company, 1st of the 7th</orgName>. So you’re the RTO for the company commander?</u>
+      <u who="BROWN">Right. That was <persName ref="#ttu_469_person_8">Captain Edwards</persName>. </u>
+      <u who="MILAM">That was <persName ref="#ttu_469_person_9">Captain Edwards</persName>. Okay. <date when="1965-11-14">November 14th</date>. You get—how soon before you get on the chopper, do you get word that there’s going to be an operation? A large operation?</u>
+      <u who="BROWN">We had been out, and they had pulled us out of the area that we were in the day before. We flew back into a staging area. It wasn’t a base camp, military camp or anything, it was out in a landing zone. We kind of had word that we were going into an area. In other words, we were on patrol at that time. That morning, <orgName ref="#ttu_469_org_14">Charlie Company</orgName> was not the first company going in, I do not believe. In other words, some of them had already gone in and <orgName ref="#ttu_469_org_15">Charlie Company</orgName> started going in. <persName ref="#ttu_469_person_10">Captain Edwards</persName> and <persName ref="#ttu_469_person_11">Castleberry</persName> and <persName ref="#ttu_469_person_12">Paolone</persName> and some of the troops went in first. They made two lifts with <orgName ref="#ttu_469_org_16">Charlie Company</orgName> before I went in because they needed the troops on the ground, we knew we were getting hit at the time.</u>
       <u who="MILAM">The first units, the first two lifts they said there was no enemy contact, it was essentially a cold LZ (Landing Zone). Then, by the time you went in, it was a hot LZ.</u>
       <u who="BROWN">It was a hot LZ.</u>
       <u who="MILAM">Tell me about going in. Tell me about the first—what you remember about it. First of all, did the choppers receive—while you were on the choppers flying in, could you see tracers?</u>
@@ -188,10 +188,10 @@
       <u who="BROWN">No.</u>
       <u who="MILAM">No tracers. Okay. Did you carry a .45 also, as an RTO?</u>
       <u who="BROWN">No. No.</u>
-      <u who="MILAM">Okay. Now you’re with—at this point, you’re with <persName>Captain Edwards</persName>?</u>
+      <u who="MILAM">Okay. Now you’re with—at this point, you’re with <persName ref="#ttu_469_person_13">Captain Edwards</persName>?</u>
       <u who="BROWN">No, I'm separated from them.</u>
       <u who="MILAM">You’re separated from him. Now what’s his commo? What’s he going to use for communications?</u>
-      <u who="BROWN">He—<persName>Castleberry</persName> was using one of their radios. Evidently, they had pull one radio off the line, so <persName>Castleberry</persName> could tune into artillery, until I could get in.</u>
+      <u who="BROWN">He—<persName ref="#ttu_469_person_14">Castleberry</persName> was using one of their radios. Evidently, they had pull one radio off the line, so <persName ref="#ttu_469_person_15">Castleberry</persName> could tune into artillery, until I could get in.</u>
       <u who="MILAM">Okay.</u>
       <u who="BROWN">Whenever I went in, I didn’t have any idea where they were at. They were to the—when we flew in, where we got off, they were to the left of us. But it wasn’t nobody standing there, waiting, saying, “He’s over here.” We were getting pretty good fire coming in. We couldn’t fire back. </u>
       <u who="MILAM">Because you were—</u>
@@ -201,8 +201,8 @@
       <u who="MILAM">First man you’d seen killed?</u>
       <u who="BROWN">First man I saw killed.</u>
       <u who="MILAM">Did someone pick the M60 up?</u>
-      <u who="BROWN">I have no idea. About then, they found me. I went over to <persName>Captain Edwards</persName> and <persName>Sergeant Castleberry</persName>.</u>
-      <u who="MILAM">So at that point you get with <persName>Captain Edwards</persName>? </u>
+      <u who="BROWN">I have no idea. About then, they found me. I went over to <persName ref="#ttu_469_person_16">Captain Edwards</persName> and <persName ref="#ttu_469_person_17">Sergeant Castleberry</persName>.</u>
+      <u who="MILAM">So at that point you get with <persName ref="#ttu_469_person_18">Captain Edwards</persName>? </u>
       <u who="BROWN">Right.</u>
       <u who="MILAM">So that worked pretty good then?</u>
       <u who="BROWN">Yeah. </u>
@@ -226,10 +226,10 @@
       <u who="BROWN">It was probably—that’s hard to say. Probably five minutes at the most. Yeah.</u>
       <u who="MILAM">Five minutes, okay. You think he went down by one rifle shot?</u>
       <u who="BROWN">Yep.</u>
-      <u who="MILAM">Okay. So you and <persName>Captain Edwards</persName> have gotten together. Then, the captain right away is on your radio?</u>
-      <u who="BROWN">No, that’s <persName>Sergeant Castleberry</persName> gets on our radio and starts—continues to call in artillery fire.</u>
+      <u who="MILAM">Okay. So you and <persName ref="#ttu_469_person_19">Captain Edwards</persName> have gotten together. Then, the captain right away is on your radio?</u>
+      <u who="BROWN">No, that’s <persName ref="#ttu_469_person_20">Sergeant Castleberry</persName> gets on our radio and starts—continues to call in artillery fire.</u>
       <u who="MILAM">Okay.</u>
-      <u who="BROWN"><persName>Captain Edwards</persName>’ other radio is relieved and goes back to the line. He got his radio operator, <persName>Ernie Paolone</persName>, and then we got the artillery radio back in operation, then.</u>
+      <u who="BROWN"><persName ref="#ttu_469_person_21">Captain Edwards</persName>’ other radio is relieved and goes back to the line. He got his radio operator, <persName ref="#ttu_469_person_22">Ernie Paolone</persName>, and then we got the artillery radio back in operation, then.</u>
       <u who="MILAM">Okay. Okay. Tell me about—what time of day would you say this was, when you were on the ground?</u>
       <u who="BROWN">I have no idea.</u>
       <u who="MILAM">But it’s midday?</u>
@@ -237,7 +237,7 @@
       <u who="MILAM">Midday, noonish kind of thing?</u>
       <u who="BROWN">Yeah.</u>
       <u who="MILAM">Describe for me if you can that first, let’s call it the first three hours.</u>
-      <u who="BROWN">Scary. You basically—everything is trying to be set up. Trying to find out where they are and where we are. Getting everybody in line, in position. Once I got the radio to <persName>Sergeant Castleberry</persName> of course, we didn’t move around, we stayed in one spot. My duties then was to dig a foxhole and offer protection to the <persName>Captain</persName> and <persName>Sergeant Castleberry</persName>. We were basically in one position. We were kind of just there.</u>
+      <u who="BROWN">Scary. You basically—everything is trying to be set up. Trying to find out where they are and where we are. Getting everybody in line, in position. Once I got the radio to <persName ref="#ttu_469_person_23">Sergeant Castleberry</persName> of course, we didn’t move around, we stayed in one spot. My duties then was to dig a foxhole and offer protection to the <persName ref="#ttu_469_person_24">Captain</persName> and <persName ref="#ttu_469_person_25">Sergeant Castleberry</persName>. We were basically in one position. We were kind of just there.</u>
       <u who="MILAM">How—when you say dig a foxhole, set up a perimeter of sorts, defensive position. How deep did you dig your foxhole?</u>
       <u who="BROWN">As deep as we could, which was about six inches.</u>
       <u who="MILAM">Hard ground?</u>
@@ -249,19 +249,19 @@
       <u who="MILAM">Okay. You think this is going to be your home for few hours?</u>
       <u who="BROWN">Well, no. We figured, you can kind of see what’s running around out there. You know you’re going to be there more than a few hours because it was one damn situation. You realized, “Oh hell, we’re in a mess and it ain’t going to be no ‘get out’ overnight.”</u>
       <u who="MILAM">Mm-hmm. Mm-hmm. Let’s take it up to the nighttime.</u>
-      <u who="BROWN">Well, we just—<persName>Captain Edwards</persName> is on the horn with his platoon leaders and everything. We had the foxhole prepared; we had some extra ammo brought up. We kind of got everything down and ready. Of course, once it started getting dark, no more smoking. Be as quiet as possible.</u>
+      <u who="BROWN">Well, we just—<persName ref="#ttu_469_person_26">Captain Edwards</persName> is on the horn with his platoon leaders and everything. We had the foxhole prepared; we had some extra ammo brought up. We kind of got everything down and ready. Of course, once it started getting dark, no more smoking. Be as quiet as possible.</u>
       <u who="MILAM">Yeah. Did you—you saw running around but through the afternoon, you saw a man go down. How often in that, say six hours up to dark, how often did you fire that M16?</u>
       <u who="BROWN">I don’t even know. Not very often. We didn’t have a clear view of fire. We didn’t have—at that time, I don’t remember anybody penetrating the line. Because we were set up and of course I don’t think they had gotten their people in line yet. We were basically safe, as far as anything from coming behind of us, anything like that it wasn’t present, as far as I know. It was more sniping going on at that time, I guess. You know, you’d get the boys on the line were getting fired at pretty steady, but we’d get around, come through every once and a while. But it wasn’t—it was kind of like straight around. We didn’t have anything to shoot at, at that time.</u>
       <u who="MILAM">Okay. You’re part of the CP (Command Post) essentially. Because you’re with these people, you sort of know what’s going on? More so than the guy out on the line?</u>
-      <u who="BROWN">Right. We could hear the radio conversation between <persName>Captain Edwards</persName> and his leaders. It was, you know, a lot of talking back and forth, and he was calling each one. Some of them would come into the headquarters area and talk with him and he’d give them orders. Really didn’t pay attention to what he was telling them.</u>
+      <u who="BROWN">Right. We could hear the radio conversation between <persName ref="#ttu_469_person_27">Captain Edwards</persName> and his leaders. It was, you know, a lot of talking back and forth, and he was calling each one. Some of them would come into the headquarters area and talk with him and he’d give them orders. Really didn’t pay attention to what he was telling them.</u>
       <u who="MILAM">They didn’t pay attention?</u>
       <u who="BROWN">No, I didn’t.</u>
       <u who="MILAM">You didn’t, I'm sorry. Had he lost—was his leadership was still intact? He still had all of his platoon leaders. No one had been wounded?</u>
       <u who="BROWN">As far as I know, yes. He was—it’s like I told him when I met him about two years ago. At that time, he was way bigger than I was. Big man. Then I walk up myself, he a little bitty fella. That is how he struck me. Excellent Officer. </u>
-      <u who="MILAM">Do you know what <persName>Captain Edwards</persName>—how he got his commission? Whether he was <placeName>West Point</placeName>, <orgName>ROTC (Reserve Officer Training Corps)</orgName>, or <orgName>OCS (Officer Candidate School)</orgName>?</u>
+      <u who="MILAM">Do you know what <persName ref="#ttu_469_person_28">Captain Edwards</persName>—how he got his commission? Whether he was <placeName ref="#ttu_469_place_31">West Point</placeName>, <orgName ref="#ttu_469_org_17">ROTC (Reserve Officer Training Corps)</orgName>, or <orgName ref="#ttu_469_org_18">OCS (Officer Candidate School)</orgName>?</u>
       <u who="BROWN">I don’t have any idea, I sure don’t.</u>
-      <u who="MILAM">Did you get to know any of the platoon leaders in <orgName>Charlie Company</orgName>?</u>
-      <u who="BROWN">No, sir. I didn’t. I talked with the fellas in the company and you would think—I think I was up there with them for six to eight months, that you would get to know them, but I wasn’t around, I was in our little group. I would see him come in, I’d hear him, see his nametag on his shirt, but that’d be about it. When they came in, they were talking with <persName>Captain Edwards</persName>. I was over to the side, it wasn’t any of my business what was going on there, what he was talking about, telling them to do, anything like that. It wasn’t really any of my business.</u>
+      <u who="MILAM">Did you get to know any of the platoon leaders in <orgName ref="#ttu_469_org_19">Charlie Company</orgName>?</u>
+      <u who="BROWN">No, sir. I didn’t. I talked with the fellas in the company and you would think—I think I was up there with them for six to eight months, that you would get to know them, but I wasn’t around, I was in our little group. I would see him come in, I’d hear him, see his nametag on his shirt, but that’d be about it. When they came in, they were talking with <persName ref="#ttu_469_person_29">Captain Edwards</persName>. I was over to the side, it wasn’t any of my business what was going on there, what he was talking about, telling them to do, anything like that. It wasn’t really any of my business.</u>
       <u who="MILAM">Tell me about the nighttime now. It gets dark. I assume adrenaline rush gets a little higher even then because you know that it’s going to be harder to see.</u>
       <u who="BROWN">Well, I wanted a cigarette real bad. (Chuckles) </u>
       <u who="MILAM">You were told to not to smoke? Or did you—</u>
@@ -277,7 +277,7 @@
       <u who="MILAM">Now did you, at that time, did you—you still didn’t have a handle as to the size of the enemy, did you?</u>
       <u who="BROWN">No. No.</u>
       <u who="MILAM">Okay, take me to the next morning.</u>
-      <u who="BROWN">Well, we had standard procedure. So many men out of each hole would get up, including snipers. You know, move out and kind of clear the area of snipers. That was—what happened, it was just breaking light. They got up and started moving out, and I would say they were probably fifteen, twenty yards out and they were surrounded. All hell broke loose. Of course, once they were surrounded, I remember <persName>Captain Edwards</persName> talking with one and he told me, “We’re surrounded!” and that was all that was said. Couldn’t get back to him, he was probably killed.</u>
+      <u who="BROWN">Well, we had standard procedure. So many men out of each hole would get up, including snipers. You know, move out and kind of clear the area of snipers. That was—what happened, it was just breaking light. They got up and started moving out, and I would say they were probably fifteen, twenty yards out and they were surrounded. All hell broke loose. Of course, once they were surrounded, I remember <persName ref="#ttu_469_person_30">Captain Edwards</persName> talking with one and he told me, “We’re surrounded!” and that was all that was said. Couldn’t get back to him, he was probably killed.</u>
       <u who="MILAM">Was that the—what was the size of the unit that went out?</u>
       <u who="BROWN">It was probably, I wouldn’t say half the company—you know, on a different end, like on the left side is where they hit us the hardest, that’s where tried to come across at. I would say probably half that group.</u>
       <u who="MILAM">So we’re talking forty or fifty men?</u>
@@ -288,20 +288,20 @@
       <u who="BROWN">He was killed.</u>
       <u who="MILAM">He was killed, you know who that was?</u>
       <u who="BROWN">I don’t have any idea, I sure don’t.</u>
-      <u who="MILAM">He was killed, and what was <persName>Captain Edwards</persName>’ demeanor? knowing that his unit was—</u>
+      <u who="MILAM">He was killed, and what was <persName ref="#ttu_469_person_31">Captain Edwards</persName>’ demeanor? knowing that his unit was—</u>
       <u who="BROWN">Oh, he kept his head about it. Like I said, he’s a good officer.</u>
       <u who="MILAM">They lost communication with that unit after you heard the words, “Were surrounded”?</u>
       <u who="BROWN">Yes sir, heard the words. I mean, we had the telephone type mics. You know, you could be quiet, but we also had speakers on the radio. It was on the speaker, on the radio we heard what the officer said, that they were surrounded and then lost communications. So it wasn’t—I mean once that happened, all hell broke loose. I mean, we were firing, they were firing-</u>
       <u who="MILAM">So you were firing on your CP?</u>
-      <u who="BROWN">We had the opportunity, right after that was said, there were groups coming through the line. We were firing, <persName>Captain Edwards</persName> got hit, got shot through the chest. He kept control, he could still talk and kept up with what was going, and he called the colonel and told him he needed to be relieved, that he’d been hit. Of course, we couldn’t get anybody up to relieve him, so he stayed in command.</u>
-      <u who="MILAM"><persName>Captain Edwards</persName> told <persName>Colonel Moore</persName> that he’d been hit. You saw that happen?</u>
+      <u who="BROWN">We had the opportunity, right after that was said, there were groups coming through the line. We were firing, <persName ref="#ttu_469_person_32">Captain Edwards</persName> got hit, got shot through the chest. He kept control, he could still talk and kept up with what was going, and he called the colonel and told him he needed to be relieved, that he’d been hit. Of course, we couldn’t get anybody up to relieve him, so he stayed in command.</u>
+      <u who="MILAM"><persName ref="#ttu_469_person_33">Captain Edwards</persName> told <persName ref="#ttu_469_person_34">Colonel Moore</persName> that he’d been hit. You saw that happen?</u>
       <u who="BROWN">Yes, sir.</u>
       <u who="MILAM">You were right there. Could you tell at that moment how hard or how—whether the captain was going to make it? Did you have a feeling whether that wound was mortal?</u>
       <u who="BROWN">No, didn’t have any idea, but he made it thank god.</u>
       <u who="MILAM">Right. </u>
       <u who="BROWN">Sergeant—one of the sergeants that was in the hole with us, I’m trying to think of his name, starts with a H or something like that, he was hit through the neck. He lived until they got him medevac’d out, then I think he died before they could operate.</u>
       <u who="MILAM">How about you? Were you hit?</u>
-      <u who="BROWN">I got some shrapnel. <persName>Paolone</persName> and I, his rifle got hit. We were standing up, firing and his rifle got hit and blown apart. We ended up with shrapnel. He ended up with some in his left arm, I ended up with, I think it was seven pieces in my shoulder, neck, piece stuck through my eyelid.</u>
+      <u who="BROWN">I got some shrapnel. <persName ref="#ttu_469_person_35">Paolone</persName> and I, his rifle got hit. We were standing up, firing and his rifle got hit and blown apart. We ended up with shrapnel. He ended up with some in his left arm, I ended up with, I think it was seven pieces in my shoulder, neck, piece stuck through my eyelid.</u>
       <u who="MILAM">So you got a piece of shrapnel off the sixteen?</u>
       <u who="BROWN">Yeah, it blew it apart.</u>
       <u who="MILAM">You got metal shrapnel from—</u>
@@ -313,7 +313,7 @@
       <u who="MILAM">It hit the receiver.</u>
       <u who="BROWN">Hit the receiver and it was just like you took, pulled the pin, opened it up. It just blew it apart right there.</u>
       <u who="MILAM">Okay. What did you think about being hit, as far as your future is concerned?</u>
-      <u who="BROWN">Well, it wasn’t time to think. All we did was, <persName>Paolone</persName> grabbed another rifle and kept firing. Because at that time, we were still up, we were standing up firing. <persName>Captain Edwards</persName> blamed us for him being deaf. (Chuckles) We fired, I’d say seven, eight hundred rounds, easy. </u>
+      <u who="BROWN">Well, it wasn’t time to think. All we did was, <persName ref="#ttu_469_person_36">Paolone</persName> grabbed another rifle and kept firing. Because at that time, we were still up, we were standing up firing. <persName ref="#ttu_469_person_37">Captain Edwards</persName> blamed us for him being deaf. (Chuckles) We fired, I’d say seven, eight hundred rounds, easy. </u>
       <u who="MILAM">You say you stood up and fired. Instinct? Why did you stand?</u>
       <u who="BROWN">You could see over the grass. You could see them.</u>
       <u who="MILAM">Over the?</u>
@@ -329,7 +329,7 @@
       <u who="MILAM">Okay. So twenty yards, you can their faces. Tell me about the enemy face reaction that you saw, in terms of his—</u>
       <u who="BROWN">Some of them looked kind of happy! Still think some of them were on drugs. Had reports from some of the fellas after the fight because you know, they’d come by and you’d kind of wave at them and they’d wave back and keep walking! They didn’t know what was going on. Evidently, they had some drugs in them. It was—you didn’t look in his face too much, you just aimed and fired.</u>
       <u who="MILAM">Right. Pith Helmets? Were they wearing helmets?</u>
-      <u who="BROWN">Yeah. They were wearing helmets. They were <orgName>North Vietnamese rebel army</orgName>. Well trained, I think.</u>
+      <u who="BROWN">Yeah. They were wearing helmets. They were <orgName ref="#ttu_469_org_20">North Vietnamese rebel army</orgName>. Well trained, I think.</u>
       <u who="MILAM">Did you keep your steel pot on through all this?</u>
       <u who="BROWN">Yeah.</u>
       <u who="MILAM">Were you wearing flak jackets?</u>
@@ -338,15 +338,15 @@
       <u who="BROWN">Right.</u>
       <u who="MILAM">How long did that go on?</u>
       <u who="BROWN">Oh, couple of hours.</u>
-      <u who="MILAM">You’re seeing the <orgName>NVA (North Vietnamese Army)</orgName> go down in front of you, when you’re successfully able to shoot them.</u>
+      <u who="MILAM">You’re seeing the <orgName ref="#ttu_469_org_21">NVA (North Vietnamese Army)</orgName> go down in front of you, when you’re successfully able to shoot them.</u>
       <u who="BROWN">Right.</u>
-      <u who="MILAM">How about those around you? You got <persName>Captain Edwards</persName>, just been shot. You’re a little bit full of shrapnel yourself.</u>
+      <u who="MILAM">How about those around you? You got <persName ref="#ttu_469_person_38">Captain Edwards</persName>, just been shot. You’re a little bit full of shrapnel yourself.</u>
       <u who="BROWN">Well it certainly wasn’t anything threating. I mean, as far as I know, we didn’t even bleed. It just stung.</u>
-      <u who="MILAM">How about extraction for <persName>Captain Edwards</persName>, how long did that take?</u>
-      <u who="BROWN"><persName>Paolone</persName> and I carried him out once they relieved him.</u>
+      <u who="MILAM">How about extraction for <persName ref="#ttu_469_person_39">Captain Edwards</persName>, how long did that take?</u>
+      <u who="BROWN"><persName ref="#ttu_469_person_40">Paolone</persName> and I carried him out once they relieved him.</u>
       <u who="MILAM">Okay tell me about being—when you say you were relieved on the line, how did that come about?</u>
-      <u who="BROWN">Well, once the fighting died down some, they were finally able to get people up. They tried to send a couple of lieutenants up and they got wounded. We had a sergeant finally be able to take the machine gun down. They finally were able to come up and once they got relief to us, then <persName>Paolone</persName> and I were told we were going to be medevac’d out also. We got our backpacks off the radio and got our rifles and got <persName>Captain Edwards</persName>, we walked across the field. Which, that’s when you hear the buzz. The bees and kept waiting to hear the plop, that’s when you get hit. We were getting shot at, as we walked across the field. But we got him back, then of course he was medevac’d out as soon as they could get a chopper in. We waited a while because we didn’t have wounds enough to need to be operated on.</u>
-      <u who="MILAM">The chopper that you put <persName>Captain Edwards</persName> on, how many other wounded on it?</u>
+      <u who="BROWN">Well, once the fighting died down some, they were finally able to get people up. They tried to send a couple of lieutenants up and they got wounded. We had a sergeant finally be able to take the machine gun down. They finally were able to come up and once they got relief to us, then <persName ref="#ttu_469_person_41">Paolone</persName> and I were told we were going to be medevac’d out also. We got our backpacks off the radio and got our rifles and got <persName ref="#ttu_469_person_42">Captain Edwards</persName>, we walked across the field. Which, that’s when you hear the buzz. The bees and kept waiting to hear the plop, that’s when you get hit. We were getting shot at, as we walked across the field. But we got him back, then of course he was medevac’d out as soon as they could get a chopper in. We waited a while because we didn’t have wounds enough to need to be operated on.</u>
+      <u who="MILAM">The chopper that you put <persName ref="#ttu_469_person_43">Captain Edwards</persName> on, how many other wounded on it?</u>
       <u who="BROWN">I don’t know, we got him back to headquarters group and the doctor kind of took him and started giving him blood and everything, we went to one side.</u>
       <u who="MILAM">I see. So you didn’t actually put him on the chopper, you got him to the—so you go back to the seat, now who’s running the company?</u>
       <u who="BROWN">I don’t know who it was, it’s not any of our lieutenants, as far as I can remember. They had sent—</u>
@@ -355,31 +355,374 @@
       <u who="MILAM">Had come up to take—</u>
       <u who="BROWN">Right, from one of the other companies that they had brought in. </u>
       <u who="MILAM">Was it the XO (Executive Officer)? Oh, it was from another company, it wasn’t the company XO?</u>
-      <u who="BROWN">Unh-uh. By then they started bringing some more troopers in by chopper at that time and I think one of the officers came up and kind of relieved <persName>Captain Edwards</persName>.</u>
+      <u who="BROWN">Unh-uh. By then they started bringing some more troopers in by chopper at that time and I think one of the officers came up and kind of relieved <persName ref="#ttu_469_person_44">Captain Edwards</persName>.</u>
       <u who="MILAM">Then, how long did you stay before you were medevac’d out?</u>
       <u who="BROWN">It was later in the afternoon. They had gotten, I would say, most of the serious wounded out, we were medevac’d out back to the emergency hospital area. Where they were trying to patch people up, so they could get them to a regular hospital. We kind of just waited there until just about dark. Then we went back to base camp and went to the hospital at base camp. That’s when they did the operation on us, getting metal out of us. We stayed there a couple of days and then went back to the company.</u>
       <u who="MILAM">Went back to the company, which is where? Where was the company?</u>
-      <u who="BROWN">There at <placeName>An Khe</placeName>.</u>
-      <u who="MILAM">They had gone back to <placeName>An Khe</placeName>?</u>
+      <u who="BROWN">There at <placeName ref="#ttu_469_place_32">An Khe</placeName>.</u>
+      <u who="MILAM">They had gone back to <placeName ref="#ttu_469_place_33">An Khe</placeName>?</u>
       <u who="BROWN">Yeah.</u>
       <u who="MILAM">How long before you went back to the field?</u>
       <u who="BROWN">Well, we had to rebuild.</u>
       <u who="MILAM">Had to rebuild your company?</u>
       <u who="BROWN">Right. Because it was—it was not necessarily the dead, but the wounded that couldn’t come back. It was probably three, four weeks.</u>
-      <u who="MILAM">In in the rest of it, you’d only been in <placeName>Vietnam</placeName> for three of four months, so you still had another six or seven months of tour left. I know there was never anything on this scale in the whole war, but certainly for the <orgName>1st Air Cav</orgName>, there was never this kind of—the same kind of big operation and loss. For you personally though, did you experience other combat?</u>
+      <u who="MILAM">In in the rest of it, you’d only been in <placeName ref="#ttu_469_place_34">Vietnam</placeName> for three of four months, so you still had another six or seven months of tour left. I know there was never anything on this scale in the whole war, but certainly for the <orgName ref="#ttu_469_org_22">1st Air Cav</orgName>, there was never this kind of—the same kind of big operation and loss. For you personally though, did you experience other combat?</u>
       <u who="BROWN">Oh, yes.</u>
       <u who="MILAM">Was it anything like what you just went through?</u>
-      <u who="BROWN">No, the rest of the time, anytime we went out, it was a smaller engagement. I mean, anytime you get shot at, it was a big deal. It don’t matter if there’s a thousand out there, or just one. But it was never anything to compare to <name type="event">Ia Drang</name> Valley. We got hit in the graveyard one time and they put—did a pretty good job on us but you know, you probably talk about five or six maybe killed, ten or twelve wounded, but it wasn’t anything to compare. It was a situation at that—as the old saying goes, “The cat’s meow”. Everything else in comparison was small.</u>
-      <u who="MILAM">The reason I ask that is because some combat veterans have explained it that there was only a few times when they realized that they were—that the overwhelming odds on the other side, and the numbers were in the favor of <orgName>NVA</orgName> here. You may not have known that at that moment, but you started figuring it out. When you see so that many. The fear is not just losing your own life, but just everybody being killed. That’s what you were going through.</u>
+      <u who="BROWN">No, the rest of the time, anytime we went out, it was a smaller engagement. I mean, anytime you get shot at, it was a big deal. It don’t matter if there’s a thousand out there, or just one. But it was never anything to compare to <name type="event" ref="#ttu_469_event_3">Ia Drang</name> Valley. We got hit in the graveyard one time and they put—did a pretty good job on us but you know, you probably talk about five or six maybe killed, ten or twelve wounded, but it wasn’t anything to compare. It was a situation at that—as the old saying goes, “The cat’s meow”. Everything else in comparison was small.</u>
+      <u who="MILAM">The reason I ask that is because some combat veterans have explained it that there was only a few times when they realized that they were—that the overwhelming odds on the other side, and the numbers were in the favor of <orgName ref="#ttu_469_org_23">NVA</orgName> here. You may not have known that at that moment, but you started figuring it out. When you see so that many. The fear is not just losing your own life, but just everybody being killed. That’s what you were going through.</u>
       <u who="BROWN">Well, to be honest, I don’t think we had time to be scared. You know, it was just a situation where it all broke loose and you just got to operate. You don’t have time to worry about being scared. Then you get scared after it’s over.</u>
       <u who="MILAM">Getting scared after it’s over would—did it impact your thinking about going back into combat, which you would do again?</u>
       <u who="BROWN">I don’t think so. You know, you go through something like that and you feel, “Well, hell I came out. So I’m alright.” There’s a lot of people that don’t want to talk about it. I can understand not wanting to and I can understand I think it’s better to talk about it.  But it’s a situation where you feel like you made it. Well, I’ll make it again.</u>
       <u who="MILAM">Sure. Sure.</u>
-      <u who="BROWN">Each time, like I said, it don’t matter if it’s one or a hundred. Don’t take one bullet. Later on, I got hit in the helmet. Kind of laid down on the ground there and poked one eye, poked another eye, so I got back up. Then, the medic told me that night, he said, “If you had started shaking, I’d have you back to the <placeName>States</placeName>!” I said, “Is it too late?” He said, “Yes.” So I got to stay over a while longer.</u>
-      <u who="MILAM"><persName>Ervin</persName>, I really appreciate you sitting down for this interview, I know these things are hard to talk about, they don’t get any easier with age, but as a historian, we appreciate getting this on record, so people in the future can listen to these words and have an idea what it must’ve been like those few days there in the <placeName>Ia Drang</placeName>. Thank you very much.</u>
+      <u who="BROWN">Each time, like I said, it don’t matter if it’s one or a hundred. Don’t take one bullet. Later on, I got hit in the helmet. Kind of laid down on the ground there and poked one eye, poked another eye, so I got back up. Then, the medic told me that night, he said, “If you had started shaking, I’d have you back to the <placeName ref="#ttu_469_place_35">States</placeName>!” I said, “Is it too late?” He said, “Yes.” So I got to stay over a while longer.</u>
+      <u who="MILAM"><persName ref="#ttu_469_person_45">Ervin</persName>, I really appreciate you sitting down for this interview, I know these things are hard to talk about, they don’t get any easier with age, but as a historian, we appreciate getting this on record, so people in the future can listen to these words and have an idea what it must’ve been like those few days there in the <placeName ref="#ttu_469_place_36">Ia Drang</placeName>. Thank you very much.</u>
       <u who="BROWN">Well, you’re definitely welcome. I hope I gave you something you can use.</u>
       <u who="MILAM">You sure did, thank you very much.</u>
       <u who="BROWN">You’re welcome.(End of interview)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_469_place_0">
+        <placeName>States</placeName>
+      </place>
+      <place xml:id="ttu_469_place_1">
+        <placeName>Fort Sill</placeName>
+      </place>
+      <place xml:id="ttu_469_place_2">
+        <placeName>Oklahoma</placeName>
+      </place>
+      <place xml:id="ttu_469_place_3">
+        <placeName>Sill</placeName>
+      </place>
+      <place xml:id="ttu_469_place_4">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_469_place_5">
+        <placeName>Fort Benning, Georgia</placeName>
+      </place>
+      <place xml:id="ttu_469_place_6">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_469_place_7">
+        <placeName>Sill</placeName>
+      </place>
+      <place xml:id="ttu_469_place_8">
+        <placeName>Korea</placeName>
+      </place>
+      <place xml:id="ttu_469_place_9">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_469_place_10">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_469_place_11">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_469_place_12">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_469_place_13">
+        <placeName>Sill</placeName>
+      </place>
+      <place xml:id="ttu_469_place_14">
+        <placeName>Nam</placeName>
+      </place>
+      <place xml:id="ttu_469_place_15">
+        <placeName>Sill</placeName>
+      </place>
+      <place xml:id="ttu_469_place_16">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_469_place_17">
+        <placeName>Sill</placeName>
+      </place>
+      <place xml:id="ttu_469_place_18">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_469_place_19">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_469_place_20">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_469_place_21">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_469_place_22">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_23">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_24">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_25">
+        <placeName>Camp Radcliff</placeName>
+      </place>
+      <place xml:id="ttu_469_place_26">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_27">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_28">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_29">
+        <placeName>Newman, North Carolina</placeName>
+      </place>
+      <place xml:id="ttu_469_place_30">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_469_place_31">
+        <placeName>West Point</placeName>
+      </place>
+      <place xml:id="ttu_469_place_32">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_33">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_469_place_34">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_469_place_35">
+        <placeName>States</placeName>
+      </place>
+      <place xml:id="ttu_469_place_36">
+        <placeName>Ia Drang</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_469_event_0">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_469_event_1">
+        <desc>“Operation Silver Bayonet”</desc>
+      </event>
+      <event xml:id="ttu_469_event_2">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_469_event_3">
+        <desc>Ia Drang</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_469_person_0">
+        <persName>Ervin</persName>
+      </person>
+      <person xml:id="ttu_469_person_1">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_2">
+        <persName>Ernie Paolone</persName>
+      </person>
+      <person xml:id="ttu_469_person_3">
+        <persName>Sergeant Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_4">
+        <persName>President Johnson</persName>
+      </person>
+      <person xml:id="ttu_469_person_5">
+        <persName>Sergeant Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_6">
+        <persName>Billy Connors</persName>
+      </person>
+      <person xml:id="ttu_469_person_7">
+        <persName>Sergeant Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_8">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_9">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_10">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_11">
+        <persName>Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_12">
+        <persName>Paolone</persName>
+      </person>
+      <person xml:id="ttu_469_person_13">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_14">
+        <persName>Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_15">
+        <persName>Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_16">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_17">
+        <persName>Sergeant Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_18">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_19">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_20">
+        <persName>Sergeant Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_21">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_22">
+        <persName>Ernie Paolone</persName>
+      </person>
+      <person xml:id="ttu_469_person_23">
+        <persName>Sergeant Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_24">
+        <persName>Captain</persName>
+      </person>
+      <person xml:id="ttu_469_person_25">
+        <persName>Sergeant Castleberry</persName>
+      </person>
+      <person xml:id="ttu_469_person_26">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_27">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_28">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_29">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_30">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_31">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_32">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_33">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_34">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_469_person_35">
+        <persName>Paolone</persName>
+      </person>
+      <person xml:id="ttu_469_person_36">
+        <persName>Paolone</persName>
+      </person>
+      <person xml:id="ttu_469_person_37">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_38">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_39">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_40">
+        <persName>Paolone</persName>
+      </person>
+      <person xml:id="ttu_469_person_41">
+        <persName>Paolone</persName>
+      </person>
+      <person xml:id="ttu_469_person_42">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_43">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_44">
+        <persName>Captain Edwards</persName>
+      </person>
+      <person xml:id="ttu_469_person_45">
+        <persName>Ervin</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_469_org_0">
+        <orgName>1st of the 21st artillery</orgName>
+      </org>
+      <org xml:id="ttu_469_org_1">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_2">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_3">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_4">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_5">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_6">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_7">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_8">
+        <orgName>army</orgName>
+      </org>
+      <org xml:id="ttu_469_org_9">
+        <orgName>C Company, 1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_469_org_10">
+        <orgName>C of 1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_469_org_11">
+        <orgName>1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_469_org_12">
+        <orgName>Charlie Company, 1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_469_org_13">
+        <orgName>Charlie Company, 1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_469_org_14">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_469_org_15">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_469_org_16">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_469_org_17">
+        <orgName>ROTC (Reserve Officer Training Corps)</orgName>
+      </org>
+      <org xml:id="ttu_469_org_18">
+        <orgName>OCS (Officer Candidate School)</orgName>
+      </org>
+      <org xml:id="ttu_469_org_19">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_469_org_20">
+        <orgName>North Vietnamese rebel army</orgName>
+      </org>
+      <org xml:id="ttu_469_org_21">
+        <orgName>NVA (North Vietnamese Army)</orgName>
+      </org>
+      <org xml:id="ttu_469_org_22">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_469_org_23">
+        <orgName>NVA</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
