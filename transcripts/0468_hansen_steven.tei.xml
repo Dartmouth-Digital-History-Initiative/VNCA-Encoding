@@ -12,7 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
-      <idno type="DDHI">ttu_468</idno>
+        <idno type="DDHI">ttu_468</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
@@ -59,73 +59,73 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MILAM">I'm Doctor <persName>Ron Milam</persName> of <orgName>Texas Tech University</orgName> and the <orgName>Vietnam Center</orgName>. Today I am interviewing <persName>Steven Hansen</persName>. <persName>Steven</persName>, I’d like to start out by asking you to tell me your MOS (Military Occupational Specialty) was and your responsibilities <date when="1965-11-14">November 14th, 1965</date>.</u>
-      <u who="HANSEN">My MOS was <orgName>11 Charlie</orgName>, which was heavy weapons infantrymen. I was assigned to <orgName>Company D</orgName>, this sometimes confuses people but I was assigned to <orgName>Company D</orgName>, which was not a rifle company, it was a combat support company and it consisted of a heavy mortar platoon, a reconnaissance platoon, and an anti-tank platoon. I was in the heavy mortar platoon and my job was forward observer. In the <name type="event">Ia Drang</name>, I was attached to <orgName>Company A.</orgName> I was one of the three forward observers for the platoon, each one going where the company.</u>
-      <u who="MILAM"><orgName>1st of the 7th</orgName>?</u>
-      <u who="HANSEN"><orgName>1st of the 7th</orgName>.</u>
-      <u who="MILAM">So you were with <persName>Tony Nadal</persName>?</u>
-      <u who="HANSEN">I was with <persName>Tony Nadal</persName>. I was actually a team leader, if you use that term. I had a radio operator, <persName>Ray Tanner</persName>, who accompanied me, Specialist 4th Class <persName>Ray Tanner</persName>. I was a buck sergeant. </u>
+      <u who="MILAM">I'm Doctor <persName ref="#ttu_468_person_0">Ron Milam</persName> of <orgName ref="#ttu_468_org_0">Texas Tech University</orgName> and the <orgName ref="#ttu_468_org_1">Vietnam Center</orgName>. Today I am interviewing <persName ref="#ttu_468_person_1">Steven Hansen</persName>. <persName ref="#ttu_468_person_2">Steven</persName>, I’d like to start out by asking you to tell me your MOS (Military Occupational Specialty) was and your responsibilities <date when="1965-11-14">November 14th, 1965</date>.</u>
+      <u who="HANSEN">My MOS was <orgName ref="#ttu_468_org_2">11 Charlie</orgName>, which was heavy weapons infantrymen. I was assigned to <orgName ref="#ttu_468_org_3">Company D</orgName>, this sometimes confuses people but I was assigned to <orgName ref="#ttu_468_org_4">Company D</orgName>, which was not a rifle company, it was a combat support company and it consisted of a heavy mortar platoon, a reconnaissance platoon, and an anti-tank platoon. I was in the heavy mortar platoon and my job was forward observer. In the <name type="event" ref="#ttu_468_event_0">Ia Drang</name>, I was attached to <orgName ref="#ttu_468_org_5">Company A.</orgName> I was one of the three forward observers for the platoon, each one going where the company.</u>
+      <u who="MILAM"><orgName ref="#ttu_468_org_6">1st of the 7th</orgName>?</u>
+      <u who="HANSEN"><orgName ref="#ttu_468_org_7">1st of the 7th</orgName>.</u>
+      <u who="MILAM">So you were with <persName ref="#ttu_468_person_3">Tony Nadal</persName>?</u>
+      <u who="HANSEN">I was with <persName ref="#ttu_468_person_4">Tony Nadal</persName>. I was actually a team leader, if you use that term. I had a radio operator, <persName ref="#ttu_468_person_5">Ray Tanner</persName>, who accompanied me, Specialist 4th Class <persName ref="#ttu_468_person_6">Ray Tanner</persName>. I was a buck sergeant. </u>
       <u who="MILAM">You were buck sergeant on <date when="1965-11-14">November 14th</date>?</u>
       <u who="HANSEN">That’s correct.</u>
       <u who="MILAM">You’re an E5?</u>
       <u who="HANSEN">Yeah.</u>
-      <u who="MILAM">Okay, let’s go back to the time before <name type="event">Ia Drang</name>. Let’s go back to when you first became a member of the <orgName>1st Air Cav</orgName>.</u>
-      <u who="HANSEN">Well, you have to go back about eighteen months. I joined the <orgName>2nd Battalion of the 23rd Infantry</orgName> at <placeName>Kelly Hill</placeName>, at <placeName>Fort Benning</placeName>. I'm thinking it was <date when="1964-02">February of 1964</date>. I had just completed a three-year tour in <placeName>Germany</placeName> and came back to join that battalion. The battalion was in the process of reorganizing to become one of the test battalions in the <orgName>11th Air Assault Division</orgName>. It had been a mechanized battalion, they were in the process of turning in the armor personnel carriers, they were drawing the battalion down to cavalry strength. All the short time soldiers left and one of the things that I think helped us so much later on is that we pretty much purged the battalion of the soldiers with flat feet and other reasons for not participating fully in the training. We didn’t have any slackers left. All the sergeants and all the officers were very well called, and I think we have a real strong cavalry. Shortly after I arrived, we began receiving replacement soldiers. Unlike most situations, the soldiers we got came straight to us from basic training. They had not been to advanced infantry training. Our first job in preparation was to conduct MOS specific training for the soldiers that came in. We received some very fine soldiers. I think that one of the things that happened was whole basic training companies were loaded on buses and sent to us. So they had not been called. We got the college graduates and the other strong performers if you will, and I think that made us a much better organization. Once we completed MOS training, we started into the air assault test training.</u>
+      <u who="MILAM">Okay, let’s go back to the time before <name type="event" ref="#ttu_468_event_1">Ia Drang</name>. Let’s go back to when you first became a member of the <orgName ref="#ttu_468_org_8">1st Air Cav</orgName>.</u>
+      <u who="HANSEN">Well, you have to go back about eighteen months. I joined the <orgName ref="#ttu_468_org_9">2nd Battalion of the 23rd Infantry</orgName> at <placeName ref="#ttu_468_place_0">Kelly Hill</placeName>, at <placeName ref="#ttu_468_place_1">Fort Benning</placeName>. I'm thinking it was <date when="1964-02">February of 1964</date>. I had just completed a three-year tour in <placeName ref="#ttu_468_place_2">Germany</placeName> and came back to join that battalion. The battalion was in the process of reorganizing to become one of the test battalions in the <orgName ref="#ttu_468_org_10">11th Air Assault Division</orgName>. It had been a mechanized battalion, they were in the process of turning in the armor personnel carriers, they were drawing the battalion down to cavalry strength. All the short time soldiers left and one of the things that I think helped us so much later on is that we pretty much purged the battalion of the soldiers with flat feet and other reasons for not participating fully in the training. We didn’t have any slackers left. All the sergeants and all the officers were very well called, and I think we have a real strong cavalry. Shortly after I arrived, we began receiving replacement soldiers. Unlike most situations, the soldiers we got came straight to us from basic training. They had not been to advanced infantry training. Our first job in preparation was to conduct MOS specific training for the soldiers that came in. We received some very fine soldiers. I think that one of the things that happened was whole basic training companies were loaded on buses and sent to us. So they had not been called. We got the college graduates and the other strong performers if you will, and I think that made us a much better organization. Once we completed MOS training, we started into the air assault test training.</u>
       <u who="MILAM">And that would be about what month, would you say then that you personally got into air assault?</u>
       <u who="HANSEN">Well we began air assault training, let’s see—probably <date when="1964-04">April</date> or <date when="1964-04">May</date> we started to intensely do the air assault training.</u>
       <u who="MILAM">Of <date when="1964">’64</date>?</u>
-      <u who="HANSEN">Of <date when="1964">’64</date>. We continued that training, we went onto the exercises in the Carolinas, we went to <persName>Fort Stewart</persName>, we conducted exercises on <placeName>Fort Benning</placeName>. They would frequently pick us up in helicopters in our parking lot, in front of the barracks and fly us out to the field. If we didn’t do that, sometimes we would have morning Reveille. Command Reveille on Monday morning, pass and review in front of the battalion commander, and keep on marching out the field. We trained very intensely and very hard.</u>
-      <u who="MILAM">During that period of time, that you’re training, was there a lot of discussion about <name type="event">Vietnam</name>?</u>
-      <u who="HANSEN">You know, I have to say that not initially. But as time progressed and we saw what we were doing and we saw what was happening, it became apparent that we were probably going to get involved. I don’t think we did a lot of talking about it, I think we understood that. Shortly before we went to <placeName>Vietnam</placeName>, the parade ground suddenly had some CONEX containers. Containers that you pack up your unit equipment in for shipment. We were sitting in the dayroom a couple of days later and President <persName>Johnson</persName> made his speech in which he said, “I'm sending the <orgName>Airmobile Division</orgName> to <placeName>Vietnam</placeName>.” We looked around and said, “That’s not news.” We’d already figured out that we were going. People weren’t talking about it, but we knew.</u>
-      <u who="MILAM">The parade field there, in front of the infantry school at <placeName>Fort Benning</placeName>, you say was—</u>
-      <u who="HANSEN">No, not in front of the infantry school, in front of our battalion. We had a little battalion parade field up on <placeName>Kelly Hill</placeName> and that’s where the CONEX containers started to collect. That was a couple of days before the official announcement.</u>
+      <u who="HANSEN">Of <date when="1964">’64</date>. We continued that training, we went onto the exercises in the Carolinas, we went to <persName ref="#ttu_468_person_7">Fort Stewart</persName>, we conducted exercises on <placeName ref="#ttu_468_place_3">Fort Benning</placeName>. They would frequently pick us up in helicopters in our parking lot, in front of the barracks and fly us out to the field. If we didn’t do that, sometimes we would have morning Reveille. Command Reveille on Monday morning, pass and review in front of the battalion commander, and keep on marching out the field. We trained very intensely and very hard.</u>
+      <u who="MILAM">During that period of time, that you’re training, was there a lot of discussion about <name type="event" ref="#ttu_468_event_2">Vietnam</name>?</u>
+      <u who="HANSEN">You know, I have to say that not initially. But as time progressed and we saw what we were doing and we saw what was happening, it became apparent that we were probably going to get involved. I don’t think we did a lot of talking about it, I think we understood that. Shortly before we went to <placeName ref="#ttu_468_place_4">Vietnam</placeName>, the parade ground suddenly had some CONEX containers. Containers that you pack up your unit equipment in for shipment. We were sitting in the dayroom a couple of days later and President <persName ref="#ttu_468_person_8">Johnson</persName> made his speech in which he said, “I'm sending the <orgName ref="#ttu_468_org_11">Airmobile Division</orgName> to <placeName ref="#ttu_468_place_5">Vietnam</placeName>.” We looked around and said, “That’s not news.” We’d already figured out that we were going. People weren’t talking about it, but we knew.</u>
+      <u who="MILAM">The parade field there, in front of the infantry school at <placeName ref="#ttu_468_place_6">Fort Benning</placeName>, you say was—</u>
+      <u who="HANSEN">No, not in front of the infantry school, in front of our battalion. We had a little battalion parade field up on <placeName ref="#ttu_468_place_7">Kelly Hill</placeName> and that’s where the CONEX containers started to collect. That was a couple of days before the official announcement.</u>
       <u who="MILAM">It may have been a surprise to the world, but it wasn’t a surprise to those—</u>
       <u who="HANSEN">I think people knew what was going to happen.</u>
-      <u who="MILAM">As you were saying, let’s pick three or four months before <persName>Johnson</persName>’s announcement. Did you notice any intensity of training?</u>
+      <u who="MILAM">As you were saying, let’s pick three or four months before <persName ref="#ttu_468_person_9">Johnson</persName>’s announcement. Did you notice any intensity of training?</u>
       <u who="HANSEN">No, I don’t think so. I certainly don’t have a recollection of it.</u>
-      <u who="MILAM">What did you know about <name type="event">Vietnam</name>?</u>
-      <u who="HANSEN">Not very much, to be honest, I really didn’t know very much. I knew that <name type="event">Vietnam</name> was going on, you saw the occasional article in <orgName>LIFE Magazine</orgName> or something like that, it was a topic of discussion at times. I can remember that <name type="event">Vietnam</name> was going on while I was still in <placeName>Germany</placeName> and was receiving some attention. The advisor effort in <placeName>Vietnam</placeName> was known to me even in like <date when="1962">’62</date> and <date when="1963">’63</date>, it was topical but you know in terms of really understanding what <name type="event">Vietnam</name> was and where it was, no. I don’t think so.</u>
-      <u who="MILAM">You’d been to <placeName>Germany</placeName>, you said. You had—you were a solider that knew there was a big world out there and <orgName>America</orgName> takes part in a lot of different places. How about causalities? During the time that you were in <placeName>Benning</placeName>, <placeName>Benning</placeName> being a military town, were there stories about causalities coming back to <placeName>Columbus</placeName> or anything like that?</u>
-      <u who="HANSEN">Not really. It was still up until the time we deployed, pretty much an advisory effort. There were a couple of units that got there before us. The <orgName>173rd</orgName> out of <placeName>Okinawa</placeName> got there before us and I think—</u>
-      <u who="MILAM">The <orgName>Marines</orgName>.</u>
-      <u who="HANSEN">I think the <orgName>1st Division</orgName> had some people there and I think the <orgName>101st</orgName> had some people there. But there hadn’t been any big deployments from <placeName>Fort Benning</placeName>.</u>
-      <u who="MILAM">There hadn’t been—there wasn’t a lot of enemy contact yet that we were getting word back to, but I just wondered as a solider, if it was something that was on everyone’s—not mind, but discussion. If it was something that you talked about in the barracks all the time, until <persName>Johnson</persName>’s speech.</u>
+      <u who="MILAM">What did you know about <name type="event" ref="#ttu_468_event_3">Vietnam</name>?</u>
+      <u who="HANSEN">Not very much, to be honest, I really didn’t know very much. I knew that <name type="event" ref="#ttu_468_event_4">Vietnam</name> was going on, you saw the occasional article in <orgName ref="#ttu_468_org_12">LIFE Magazine</orgName> or something like that, it was a topic of discussion at times. I can remember that <name type="event" ref="#ttu_468_event_5">Vietnam</name> was going on while I was still in <placeName ref="#ttu_468_place_8">Germany</placeName> and was receiving some attention. The advisor effort in <placeName ref="#ttu_468_place_9">Vietnam</placeName> was known to me even in like <date when="1962">’62</date> and <date when="1963">’63</date>, it was topical but you know in terms of really understanding what <name type="event" ref="#ttu_468_event_6">Vietnam</name> was and where it was, no. I don’t think so.</u>
+      <u who="MILAM">You’d been to <placeName ref="#ttu_468_place_10">Germany</placeName>, you said. You had—you were a solider that knew there was a big world out there and <orgName ref="#ttu_468_org_13">America</orgName> takes part in a lot of different places. How about causalities? During the time that you were in <placeName ref="#ttu_468_place_11">Benning</placeName>, <placeName ref="#ttu_468_place_12">Benning</placeName> being a military town, were there stories about causalities coming back to <placeName ref="#ttu_468_place_13">Columbus</placeName> or anything like that?</u>
+      <u who="HANSEN">Not really. It was still up until the time we deployed, pretty much an advisory effort. There were a couple of units that got there before us. The <orgName ref="#ttu_468_org_14">173rd</orgName> out of <placeName ref="#ttu_468_place_14">Okinawa</placeName> got there before us and I think—</u>
+      <u who="MILAM">The <orgName ref="#ttu_468_org_15">Marines</orgName>.</u>
+      <u who="HANSEN">I think the <orgName ref="#ttu_468_org_16">1st Division</orgName> had some people there and I think the <orgName ref="#ttu_468_org_17">101st</orgName> had some people there. But there hadn’t been any big deployments from <placeName ref="#ttu_468_place_15">Fort Benning</placeName>.</u>
+      <u who="MILAM">There hadn’t been—there wasn’t a lot of enemy contact yet that we were getting word back to, but I just wondered as a solider, if it was something that was on everyone’s—not mind, but discussion. If it was something that you talked about in the barracks all the time, until <persName ref="#ttu_468_person_10">Johnson</persName>’s speech.</u>
       <u who="HANSEN">I don’t think so. I think we talked about it, it was a topic of discussion sometimes, but I don’t think that we were really that heavily focused on it. Some people may have been, I don’t recall that I was.</u>
-      <u who="MILAM">In training at <placeName>Fort Benning</placeName>, you were using the M14 I assume, as your basic weapon?</u>
+      <u who="MILAM">In training at <placeName ref="#ttu_468_place_16">Fort Benning</placeName>, you were using the M14 I assume, as your basic weapon?</u>
       <u who="HANSEN">M14 was our weapon.</u>
       <u who="MILAM">When you went to the range, did you fire the M14 on fully automatic very much? Or was it mostly considered a semi-automatic weapon?</u>
       <u who="HANSEN">Well, in order for you to have a fully automatic M14, you had to be in a rifle fire team, and you had to be the designated BAR (Browning Automatic Rifle) man. The M14E2, I think they called it, with the bipod and the pistol grip stock and the fully automatic capability was a replacement for the Browning Automatic Rifle, which incidentally was being phased out just as I came into the army.</u>
-      <u who="MILAM">I see. Interesting. The M16 was being—you’d heard about it, but you weren’t trained on it as I understand it, in <placeName>Benning</placeName>, was that right?</u>
+      <u who="MILAM">I see. Interesting. The M16 was being—you’d heard about it, but you weren’t trained on it as I understand it, in <placeName ref="#ttu_468_place_17">Benning</placeName>, was that right?</u>
       <u who="HANSEN">Nope, we got our M16 shortly before deployment. We did get an opportunity to fire them on the rifle range and qualify with them and so forth, but it was not a familiar weapon when we departed.</u>
       <u who="MILAM">Which ship did you go over on?</u>
-      <u who="HANSEN">We went on the Rose. The <orgName>1st of the 7th</orgName> Rose </u>
+      <u who="HANSEN">We went on the Rose. The <orgName ref="#ttu_468_org_18">1st of the 7th</orgName> Rose </u>
       <u who="MILAM">You were on the Rose?</u>
       <u who="HANSEN">Yes.</u>
-      <u who="MILAM">So you’re issued the M16 that you would carry into combat at <placeName>Fort Benning</placeName>. You got a chance to test it out, what was your reaction to it?</u>
-      <u who="HANSEN">I'm a big guy and I can carry an M14 and I liked the M14. I liked the M1 and I liked the M14, I could handle it well. But my initial impression with the M16 was that it was a toy. I came to respect it; I never had any trouble with my M16. I fired a lot of rounds through the M16 that I was issued over the year that I was in <placeName>Vietnam</placeName> and it never failed me. I think today, I would say that the ability to carry more ammunition, with the M14, you carried a hundred-and-twenty rounds. With an M16, you could put five or six hundred rounds in your buttpack and that was certainly a distinctive advantage. Plus, much of the terrain that we operated in, the M16 was fully adequate. There were very rare occasions when you needed the effective range of an M14.</u>
-      <u who="MILAM">During your training at <placeName>Benning</placeName>, I know you described it and we’ll talk later about <name type="event">Ia Drang</name> and what your role was there. But as your training at <placeName>Benning</placeName>, you are in the mortar platoon?</u>
+      <u who="MILAM">So you’re issued the M16 that you would carry into combat at <placeName ref="#ttu_468_place_18">Fort Benning</placeName>. You got a chance to test it out, what was your reaction to it?</u>
+      <u who="HANSEN">I'm a big guy and I can carry an M14 and I liked the M14. I liked the M1 and I liked the M14, I could handle it well. But my initial impression with the M16 was that it was a toy. I came to respect it; I never had any trouble with my M16. I fired a lot of rounds through the M16 that I was issued over the year that I was in <placeName ref="#ttu_468_place_19">Vietnam</placeName> and it never failed me. I think today, I would say that the ability to carry more ammunition, with the M14, you carried a hundred-and-twenty rounds. With an M16, you could put five or six hundred rounds in your buttpack and that was certainly a distinctive advantage. Plus, much of the terrain that we operated in, the M16 was fully adequate. There were very rare occasions when you needed the effective range of an M14.</u>
+      <u who="MILAM">During your training at <placeName ref="#ttu_468_place_20">Benning</placeName>, I know you described it and we’ll talk later about <name type="event" ref="#ttu_468_event_7">Ia Drang</name> and what your role was there. But as your training at <placeName ref="#ttu_468_place_21">Benning</placeName>, you are in the mortar platoon?</u>
       <u who="HANSEN">That’s correct.</u>
       <u who="MILAM">You’re an E5 during most of that training?</u>
       <u who="HANSEN">That’s correct.</u>
-      <u who="MILAM">So your anticipation—what was the anticipation of your role once you got to <placeName>Vietnam</placeName>? Did you assume you’d be a mortarman?</u>
-      <u who="HANSEN">I knew that I was going to mortarman when we went to <placeName>Vietnam</placeName>. Just prior to going to <placeName>Vietnam</placeName>, we reorganized <orgName>Delta Company</orgName>. During the training phase, all of the mortars in the battalion had been in one big platoon, in <orgName>Delta Company</orgName>. There were four sub-platoons or sections. One for each rifle company, plus the heavy section. I was, all through the training at <placeName>Fort Benning</placeName>, I was with the section that went with <orgName>Company C</orgName>. I was a forward observer with one of the platoons in <orgName>Company C</orgName>. But I was also one of the senior sergeants, young E5s, I was young, but I had been a sergeant for quite a while. When they reorganized the battalion, I was kept in the heavy mortar platoon and became a company level FO (Forward Observer), and I knew that’s what I was going to do. I was a forward observer, that was my niche, and I knew that I would be going. Ironically, if I’d gone with <orgName>C Company</orgName>, I'm also assured I would’ve been killed in the <name type="event">Ia Drang</name>. The fortunous assignment of me to stay in the heavy mortar platoon and go with <orgName>Company A</orgName>, probably saved my life.</u>
-      <u who="MILAM">Except <orgName>Company A</orgName> had a lot of causalities.</u>
-      <u who="HANSEN">Yes. <orgName>Company A</orgName> had a lot of causalities.</u>
-      <u who="MILAM">I was fortunate to talk to <persName>Tony Nadal</persName> yesterday—</u>
-      <u who="HANSEN"><persName>Tony</persName> has been a lifetime friend. Of all the company commanders I had when I was in the army, I think <persName>Tony Nadal</persName> was the most natural leader that I have ever seen. He was very—all of the company commanders in the battalion were good. <persName>John Herren</persName> in <orgName>B Company</orgName> and <persName>Bob Edwards</persName> in <orgName>C Company</orgName>, they were superb company commanders but I told <persName>Tony</persName> this the other night, I said, “<persName>Tony</persName>, when I become company commander, you were the man that I tried to emulate. I couldn’t do it, but you were my model.”</u>
+      <u who="MILAM">So your anticipation—what was the anticipation of your role once you got to <placeName ref="#ttu_468_place_22">Vietnam</placeName>? Did you assume you’d be a mortarman?</u>
+      <u who="HANSEN">I knew that I was going to mortarman when we went to <placeName ref="#ttu_468_place_23">Vietnam</placeName>. Just prior to going to <placeName ref="#ttu_468_place_24">Vietnam</placeName>, we reorganized <orgName ref="#ttu_468_org_19">Delta Company</orgName>. During the training phase, all of the mortars in the battalion had been in one big platoon, in <orgName ref="#ttu_468_org_20">Delta Company</orgName>. There were four sub-platoons or sections. One for each rifle company, plus the heavy section. I was, all through the training at <placeName ref="#ttu_468_place_25">Fort Benning</placeName>, I was with the section that went with <orgName ref="#ttu_468_org_21">Company C</orgName>. I was a forward observer with one of the platoons in <orgName ref="#ttu_468_org_22">Company C</orgName>. But I was also one of the senior sergeants, young E5s, I was young, but I had been a sergeant for quite a while. When they reorganized the battalion, I was kept in the heavy mortar platoon and became a company level FO (Forward Observer), and I knew that’s what I was going to do. I was a forward observer, that was my niche, and I knew that I would be going. Ironically, if I’d gone with <orgName ref="#ttu_468_org_23">C Company</orgName>, I'm also assured I would’ve been killed in the <name type="event" ref="#ttu_468_event_8">Ia Drang</name>. The fortunous assignment of me to stay in the heavy mortar platoon and go with <orgName ref="#ttu_468_org_24">Company A</orgName>, probably saved my life.</u>
+      <u who="MILAM">Except <orgName ref="#ttu_468_org_25">Company A</orgName> had a lot of causalities.</u>
+      <u who="HANSEN">Yes. <orgName ref="#ttu_468_org_26">Company A</orgName> had a lot of causalities.</u>
+      <u who="MILAM">I was fortunate to talk to <persName ref="#ttu_468_person_11">Tony Nadal</persName> yesterday—</u>
+      <u who="HANSEN"><persName ref="#ttu_468_person_12">Tony</persName> has been a lifetime friend. Of all the company commanders I had when I was in the army, I think <persName ref="#ttu_468_person_13">Tony Nadal</persName> was the most natural leader that I have ever seen. He was very—all of the company commanders in the battalion were good. <persName ref="#ttu_468_person_14">John Herren</persName> in <orgName ref="#ttu_468_org_27">B Company</orgName> and <persName ref="#ttu_468_person_15">Bob Edwards</persName> in <orgName ref="#ttu_468_org_28">C Company</orgName>, they were superb company commanders but I told <persName ref="#ttu_468_person_16">Tony</persName> this the other night, I said, “<persName ref="#ttu_468_person_17">Tony</persName>, when I become company commander, you were the man that I tried to emulate. I couldn’t do it, but you were my model.”</u>
       <u who="MILAM">Let’s talk about deployment. You get on the Rose, you are I guess, on ship for thirty days or so?</u>
       <u who="HANSEN">Yeah.</u>
-      <u who="MILAM">You end up at <placeName>Qui Nhon</placeName>?</u>
-      <u who="HANSEN"><placeName>Qui Nhon</placeName>.</u>
-      <u who="MILAM"><placeName>Qui Nhon</placeName>. What’s <placeName>An Khe</placeName> like?</u>
-      <u who="HANSEN"><placeName>An Khe</placeName> really was primitive. There’s something I’d like to tell you and include in the history, when the Rose went to <placeName>Vietnam</placeName>, we sailed through the <placeName>Panama Canal</placeName>. We came up to West Coast of the <placeName>United States</placeName> and docked at <placeName>Pier E</placeName>, in <placeName>Long Beach</placeName>, in <placeName>California</placeName>. I'm a Californian. I was one of four or five guys that was allowed off the ship to go to see our family. Of course, they didn’t know I was coming; my mother and her husband were out of town on vacation, I did hook up with my brother and spent a little time with him. <persName>Bob Gomez</persName>, who joined the battalion just before we deployed and was killed with <orgName>Company C</orgName>, a good friend of mine, he was a heavy mortar FO for <orgName>Company C</orgName>, also got off the boat and was able to hook up with his wife, and of course he was killed in the <name type="event">Ia Drang</name>, so that was one last opportunity for him to see his wife and family. I often thought that that was divine. Got to <placeName>An Khe</placeName>, <placeName>An Khe</placeName> was primitive but we went to work. I mean, they put us to work. One of the generals, who had gone over with the advanced party, the brigadiers, had been a prisoner of war in <name type="event">World War II</name> and had been held by the <orgName>Japanese</orgName>, and they had made them clear by hand landing fields, air fields and so forth, when he was a prisoner of war. He thought that was a good idea because it didn’t tear up the soil and you didn’t have erosion or whatever. We set to hacking down the jungle with anything we had, trenching tools, hand tools and so forth and actually started clearing the perimeter, which became called “The Green Line” and those sorts of things. It was hard manual work, and it was probably good for us because we kind of gotten a little fat on the boat.</u>
-      <u who="MILAM">(Chuckles) Was there an engineering battalion attached to the <orgName>1st Cav</orgName>?</u>
-      <u who="HANSEN">Yes, the <orgName>15th Engineers</orgName>.</u>
+      <u who="MILAM">You end up at <placeName ref="#ttu_468_place_26">Qui Nhon</placeName>?</u>
+      <u who="HANSEN"><placeName ref="#ttu_468_place_27">Qui Nhon</placeName>.</u>
+      <u who="MILAM"><placeName ref="#ttu_468_place_28">Qui Nhon</placeName>. What’s <placeName ref="#ttu_468_place_29">An Khe</placeName> like?</u>
+      <u who="HANSEN"><placeName ref="#ttu_468_place_30">An Khe</placeName> really was primitive. There’s something I’d like to tell you and include in the history, when the Rose went to <placeName ref="#ttu_468_place_31">Vietnam</placeName>, we sailed through the <placeName ref="#ttu_468_place_32">Panama Canal</placeName>. We came up to West Coast of the <placeName ref="#ttu_468_place_33">United States</placeName> and docked at <placeName ref="#ttu_468_place_34">Pier E</placeName>, in <placeName ref="#ttu_468_place_35">Long Beach</placeName>, in <placeName ref="#ttu_468_place_36">California</placeName>. I'm a Californian. I was one of four or five guys that was allowed off the ship to go to see our family. Of course, they didn’t know I was coming; my mother and her husband were out of town on vacation, I did hook up with my brother and spent a little time with him. <persName ref="#ttu_468_person_18">Bob Gomez</persName>, who joined the battalion just before we deployed and was killed with <orgName ref="#ttu_468_org_29">Company C</orgName>, a good friend of mine, he was a heavy mortar FO for <orgName ref="#ttu_468_org_30">Company C</orgName>, also got off the boat and was able to hook up with his wife, and of course he was killed in the <name type="event" ref="#ttu_468_event_9">Ia Drang</name>, so that was one last opportunity for him to see his wife and family. I often thought that that was divine. Got to <placeName ref="#ttu_468_place_37">An Khe</placeName>, <placeName ref="#ttu_468_place_38">An Khe</placeName> was primitive but we went to work. I mean, they put us to work. One of the generals, who had gone over with the advanced party, the brigadiers, had been a prisoner of war in <name type="event" ref="#ttu_468_event_10">World War II</name> and had been held by the <orgName ref="#ttu_468_org_31">Japanese</orgName>, and they had made them clear by hand landing fields, air fields and so forth, when he was a prisoner of war. He thought that was a good idea because it didn’t tear up the soil and you didn’t have erosion or whatever. We set to hacking down the jungle with anything we had, trenching tools, hand tools and so forth and actually started clearing the perimeter, which became called “The Green Line” and those sorts of things. It was hard manual work, and it was probably good for us because we kind of gotten a little fat on the boat.</u>
+      <u who="MILAM">(Chuckles) Was there an engineering battalion attached to the <orgName ref="#ttu_468_org_32">1st Cav</orgName>?</u>
+      <u who="HANSEN">Yes, the <orgName ref="#ttu_468_org_33">15th Engineers</orgName>.</u>
       <u who="MILAM">Okay, and they helped with—</u>
       <u who="HANSEN">Yes. Yes, they did.</u>
       <u who="MILAM">The grunt work was done by the soldiers?</u>
-      <u who="HANSEN">Well we went out—if you wanted to pitch a tent, you had to chop down a tree. In many cases, not completely, the center of the valley that became <placeName>Camp Radcliff</placeName> was open, but the perimeter around had to be cleared by hand.</u>
-      <u who="MILAM">I assume you set up defensive perimeter immediately, at <placeName>An Khe</placeName>—</u>
+      <u who="HANSEN">Well we went out—if you wanted to pitch a tent, you had to chop down a tree. In many cases, not completely, the center of the valley that became <placeName ref="#ttu_468_place_39">Camp Radcliff</placeName> was open, but the perimeter around had to be cleared by hand.</u>
+      <u who="MILAM">I assume you set up defensive perimeter immediately, at <placeName ref="#ttu_468_place_40">An Khe</placeName>—</u>
       <u who="HANSEN">Yes, we did.</u>
       <u who="MILAM">Because no one knew for sure what that area was going to have intelligence wise, in terms of what kind of enemy was out there. What kind of enemy contact did you experience in say, the first month?</u>
       <u who="HANSEN">You know, I don’t think we experienced much enemy contact at all, I think the enemy was there, I think they were trying to get a feel for us. I know that in one of the—over by brigade headquarters, they killed a North Vietnamese or Viet Cong solider that was probably infiltrating or may have just been lost.</u>
@@ -133,17 +133,369 @@
       <u who="HANSEN">It was pretty quiet.</u>
       <u who="MILAM">Compared to what would come, certainly. But even so, mortars or rockets into the camp?</u>
       <u who="HANSEN">No, no mortars or rockets into the camp.</u>
-      <u who="MILAM">Did you participate in “<name type="event">Operation Silver Bayonet</name>”?</u>
-      <u who="HANSEN">In <placeName>Happy Valley</placeName>? Yes, I did.</u>
+      <u who="MILAM">Did you participate in “<name type="event" ref="#ttu_468_event_11">Operation Silver Bayonet</name>”?</u>
+      <u who="HANSEN">In <placeName ref="#ttu_468_place_41">Happy Valley</placeName>? Yes, I did.</u>
       <u who="MILAM">As I understand it, that was kind of the first major operation of the unit. </u>
       <u who="HANSEN">It was a big operation, but it was not characterized by a lot of contact though.</u>
       <u who="MILAM">Right, right. But at least it gave you a chance to operate in a battalion-sized strength or later, I guess, maybe it was a brigade operation. But at least it gave chance to check your equipment out and that sort of thing.</u>
       <u who="HANSEN">Yeah, it did and the shake down. I think it was the first time we really transitioned from this defensive mentality to an offensive mentality, and from a setting up to an operational mentality.</u>
-      <u who="MILAM">Now, somewhere around the middle of—well, not the <date when="1965-11-10">10th of November</date>, as I try to put these dates together. Somewhere between the <date when="1965-11-05">5th</date> and the <date when="1965-11-10">10th</date>, I guess, you’re moved to <placeName>Pleiku</placeName> from <placeName>An Khe</placeName>, certain units, were you a part of that?</u>
-      <u who="HANSEN">Yes. As I recall, the move came very quickly. We were ordered up very quickly, we were at <placeName>An Khe</placeName>. The airborne brigade, the <orgName>1st Brigade</orgName> of the division had been operating in <placeName>Pleiku</placeName>, along with the <orgName>1st of the 9th Cav</orgName>. This was all in response to the North Vietnamese siege of <placeName>Plei Me Special Forces Camp</placeName>. We went up and relieved the first brigade and conducted some rather extensive patrols without making contact. We were physically in the jungle, working very hard. We had not made contact at that point.</u>
+      <u who="MILAM">Now, somewhere around the middle of—well, not the <date when="1965-11-10">10th of November</date>, as I try to put these dates together. Somewhere between the <date when="1965-11-05">5th</date> and the <date when="1965-11-10">10th</date>, I guess, you’re moved to <placeName ref="#ttu_468_place_42">Pleiku</placeName> from <placeName ref="#ttu_468_place_43">An Khe</placeName>, certain units, were you a part of that?</u>
+      <u who="HANSEN">Yes. As I recall, the move came very quickly. We were ordered up very quickly, we were at <placeName ref="#ttu_468_place_44">An Khe</placeName>. The airborne brigade, the <orgName ref="#ttu_468_org_34">1st Brigade</orgName> of the division had been operating in <placeName ref="#ttu_468_place_45">Pleiku</placeName>, along with the <orgName ref="#ttu_468_org_35">1st of the 9th Cav</orgName>. This was all in response to the North Vietnamese siege of <placeName ref="#ttu_468_place_46">Plei Me Special Forces Camp</placeName>. We went up and relieved the first brigade and conducted some rather extensive patrols without making contact. We were physically in the jungle, working very hard. We had not made contact at that point.</u>
       <u who="MILAM">What do you recall about what you knew, as a buck sergeant, about the intelligence, about where you were going? Did you know anything? Or just that you were supposed to move to this place?</u>
       <u who="HANSEN">The word never gets really down. I learned later, when I got up into the middle leadership ranks, that no matter what I said at the top never got to the bottom. Certainly, not the way I wanted it to. One of the things that happened is, of course they say, “This is going to be the big one. This is going to be the big one. They’re really there.” Then you fly into some place and there wouldn’t be anybody there. They did tell us before we went into the Ia Drang, that this was going to be a big one. Whether anyone really accepted that or not, is another thing.</u>
       <u who="MILAM">That’s interesting because you had some other operations and nothing’s happened and people had told you it would happen. Did you get the sense that anyone believed it this time?(Editor’s note: Audio cuts out here.)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_468_place_0">
+        <placeName>Kelly Hill</placeName>
+      </place>
+      <place xml:id="ttu_468_place_1">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_2">
+        <placeName>Germany</placeName>
+      </place>
+      <place xml:id="ttu_468_place_3">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_4">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_5">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_6">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_7">
+        <placeName>Kelly Hill</placeName>
+      </place>
+      <place xml:id="ttu_468_place_8">
+        <placeName>Germany</placeName>
+      </place>
+      <place xml:id="ttu_468_place_9">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_10">
+        <placeName>Germany</placeName>
+      </place>
+      <place xml:id="ttu_468_place_11">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_12">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_13">
+        <placeName>Columbus</placeName>
+      </place>
+      <place xml:id="ttu_468_place_14">
+        <placeName>Okinawa</placeName>
+      </place>
+      <place xml:id="ttu_468_place_15">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_16">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_17">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_18">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_19">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_20">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_21">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_22">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_23">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_24">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_25">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_468_place_26">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_468_place_27">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_468_place_28">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_468_place_29">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_468_place_30">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_468_place_31">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_468_place_32">
+        <placeName>Panama Canal</placeName>
+      </place>
+      <place xml:id="ttu_468_place_33">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="ttu_468_place_34">
+        <placeName>Pier E</placeName>
+      </place>
+      <place xml:id="ttu_468_place_35">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="ttu_468_place_36">
+        <placeName>California</placeName>
+      </place>
+      <place xml:id="ttu_468_place_37">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_468_place_38">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_468_place_39">
+        <placeName>Camp Radcliff</placeName>
+      </place>
+      <place xml:id="ttu_468_place_40">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_468_place_41">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_468_place_42">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_468_place_43">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_468_place_44">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_468_place_45">
+        <placeName>Pleiku</placeName>
+      </place>
+      <place xml:id="ttu_468_place_46">
+        <placeName>Plei Me Special Forces Camp</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_468_event_0">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_468_event_1">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_468_event_2">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="ttu_468_event_3">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="ttu_468_event_4">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="ttu_468_event_5">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="ttu_468_event_6">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="ttu_468_event_7">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_468_event_8">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_468_event_9">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_468_event_10">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="ttu_468_event_11">
+        <desc>Operation Silver Bayonet</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_468_person_0">
+        <persName>Ron Milam</persName>
+      </person>
+      <person xml:id="ttu_468_person_1">
+        <persName>Steven Hansen</persName>
+      </person>
+      <person xml:id="ttu_468_person_2">
+        <persName>Steven</persName>
+      </person>
+      <person xml:id="ttu_468_person_3">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_468_person_4">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_468_person_5">
+        <persName>Ray Tanner</persName>
+      </person>
+      <person xml:id="ttu_468_person_6">
+        <persName>Ray Tanner</persName>
+      </person>
+      <person xml:id="ttu_468_person_7">
+        <persName>Fort Stewart</persName>
+      </person>
+      <person xml:id="ttu_468_person_8">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="ttu_468_person_9">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="ttu_468_person_10">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="ttu_468_person_11">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_468_person_12">
+        <persName>Tony</persName>
+      </person>
+      <person xml:id="ttu_468_person_13">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_468_person_14">
+        <persName>John Herren</persName>
+      </person>
+      <person xml:id="ttu_468_person_15">
+        <persName>Bob Edwards</persName>
+      </person>
+      <person xml:id="ttu_468_person_16">
+        <persName>Tony</persName>
+      </person>
+      <person xml:id="ttu_468_person_17">
+        <persName>Tony</persName>
+      </person>
+      <person xml:id="ttu_468_person_18">
+        <persName>Bob Gomez</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_468_org_0">
+        <orgName>Texas Tech University</orgName>
+      </org>
+      <org xml:id="ttu_468_org_1">
+        <orgName>Vietnam Center</orgName>
+      </org>
+      <org xml:id="ttu_468_org_2">
+        <orgName>11 Charlie</orgName>
+      </org>
+      <org xml:id="ttu_468_org_3">
+        <orgName>Company D</orgName>
+      </org>
+      <org xml:id="ttu_468_org_4">
+        <orgName>Company D</orgName>
+      </org>
+      <org xml:id="ttu_468_org_5">
+        <orgName>Company A.</orgName>
+      </org>
+      <org xml:id="ttu_468_org_6">
+        <orgName>1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_468_org_7">
+        <orgName>1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_468_org_8">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_468_org_9">
+        <orgName>2nd Battalion of the 23rd Infantry</orgName>
+      </org>
+      <org xml:id="ttu_468_org_10">
+        <orgName>11th Air Assault Division</orgName>
+      </org>
+      <org xml:id="ttu_468_org_11">
+        <orgName>Airmobile Division</orgName>
+      </org>
+      <org xml:id="ttu_468_org_12">
+        <orgName>LIFE Magazine</orgName>
+      </org>
+      <org xml:id="ttu_468_org_13">
+        <orgName>America</orgName>
+      </org>
+      <org xml:id="ttu_468_org_14">
+        <orgName>173rd</orgName>
+      </org>
+      <org xml:id="ttu_468_org_15">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="ttu_468_org_16">
+        <orgName>1st Division</orgName>
+      </org>
+      <org xml:id="ttu_468_org_17">
+        <orgName>101st</orgName>
+      </org>
+      <org xml:id="ttu_468_org_18">
+        <orgName>1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_468_org_19">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_468_org_20">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_468_org_21">
+        <orgName>Company C</orgName>
+      </org>
+      <org xml:id="ttu_468_org_22">
+        <orgName>Company C</orgName>
+      </org>
+      <org xml:id="ttu_468_org_23">
+        <orgName>C Company</orgName>
+      </org>
+      <org xml:id="ttu_468_org_24">
+        <orgName>Company A</orgName>
+      </org>
+      <org xml:id="ttu_468_org_25">
+        <orgName>Company A</orgName>
+      </org>
+      <org xml:id="ttu_468_org_26">
+        <orgName>Company A</orgName>
+      </org>
+      <org xml:id="ttu_468_org_27">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_468_org_28">
+        <orgName>C Company</orgName>
+      </org>
+      <org xml:id="ttu_468_org_29">
+        <orgName>Company C</orgName>
+      </org>
+      <org xml:id="ttu_468_org_30">
+        <orgName>Company C</orgName>
+      </org>
+      <org xml:id="ttu_468_org_31">
+        <orgName>Japanese</orgName>
+      </org>
+      <org xml:id="ttu_468_org_32">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_468_org_33">
+        <orgName>15th Engineers</orgName>
+      </org>
+      <org xml:id="ttu_468_org_34">
+        <orgName>1st Brigade</orgName>
+      </org>
+      <org xml:id="ttu_468_org_35">
+        <orgName>1st of the 9th Cav</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
