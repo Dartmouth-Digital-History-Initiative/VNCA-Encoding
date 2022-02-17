@@ -1,5 +1,5 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_469">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,10 +12,11 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+      <idno type="DDHI">ttu_469</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="00:48:40">
+          <recording xml:id="primary_recording" type="video" dur-iso="00:48:40">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0469/OH0469.mp4" mimeType="video/mp4"/>
           </recording>
