@@ -1,60 +1,60 @@
-id	orgName
-ttu_461_org_0	9th Assault Helicopter Battalion
-ttu_461_org_1	United States Military Academy at West Point
-ttu_461_org_2	Class of ’59
-ttu_461_org_3	Class of ’59
-ttu_461_org_4	11th Air Assault
-ttu_461_org_5	10th Air Transport Brigade
-ttu_461_org_6	10th Air Transport Brigade
-ttu_461_org_7	1st Cav
-ttu_461_org_8	1st Air Cav
-ttu_461_org_9	270th Aircraft Maintenance Battalion
-ttu_461_org_10	11th Air Assault
-ttu_461_org_11	1st Air Cavalry Division
-ttu_461_org_12	1st Cav
-ttu_461_org_13	9th Cavalry
-ttu_461_org_14	1st Air Cav
-ttu_461_org_15	11th Air Assault
-ttu_461_org_16	America
-ttu_461_org_17	marines
-ttu_461_org_18	North Vietnamese
-ttu_461_org_19	academy
-ttu_461_org_20	B Company two-two-nine
-ttu_461_org_21	VC (Viet Cong)
-ttu_461_org_22	A
-ttu_461_org_23	B
-ttu_461_org_24	C
-ttu_461_org_25	229th
-ttu_461_org_26	D Company
-ttu_461_org_27	Stars and Stripes
-ttu_461_org_28	marines
-ttu_461_org_29	101st
-ttu_461_org_30	101st
-ttu_461_org_31	1st Cav
-ttu_461_org_32	101st
-ttu_461_org_33	the 1st Cav
-ttu_461_org_34	North Vietnamese
-ttu_461_org_35	101st
-ttu_461_org_36	class of ’59
-ttu_461_org_37	class of ’59
-ttu_461_org_38	10th Air Transport Brigade
-ttu_461_org_39	United States
-ttu_461_org_40	1st Air Cav
-ttu_461_org_41	Company C
-ttu_461_org_42	11th Combat Aviation Battalion
-ttu_461_org_43	393rd Transportation Aircraft Maintenance
-ttu_461_org_44	128th Assault Helicopter Company
-ttu_461_org_45	11th Combat Aviation Battalion
-ttu_461_org_46	393rd
-ttu_461_org_47	128th
-ttu_461_org_48	1st Cav
-ttu_461_org_49	1st Infantry Division
-ttu_461_org_50	Vietnamese
-ttu_461_org_51	PAE (Pacific Architects and Engineers)
-ttu_461_org_52	1st Air Cav
-ttu_461_org_53	270th
-ttu_461_org_54	1st Division
-ttu_461_org_55	University of Missouri Rolla
-ttu_461_org_56	Missouri School of Aerospace Engineering
-ttu_461_org_57	NVA
-ttu_461_org_58	1st Cav
+id	orgName	QID	ttu_id
+ttu_461_org_0	229th Aviation Regiment	Q4631295	
+ttu_461_org_1	United States Military Academy	Q9219	
+ttu_461_org_2	Class of ’59	Q110701636	
+ttu_461_org_3	Class of ’59	Q110701636	
+ttu_461_org_4	11th Airborne Division	Q169980	
+ttu_461_org_5	10th Aviation Regiment	Q4547000	
+ttu_461_org_6	10th Aviation Regiment	Q4547000	
+ttu_461_org_7	1st Cavalry Division	Q2338	
+ttu_461_org_8	1st Air Cavalry Brigade, 1st Cavalry Division	Q4596090	
+ttu_461_org_9	270th Aircraft Maintenance Battalion	Q110703813	
+ttu_461_org_10	11th Airborne Division	Q169980	
+ttu_461_org_11	1st Cavalry Division	Q2338	
+ttu_461_org_12	1st Cavalry Division	Q2338	
+ttu_461_org_13	9th Cavalry Division	Q4032698	
+ttu_461_org_14	1st Air Cavalry Brigade, 1st Cavalry Division	Q4596090	
+ttu_461_org_15	11th Airborne Division	Q169980	
+ttu_461_org_16	United States of America	Q30	
+ttu_461_org_17	United States Marine Corps	Q11218	
+ttu_461_org_18	People's Army of Vietnam	Q3936506	
+ttu_461_org_19	United States Military Academy	Q9219	
+ttu_461_org_20	229th Aviation Regiment	Q4631295	
+ttu_461_org_21	National Front for the Liberation of South Vietnam	Q174423	
+ttu_461_org_22	1st Cavalry Division	Q2338	
+ttu_461_org_23	1st Cavalry Division	Q2338	
+ttu_461_org_24	1st Cavalry Division	Q2338	
+ttu_461_org_25	229th Aviation Regiment	Q4631295	
+ttu_461_org_26	D Company	Q110954816	
+ttu_461_org_27	Stars and Stripes	Q1813221	
+ttu_461_org_28	United States Marine Corps	Q11218	
+ttu_461_org_29	101st Airborne Division	Q165256	
+ttu_461_org_30	101st Airborne Division	Q165256	
+ttu_461_org_31	1st Cavalry Division	Q2338	
+ttu_461_org_32	101st Airborne Division	Q165256	
+ttu_461_org_33	1st Cavalry Division	Q2338	
+ttu_461_org_34	People's Army of Vietnam	Q3936506	
+ttu_461_org_35	101st Airborne Division	Q165256	
+ttu_461_org_36	class of ’59	Q110701636	
+ttu_461_org_37	class of ’59	Q110701636	
+ttu_461_org_38	10th Aviation Regiment	Q4547000	
+ttu_461_org_39	United States of America	Q30	
+ttu_461_org_40	1st Air Cavalry Brigade, 1st Cavalry Division	Q4596090	
+ttu_461_org_41	Company C	Q110624759	
+ttu_461_org_42	1st Cavalry Division	Q2338	
+ttu_461_org_43	11th Aviation Battalion	Q30638592	
+ttu_461_org_44	128th Assault Helicopter Company	Q110703850	
+ttu_461_org_45	1st Cavalry Division	Q2338	
+ttu_461_org_46	11th Aviation Battalion	Q30638592	
+ttu_461_org_47	11th Aviation Battalion	Q30638592	
+ttu_461_org_48	1st Cavalry Division	Q2338	
+ttu_461_org_49	1st Infantry Division	Q163659	
+ttu_461_org_50	National Front for the Liberation of South Vietnam	Q174423	
+ttu_461_org_51	PAE (Pacific Architects and Engineers)	Q47037195	
+ttu_461_org_52	1st Air Cavalry Brigade, 1st Cavalry Division	Q4596090	
+ttu_461_org_53	270th	Q110954826	
+ttu_461_org_54	1st Division	Q2338	
+ttu_461_org_55	Missouri University of Science and Technology	Q4380853	
+ttu_461_org_56	Missouri University of Science and Technology	Q4380853	
+ttu_461_org_57	People's Army of Vietnam	Q3936506	
+ttu_461_org_58	1st Cavalry Division	Q2338	
