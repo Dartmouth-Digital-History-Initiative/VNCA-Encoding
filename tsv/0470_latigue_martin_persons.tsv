@@ -1,60 +1,60 @@
-id	persName
-ttu_470_person_0	Dr. Ron Milam
-ttu_470_person_1	Martin Latigue
-ttu_470_person_2	Latigue
-ttu_470_person_3	Latigue
-ttu_470_person_4	Martin
-ttu_470_person_5	Captain Edwards
-ttu_470_person_6	Captain Edwards
-ttu_470_person_7	Bill Franklin
-ttu_470_person_8	Bill Franklin
-ttu_470_person_9	Sergeant Freeman
-ttu_470_person_10	Sergeant Freeman
-ttu_470_person_11	Sergeant Freeman
-ttu_470_person_12	Captain Edwards
-ttu_470_person_13	President Johnson
-ttu_470_person_14	Captain Edwards
-ttu_470_person_15	Captain Edwards
-ttu_470_person_16	Captain Edwards
-ttu_470_person_17	Bill Franklin
-ttu_470_person_18	Franklin
-ttu_470_person_19	General Moore
-ttu_470_person_20	Bill Franklin
-ttu_470_person_21	Frank
-ttu_470_person_22	Joe
-ttu_470_person_23	Sergeant Freeman
-ttu_470_person_24	Charlie Company
-ttu_470_person_25	Sergeant Freeman
-ttu_470_person_26	Bill Franklin
-ttu_470_person_27	Franklin
-ttu_470_person_28	Captain Edwards
-ttu_470_person_29	Franklin
-ttu_470_person_30	Franklin
-ttu_470_person_31	Charlie Dashner
-ttu_470_person_32	Charlie
-ttu_470_person_33	Charlie
-ttu_470_person_34	Franklin
-ttu_470_person_35	Captain Edwards
-ttu_470_person_36	Sergeant Freeman
-ttu_470_person_37	Jerry Smith
-ttu_470_person_38	Sergeant Freeman
-ttu_470_person_39	Charlie Dashner
-ttu_470_person_40	Bill Franklin
-ttu_470_person_41	Sergeant Freeman
-ttu_470_person_42	Smith
-ttu_470_person_43	Charlie
-ttu_470_person_44	Charlie
-ttu_470_person_45	Charlie
-ttu_470_person_46	Charlie
-ttu_470_person_47	Sergeant Freeman
-ttu_470_person_48	Sergeant Freeman
-ttu_470_person_49	Sergeant Freeman
-ttu_470_person_50	Charlie
-ttu_470_person_51	Sergeant Freeman
-ttu_470_person_52	Charlie
-ttu_470_person_53	Charlie
-ttu_470_person_54	Charlie
-ttu_470_person_55	Charlie
-ttu_470_person_56	Charlie
-ttu_470_person_57	Martin
-ttu_470_person_58	Martin
+id	persName	QID	ttu_id
+ttu_470_person_0	Ron Milam	Q110624764	
+ttu_470_person_1	Martin Latigue	Q110973693	
+ttu_470_person_2	Martin Latigue	Q110973693	
+ttu_470_person_3	Martin Latigue	Q110973693	
+ttu_470_person_4	Martin Latigue	Q110973693	
+ttu_470_person_5	Captain Edwards		ttu_0037
+ttu_470_person_6	Captain Edwards		ttu_0037
+ttu_470_person_7	Bill Franklin		ttu_0038
+ttu_470_person_8	Bill Franklin		ttu_0038
+ttu_470_person_9	Ed Freeman	Q5334823	
+ttu_470_person_10	Ed Freeman	Q5334823	
+ttu_470_person_11	Ed Freeman	Q5334823	
+ttu_470_person_12	Captain Edwards		ttu_0037
+ttu_470_person_13	Lyndon B. Johnson	Q9640	
+ttu_470_person_14	Captain Edwards		ttu_0037
+ttu_470_person_15	Captain Edwards		ttu_0037
+ttu_470_person_16	Captain Edwards		ttu_0037
+ttu_470_person_17	Bill Franklin		ttu_0038
+ttu_470_person_18	Franklin		ttu_0038
+ttu_470_person_19	Hal Moore	Q430209	
+ttu_470_person_20	Bill Franklin		ttu_0038
+ttu_470_person_21	Frank		ttu_0038
+ttu_470_person_22	Joe		
+ttu_470_person_23	Ed Freeman	Q5334823	
+ttu_470_person_24	Charlie Company		
+ttu_470_person_25	Ed Freeman	Q5334823	
+ttu_470_person_26	Bill Franklin		ttu_0038
+ttu_470_person_27	Franklin		ttu_0038
+ttu_470_person_28	Captain Edwards		ttu_0037
+ttu_470_person_29	Franklin		ttu_0038
+ttu_470_person_30	Franklin		ttu_0038
+ttu_470_person_31	Charles Dashner	Q110973786	
+ttu_470_person_32	Charles Dashner	Q110973786	
+ttu_470_person_33	Charles Dashner	Q110973786	
+ttu_470_person_34	Franklin		ttu_0038
+ttu_470_person_35	Captain Edwards		ttu_0037
+ttu_470_person_36	Ed Freeman	Q5334823	
+ttu_470_person_37	Jerry Smith		ttu_0120
+ttu_470_person_38	Ed Freeman	Q5334823	
+ttu_470_person_39	Charles Dashner	Q110973786	
+ttu_470_person_40	Bill Franklin		ttu_0038
+ttu_470_person_41	Ed Freeman	Q5334823	
+ttu_470_person_42	Smith		ttu_0120
+ttu_470_person_43	Charles Dashner	Q110973786	
+ttu_470_person_44	Charles Dashner	Q110973786	
+ttu_470_person_45	Charles Dashner	Q110973786	
+ttu_470_person_46	Charles Dashner	Q110973786	
+ttu_470_person_47	Ed Freeman	Q5334823	
+ttu_470_person_48	Ed Freeman	Q5334823	
+ttu_470_person_49	Ed Freeman	Q5334823	
+ttu_470_person_50	Charles Dashner	Q110973786	
+ttu_470_person_51	Ed Freeman	Q5334823	
+ttu_470_person_52	Charles Dashner	Q110973786	
+ttu_470_person_53	Charles Dashner	Q110973786	
+ttu_470_person_54	Charles Dashner	Q110973786	
+ttu_470_person_55	Charles Dashner	Q110973786	
+ttu_470_person_56	Charles Dashner	Q110973786	
+ttu_470_person_57	Martin Latigue	Q110973693	
+ttu_470_person_58	Martin Latigue	Q110973693	
