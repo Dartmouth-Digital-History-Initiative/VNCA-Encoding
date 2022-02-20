@@ -1,43 +1,41 @@
-id	orgName
-ttu_465_org_0	Marine Corps
-ttu_465_org_1	Marines
-ttu_465_org_2	the 11th Mountain Division
-ttu_465_org_3	the Department of Defense
-ttu_465_org_4	11th Air Assault
-ttu_465_org_5	11th Air Assault
-ttu_465_org_6	101st
-ttu_465_org_7	the Department of Defense
-ttu_465_org_8	the 1st Cavalry Division
-ttu_465_org_9	1st Air Assault
-ttu_465_org_10	special forces
-ttu_465_org_11	the Americal Division
-ttu_465_org_12	the Americal Division
-ttu_465_org_13	Americal
-ttu_465_org_14	the Department of Defense
-ttu_465_org_15	11th Armored Cav
-ttu_465_org_16	11th Cav
-ttu_465_org_17	A Company
-ttu_465_org_18	B Company
-ttu_465_org_19	2nd Platoon
-ttu_465_org_20	Vietnamese
-ttu_465_org_21	NVA (North Vietnamese Army)
-ttu_465_org_22	North Vietnamese 
-ttu_465_org_23	Alpha
-ttu_465_org_24	Bravo
-ttu_465_org_25	Vietnamese
-ttu_465_org_26	Vietnamese
-ttu_465_org_27	the 1st and the 7th
-ttu_465_org_28	1st Air Cav Division
-ttu_465_org_29	Alpha Company
-ttu_465_org_30	Sandhills
-ttu_465_org_31	the 1st and 7th
-ttu_465_org_32	1st of the 7th
-ttu_465_org_33	1st Cav
-ttu_465_org_34	VA (Veteran’s Affairs)
-ttu_465_org_35	VA
-ttu_465_org_36	VA
-ttu_465_org_37	VA
-ttu_465_org_38	DAV (Disabled American Veterans)
-ttu_465_org_39	Veteran’s Administration
-ttu_465_org_40	the 1st Cav Division Association
-ttu_465_org_41	VA
+id	orgName	QID	ttu_id
+ttu_465_org_0	United States Marine Corps	Q11218	
+ttu_465_org_1	United States Marine Corps	Q11218	
+ttu_465_org_2	10th Mountain Division	Q164669	
+ttu_465_org_3	United States Department of Defense	Q11209	
+ttu_465_org_4	11th Airborne Division	Q169980	
+ttu_465_org_5	11th Airborne Division	Q169980	
+ttu_465_org_6	101st Airborne Division	Q165256	
+ttu_465_org_7	United States Department of Defense	Q11209	
+ttu_465_org_8	1st Cavalry Division	Q2338	
+ttu_465_org_9	1st Cavalry Division	Q2338	
+ttu_465_org_10	United States Army Special Forces	Q482421	
+ttu_465_org_11	23rd Infantry Division	Q215790	
+ttu_465_org_12	23rd Infantry Division	Q215790	
+ttu_465_org_13	23rd Infantry Division	Q215790	
+ttu_465_org_14	United States Department of Defense	Q11209	
+ttu_465_org_15	11th Armored Cavalry Regiment	Q2756475	
+ttu_465_org_16	11th Armored Cavalry Regiment	Q2756475	
+ttu_465_org_17	Company A 1st Battalion 7th Cavalry	Q110745296	
+ttu_465_org_18	B Company, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_465_org_20	People's Army of Vietnam	Q3936506	
+ttu_465_org_21	People's Army of Vietnam	Q3936506	
+ttu_465_org_22	People's Army of Vietnam	Q3936506	
+ttu_465_org_23	Company A 1st Battalion 7th Cavalry	Q110745296	
+ttu_465_org_24	B Company, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_465_org_25	People's Army of Vietnam	Q3936506	
+ttu_465_org_26	People's Army of Vietnam	Q3936506	
+ttu_465_org_27	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_465_org_28	1st Cavalry Division	Q2338	
+ttu_465_org_29	Company A 1st Battalion 7th Cavalry	Q110745296	
+ttu_465_org_31	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_465_org_32	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_465_org_33	1st Cavalry Division	Q2338	
+ttu_465_org_34	United States Department of Veterans Affairs	Q592576	
+ttu_465_org_35	United States Department of Veterans Affairs	Q592576	
+ttu_465_org_36	United States Department of Veterans Affairs	Q592576	
+ttu_465_org_37	United States Department of Veterans Affairs	Q592576	
+ttu_465_org_38	Disabled American Veterans	Q15280868	
+ttu_465_org_39	United States Department of Veterans Affairs	Q592576	
+ttu_465_org_40	1st Cav Division Association	Q110874698	
+ttu_465_org_41	United States Department of Veterans Affairs	Q592576	
