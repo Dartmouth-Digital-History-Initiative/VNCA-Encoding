@@ -1,23 +1,23 @@
-id	name
-ttu_470_event_0	Korea
-ttu_470_event_1	Guadalcanal
-ttu_470_event_2	Korea
-ttu_470_event_3	famous speech
-ttu_470_event_4	battle
-ttu_470_event_5	battle
-ttu_470_event_6	special announcement
-ttu_470_event_7	Ia Drang
-ttu_470_event_8	Ia Drang
-ttu_470_event_9	Silver Bayonet
-ttu_470_event_10	battle
-ttu_470_event_11	battle
-ttu_470_event_12	battle
-ttu_470_event_13	battle
-ttu_470_event_14	battle
-ttu_470_event_15	battle
-ttu_470_event_16	Ia Drang
-ttu_470_event_17	battle
-ttu_470_event_18	battle
-ttu_470_event_19	battle
-ttu_470_event_20	war
-ttu_470_event_21	war
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_470_event_0	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_470_event_1	Guadalcanal Campaign	Q217145		1942-08-07T00:00:00Z	1943-02-09T00:00:00Z	
+ttu_470_event_2	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_470_event_3	famous speech					
+ttu_470_event_4	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_5	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_6	special announcement					
+ttu_470_event_7	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_8	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_9	Pleiku Campaign	Q24189107				1965-11-26T00:00:00Z
+ttu_470_event_10	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_11	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_12	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_13	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_14	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_15	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_16	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_17	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_18	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_19	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_470_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_470_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
