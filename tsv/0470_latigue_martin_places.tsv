@@ -1,98 +1,98 @@
-id	placeName
-ttu_470_place_0	Fort Benning
-ttu_470_place_1	Fort Benning
-ttu_470_place_2	Fort Benning
-ttu_470_place_3	Benning
-ttu_470_place_4	Fort Polk, Louisiana
-ttu_470_place_5	Fort Polk, Louisiana
-ttu_470_place_6	Leesville
-ttu_470_place_7	Leesville
-ttu_470_place_8	Benning
-ttu_470_place_9	Vietnam
-ttu_470_place_10	Vietnam
-ttu_470_place_11	Benning
-ttu_470_place_12	States
-ttu_470_place_13	Benning
-ttu_470_place_14	Camden, South Carolina
-ttu_470_place_15	Vietnam
-ttu_470_place_16	Vietnam
-ttu_470_place_17	Vietnam
-ttu_470_place_18	Vietnam
-ttu_470_place_19	Vietnam
-ttu_470_place_20	Vietnam
-ttu_470_place_21	Vietnam
-ttu_470_place_22	Vietnam
-ttu_470_place_23	Vietnam
-ttu_470_place_24	United States
-ttu_470_place_25	Vietnam
-ttu_470_place_26	Vietnam
-ttu_470_place_27	Vietnam
-ttu_470_place_28	Vietnam
-ttu_470_place_29	Vietnam
-ttu_470_place_30	Qui Nhon
-ttu_470_place_31	Qui Nhon
-ttu_470_place_32	An Khe
-ttu_470_place_33	An Khe
-ttu_470_place_34	Vietnam
-ttu_470_place_35	Benning
-ttu_470_place_36	Fort Sill
-ttu_470_place_37	Vietnam
-ttu_470_place_38	Vietnam
-ttu_470_place_39	Fort Sill
-ttu_470_place_40	An Khe
-ttu_470_place_41	Happy Valley
-ttu_470_place_42	Pleiku
-ttu_470_place_43	Pleiku
-ttu_470_place_44	Pleiku
-ttu_470_place_45	Pleiku
-ttu_470_place_46	Pleiku
-ttu_470_place_47	Pleiku
-ttu_470_place_48	Pleiku
-ttu_470_place_49	valley
-ttu_470_place_50	Vietnam
-ttu_470_place_51	Landing Zone X-Ray
-ttu_470_place_52	Vietnam
-ttu_470_place_53	X-Ray
-ttu_470_place_54	X-Ray
-ttu_470_place_55	Pleiku
-ttu_470_place_56	X-Ray
-ttu_470_place_57	X-Ray
-ttu_470_place_58	X-Ray
-ttu_470_place_59	X-Ray
-ttu_470_place_60	X-Ray
-ttu_470_place_61	LZ
-ttu_470_place_62	LZ X-Ray
-ttu_470_place_63	Vietnam
-ttu_470_place_64	LZ
-ttu_470_place_65	LZ
-ttu_470_place_66	Franklin
-ttu_470_place_67	landing zone
-ttu_470_place_68	landing zone
-ttu_470_place_69	landing zone
-ttu_470_place_70	Vietnam
-ttu_470_place_71	X-Ray
-ttu_470_place_72	Plei Me
-ttu_470_place_73	Pleiku
-ttu_470_place_74	base
-ttu_470_place_75	Camp Holloway
-ttu_470_place_76	Camp Holloway
-ttu_470_place_77	An Khe
-ttu_470_place_78	An Khe
-ttu_470_place_79	Camp Alpha
-ttu_470_place_80	Saigon
-ttu_470_place_81	United States
-ttu_470_place_82	An Khe
-ttu_470_place_83	Saigon
-ttu_470_place_84	Fort Benning
-ttu_470_place_85	Vietnam
-ttu_470_place_86	Vietnam
-ttu_470_place_87	Stateside
-ttu_470_place_88	Benning
-ttu_470_place_89	Vietnam
-ttu_470_place_90	Vietnam
-ttu_470_place_91	Mississippi
-ttu_470_place_92	Alabama
-ttu_470_place_93	Louisiana
-ttu_470_place_94	Mississippi
-ttu_470_place_95	Lubbock, Texas
-ttu_470_place_96	Lubbock, Texas
+id	placeName	QID	ttu_id	coordinate location
+ttu_470_place_0	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_1	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_2	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_3	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_4	Fort Polk	Q1438661		31.0726,-93.0806
+ttu_470_place_5	Fort Polk	Q1438661		31.0726,-93.0806
+ttu_470_place_6	Leesville	Q2453090		31.1436,-93.2711
+ttu_470_place_7	Leesville	Q2453090		31.1436,-93.2711
+ttu_470_place_8	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_9	Vietnam	Q881		16,108
+ttu_470_place_10	Vietnam	Q881		16,108
+ttu_470_place_11	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_12	United States of America	Q30		39.828175,-98.5795
+ttu_470_place_13	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_14	Camden	Q1144372		34.259166666667,-80.609166666667
+ttu_470_place_15	Vietnam	Q881		16,108
+ttu_470_place_16	Vietnam	Q881		16,108
+ttu_470_place_17	Vietnam	Q881		16,108
+ttu_470_place_18	Vietnam	Q881		16,108
+ttu_470_place_19	Vietnam	Q881		16,108
+ttu_470_place_20	Vietnam	Q881		16,108
+ttu_470_place_21	Vietnam	Q881		16,108
+ttu_470_place_22	Vietnam	Q881		16,108
+ttu_470_place_23	Vietnam	Q881		16,108
+ttu_470_place_24	United States of America	Q30		39.828175,-98.5795
+ttu_470_place_25	Vietnam	Q881		16,108
+ttu_470_place_26	Vietnam	Q881		16,108
+ttu_470_place_27	Vietnam	Q881		16,108
+ttu_470_place_28	Vietnam	Q881		16,108
+ttu_470_place_29	Vietnam	Q881		16,108
+ttu_470_place_30	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_470_place_31	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_470_place_32	An Khê	Q15179893		13.9530664,108.6569463
+ttu_470_place_33	An Khê	Q15179893		13.9530664,108.6569463
+ttu_470_place_34	Vietnam	Q881		16,108
+ttu_470_place_35	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_36	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_470_place_37	Vietnam	Q881		16,108
+ttu_470_place_38	Vietnam	Q881		16,108
+ttu_470_place_39	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_470_place_40	An Khê	Q15179893		13.9530664,108.6569463
+ttu_470_place_41	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_470_place_42	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_43	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_44	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_45	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_46	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_47	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_48	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_49	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_470_place_50	Vietnam	Q881		16,108
+ttu_470_place_51	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_52	Vietnam	Q881		16,108
+ttu_470_place_53	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_54	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_55	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_56	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_57	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_58	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_59	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_60	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_61	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_62	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_63	Vietnam	Q881		16,108
+ttu_470_place_64	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_65	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_66	Franklin			
+ttu_470_place_67	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_68	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_69	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_70	Vietnam	Q881		16,108
+ttu_470_place_71	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_470_place_72	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_470_place_73	Pleiku	Q30599		13.971519,108.014673
+ttu_470_place_74	Camp Holloway	Q5027263		13.973,108.031
+ttu_470_place_75	Camp Holloway	Q5027263		13.973,108.031
+ttu_470_place_76	Camp Holloway	Q5027263		13.973,108.031
+ttu_470_place_77	An Khê	Q15179893		13.9530664,108.6569463
+ttu_470_place_78	An Khê	Q15179893		13.9530664,108.6569463
+ttu_470_place_79	Camp Alpha	Q110974606		10.818889,106.651944
+ttu_470_place_80	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+ttu_470_place_81	United States of America	Q30		39.828175,-98.5795
+ttu_470_place_82	An Khê	Q15179893		13.9530664,108.6569463
+ttu_470_place_83	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+ttu_470_place_84	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_85	Vietnam	Q881		16,108
+ttu_470_place_86	Vietnam	Q881		16,108
+ttu_470_place_87	United States of America	Q30		39.828175,-98.5795
+ttu_470_place_88	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_470_place_89	Vietnam	Q881		16,108
+ttu_470_place_90	Vietnam	Q881		16,108
+ttu_470_place_91	Mississippi	Q1494		33,-90
+ttu_470_place_92	Alabama	Q173		32.7,-86.7
+ttu_470_place_93	Louisiana	Q1588		31,-92
+ttu_470_place_94	Mississippi	Q1494		33,-90
+ttu_470_place_95	Lubbock	Q49273		33.566666666667,-101.88333333333
+ttu_470_place_96	Lubbock	Q49273		33.566666666667,-101.88333333333

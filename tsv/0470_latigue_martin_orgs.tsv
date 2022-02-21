@@ -1,39 +1,39 @@
-id	orgName
-ttu_470_org_0	Texas Tech University
-ttu_470_org_1	Vietnam Center
-ttu_470_org_2	Charlie Company, 1st of the 7th Cav
-ttu_470_org_3	Charlie Company
-ttu_470_org_4	1st Air Cav
-ttu_470_org_5	11th Air Assault
-ttu_470_org_6	1st Cav
-ttu_470_org_7	2nd Division
-ttu_470_org_8	11th Air Assault Division
-ttu_470_org_9	11th Air Assault
-ttu_470_org_10	11th Air Assault
-ttu_470_org_11	11th Air Assault
-ttu_470_org_12	82nd division
-ttu_470_org_13	army
-ttu_470_org_14	army
-ttu_470_org_15	army
-ttu_470_org_16	marine
-ttu_470_org_17	army
-ttu_470_org_18	Delta Company
-ttu_470_org_19	Charlie Company
-ttu_470_org_20	1st Air Cav
-ttu_470_org_21	United States Government
-ttu_470_org_22	special forces
-ttu_470_org_23	1st Calvary
-ttu_470_org_24	USS Maurice Rose
-ttu_470_org_25	Rose
-ttu_470_org_26	82nd
-ttu_470_org_27	Charlie Company
-ttu_470_org_28	army
-ttu_470_org_29	Americans
-ttu_470_org_30	Charlie Company
-ttu_470_org_31	VC (Viet Cong)
-ttu_470_org_32	VC
-ttu_470_org_33	Charlie Company
-ttu_470_org_34	red cross
-ttu_470_org_35	army
-ttu_470_org_36	1st of the 7th
-ttu_470_org_37	Vietnam Center
+id	orgName	QID	ttu_id
+ttu_470_org_0	Texas Tech University	Q1423756	
+ttu_470_org_1	Sam Johnson Vietnam Center and Archive	Q110625527	
+ttu_470_org_2	Company D, 1st Battalion, 7th Calvary Regiment	Q110745354	
+ttu_470_org_3	Company D, 1st Battalion, 7th Calvary Regiment	Q110745354	
+ttu_470_org_4	1st Cavalry Division	Q2338	
+ttu_470_org_5	11th Airborne Division	Q169980	
+ttu_470_org_6	1st Cavalry Division	Q2338	
+ttu_470_org_7	2nd Infantry Division	Q210607	
+ttu_470_org_8	11th Airborne Division	Q169980	
+ttu_470_org_9	11th Airborne Division	Q169980	
+ttu_470_org_10	11th Airborne Division	Q169980	
+ttu_470_org_11	11th Airborne Division	Q169980	
+ttu_470_org_12	82nd Airborne Division	Q2358	
+ttu_470_org_13	United States Army	Q9212	
+ttu_470_org_14	United States Army	Q9212	
+ttu_470_org_15	United States Army	Q9212	
+ttu_470_org_16	United States Marine Corps	Q11218	
+ttu_470_org_17	United States Army	Q9212	
+ttu_470_org_18	Company D, 1st Battalion, 7th Calvary Regiment	Q110745368	
+ttu_470_org_19	Company D, 1st Battalion, 7th Calvary Regiment	Q110745354	
+ttu_470_org_20	1st Cavalry Division	Q2338	
+ttu_470_org_21	Federal Government of the United States of America	Q48525	
+ttu_470_org_22	United States Army Special Forces	Q482421	
+ttu_470_org_23	1st Cavalry Division	Q2338	
+ttu_470_org_24	USS Admiral Hugh Rodman	Q7867050	
+ttu_470_org_25	USS Admiral Hugh Rodman	Q7867050	
+ttu_470_org_26	82nd Airborne Division	Q2358	
+ttu_470_org_27	Company D, 1st Battalion, 7th Calvary Regiment	Q110745354	
+ttu_470_org_28	United States Army	Q9212	
+ttu_470_org_29	United States of America	Q30	
+ttu_470_org_30	Company D, 1st Battalion, 7th Calvary Regiment	Q110745354	
+ttu_470_org_31	National Front for the Liberation of South Vietnam	Q174423	
+ttu_470_org_32	National Front for the Liberation of South Vietnam	Q174423	
+ttu_470_org_33	Company D, 1st Battalion, 7th Calvary Regiment	Q110745354	
+ttu_470_org_34	American Red Cross	Q470110	
+ttu_470_org_35	United States Army	Q9212	
+ttu_470_org_36	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_470_org_37	Sam Johnson Vietnam Center and Archive	Q110625527	
