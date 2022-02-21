@@ -1,7 +1,7 @@
-id	persName
-ttu_471_person_0	Dr. Ron Milam
-ttu_471_person_1	Bob Loudermilk
-ttu_471_person_2	Bob
-ttu_471_person_3	President Johnson
-ttu_471_person_4	Colonel Moore
-ttu_471_person_5	Bob
+id	persName	QID	ttu_id
+ttu_471_person_0	Ron Milam	Q110624764	
+ttu_471_person_1	Bob Loudermilk		ttu_0092
+ttu_471_person_2	Bob		ttu_0092
+ttu_471_person_3	Lyndon B. Johnson	Q9640	
+ttu_471_person_4	Hal Moore	Q430209	
+ttu_471_person_5	Bob		ttu_0092

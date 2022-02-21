@@ -1,102 +1,102 @@
-id	placeName
-ttu_471_place_0	Benning
-ttu_471_place_1	Benning
-ttu_471_place_2	Benning
-ttu_471_place_3	Korea
-ttu_471_place_4	Korea
-ttu_471_place_5	Fort Devens, Massachusetts
-ttu_471_place_6	Fort Devens
-ttu_471_place_7	Korea
-ttu_471_place_8	Benning
-ttu_471_place_9	Benning
-ttu_471_place_10	Vietnam
-ttu_471_place_11	Benning
-ttu_471_place_12	Phu Bai
-ttu_471_place_13	Vietnam
-ttu_471_place_14	Vietnam
-ttu_471_place_15	Fort Benning
-ttu_471_place_16	Vietnam
-ttu_471_place_17	‘Nam
-ttu_471_place_18	Vietnam
-ttu_471_place_19	Suez Canal
-ttu_471_place_20	Charleston, South Carolina
-ttu_471_place_21	Vietnam
-ttu_471_place_22	Vietnam
-ttu_471_place_23	Vietnam
-ttu_471_place_24	Fort Benning
-ttu_471_place_25	Vietnam
-ttu_471_place_26	Vietnam
-ttu_471_place_27	Vietnam
-ttu_471_place_28	Qui Nhon
-ttu_471_place_29	Benning
-ttu_471_place_30	Vietnam
-ttu_471_place_31	Qui Nhon
-ttu_471_place_32	An Khe
-ttu_471_place_33	An Khe
-ttu_471_place_34	An Khe
-ttu_471_place_35	Qui Nhon
-ttu_471_place_36	Qui Nhon
-ttu_471_place_37	An Khe
-ttu_471_place_38	Happy Valley
-ttu_471_place_39	Happy Valley
-ttu_471_place_40	Pleiku
-ttu_471_place_41	Plei Me
-ttu_471_place_42	An Khe
-ttu_471_place_43	Pleiku
-ttu_471_place_44	Holloway
-ttu_471_place_45	Holloway Field
-ttu_471_place_46	Plantation
-ttu_471_place_47	Plantation
-ttu_471_place_48	Plei Me
-ttu_471_place_49	Plei Me
-ttu_471_place_50	Plei Me
-ttu_471_place_51	Pleiku
-ttu_471_place_52	Plei Me
-ttu_471_place_53	LZ
-ttu_471_place_54	West Virginia
-ttu_471_place_55	Chu Pong
-ttu_471_place_56	Chu Pong
-ttu_471_place_57	LZ
-ttu_471_place_58	LZ
-ttu_471_place_59	LZ
-ttu_471_place_60	LZ X-Ray
-ttu_471_place_61	LZ X-Ray
-ttu_471_place_62	LZ
-ttu_471_place_63	LZ
-ttu_471_place_64	Plei Me
-ttu_471_place_65	LZ X-Ray
-ttu_471_place_66	LZ
-ttu_471_place_67	LZ X-Ray
-ttu_471_place_68	LZ
-ttu_471_place_69	Plei Me
-ttu_471_place_70	LZ X-Ray
-ttu_471_place_71	Plei Me
-ttu_471_place_72	Plei Me
-ttu_471_place_73	Vietnam
-ttu_471_place_74	States
-ttu_471_place_75	Vietnam
-ttu_471_place_76	Pleiku
-ttu_471_place_77	Pleiku
-ttu_471_place_78	X-Ray
-ttu_471_place_79	Albany
-ttu_471_place_80	Albany
-ttu_471_place_81	Falcon
-ttu_471_place_82	Falcon
-ttu_471_place_83	Falcon
-ttu_471_place_84	LZ
-ttu_471_place_85	LZ
-ttu_471_place_86	Falcon
-ttu_471_place_87	Vietnam
-ttu_471_place_88	Vietnam
-ttu_471_place_89	Phu Bai
-ttu_471_place_90	A Shau Valley
-ttu_471_place_91	A Shau Valley
-ttu_471_place_92	An Khe
-ttu_471_place_93	Khe Sanh
-ttu_471_place_94	Khe Sanh
-ttu_471_place_95	LZ Evans
-ttu_471_place_96	I Corps
-ttu_471_place_97	Huế
-ttu_471_place_98	QL1
-ttu_471_place_99	An Khe
-ttu_471_place_100	Khe Sanh
+id	placeName	QID	ttu_id	coordinate location
+ttu_471_place_0	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_1	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_2	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_3	Korea	Q18097		38.316666666667,127.23333333333
+ttu_471_place_4	Korea	Q18097		38.316666666667,127.23333333333
+ttu_471_place_5	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+ttu_471_place_6	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+ttu_471_place_7	Korea	Q18097		38.316666666667,127.23333333333
+ttu_471_place_8	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_9	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_10	Vietnam	Q881		16,108
+ttu_471_place_11	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_12	Phu Bai Combat Base	Q18392575		16.401666666666667,107.70277777777778
+ttu_471_place_13	Vietnam	Q881		16,108
+ttu_471_place_14	Vietnam	Q881		16,108
+ttu_471_place_15	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_16	Vietnam	Q881		16,108
+ttu_471_place_17	Vietnam	Q881		16,108
+ttu_471_place_18	Vietnam	Q881		16,108
+ttu_471_place_19	Suez Canal	Q899		30.705,32.344166666667
+ttu_471_place_20	Charleston	Q47716		32.776111111111,-79.9325
+ttu_471_place_21	Vietnam	Q881		16,108
+ttu_471_place_22	Vietnam	Q881		16,108
+ttu_471_place_23	Vietnam	Q881		16,108
+ttu_471_place_24	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_25	Vietnam	Q881		16,108
+ttu_471_place_26	Vietnam	Q881		16,108
+ttu_471_place_27	Vietnam	Q881		16,108
+ttu_471_place_28	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_471_place_29	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_471_place_30	Vietnam	Q881		16,108
+ttu_471_place_31	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_471_place_32	An Khê	Q15179893		13.9530664,108.6569463
+ttu_471_place_33	An Khê	Q15179893		13.9530664,108.6569463
+ttu_471_place_34	An Khê	Q15179893		13.9530664,108.6569463
+ttu_471_place_35	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_471_place_36	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_471_place_37	An Khê	Q15179893		13.9530664,108.6569463
+ttu_471_place_38	Suối Cả Valley	Q110943631		14.150583,108.957944
+ttu_471_place_39	Suối Cả Valley	Q110943631		14.150583,108.957944
+ttu_471_place_40	Pleiku	Q30599		13.971519,108.014673
+ttu_471_place_41	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_42	An Khê	Q15179893		13.9530664,108.6569463
+ttu_471_place_43	Pleiku	Q30599		13.971519,108.014673
+ttu_471_place_44	Camp Holloway	Q5027263		13.973,108.031
+ttu_471_place_45	Camp Holloway	Q5027263		13.973,108.031
+ttu_471_place_46	Michelin Rubber Plantation	Q6836883		11.266389,106.333333
+ttu_471_place_47	Michelin Rubber Plantation	Q6836883		11.266389,106.333333
+ttu_471_place_48	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_49	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_50	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_51	Pleiku	Q30599		13.971519,108.014673
+ttu_471_place_52	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_53	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_54	West Virginia	Q1371		39,-80.5
+ttu_471_place_55	Chu Pong Massif	Q65040315		13.572861,107.665980
+ttu_471_place_56	Chu Pong Massif	Q65040315		13.572861,107.665980
+ttu_471_place_57	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_58	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_59	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_60	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_61	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_62	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_63	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_64	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_65	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_66	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_67	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_68	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_69	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_70	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_71	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_72	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_471_place_73	Vietnam	Q881		16,108
+ttu_471_place_74	United States of America	Q30		39.828175,-98.5795
+ttu_471_place_75	Vietnam	Q881		16,108
+ttu_471_place_76	Pleiku	Q30599		13.971519,108.014673
+ttu_471_place_77	Pleiku	Q30599		13.971519,108.014673
+ttu_471_place_78	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_471_place_79	LZ Albany	Q110624853		13.59528,107.71528
+ttu_471_place_80	LZ Albany	Q110624853		13.59528,107.71528
+ttu_471_place_81	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_471_place_82	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_471_place_83	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_471_place_84	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_471_place_85	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_471_place_86	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_471_place_87	Vietnam	Q881		16,108
+ttu_471_place_88	Vietnam	Q881		16,108
+ttu_471_place_89	Phu Bai Combat Base	Q18392575		16.401666666666667,107.70277777777778
+ttu_471_place_90	A Shau Valley	Q4073426		16.259305555556,107.2125
+ttu_471_place_91	A Shau Valley	Q4073426		16.259305555556,107.2125
+ttu_471_place_92	An Khê	Q15179893		13.9530664,108.6569463
+ttu_471_place_93	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+ttu_471_place_94	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+ttu_471_place_95	Camp Evans	Q18386289		16.561944,107.380000
+ttu_471_place_96	I Corps	Q1652977		16.68743,106.884773
+ttu_471_place_97	Huế	Q36167		16.46371111111111,107.590825
+ttu_471_place_98	National Route 1A	Q1372266		15.098604,108.817229
+ttu_471_place_99	An Khê	Q15179893		13.9530664,108.6569463
+ttu_471_place_100	Khe Sanh	Q1924264		16.627211111111,106.73733333333
