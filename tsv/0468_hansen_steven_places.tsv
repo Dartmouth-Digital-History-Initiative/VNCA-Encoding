@@ -1,48 +1,48 @@
-id	placeName
-ttu_468_place_0	Kelly Hill
-ttu_468_place_1	Fort Benning
-ttu_468_place_2	Germany
-ttu_468_place_3	Fort Benning
-ttu_468_place_4	Vietnam
-ttu_468_place_5	Vietnam
-ttu_468_place_6	Fort Benning
-ttu_468_place_7	Kelly Hill
-ttu_468_place_8	Germany
-ttu_468_place_9	Vietnam
-ttu_468_place_10	Germany
-ttu_468_place_11	Benning
-ttu_468_place_12	Benning
-ttu_468_place_13	Columbus
-ttu_468_place_14	Okinawa
-ttu_468_place_15	Fort Benning
-ttu_468_place_16	Fort Benning
-ttu_468_place_17	Benning
-ttu_468_place_18	Fort Benning
-ttu_468_place_19	Vietnam
-ttu_468_place_20	Benning
-ttu_468_place_21	Benning
-ttu_468_place_22	Vietnam
-ttu_468_place_23	Vietnam
-ttu_468_place_24	Vietnam
-ttu_468_place_25	Fort Benning
-ttu_468_place_26	Qui Nhon
-ttu_468_place_27	Qui Nhon
-ttu_468_place_28	Qui Nhon
-ttu_468_place_29	An Khe
-ttu_468_place_30	An Khe
-ttu_468_place_31	Vietnam
-ttu_468_place_32	Panama Canal
-ttu_468_place_33	United States
-ttu_468_place_34	Pier E
-ttu_468_place_35	Long Beach
-ttu_468_place_36	California
-ttu_468_place_37	An Khe
-ttu_468_place_38	An Khe
-ttu_468_place_39	Camp Radcliff
-ttu_468_place_40	An Khe
-ttu_468_place_41	Happy Valley
-ttu_468_place_42	Pleiku
-ttu_468_place_43	An Khe
-ttu_468_place_44	An Khe
-ttu_468_place_45	Pleiku
-ttu_468_place_46	Plei Me Special Forces Camp
+id	placeName	QID	ttu_id	coordinate location
+ttu_468_place_0	Kelley Hill	Q110888302		32.38325815053565,-84.89875257096901
+ttu_468_place_1	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_2	Germany	Q183		51,10
+ttu_468_place_3	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_4	Vietnam	Q881		16,108
+ttu_468_place_5	Vietnam	Q881		16,108
+ttu_468_place_6	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_7	Kelley Hill	Q110888302		32.38325815053565,-84.89875257096901
+ttu_468_place_8	Germany	Q183		51,10
+ttu_468_place_9	Vietnam	Q881		16,108
+ttu_468_place_10	Germany	Q183		51,10
+ttu_468_place_11	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_12	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_13	Columbus	Q16567		39.96222222222222,-83.00055555555555
+ttu_468_place_14	Okinawa	Q328615		26.334166666667,127.80555555556
+ttu_468_place_15	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_16	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_17	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_18	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_19	Vietnam	Q881		16,108
+ttu_468_place_20	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_21	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_22	Vietnam	Q881		16,108
+ttu_468_place_23	Vietnam	Q881		16,108
+ttu_468_place_24	Vietnam	Q881		16,108
+ttu_468_place_25	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_468_place_26	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_468_place_27	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_468_place_28	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_468_place_29	An Khê	Q10733203		16.05222222,108.1855556
+ttu_468_place_30	An Khê	Q10733203		16.05222222,108.1855556
+ttu_468_place_31	Vietnam	Q881		16,108
+ttu_468_place_32	Panama Canal	Q7350		9.08,-79.68
+ttu_468_place_33	United States of America	Q30		39.828175,-98.5795
+ttu_468_place_34	Long Beach Container Terminal Pier E	Q110972534		33.766138,-118.210297
+ttu_468_place_35	Long Beach	Q16739		33.768321,-118.1956168
+ttu_468_place_36	California	Q99		37,-120
+ttu_468_place_37	An Khê	Q10733203		16.05222222,108.1855556
+ttu_468_place_38	An Khê	Q10733203		16.05222222,108.1855556
+ttu_468_place_39	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_468_place_40	An Khê	Q10733203		16.05222222,108.1855556
+ttu_468_place_41	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_468_place_42	Pleiku	Q30599		13.971519,108.014673
+ttu_468_place_43	An Khê	Q10733203		16.05222222,108.1855556
+ttu_468_place_44	An Khê	Q10733203		16.05222222,108.1855556
+ttu_468_place_45	Pleiku	Q30599		13.971519,108.014673
+ttu_468_place_46	Plei Me Camp	Q110624862		13.6175,107.9175
