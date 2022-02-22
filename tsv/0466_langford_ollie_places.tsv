@@ -1,30 +1,30 @@
-id	placeName
-ttu_466_place_0	West Point
-ttu_466_place_1	West Point
-ttu_466_place_2	Hawaii
-ttu_466_place_3	Hawaii
-ttu_466_place_4	Fort Sill
-ttu_466_place_5	Fort Benning
-ttu_466_place_6	Vietnam
-ttu_466_place_7	Vietnam
-ttu_466_place_8	Vietnam
-ttu_466_place_9	Fort Benning, Georgia
-ttu_466_place_10	Kelly Hill
-ttu_466_place_11	Fort Benning
-ttu_466_place_12	Charleston, South Carolina
-ttu_466_place_13	Charleston, South Carolina
-ttu_466_place_14	Panama Canal
-ttu_466_place_15	Long Beach, California
-ttu_466_place_16	Long Beach, California
-ttu_466_place_17	Vietnam
-ttu_466_place_18	Long Beach
-ttu_466_place_19	Long Beach
-ttu_466_place_20	Pearl Harbor
-ttu_466_place_21	Hawaii
-ttu_466_place_22	Qui Nhon, Vietnam
-ttu_466_place_23	An Khe
-ttu_466_place_24	An Khe
-ttu_466_place_25	Pleiku
-ttu_466_place_26	Ia Drang Valley
-ttu_466_place_27	Happy Valley
-ttu_466_place_28	Ia Drang Valley
+id	placeName	QID	ttu_id	coordinate location
+ttu_466_place_0	United States Military Academy	Q9219		41.39277778,-73.95833333
+ttu_466_place_1	United States Military Academy	Q9219		41.39277778,-73.95833333
+ttu_466_place_2	Hawaii	Q782		21.3075,-157.8575
+ttu_466_place_3	Hawaii	Q782		21.3075,-157.8575
+ttu_466_place_4	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_466_place_5	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_466_place_6	Vietnam	Q881		16,108
+ttu_466_place_7	Vietnam	Q881		16,108
+ttu_466_place_8	Vietnam	Q881		16,108
+ttu_466_place_9	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_466_place_10	Kelley Hill	Q110888302		32.38325815053565,-84.89875257096901
+ttu_466_place_11	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_466_place_12	Charleston	Q47716		32.776111111111,-79.9325
+ttu_466_place_13	Charleston	Q47716		32.776111111111,-79.9325
+ttu_466_place_14	Panama Canal	Q7350		9.08,-79.68
+ttu_466_place_15	Long Beach	Q16739		33.768321,-118.1956168
+ttu_466_place_16	Long Beach	Q16739		33.768321,-118.1956168
+ttu_466_place_17	Vietnam	Q881		16,108
+ttu_466_place_18	Long Beach	Q16739		33.768321,-118.1956168
+ttu_466_place_19	Long Beach	Q16739		33.768321,-118.1956168
+ttu_466_place_20	Pearl Harbour	Q127091		21.361944,-157.953611
+ttu_466_place_21	Hawaii	Q782		21.3075,-157.8575
+ttu_466_place_22	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_466_place_23	An Khê	Q18386291		13.993156156855994, 108.64850872883561
+ttu_466_place_24	An Khê	Q18386291		13.993156156855994, 108.64850872883561
+ttu_466_place_25	Pleiku	Q30599		13.971519,108.014673
+ttu_466_place_26	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_466_place_27	Suối Cả valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_466_place_28	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667

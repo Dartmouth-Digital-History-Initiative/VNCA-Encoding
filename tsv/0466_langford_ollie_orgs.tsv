@@ -1,21 +1,21 @@
-id	orgName
-ttu_466_org_0	University of South Carolina
-ttu_466_org_1	senate
-ttu_466_org_2	2nd Infantry Division
-ttu_466_org_3	2nd Infantry Division
-ttu_466_org_4	11th Air Assault
-ttu_466_org_5	5th of 38th Artillery
-ttu_466_org_6	B Battery of 5th of the 38th artillery
-ttu_466_org_7	C Battery of the 1st of the 21st artillery
-ttu_466_org_8	1st Cav
-ttu_466_org_9	5th of 38th
-ttu_466_org_10	1st of the 21st artillery
-ttu_466_org_11	C Battery
-ttu_466_org_12	1st Cav Division
-ttu_466_org_13	ROTC ( Reserve Officer Training Course)
-ttu_466_org_14	U.S.S. Rose
-ttu_466_org_15	101st Air Borne
-ttu_466_org_16	Viet Cong
-ttu_466_org_17	Viet Cong
-ttu_466_org_18	ARVN (Army of the Republic of Vietnam)
-ttu_466_org_19	airborne brigade of the 11th Air Assault
+id	orgName	QID	ttu_id
+ttu_466_org_0	University of South Carolina	Q1024426	
+ttu_466_org_1	United States Senate	Q66096	
+ttu_466_org_2	2nd Infantry Division	Q210607	
+ttu_466_org_3	2nd Infantry Division	Q210607	
+ttu_466_org_4	11th Expeditionary Combat Aviation Brigade	Q4547990	
+ttu_466_org_5	1st battalion of the 21st Artillery	Q110940770	
+ttu_466_org_6	C Battery, 1st Battalion of the 21st Artillery	Q110940775	
+ttu_466_org_7	C Battery, 1st Battalion of the 21st Artillery	Q110940775	
+ttu_466_org_8	1st Cavalry Division	Q2338	
+ttu_466_org_9	1st battalion of the 21st Artillery	Q110940770	
+ttu_466_org_10	1st battalion of the 21st Artillery	Q110940770	
+ttu_466_org_11	C Battery, 1st Battalion of the 21st Artillery	Q110940775	
+ttu_466_org_12	1st Cavalry Division	Q2338	
+ttu_466_org_13	Reserve Officers' Training Corps	Q489983	
+ttu_466_org_14	USS Rose	Q7873563	
+ttu_466_org_15	101st Airborne Division	Q165256	
+ttu_466_org_16	National Front for the Liberation of South Vietnam	Q174423	
+ttu_466_org_17	National Front for the Liberation of South Vietnam	Q174423	
+ttu_466_org_18	Army of the Republic of Vietnam	Q18917	
+ttu_466_org_19	11th Expeditionary Combat Aviation Brigade	Q4547990	

@@ -1,9 +1,9 @@
-id	persName
-ttu_466_person_0	Strom Thurmond
-ttu_466_person_1	Captain Bob Barker
-ttu_466_person_2	Colonel Barker
-ttu_466_person_3	Colonel Barker
-ttu_466_person_4	President Johnson
-ttu_466_person_5	Secretary of Defense McNamara
-ttu_466_person_6	General Kinnard
-ttu_466_person_7	Colonel Moore
+id	persName	QID	ttu_id
+ttu_466_person_0	Strom Thurmond	Q324719	
+ttu_466_person_1	Captain Bob Barker		ttu_0107
+ttu_466_person_2	Colonel Barker		ttu_0107
+ttu_466_person_3	Colonel Barker		ttu_0107
+ttu_466_person_4	Lyndon B. Johnson	Q9640	
+ttu_466_person_5	Robert McNamara	Q191999	
+ttu_466_person_6	Harry Kinnard	Q2138194	
+ttu_466_person_7	Hal Moore	Q430209	
