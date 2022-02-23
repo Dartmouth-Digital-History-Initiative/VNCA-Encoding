@@ -1,70 +1,70 @@
-id	placeName
-ttu_463_place_0	X-Ray
-ttu_463_place_1	Albany
-ttu_463_place_2	Minnesota
-ttu_463_place_3	Fort Benning
-ttu_463_place_4	Fort Sill
-ttu_463_place_5	Fort Sill
-ttu_463_place_6	Fort Benning
-ttu_463_place_7	Fort Benning
-ttu_463_place_8	Vietnam
-ttu_463_place_9	Minnesota
-ttu_463_place_10	Fort Sill
-ttu_463_place_11	Vietnam
-ttu_463_place_12	Vietnam
-ttu_463_place_13	Vietnam
-ttu_463_place_14	Fort Sill
-ttu_463_place_15	Vietnam
-ttu_463_place_16	Vietnam
-ttu_463_place_17	Fort Benning
-ttu_463_place_18	Fort Sill
-ttu_463_place_19	Fort Benning
-ttu_463_place_20	Fort Benning
-ttu_463_place_21	Benning
-ttu_463_place_22	Benning
-ttu_463_place_23	Vietnam
-ttu_463_place_24	Carolinas
-ttu_463_place_25	Carolinas
-ttu_463_place_26	Vietnam
-ttu_463_place_27	Vietnam
-ttu_463_place_28	Vietnam
-ttu_463_place_29	Ukraine
-ttu_463_place_30	Ukraine
-ttu_463_place_31	Cornwall, England
-ttu_463_place_32	Vietnam
-ttu_463_place_33	Vietnam
-ttu_463_place_34	X-Ray
-ttu_463_place_35	X-Ray
-ttu_463_place_36	Vietnam
-ttu_463_place_37	Qui Nhon
-ttu_463_place_38	An Khe
-ttu_463_place_39	Pleiku
-ttu_463_place_40	Pleiku
-ttu_463_place_41	 LZ X-Ray
-ttu_463_place_42	LZ Falcon
-ttu_463_place_43	Falcon
-ttu_463_place_44	Columbus
-ttu_463_place_45	Columbus
-ttu_463_place_46	X-Ray
-ttu_463_place_47	Albany
-ttu_463_place_48	LZ Columbus
-ttu_463_place_49	Falcon
-ttu_463_place_50	X-Ray
-ttu_463_place_51	X-Ray
-ttu_463_place_52	Pleiku
-ttu_463_place_53	Albany
-ttu_463_place_54	Albany
-ttu_463_place_55	Pleiku
-ttu_463_place_56	Albany
-ttu_463_place_57	Albany
-ttu_463_place_58	Albany
-ttu_463_place_59	Albany
-ttu_463_place_60	X-Ray
-ttu_463_place_61	Albany
-ttu_463_place_62	X-Ray
-ttu_463_place_63	X-Ray
-ttu_463_place_64	Albany
-ttu_463_place_65	Vietnam
-ttu_463_place_66	Vietnam
-ttu_463_place_67	Vietnam
-ttu_463_place_68	Vietnam
+id	placeName	QID	ttu_id	coordinate location
+ttu_463_place_0	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_1	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_2	Minnesota	Q1527		46,-94
+ttu_463_place_3	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_4	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_463_place_5	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_463_place_6	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_7	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_8	Vietnam	Q881		16,108
+ttu_463_place_9	Minnesota	Q1527		46,-94
+ttu_463_place_10	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_463_place_11	Vietnam	Q881		16,108
+ttu_463_place_12	Vietnam	Q881		16,108
+ttu_463_place_13	Vietnam	Q881		16,108
+ttu_463_place_14	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_463_place_15	Vietnam	Q881		16,108
+ttu_463_place_16	Vietnam	Q881		16,108
+ttu_463_place_17	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_18	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_463_place_19	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_20	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_21	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_22	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_463_place_23	Vietnam	Q881		16,108
+ttu_463_place_24	The Carolinas	Q2747220		34.797,-79.683
+ttu_463_place_25	The Carolinas	Q2747220		34.797,-79.683
+ttu_463_place_26	Vietnam	Q881		16,108
+ttu_463_place_27	Vietnam	Q881		16,108
+ttu_463_place_28	Vietnam	Q881		16,108
+ttu_463_place_29	Ukraine	Q212		49,32
+ttu_463_place_30	Ukraine	Q212		49,32
+ttu_463_place_31	Cornwall	Q23148		50.3,-4.9
+ttu_463_place_32	Vietnam	Q881		16,108
+ttu_463_place_33	Vietnam	Q881		16,108
+ttu_463_place_34	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_35	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_36	Vietnam	Q881		16,108
+ttu_463_place_37	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_463_place_38	An Khê	Q10733203		16.05222222,108.1855556
+ttu_463_place_39	Pleiku	Q30599		13.971519,108.014673
+ttu_463_place_40	Pleiku	Q30599		13.971519,108.014673
+ttu_463_place_41	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_42	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_463_place_43	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_463_place_44	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_463_place_45	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_463_place_46	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_47	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_48	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_463_place_49	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_463_place_50	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_51	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_52	Pleiku	Q30599		13.971519,108.014673
+ttu_463_place_53	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_54	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_55	Pleiku	Q30599		13.971519,108.014673
+ttu_463_place_56	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_57	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_58	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_59	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_60	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_61	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_62	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_63	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_463_place_64	LZ Albany	Q110624853		13.59528,107.71528
+ttu_463_place_65	Vietnam	Q881		16,108
+ttu_463_place_66	Vietnam	Q881		16,108
+ttu_463_place_67	Vietnam	Q881		16,108
+ttu_463_place_68	Vietnam	Q881		16,108
