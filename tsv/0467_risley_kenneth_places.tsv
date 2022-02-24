@@ -1,44 +1,44 @@
-id	placeName
-ttu_467_place_0	Kelly Hill
-ttu_467_place_1	Georgia
-ttu_467_place_2	Vietnam
-ttu_467_place_3	Panama Canal
-ttu_467_place_4	Qui Nhon
-ttu_467_place_5	Qui Nhon
-ttu_467_place_6	An Khe
-ttu_467_place_7	An Khe
-ttu_467_place_8	Kansas
-ttu_467_place_9	Kansas
-ttu_467_place_10	An Khe
-ttu_467_place_11	Happy Valley
-ttu_467_place_12	States
-ttu_467_place_13	Benning
-ttu_467_place_14	Happy Valley
-ttu_467_place_15	X-Ray
-ttu_467_place_16	Catecka
-ttu_467_place_17	Falcon
-ttu_467_place_18	Victor, LZ (Landing Zone) Victor
-ttu_467_place_19	X-Ray
-ttu_467_place_20	X-Ray
-ttu_467_place_21	X-Ray
-ttu_467_place_22	LZ X-Ray
-ttu_467_place_23	States
-ttu_467_place_24	FDC, the fire direction center,
-ttu_467_place_25	Korea
-ttu_467_place_26	Vietnam
-ttu_467_place_27	CP (Command Post)
-ttu_467_place_28	X-Ray
-ttu_467_place_29	X-Ray
-ttu_467_place_30	Albany
-ttu_467_place_31	Columbus
-ttu_467_place_32	Albany
-ttu_467_place_33	Albany
-ttu_467_place_34	Columbus
-ttu_467_place_35	Crooks
-ttu_467_place_36	Crooks
-ttu_467_place_37	Bong Son
-ttu_467_place_38	Bong Son
-ttu_467_place_39	Albany
-ttu_467_place_40	Ia Drang
-ttu_467_place_41	X-Ray
-ttu_467_place_42	Albany
+id	placeName	QID	ttu_id	coordinate location
+ttu_467_place_0	Kelley Hill	Q110888302		32.38325815053565,-84.89875257096901
+ttu_467_place_1	Georgia	Q1428		33,-83.5
+ttu_467_place_2	Vietnam	Q881		16,108
+ttu_467_place_3	Panama Canal	Q7350		9.08,-79.68
+ttu_467_place_4	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_467_place_5	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_467_place_6	An Khê	Q15179893		13.9530664,108.6569463
+ttu_467_place_7	An Khê	Q15179893		13.9530664,108.6569463
+ttu_467_place_8	Kansas	Q1558		38.5,-98
+ttu_467_place_9	Kansas	Q1558		38.5,-98
+ttu_467_place_10	An Khê	Q15179893		13.9530664,108.6569463
+ttu_467_place_11	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_467_place_12	United States of America	Q30		39.828175,-98.5795
+ttu_467_place_13	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_467_place_14	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_467_place_15	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_16	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_467_place_17	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_467_place_18	Victor, LZ (Landing Zone) Victor	Q111010418		13.567944,107.714
+ttu_467_place_19	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_20	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_21	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_22	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_23	United States of America	Q30		39.828175,-98.5795
+ttu_467_place_24	FDC, the fire direction center,			
+ttu_467_place_25	Korea	Q18097		38.316666666667,127.23333333333
+ttu_467_place_26	Vietnam	Q881		16,108
+ttu_467_place_27	CP (Command Post)			
+ttu_467_place_28	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_29	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_30	LZ Albany	Q110624853		13.59528,107.71528
+ttu_467_place_31	Columbus			
+ttu_467_place_32	LZ Albany	Q110624853		13.59528,107.71528
+ttu_467_place_33	LZ Albany	Q110624853		13.59528,107.71528
+ttu_467_place_34	Columbus	Q110713739		13.35208, 107.44290
+ttu_467_place_35	Firebase Crook	Q55138118		11.2324, 105.5812
+ttu_467_place_36	Firebase Crook	Q55138118		11.2324, 105.5812
+ttu_467_place_37	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_467_place_38	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_467_place_39	LZ Albany	Q110624853		13.59528,107.71528
+ttu_467_place_40	Ia Drăng	Q10772506		13.76361111,107.8541667
+ttu_467_place_41	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_467_place_42	LZ Albany	Q110624853		13.59528,107.71528
