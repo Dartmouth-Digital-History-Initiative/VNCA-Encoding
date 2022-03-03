@@ -1,86 +1,87 @@
-id	placeName
-ttu_465_place_0	California
-ttu_465_place_1	Augusta, Georgia
-ttu_465_place_2	the United States
-ttu_465_place_3	Cornish
-ttu_465_place_4	United States
-ttu_465_place_5	Korea
-ttu_465_place_6	Germany
-ttu_465_place_7	Fort Benning, Georgia
-ttu_465_place_8	Germany
-ttu_465_place_9	US
-ttu_465_place_10	Fort Benning
-ttu_465_place_11	South Carolinas
-ttu_465_place_12	South Carolinas
-ttu_465_place_13	South Carolina
-ttu_465_place_14	Fort Benning
-ttu_465_place_15	Doughboy Stadium
-ttu_465_place_16	Vietnam
-ttu_465_place_17	Vietnam
-ttu_465_place_18	Vietnam
-ttu_465_place_19	Qui Nhon Hospital
-ttu_465_place_20	Vietnam
-ttu_465_place_21	Eisenhower
-ttu_465_place_22	Fort Benning
-ttu_465_place_23	Vietnam
-ttu_465_place_24	Vietnam
-ttu_465_place_25	Hawaii
-ttu_465_place_26	Fort Benning
-ttu_465_place_27	Vietnam
-ttu_465_place_28	Hawaii
-ttu_465_place_29	Vietnam
-ttu_465_place_30	Ia Drang Valley
-ttu_465_place_31	Chu Pong Mountain
-ttu_465_place_32	Chu Pong Mountain
-ttu_465_place_33	Ia Drang
-ttu_465_place_34	Qui Nhon Hospital
-ttu_465_place_35	Qui Nhon
-ttu_465_place_36	San Francisco, Letterman General Hospital
-ttu_465_place_37	Travis
-ttu_465_place_38	San Francisco
-ttu_465_place_39	Oakland, California
-ttu_465_place_40	Fort Walter
-ttu_465_place_41	Augusta
-ttu_465_place_42	Fort Benning
-ttu_465_place_43	California
-ttu_465_place_44	Travis
-ttu_465_place_45	Travis
-ttu_465_place_46	Letterman General Hospital
-ttu_465_place_47	Vietnam
-ttu_465_place_48	Travis
-ttu_465_place_49	Letterman Hospital
-ttu_465_place_50	Vietnam
-ttu_465_place_51	Fort Benning
-ttu_465_place_52	Vietnam
-ttu_465_place_53	Letterman Hospital
-ttu_465_place_54	Fort Benning
-ttu_465_place_55	Washington D.C.
-ttu_465_place_56	Fort Benning
-ttu_465_place_57	Washington D.C.
-ttu_465_place_58	Vietnam
-ttu_465_place_59	Vietnam
-ttu_465_place_60	NCO club
-ttu_465_place_61	Fort Benning
-ttu_465_place_62	Vietnam
-ttu_465_place_63	An Khe
-ttu_465_place_64	Fort Benning
-ttu_465_place_65	Augusta, Georgia
-ttu_465_place_66	Charlotte
-ttu_465_place_67	US
-ttu_465_place_68	Augusta, Georgia
-ttu_465_place_69	Augusta, Georgia.
-ttu_465_place_70	Augusta, Georgia
-ttu_465_place_71	Copper’s Cove
-ttu_465_place_72	Iraq
-ttu_465_place_73	America
-ttu_465_place_74	Augusta, Georgia
-ttu_465_place_75	Decatur
-ttu_465_place_76	Atlanta
-ttu_465_place_77	Columbus, Georgia
-ttu_465_place_78	Iraq
-ttu_465_place_79	Vietnam
-ttu_465_place_80	Vietnam
-ttu_465_place_81	Vietnam
-ttu_465_place_82	Canada
-ttu_465_place_83	Vietnam
-ttu_465_place_84	the United States
+id	placeName	coordinate location	QID	ttu_id
+ttu_465_place_0	California	37,-120	Q99	
+ttu_465_place_1	Augusta	33.47,-81.975	Q181962	
+ttu_465_place_2	United States of America	39.828175,-98.5795	Q30	
+ttu_465_place_3	Cornwall	50.3,-4.9	Q23148	
+ttu_465_place_4	United States of America	39.828175,-98.5795	Q30	
+ttu_465_place_5	Korea	38.316666666667,127.23333333333	Q18097	
+ttu_465_place_6	Germany	51,10	Q183	
+ttu_465_place_7	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_8	Germany	51,10	Q183	
+ttu_465_place_9	United States of America	39.828175,-98.5795	Q30	
+ttu_465_place_10	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_11	South Carolina	34,-81	Q1456	
+ttu_465_place_12	South Carolina	34,-81	Q1456	
+ttu_465_place_13	South Carolina	34,-81	Q1456	
+ttu_465_place_14	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_15	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_16	Vietnam	16,108	Q881	
+ttu_465_place_17	Vietnam	16,108	Q881	
+ttu_465_place_18	Vietnam	16,108	Q881	
+ttu_465_place_19	Qui Nhon Hospital	13.4558, 109.1319	Q111010601	
+ttu_465_place_20	Vietnam	16,108	Q881	
+ttu_465_place_21	Eisenhower Medical Center	33.7633,-116.406	Q3049500	
+ttu_465_place_22	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_23	Vietnam	16,108	Q881	
+ttu_465_place_24	Vietnam	16,108	Q881	
+ttu_465_place_25	Hawaii	21.3075,-157.8575	Q782	
+ttu_465_place_26	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_27	Vietnam	16,108	Q881	
+ttu_465_place_28	Hawaii	21.3075,-157.8575	Q782	
+ttu_465_place_29	Vietnam	16,108	Q881	
+ttu_465_place_30	Ia Drang Valley	13.583333333333,107.71666666667	Q2904975	
+ttu_465_place_31	Chư Pong	13.315277777778,108.35555555556	Q31621915	
+ttu_465_place_32	Chư Pong	13.315277777778,108.35555555556	Q31621915	
+ttu_465_place_33	Ia Drăng	13.76361111,107.8541667	Q10772506	
+ttu_465_place_34	Qui Nhon Hospital			
+ttu_465_place_35	Qui Nhơn	13.769580555555555,109.23137222222222	Q36081	
+ttu_465_place_36	Letterman Army Hospital	37.7994,-122.449	Q6533682	
+ttu_465_place_37	Travis Air Force Base	38.262777777778,-121.9275	Q3497425	
+ttu_465_place_38	San Francisco	37.7775,-122.41638888888889	Q62	
+ttu_465_place_39	Oakland	37.8,-122.25	Q17042	
+ttu_465_place_40	Fort Wolters	32.8525,-98.0311	Q5472364	
+ttu_465_place_41	Augusta	33.47,-81.975	Q181962	
+ttu_465_place_42	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_43	California	37,-120	Q99	
+ttu_465_place_44	Travis Air Force Base	38.262777777778,-121.9275	Q3497425	
+ttu_465_place_45	Travis Air Force Base	38.262777777778,-121.9275	Q3497425	
+ttu_465_place_46	Letterman Army Hospital	37.7994,-122.449	Q6533682	
+ttu_465_place_47	Vietnam	16,108	Q881	
+ttu_465_place_48	Travis Air Force Base	38.262777777778,-121.9275	Q3497425	
+ttu_465_place_49	Letterman Army Hospital	37.7994,-122.449	Q6533682	
+ttu_465_place_50	Vietnam	16,108	Q881	
+ttu_465_place_51	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_52	Vietnam	16,108	Q881	
+ttu_465_place_53	Letterman Army Hospital	37.7994,-122.449	Q6533682	
+ttu_465_place_54	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_55	Washington, D.C.	38.895,-77.036666666667	Q61	
+ttu_465_place_56	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_57	Washington, D.C.	38.895,-77.036666666667	Q61	
+ttu_465_place_58	Vietnam	16,108	Q881	
+ttu_465_place_59	Vietnam	16,108	Q881	
+ttu_465_place_60	NCO club			
+ttu_465_place_61	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_62	Vietnam	16,108	Q881	
+ttu_465_place_63	An Khê	16.05222222,108.1855556	Q10733203	
+				
+ttu_465_place_64	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_465_place_65	Augusta	33.47,-81.975	Q181962	
+ttu_465_place_66	Charlotte	35.226944444444,-80.843333333333	Q16565	
+ttu_465_place_67	United States of America	39.828175,-98.5795	Q30	
+ttu_465_place_68	Augusta	33.47,-81.975	Q181962	
+ttu_465_place_69	Augusta	33.47,-81.975	Q181962	
+ttu_465_place_70	Augusta	33.47,-81.975	Q181962	
+ttu_465_place_71	Copperas Cove	31.119722222222,-97.901666666667	Q974087	
+ttu_465_place_72	Iraq	33,43	Q796	
+ttu_465_place_73	United States of America	39.828175,-98.5795	Q30	
+ttu_465_place_74	Augusta	33.47,-81.975	Q181962	
+ttu_465_place_75	Decatur	36.3375,-94.456666666667	Q79324	
+ttu_465_place_76	Atlanta	33.756944444444,-84.390277777778	Q23556	
+ttu_465_place_77	Columbus	32.492222222222,-84.940277777778	Q239870	
+ttu_465_place_78	Iraq	33,43	Q796	
+ttu_465_place_79	Vietnam	16,108	Q881	
+ttu_465_place_80	Vietnam	16,108	Q881	
+ttu_465_place_81	Vietnam	16,108	Q881	
+ttu_465_place_82	Canada	56,-109	Q16	
+ttu_465_place_83	Vietnam	16,108	Q881	
+ttu_465_place_84	United States of America	39.828175,-98.5795	Q30	

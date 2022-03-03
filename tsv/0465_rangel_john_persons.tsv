@@ -1,69 +1,67 @@
-id	persName
-ttu_465_person_0	John Rangel
-ttu_465_person_1	Colonel Moore
-ttu_465_person_2	Sergeant Major Plumley
-ttu_465_person_3	Captain Nadal
-ttu_465_person_4	Lieutenant Marm
-ttu_465_person_5	Lieutenant Marm
-ttu_465_person_6	Captain Nadal
-ttu_465_person_7	Captain Nadal
-ttu_465_person_8	Captain Nadal
-ttu_465_person_9	Sergeant Major Plumley
-ttu_465_person_10	Colonel Moore
-ttu_465_person_11	Sergeant Major Plumley
-ttu_465_person_12	General Moore
-ttu_465_person_13	Sergeant Rangel
-ttu_465_person_14	Lieutenant Calley
-ttu_465_person_15	Colonel Moore
-ttu_465_person_16	Plumley
-ttu_465_person_17	Captain Nadal
-ttu_465_person_18	Colonel Moore
-ttu_465_person_19	Lieutenant Marm
-ttu_465_person_20	Captain Nadal
-ttu_465_person_21	Lieutenant Marm
-ttu_465_person_22	Bill Beck
-ttu_465_person_23	Bill Beck
-ttu_465_person_24	Viet Cong
-ttu_465_person_25	Lieutenant Marm
-ttu_465_person_26	John Brennan
-ttu_465_person_27	Brennan
-ttu_465_person_28	General Westmoreland
-ttu_465_person_29	Sergeant Rangel
-ttu_465_person_30	Walter Reed
-ttu_465_person_31	John F. Kennedy
-ttu_465_person_32	John Kennedy
-ttu_465_person_33	President Johnson
-ttu_465_person_34	Lieutenant Marm
-ttu_465_person_35	Sergeant Rangel
-ttu_465_person_36	Sergeant Rangel
-ttu_465_person_37	General York’s
-ttu_465_person_38	Sergeant Rangel
-ttu_465_person_39	Lieutenant Marm
-ttu_465_person_40	Sergeant Rangel
-ttu_465_person_41	Captain Nadal
-ttu_465_person_42	Captain Nadal
-ttu_465_person_43	Sergeant Rangel
-ttu_465_person_44	General Moore
-ttu_465_person_45	General Moore
-ttu_465_person_46	Sergeant Rangel
-ttu_465_person_47	captain Nadal
-ttu_465_person_48	Becky
-ttu_465_person_49	Becky Gill
-ttu_465_person_50	Becky Gill
-ttu_465_person_51	Jack Gill
-ttu_465_person_52	Captain Nadal
-ttu_465_person_53	Jack Gill
-ttu_465_person_54	Jack Gill
-ttu_465_person_55	Gill
-ttu_465_person_56	Sergeant Rangel
-ttu_465_person_57	Gill
-ttu_465_person_58	Sergeant Gill
-ttu_465_person_59	John Brennan
-ttu_465_person_60	John Brennan
-ttu_465_person_61	Captain Nadal
-ttu_465_person_62	John Brenan’s
-ttu_465_person_63	John Brennan
-ttu_465_person_64	John Brenan
-ttu_465_person_65	George Washington
-ttu_465_person_66	Carter
-ttu_465_person_67	Carter
+id	persName	QID	ttu_id
+ttu_465_person_0	John Rangel		ttu_0108
+ttu_465_person_1	Hal Moore	Q430209	
+ttu_465_person_2	Sergeant Major Plumley		ttu_0039
+ttu_465_person_3	Captain Nadal		ttu_0058
+ttu_465_person_4	Lieutenant Marm		ttu_0056
+ttu_465_person_5	Lieutenant Marm		ttu_0056
+ttu_465_person_6	Captain Nadal		ttu_0058
+ttu_465_person_7	Captain Nadal		ttu_0058
+ttu_465_person_8	Captain Nadal		ttu_0058
+ttu_465_person_9	Sergeant Major Plumley		ttu_0039
+ttu_465_person_10	Hal Moore	Q430209	
+ttu_465_person_11	Sergeant Major Plumley		ttu_0039
+ttu_465_person_12	Hal Moore	Q430209	
+ttu_465_person_13	Sergeant Rangel		ttu_0108
+ttu_465_person_14	Lieutenant Calley		
+ttu_465_person_15	Hal Moore	Q430209	
+ttu_465_person_16	Plumley		ttu_0039
+ttu_465_person_17	Captain Nadal		ttu_0058
+ttu_465_person_18	Hal Moore	Q430209	
+ttu_465_person_19	Lieutenant Marm		ttu_0056
+ttu_465_person_20	Captain Nadal		ttu_0058
+ttu_465_person_21	Lieutenant Marm		ttu_0056
+ttu_465_person_22	Bill Beck		ttu_0109
+ttu_465_person_23	Bill Beck		ttu_0109
+ttu_465_person_25	Lieutenant Marm		ttu_0056
+ttu_465_person_26	John Brennan		ttu_0110
+ttu_465_person_27	Brennan		ttu_0110
+ttu_465_person_28	William Westmoreland	Q298793	
+ttu_465_person_29	Sergeant Rangel		ttu_0108
+ttu_465_person_31	John F. Kennedy	Q9696	
+ttu_465_person_32	John F. Kennedy	Q9696	
+ttu_465_person_33	Lyndon B. Johnson	Q9640	
+ttu_465_person_34	Lieutenant Marm		ttu_0056
+ttu_465_person_35	Sergeant Rangel		ttu_0108
+ttu_465_person_36	Sergeant Rangel		ttu_0108
+ttu_465_person_37	General York’s		ttu_0111
+ttu_465_person_38	Sergeant Rangel		ttu_0108
+ttu_465_person_39	Lieutenant Marm		ttu_0056
+ttu_465_person_40	Sergeant Rangel		ttu_0108
+ttu_465_person_41	Captain Nadal		ttu_0058
+ttu_465_person_42	Captain Nadal		ttu_0058
+ttu_465_person_43	Sergeant Rangel		ttu_0108
+ttu_465_person_44	Hal Moore	Q430209	
+ttu_465_person_45	Hal Moore	Q430209	
+ttu_465_person_46	Sergeant Rangel		ttu_0108
+ttu_465_person_47	captain Nadal		ttu_0058
+ttu_465_person_48	Becky		ttu_0112
+ttu_465_person_49	Becky Gill		ttu_0112
+ttu_465_person_50	Becky Gill		ttu_0112
+ttu_465_person_51	Jack Gill		ttu_0113
+ttu_465_person_52	Captain Nadal		
+ttu_465_person_53	Jack Gill		ttu_0113
+ttu_465_person_54	Jack Gill		ttu_0113
+ttu_465_person_55	Gill		ttu_0113
+ttu_465_person_56	Sergeant Rangel		ttu_0108
+ttu_465_person_57	Gill		ttu_0113
+ttu_465_person_58	Sergeant Gill		ttu_0113
+ttu_465_person_59	John Brennan		ttu_0110
+ttu_465_person_60	John Brennan		ttu_0110
+ttu_465_person_61	Captain Nadal		
+ttu_465_person_62	John Brenan’s		ttu_0110
+ttu_465_person_63	John Brennan		ttu_0110
+ttu_465_person_64	John Brenan		ttu_0110
+ttu_465_person_65	George Washington	Q23	
+ttu_465_person_66	Jimmy Carter	Q23685	
+ttu_465_person_67	Jimmy Carter	Q23685	

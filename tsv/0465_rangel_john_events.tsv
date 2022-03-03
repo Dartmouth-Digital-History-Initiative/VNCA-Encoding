@@ -1,4 +1,4 @@
-id	name
-ttu_465_event_0	My Lai
-ttu_465_event_1	My Lai
-ttu_465_event_2	Ia Drang Valley
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_465_event_0	My Lai Massacre	Q183421				1968-03-16T00:00:00Z
+ttu_465_event_1	My Lai Massacre	Q183421				1968-03-16T00:00:00Z
+ttu_465_event_2	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
