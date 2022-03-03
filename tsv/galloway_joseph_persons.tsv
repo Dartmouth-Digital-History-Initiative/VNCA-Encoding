@@ -1,7 +1,7 @@
 id	persName	QID	ttu_id
 ttu_454_person_0	Richard Verrone		ttu_0003
-ttu_454_person_1	Joseph Galloway		ttu_0004
-ttu_454_person_2	Joe		ttu_0004
+ttu_454_person_1	Joseph L. Galloway	Q3185182	
+ttu_454_person_2	Joseph L. Galloway	Q3185182	
 ttu_454_person_3	Ernie Pyle	Q38415	
 ttu_454_person_4	Ernie Pyle	Q38415	
 ttu_454_person_5	Mr. Jim Wreck		ttu_0005
@@ -11,7 +11,7 @@ ttu_454_person_8	Hal Moore	Q430209
 ttu_454_person_9	Joshua Lawrence Chamberlain	Q80766	
 ttu_454_person_10	Allison		ttu_0008
 ttu_454_person_11	John Thomas Allison		ttu_0008
-ttu_454_person_12	Company C, 2nd Battalion, 12th Infantry Regiment	Q109417326	
+ttu_454_person_12	Company C, 2nd Battalion, 12th Infantry Regiment		
 ttu_454_person_13	Mark Twain	Q7245	
 ttu_454_person_14	Harry S Truman	Q11613	
 ttu_454_person_15	Harry S Truman	Q11613	
@@ -26,7 +26,7 @@ ttu_454_person_23	David Halberstam	Q467156
 ttu_454_person_24	Malcom Brown	Q18630785	
 ttu_454_person_25	John Wayne	Q40531	
 ttu_454_person_26	Henri Huet	Q1605885	
-ttu_454_person_27	Mr. Galloway		ttu_0004
+ttu_454_person_27	Joseph L. Galloway	Q3185182	
 ttu_454_person_28	Henri Huet	Q1605885	
 ttu_454_person_29	Henri Huet	Q1605885	
 ttu_454_person_30	John Wayne	Q40531	
@@ -46,10 +46,10 @@ ttu_454_person_43	Joseph L. Galloway	Q3185182
 ttu_454_person_44	Hal Moore	Q430209	
 ttu_454_person_45	Joseph L. Galloway	Q3185182	
 ttu_454_person_46	Peter Arnett	Q142025	
-ttu_454_person_47	Matt Dillion		
+ttu_454_person_47	Matt Dillon	Q111014068	
 ttu_454_person_48	Hal Moore	Q430209	
-ttu_454_person_49	James Dillion	Q1680278	
+ttu_454_person_49	Matt Dillon	Q111014068	
 ttu_454_person_50	Hal Moore	Q430209	
 ttu_454_person_51	Hal Moore	Q430209	
 ttu_454_person_52	Norman Schwarzkopf Jr.	Q310188	
-ttu_454_person_53	Joe		ttu_0004
+ttu_454_person_53	Joseph L. Galloway	Q3185182	
