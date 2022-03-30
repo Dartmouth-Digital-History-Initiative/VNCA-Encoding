@@ -1,0 +1,441 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="JENNINGS"/>
+        <person xml:id="MILAM"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="MILAM">I'm Dr. <persName>Ron Milam</persName> with <orgName>Texas Tech University</orgName> and <orgName>the Vietnam Center</orgName>. I am interviewing <date>today</date> Mr. <persName>George Jennings</persName>.</u>
+      <u who="JENNINGS">That’s correct.</u>
+      <u who="MILAM"><persName>George</persName>, I’d like to start by asking you to tell me what your MOS (Military Occupational Specialty) and rank was <date>the day November 14th, 1965</date>.</u>
+      <u who="JENNINGS">I was <date>a 1st</date> Lieutenant and <orgName>MOS</orgName> is straight infantry, I guess.</u>
+      <u who="MILAM"><date>1542</date>.</u>
+      <u who="JENNINGS">Something like that.</u>
+      <u who="MILAM">Yeah, I remember it. What was your responsibility that day?</u>
+      <u who="JENNINGS">I was executive officer for <orgName>A Company</orgName>, 1st Battalion of the 7th Cavalry.</u>
+      <u who="MILAM">A, 2nd of the 7th?</u>
+      <u who="JENNINGS">1st of the 7th. </u>
+      <u who="MILAM"><date>1st of the 7th</date>, excuse me. You were with <persName>Tony Nadal</persName>?</u>
+      <u who="JENNINGS">Yes, he was my company commander.</u>
+      <u who="MILAM">You were his <orgName>XO</orgName> (Executive Officer) as a 1st lieutenant.</u>
+      <u who="JENNINGS">I was <date>the 1st</date> lieutenant, yes sir.</u>
+      <u who="MILAM">Back up, tell me when you joined the 1st <name type="event">Air Cav</name>?</u>
+      <u who="JENNINGS">I joined the 1st <orgName>Air Cav</orgName> right in <date>the middle of June</date>, in <date>1965</date>.</u>
+      <u who="MILAM"><date>June of ’65</date>. So the training that you got on airmobile operations at Fort Benning was the time <date>between June</date>—</u>
+      <u who="JENNINGS"><date>July</date>. </u>
+      <u who="MILAM">And <date>August</date> when you left?</u>
+      <u who="JENNINGS">Yes.</u>
+      <u who="MILAM">What was the source of your commission?</u>
+      <u who="JENNINGS">I went to officer candidate school at Fort Benning.</u>
+      <u who="MILAM">What was the battalion? Do you remember?</u>
+      <u who="JENNINGS">The battalion? I don’t think we had a battalion.</u>
+      <u who="MILAM">Well, that’s very possible back then, after that they had a lot more than that.</u>
+      <u who="JENNINGS">I was class one of ’63.</u>
+      <u who="MILAM">Class one of ’63, okay. When you graduated from <orgName>OCS</orgName> (<orgName>Officer Candidate School</orgName>), how long had you been enlisted before you got your commission? I know <date>six months</date> before OCS, but what about the—did you go through basic and <orgName>AIT</orgName> (Advanced Individual Training) and then OCS?</u>
+      <u who="JENNINGS">No, I spent <date>almost a year</date> at <placeName>Foot Hood</placeName>, <placeName>Texas</placeName>, prior to OCS.</u>
+      <u who="MILAM">Prior to OCS. You were a—what was your <orgName>MOS</orgName> before you went to OCS?</u>
+      <u who="JENNINGS">I don’t remember the <orgName>MOS</orgName>, I was a track driver in a tank battalion.</u>
+      <u who="MILAM">Okay, and you took a test? Passed the test high enough to be offered <orgName>OCS</orgName>, is that the way it works?</u>
+      <u who="JENNINGS">Correct, yes.</u>
+      <u who="MILAM">Were you a college graduate?</u>
+      <u who="JENNINGS">No, sir.</u>
+      <u who="MILAM">When you joined the army, what was your intentions?</u>
+      <u who="JENNINGS">My purest intentions, I guess was to join the army and go to <placeName>Europe</placeName> and be like <persName>Elvis Presley</persName>, you know? Spend a little time in <placeName>Germany</placeName>. That’s basically—just got out of high school. I’d been out of high school a whole month when I joined the army. I had no real aspirations at the time, so I joined the army to try to find out really what I wanted to do.</u>
+      <u who="MILAM">When you got your commission, how old were you?</u>
+      <u who="JENNINGS">I was <date>twenty years old</date>.</u>
+      <u who="MILAM"><date>Twenty years old</date>.</u>
+      <u who="JENNINGS">Barley.</u>
+      <u who="MILAM">Butter bar!</u>
+      <u who="JENNINGS">That’s it.</u>
+      <u who="MILAM">So after your commissioning, what was your first duty station?</u>
+      <u who="JENNINGS">I went to OCS at Fort Benning and they had national rifle and pistol matches at Fort Benning at that time, in <date>1963</date>. We graduated in <date>February</date>, I stayed with the national rifle and pistol matches probably <date>four months</date> as a statistical officer, just helping with the matches so they went smoothly and kept statistics on the shootings. Then I transferred out to <date>2nd of 23rd Infantry</date>, on <persName>Kelley Hill</persName>, when all the matches wound up.</u>
+      <u who="MILAM">So you were a platoon leader in <date>the 2nd of the 23rd</date>?</u>
+      <u who="JENNINGS">Yes.</u>
+      <u who="MILAM">You knew about this 11th <orgName>Air Assault</orgName> forming up at Benning, right?</u>
+      <u who="JENNINGS">Absolutely, yes.</u>
+      <u who="MILAM">It was in the news.</u>
+      <u who="JENNINGS">Oh, yes. I was—from <date>the 2nd of the 23rd</date>, I went on <persName>Kelley Hill</persName>, I went to the 1st Battalion of the 9th <orgName>Infantry on Sand Hill</orgName> which was part of the 2nd Infantry Division. We were actually the aggressors for the 11th Air Assault’s training. We were pretty intimately involved with a lot of it.</u>
+      <u who="MILAM">But you weren’t training in the choppers? </u>
+      <u who="JENNINGS">No, sir. </u>
+      <u who="MILAM">You were on the ground acting as the aggressors when they got off the choppers, is that a fair way to describe what you did?</u>
+      <u who="JENNINGS">Yes, that’s correct.</u>
+      <u who="MILAM">Did you want to be part of that outfit? Was it something that looked good to you? Looked interesting?</u>
+      <u who="JENNINGS">Yes, it did. Eventually wound up that way.</u>
+      <u who="MILAM">How did that happen? How did you get into what will become the 1st <name type="event">Air Cav</name>?</u>
+      <u who="JENNINGS">Well, there was again <date>the 2nd of the 23rd</date> was losing a bunch of people from attrition. We had folks getting out of the military and reaching their date of going home. I knew that they lost several officers, so I called and talked to someone there and see if I could go back to <persName>Kelley Hill</persName> and I did. They needed people and I was available, which pretty much stripped <orgName>the 2nd Infantry Division</orgName> to go back into a full division for <orgName>the 1st Cavalry</orgName>.</u>
+      <u who="MILAM">So <date>June of ’65</date>, you get in this new outfit.</u>
+      <u who="JENNINGS">Yes sir.</u>
+      <u who="MILAM">In <date>July</date>, President <persName>Johnson</persName> mobilizes the 1st <name type="event">Air Cav</name>. When you got in, in <date>June</date>, did you have a clue that it would probably be <placeName>Vietnam</placeName> soon?</u>
+      <u who="JENNINGS">Absolutely.</u>
+      <u who="MILAM">That was written up, I assume on <placeName>Columbus</placeName> paper and then I forget the name of the rag there, but there’s a local paper.</u>
+      <u who="JENNINGS">Yeah. I believe it was in <placeName>Inquirer</placeName>, I'm not sure.</u>
+      <u who="MILAM">Yeah, but there was talk around Fort Benning that this was going to happen sometime soon. So you pretty much knew that was going to happen. </u>
+      <u who="JENNINGS">We talked about it amongst ourselves and the officers. Matter of fact, Colonel Conger, who was our battalion commander at that time, called all the officers into the battalion headquarters, in a conference room had the television on <date>the day</date> President <persName>Johnson</persName> announced “I have <date>today</date> ordered <orgName>a Cav Division</orgName> to <placeName>Vietnam</placeName>.” So we were well aware of what was going on.</u>
+      <u who="MILAM">Had you already received your assignment with <orgName>Alpha Company</orgName> when <persName>Johnson</persName> made that speech?</u>
+      <u who="JENNINGS">No sir, at that point in time I was an <orgName>XO</orgName> of <orgName>Charlie Company</orgName>. with Captain <persName>Edwards</persName>.</u>
+      <u who="MILAM">Okay, you left for <placeName>Vietnam</placeName> on, which ship did you ride over on?</u>
+      <u who="JENNINGS"><persName>USNS Maurice Rose</persName>.</u>
+      <u who="MILAM">You rode on the Rose, okay. So when you were on the Rose, you were working for <persName>Edwards</persName>?</u>
+      <u who="JENNINGS">Yes sir, that’s correct.</u>
+      <u who="MILAM">You were his <orgName>XO</orgName> of <persName>Charlie Company</persName>?</u>
+      <u who="JENNINGS"><persName>Charlie Company</persName>, yeah.</u>
+      <u who="MILAM">When did you get issued your <persName>M16</persName>?</u>
+      <u who="JENNINGS">We took them with us, they were in <orgName>CONEX</orgName> boxes. The <orgName>CONEX</orgName> containers and actually, probably not until we got pretty close to An <persName>Khe</persName> because I don’t remember exactly.</u>
+      <u who="MILAM">When did you fire it for the first time?</u>
+      <u who="JENNINGS">At An <persName>Khe</persName>.</u>
+      <u who="MILAM">In An <persName>Khe</persName>, so you didn’t have any training at all in the states?</u>
+      <u who="JENNINGS">No, that’s not correct. I did have one, we used the M16 with <orgName>the 2nd Infantry Division</orgName>.</u>
+      <u who="MILAM">You did, okay.</u>
+      <u who="JENNINGS">We did qualify, we did fire the <orgName>M16</orgName> a lot.</u>
+      <u who="MILAM">When you got it for the first time, what’d you think of it? Because you had a 14 before that, I assume.</u>
+      <u who="JENNINGS">Right. Carried a M1 before that, but the <orgName>M16</orgName> was a pretty good weapon, personally. In my opinion, I thought the bullet was a little too small.</u>
+      <u who="MILAM">.22 caliber.</u>
+      <u who="JENNINGS">.22 caliber because I am a hunter also. I knew a little about rifles prior to that. I thought the bullet was a little small. But when you shoot it on the range with targets, you got your silhouettes targets, you can see from the target itself that those bullets started tumbling. That was much more devasting, that was a mostly accurate too. Good accuracy but when it’s tumbling, the bullet goes through a target sideways and has a real effect on it.</u>
+      <u who="MILAM">Well, it also had the fact that it was only .22 caliber instead of .30, allowed you to in the same amount of space and weight carry a lot more ammunition.</u>
+      <u who="JENNINGS">Absolutely.</u>
+      <u who="MILAM">That was I think one of the army’s reasons for developing it among a lot of others. But when you were first given it, did it—I mean one of the reactions a lot of people have to it, it seemed like a toy compared to that <orgName>M14</orgName> because it was some much lighter and it was made out of plastic and it had an image look to it.</u>
+      <u who="JENNINGS">That never really crossed my mind.</u>
+      <u who="MILAM">Didn’t cross your mind? </u>
+      <u who="JENNINGS">No, sir. </u>
+      <u who="MILAM">And as a hunter, you kind of had some ballistic knowledge.</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">How about other weapons? Did you train at all on the M79 before you went over?</u>
+      <u who="JENNINGS">Yes.</u>
+      <u who="MILAM">So you knew the capabilities of the grenade launcher?</u>
+      <u who="JENNINGS">Yes sir, we trained on almost all the weapons in officer candidate school.</u>
+      <u who="MILAM">You’d been exposed to the LAW (Light Anti-Tank Weapon)?</u>
+      <u who="JENNINGS">The <orgName>LAW</orgName>, the M60 machine gun.</u>
+      <u who="MILAM">The M60 of course.</u>
+      <u who="JENNINGS">Yep. Some artillery, some of the mortars—</u>
+      <u who="MILAM"><date>81s, 60s</date>.</u>
+      <u who="JENNINGS">Playing around with some of the artillery and calling in the shots.</u>
+      <u who="MILAM">Your OCS experience. <date>Six months</date>, right?</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">Did you think it prepared you well for trooper training? Or did it prepare you well for leading troops into combat? That’s not a question you could’ve answered when you were taking the training, but now you can.</u>
+      <u who="JENNINGS">At that time, I think it was probably the best training I could’ve had. I honestly do because the guys—well, I'm not going to say anything bad about the ROTC (Reserve Officer Training Corps), and I doubt nothing is bad to say about them because there’s some good ones, or <placeName>West Point</placeName> and everything else. They got schooling and some military knowledge of keeping yourself clean and fit to do the job. <orgName>The Officer’s Candidate School</orgName> was <date>six months</date> of pretty intense training on weapons and tactics. You already had some experience as an enlisted man to know what is expected of you. I felt like I was pretty well qualified. Even with my youth.</u>
+      <u who="MILAM">For what it’s worth, junior officer leadership in <name type="event">the Vietnam War</name> is my academic specialty and I have done a lot of research and I have a book that’s coming out hopefully in <date>the next year</date> and my conclusion is similar to what you just stated, so you might be interested in taking a look at that one of these days.</u>
+      <u who="JENNINGS">I’d love to.</u>
+      <u who="MILAM">And your company commander said some similar things when I interviewed him. You are a platoon leader, which platoon did you lead in <persName>Charlie Company</persName>?</u>
+      <u who="JENNINGS">I was the executive officer.</u>
+      <u who="MILAM">I'm sorry, you were <orgName>XO</orgName> of <orgName>Charlie Company</orgName> and you ultimately became <orgName>XO of Alpha</orgName> also.</u>
+      <u who="JENNINGS">I had already been a 1st lieutenant for probably <date>a year</date> at that time.</u>
+      <u who="MILAM">So you had 1st lieutenant, so you had rank on most—and the other platoon leaders were 2nds?</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">Okay. You go to <placeName>Vietnam</placeName> as the <orgName>XO</orgName> of <orgName>Charlie Company</orgName>. You ride over on the Rose. You guys come into <persName>Qui Nhon</persName>, I guess and—</u>
+      <u who="JENNINGS"><persName>Qui Nhon Bay</persName>.</u>
+      <u who="MILAM">You’re given the responsibility of building this base out of nothing. </u>
+      <u who="JENNINGS">Yes, that’s correct. </u>
+      <u who="MILAM">What was your supervisor responsibilities during that period as <orgName>XO</orgName>? Did you have a particular area of the camp that you were responsible for getting up and running or were you more responsible for getting your men ready to go into combat?</u>
+      <u who="JENNINGS">Actually, I was more in the getting things rolling around the camp and getting things built. One of my initial responsibilities, inherently because the company commander is so involved with his men, is that I inherit the platoon leaders and keep their moral up, kind of keep them on the straight and narrow. Now the company commander gives the orders, and he tells them what to do but the <orgName>XO</orgName> normally is the one that comes in and puts the boot in the right place and make sure they do it.</u>
+      <u who="MILAM">The chain of command, the way the army set it up back then was platoon leaders report directly to <orgName>the CO (Commanding Officer</orgName>) and the executive officer is theoretically staffed to the CO, but as you’ve said, in reality you’re working very closely with the platoon leaders.</u>
+      <u who="JENNINGS">I was babysitting the platoon leader more or less.</u>
+      <u who="MILAM">Right, but you also by doing that free up the CO to deal with the battalion?</u>
+      <u who="JENNINGS">That’s correct.</u>
+      <u who="MILAM">At least—certainly on the administrative bases that would be the case, but in combat it has some other implications.</u>
+      <u who="JENNINGS">Along with that responsibility, I have the primary responsibility to make sure that we got the men to do the job well and that they have the supplies to do their job well. Resupply and make sure everything works right in the company.	</u>
+      <u who="MILAM">Sure. Okay. So you’re at An <persName>Khe</persName>, did your unit participate in, I believe it’s called “Operation Silver Bayonet” over in—</u>
+      <u who="JENNINGS">In Happy <placeName>Valley</placeName>? Yes, sir.</u>
+      <u who="MILAM">Was that—did your men experience any actual combat in that operation?</u>
+      <u who="JENNINGS">No. <persName>Charlie Company</persName> did not in that one. It was kind of like a walk in the park, on a <date>Sunday</date> afternoon.</u>
+      <u who="MILAM">Gave everybody a chance to get out and get on and off a helicopter I assume, and that was actually almost a brigade operation, right?</u>
+      <u who="JENNINGS">Right, that’s correct.</u>
+      <u who="MILAM">So it was a large operation and I think it has been represented to me that was about the only big operation that you had been involved in prior to <placeName>Ia</placeName> <placeName>Drang</placeName>?</u>
+      <u who="JENNINGS">Yes, sir and well, that’s correct. Prior to the Ia Drang operation, we were in the same area as the Plei Me special forces camp, <placeName>Pleiku</placeName> province and had <date>about a week</date> of operation there prior to going into the valley. But during that time, somewhere around late September, <date>early October</date>, things changed, and <persName>Tony Nadal</persName> actually took them into A Company. He was not in command of A company when we left the states.</u>
+      <u who="MILAM">He was a staff officer.</u>
+      <u who="JENNINGS">Battalion staff S2.</u>
+      <u who="MILAM">S2, yes.</u>
+      <u who="JENNINGS">Lieutenant <persName>Grohowski</persName> had A Company. Anyway, something happened where <persName>Tony Nadal</persName> went to A Company and <persName>Grohowski</persName> came back to assist battalion S3 operations. At the same time, we got another new set of 1st lieutenant named—I’ll think of his name in a second. He had <placeName>Vietnam</placeName> experience with special forces. <persName>Tony Nadal</persName> had <placeName>Vietnam</placeName> experience with the special forces. Me and <persName>Captain Edwards</persName> in the C Company both had a little bit of experience with the Cav, the choppers and whatever we were doing. Me, simply by being with Captain <persName>Edwards</persName> for <date>two months</date>, I learned a lot. They swapped <persName>Bill Lance</persName>. Lieutenant <persName>Bill Lance</persName> was <orgName>the XO of A.</orgName></u>
+      <u who="MILAM">He was the <orgName>XO</orgName> with <persName>Tony</persName>, so <persName>Bill</persName> went over to <persName>Charlie</persName> and you came over to Alpha.</u>
+      <u who="JENNINGS">That was in <date>late September</date>, that’s correct.</u>
+      <u who="MILAM">You had <date>six weeks</date> or so with your new unit before the valley?</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">Okay. Let’s talk about the day, let’s talk about <date>November 14th</date>. The order comes that morning early for you, or did you know about it on <date>the 13th</date>?</u>
+      <u who="JENNINGS">I knew we were going somewhere on the 13th. We were on a small landing zone northwest of <orgName>the Plei Me Special Forces Camp</orgName>. <persName>Tony</persName> and half the company was down in a creek taking a bath and I was up there with the other half of the company on the landing zone and <date>the 2nd of the 7th</date> decided they were going to have a hot assault on our landing zone. Well, their companies hit our landing zones shooting and firing. Here comes <persName>Tony</persName> running up the hill. Anyway, the was kind of incidental. We finally got the guys to quit shooting and screaming and hollering. Nobody was hurt, thank goodness. They left and <persName>Tony</persName> came running up the hill half naked. (Chuckles) He was scared to death. Then he got a call from battalion headquarters saying, “Get on the chopper and come to—” well I think they were at <orgName>Plei Me</orgName>. “We’ll have a frag order tonight.” He told me to, “Get the people ready to go in the morning.” Where we were going, I had no idea.</u>
+      <u who="MILAM">Your unit is, I believe as it has been described to me—the company was, when you actually left the next morning, was not all together because in other words you weren’t all at <orgName>Plei Me</orgName>.</u>
+      <u who="JENNINGS">Our company was isolated about five miles from <orgName>Plei Me</orgName>. So was <persName>Charlie Company</persName>. <orgName>Bravo Company</orgName> was right there at <orgName>Plei Me</orgName> and they assaulted first. They went in first because they were there.</u>
+      <u who="MILAM">When did you go in?</u>
+      <u who="JENNINGS">I was on the fourth flight.</u>
+      <u who="MILAM">Okay, so the first couple of flights in, as I understand it received no fire—</u>
+      <u who="JENNINGS">Close, yes.</u>
+      <u who="MILAM">By the time you guys got in, was the LZ (Landing Zone) hot?</u>
+      <u who="JENNINGS">It was hot. <persName>Tony</persName> took about two-thirds to three-quarters of the company. That’s how many choppers we had to load out and get in. He came in on the third flight, he went in on the third flight and I brought up the rear end with, I think we had four choppers of A company left and I had those guys with me when I landed and part of <orgName>Charlie Company</orgName>, they came with us too. When we got there, it was hot. There’s no way that you could reach down and pull that grass to you fast enough. It seemed at that point that there was at least a million bullets in the air. Just buzzing everywhere and cracking.</u>
+      <u who="MILAM"><orgName>Skids</orgName> didn’t actually hit the ground?</u>
+      <u who="JENNINGS">No, no. No, sir. We jumped that thing 10 feet off the ground.</u>
+      <u who="MILAM">Then the question is how quickly can you get to a safe position, whether it was flat on your stomach or whatever, you had to get your unit together. Tell me about how you pulled it together.</u>
+      <u who="JENNINGS">When we get off the chopper, we spread out about twenty yards all the way around where the chopper landed. Then somebody gave us a signal and we rally to a different point. That depends on what’s there. We were behind—that would be east of the big ant hill that Colonel <persName>Moore</persName> had his command post behind.</u>
+      <u who="MILAM">Right.</u>
+      <u who="JENNINGS">By about forty-fifty yards. Then there was me, I had fourteen to fifteen guys with me. Maybe twenty, I don’t remember exactly but we hung around real close and Colonel <persName>Moore</persName> finally got my attention, or I got his attention and he said “George, A Company is over there go!” So we went. <persName>Charlie Company</persName> matter of fact part of them come moving through me and my guys before we even got off the ground. Lieutenant <persName>Kroger</persName> and <persName>Sergeant Gilreath</persName>, his platoon sergeant, came walking up through there and I told—I knew all of them, we’d been together long enough that I knew all of the lieutenants, I knew all of the platoon sergeants pretty well because that was my company, <persName>Charlie Company</persName>, and they were moving in through us. I’d loaned <persName>Neil Kroger</persName> thirty dollars to go on <orgName>R&amp;R</orgName> <date>about a month</date> before that. I told <persName>Sergeant Gilreath</persName>, “Now you take good care of that character, my buddy, he still owes me thirty dollars.” (Chuckles) Unfortunately, I never saw him alive again. We were joking around and playing. Then, if possible, it got hotter. We were moving toward where A Company was receiving heavy fire, they were receiving heavy fire. It was coming through them, all over the landing zone. The first causality out of the dry creek bed was <persName>Robert Taft</persName>, Lieutenant.</u>
+      <u who="MILAM">He was 1st Platoon Leader?</u>
+      <u who="JENNINGS">Yes. He was also a very good friend of mine. Him and <persName>Neil Kroger</persName>, all of them. We had a pretty tight clique, we were friends. A couple of guys were carrying him back and it just kind of hit me, I said, “<persName>George</persName>, you might not make it out of this one.”</u>
+      <u who="MILAM">When <persName>Lieutenant Taft</persName> was killed, you had—he had been on the ground, he came in with <persName>Tony</persName>, is that right?</u>
+      <u who="JENNINGS">With <persName>Tony</persName>, that’s correct.</u>
+      <u who="MILAM">That’s one of the first indicators you had about what was going on, we’d already lost one of our platoon leaders.</u>
+      <u who="JENNINGS">Yes.</u>
+      <u who="MILAM"><persName>George</persName>, I know what an <orgName>XO</orgName>’s responsibilities are, kind of in a garrison situation. What was your responsibility—and I will use the word “supposed to be” because this fire fight was so unusual the way it developed, but under normal situations, in a combat situation, what would be your main responsibilities in combat as <orgName>XO</orgName>?</u>
+      <u who="JENNINGS">Main responsibility is to resupply my guys with water and bullets.</u>
+      <u who="MILAM">Okay, so you were to make sure—that’s how it would be. That’s how <persName>Tony Nadal</persName>, the captain would’ve looked at you, to take all that responsibility away from him so he can deal with the fight, the battalion, talking to the colonel—</u>
+      <u who="JENNINGS">Talking to his other platoon leaders and I’d take care of all the wounded, all of our dead. Bring more ammunition and water. Nobody wanted any food. So all we got was water and bullets.</u>
+      <u who="MILAM">And when <persName>Lieutenant Taft</persName> went down, the platoon sergeant who was, well don’t worry about the name— </u>
+      <u who="JENNINGS">I don’t recall. </u>
+      <u who="MILAM">But the platoon sergeant took over for him as leader of that platoon. </u>
+      <u who="JENNINGS">Yes, sir. </u>
+      <u who="MILAM">It didn’t change your responsibilities because of Lieutenant Taft’s death. But you did have on your mind at that moment that you had—was he the very first casualty that you knew of?</u>
+      <u who="JENNINGS">He was the first causality of the <placeName>Valley</placeName>. He was the first one shot at the dry creek bed. When they moved forward and Captain <persName>Herren</persName> with B Company was on our ride, I say ours I wasn’t even there yet. <persName>Tony Nadal</persName> was pushing a straightforward toward of massif of <persName>Chu Pong Mountain</persName>. He had all them come straight at us, straight at him. Captain <persName>Herren</persName> was off to the right and tied in with the right side of our company was Lieutenant Herrick That’s when he took off after what he thought was <persName>VC</persName> (<persName>Viet Cong</persName>), they were North Vietnamese regulars</u>
+      <u who="MILAM">You figured that out pretty quickly—</u>
+      <u who="JENNINGS">Yes, I wasn’t on the ground and up there at that point, but we knew that there was way too much fire for it to be <persName>Viet Cong</persName>. I wasn’t in command of either company at the time and I was going by with what I heard and saw. My opinion was that <placeName>Henry</placeName> fell for a sucker play.</u>
+      <u who="MILAM">As the day—this is around noon?</u>
+      <u who="JENNINGS">When I get in there, it’s about 11:45.</u>
+      <u who="MILAM">Okay, and the fire fight through the afternoon on <orgName>Alpha Company’s</orgName> position is horrendous, as I understand it. You guys are catching the most of it, is that correct?</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">And you’re losing leadership very quickly.</u>
+      <u who="JENNINGS">We lost—well, after I was on the ground, I hadn’t even made it to the company yet and here they come with some more wounded. I was helping with those guys and one of them was <persName>Joe Marm</persName>. <persName>Joe</persName> was a 2nd platoon leader. His platoon was—I didn’t see that either but from what everybody told me in the platoon, they were pinned down and <persName>Joe</persName> got angry, he and a specialist. <persName>Joe</persName> fired a LAW into an anthill where they had a machine gun, he and the specialist attack it and they only killed seven or eight people on the other side. During that action, <persName>Joe</persName> was shot in the jaw and it came out of his neck over here.</u>
+      <u who="MILAM">Was specialist wounded with him?</u>
+      <u who="JENNINGS">He was killed.</u>
+      <u who="MILAM">He was killed. That’s the action for which <persName>Marm</persName> was give the Medal of Honor?</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">So Taft is dead, <persName>Marm</persName> is wounded.</u>
+      <u who="JENNINGS">I helped carry <persName>Marm</persName> back to the aid station and put him on a chopper and I had about six guys with me. We picked up all the ammunition and water we could carry and took it back to out to the positions.</u>
+      <u who="MILAM">How about the third platoon?</u>
+      <u who="JENNINGS">Third platoon at that point was pretty much intact. They were on the right side. Basically, behind where <persName>Henry Herrick</persName> took off into the woods with the lost platoon and they didn’t get a whole lot of stuff in there. It was <persName>Wayne Johnson</persName>; Lieutenant <persName>Wayne Johnson</persName> was in that platoon and he was wounded but it wasn’t severe.</u>
+      <u who="MILAM">The lost platoon was part of <orgName>Charlie Company</orgName>?</u>
+      <u who="JENNINGS">Bravo.</u>
+      <u who="MILAM">It was part of <orgName>Bravo Company</orgName>, okay. Now, as <orgName>XO</orgName> you’re responsible for water, food like you said, nobody’s eating, and ammo. Making sure that you got it and evacuation of the wounded. Does your responsibility also include, or is it the company commander’s responsibility, to make sure the leadership change stays or is intact within those platoons where you’ve had to evacuate?</u>
+      <u who="JENNINGS">That’s part of the basic training that we all had at one time or another. We practiced that through the training. Even our aggressor side, when we were training the 11th Assault, that boom you’re dead, you’re now in charge. So the platoon sergeant’s, we had a wonderful backup of NCOs (Non-Commanding Officers), they were very top notch.</u>
+      <u who="MILAM">I understand, many of them with combat experience from <placeName>Korea</placeName>?</u>
+      <u who="JENNINGS">That’s correct. It was <persName>Tony</persName>’s responsibility.</u>
+      <u who="MILAM">From <persName>Tony</persName>’s viewpoint, as long as you were keeping the water and the ammo and taking care of the wounded, then he could take care of the rest of it. So you had your plate full because of the number of wounded in the first hour. I mean, you guys get hit really hard as I understand it. Quickly.</u>
+      <u who="JENNINGS">That’s true.</u>
+      <u who="MILAM">More so maybe than all the other units. The total numbers in the end is pretty significant too, but the number that are taken down in the first hour that you are on the ground is very significant.</u>
+      <u who="JENNINGS">That’s correct, A Company got hit hard.</u>
+      <u who="MILAM">Hard and quick. How—your responsibility is to do these things, what about your own personally safety? What about your own offense? Is that secondary?</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">So you find yourself concerned about your men, getting them on the choppers, getting them to where—first of all, the men that are wounded, you know that Taft is dead and you know <persName>Marm</persName> has been medevac’d. What about between the wounding and the chopper evacuation, are you doing anything as far as getting the medics working on men, are you keeping track of that?</u>
+      <u who="JENNINGS">The only thing—I tried to keep track of everyone we lost. Regardless of who it was, whether it was dead or wounded. To kind of keep track of the numbers of still fighting men, I personally put <persName>Joe Marm</persName> on the chopper. He was wearing these silly leather gloves. I had my hand on his knee and he was patting me on the hand trying to calm me down. He’s the one with the bullet through his neck. At that point, I never lost my fear. There was fear all the time, but at that point, you no longer crouch, you no longer run real fast. You just kind of move along as quickly as you can without—if you are standing up or crouching, you can still get shot. We lost some of our intenseness, I guess, as far as being the fear being the foremost, doing your job was the foremost. I know this guy is going to take care of me, so I'm going to take care of him and this guy too.</u>
+      <u who="MILAM">Sure.</u>
+      <u who="JENNINGS"><persName>Tony</persName> and I had an unwritten rule between he and I. Because we—I had no combat experience, but I was pretty adult for my twenty-two-year-old age. Our rule was- we don’t stay together because if something happens to him, I take over the company. If he loses me then he doesn’t lose himself and vice-versa, either way. There was no backup as far as taking care of anything after the <orgName>XO</orgName> goes, other than the platoons being self-sufficient, and I would get two guys from these platoons to go with me and my radio operator. My radio operator knew everything I was doing, he could take over.</u>
+      <u who="MILAM">That afternoon you’re off the chopper at 11:45. The numbers, that I believe I remember is that you had in total before the battle was over was seventeen and twenty-eight. Seventeen KIA (Killed in Action) and twenty-eight WIA (Wounded in Action).</u>
+      <u who="JENNINGS">It’s been a long time; I think that is correct.</u>
+      <u who="MILAM">Don’t worry about that, I think I could be wrong too. </u>
+      <u who="JENNINGS">I think that’s pretty correct.</u>
+      <u who="MILAM">What I'm getting at here is by 1800 hours that evening, as you're thinking about dusk, how many have you lost by that time?</u>
+      <u who="JENNINGS">All of them.</u>
+      <u who="MILAM">Virtually, all of this happens within a six-hour period?</u>
+      <u who="JENNINGS">Yes, sir. Before dark. After dark we didn’t lose anybody that night in A Company.</u>
+      <u who="MILAM">So now, your job that night is to put your CP (Command Post) together, you’re not going to be with <persName>Tony</persName>, so where do you line up in overall scheme of things if he’s considered the company CP?</u>
+      <u who="JENNINGS">Not very far. (<persName>Chuckles</persName>) We were probably fifty yards down the line, in the dry creek bed still.</u>
+      <u who="MILAM">So you’re in the dry creek bed, you got—your cover is these termite mounts?</u>
+      <u who="JENNINGS">Actually no, the dry creek bed was really a dry creek bed and it had a pretty good dip in it. In itself had us a pretty good foxhole.</u>
+      <u who="MILAM">As I understand it, the dry creek bed was strategically important, maybe the key to holding this dry creek bed is the way it was described to me and you held it. You were in it.</u>
+      <u who="JENNINGS">Yes.</u>
+      <u who="MILAM">But you also knew the other guy wants it.</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM">So you are looking that evening at a reduced—talk about a reduced <orgName>TO&amp;E</orgName> (<orgName>Table of Organization and Equipment</orgName>), you guys are reduced significantly. Did you get any reinforcements from other units?</u>
+      <u who="JENNINGS">No.</u>
+      <u who="MILAM">You were on your own with what appears to me—I think your <orgName>TO&amp;E</orgName> to start was only about eighty, wasn’t it?</u>
+      <u who="JENNINGS">We had a—yeah.</u>
+      <u who="MILAM">I mean, when you went in so your—</u>
+      <u who="JENNINGS">Yeah, eighty people sounds about right.</u>
+      <u who="MILAM">So, your more than—you’ve lost more than half of what you had. Other units are experiences losses too as I understand it, but yours is the most significant and you’re holding a key strategic place on the battlefield?</u>
+      <u who="JENNINGS">That’s correct.</u>
+      <u who="MILAM">What did the evening bring you? You said you didn’t lose anyone that night, what did you do that night? In terms of planning your defense.</u>
+      <u who="JENNINGS">We—<persName>Tony</persName> himself did that and planned on the fields of fire for the automatic weapon, the <orgName>M16</orgName> machine guns. Everybody had claymore mines out in from of them.</u>
+      <u who="MILAM">They did?</u>
+      <u who="JENNINGS">Yes. We had—and this was over in the dry creek bed, there was claymores everywhere, trip flairs and we kept the lights overhead all night. Basically, all night.</u>
+      <u who="MILAM"><orgName>Illum</orgName> from artillery or from air?</u>
+      <u who="JENNINGS">Both. The magic dragon was up there and the lights from the CH-47s, I think, and of course, the artillery.</u>
+      <u who="MILAM">The claymores that you put out, were they command denotated or were they trip, did you have set on trips?</u>
+      <u who="JENNINGS">Command.</u>
+      <u who="MILAM">Okay. I assume you had two men firing positions.</u>
+      <u who="JENNINGS">Yes, that’s correct. We had tightened up that night and we did—we lost some ground because B Company moved in closer to us and they only had two platoons left. They’d lost a whole lot of people, but they did have two platoons. Then <orgName>Delta Company</orgName> got in on their right and went around and tied in on <persName>Charlie Company</persName> on the other side.</u>
+      <u who="MILAM">Now, did you instruct the troops that night, they’re in two man-fox firing positions, were they instructed to alternate sleeping or did no one sleep?</u>
+      <u who="JENNINGS">Basically, nobody slept.</u>
+      <u who="MILAM">Nobody slept, everybody is on alert.</u>
+      <u who="JENNINGS">Pretty much.</u>
+      <u who="MILAM">How much—were there any ground attacks that night?</u>
+      <u who="JENNINGS">Oh yes, there was. There was at least two that I know that definitely were. Not attacks, but they tried our positions with possibly in patrols, I don’t know. But we opened up fire several times. Every time the light went dim from one of the flares, somebody started hollering, “We need more light!” You could see them moving out there, they were definitely out there.</u>
+      <u who="MILAM">So they would try to move as the light reduced?</u>
+      <u who="JENNINGS">Yes.</u>
+      <u who="MILAM">They tried to move on your positions, you tried to get it back up. You as <orgName>XO</orgName>, maybe fifty yards down the line from <persName>Tony</persName>, when there’s movement out in front of you, you’re acting in that role, your acting as a rifleman, is that correct?</u>
+      <u who="JENNINGS">Absolutely.</u>
+      <u who="MILAM">As probably <persName>Tony</persName> is except—</u>
+      <u who="JENNINGS"><persName>Tony</persName> is too.</u>
+      <u who="MILAM">You’re in commo with—now are you communicating with him through your RTO (<orgName>Radio Telephone Operator</orgName>) or are you monitoring the battalion freq?</u>
+      <u who="JENNINGS">Actually, I had two radios. <persName>Tony</persName>’s frequency, the company’s frequency, and the battalion resupply frequency.</u>
+      <u who="MILAM">What have you done that night, in terms of telling battalion what you need in the morning? Because as I understand it, the resupply that night, you’re not going to get resupplied at night, but the choppers were standing by if you need medevac at night.</u>
+      <u who="JENNINGS">That’s correct.</u>
+      <u who="MILAM">What have you told them about first dawn <date>tomorrow</date>, when you get choppers in, what are your needs?</u>
+      <u who="JENNINGS">We need water and bullets.</u>
+      <u who="MILAM">Water and bullets. How concerned—I can understand the concern for water, how concerned are you about bullets at that moment? You’ve inventoried your guys and you know how many, but was it a bad situation for the company?</u>
+      <u who="JENNINGS">Very. It could’ve gotten bad, yes.</u>
+      <u who="MILAM">It would’ve gotten—when the lights go out so to speak, you know that at first light you have to be resupplied on <orgName>M16</orgName> ammo. How about 60 ammo?</u>
+      <u who="JENNINGS">Machine guns and M79 grenades launchers and <orgName>LAWS</orgName>.</u>
+      <u who="MILAM">You’re low on everything and LAWS. So you’ve called for everything the next morning.</u>
+      <u who="JENNINGS">Hand grenades. Yes, sir. The whole thing. </u>
+      <u who="MILAM">In doing that <persName>George</persName>, in knowing what you need, did you have a sense of what you need, or did you go around and ask every man how low he is?</u>
+      <u who="JENNINGS">I didn’t ask. I knew.</u>
+      <u who="MILAM">You knew. There had been enough firing going on and you knew how much every man started with.</u>
+      <u who="JENNINGS">Yes, sir. </u>
+      <u who="MILAM">Let me ask this, they’re bringing ammunition out in the ammo cases.</u>
+      <u who="JENNINGS"><placeName>Wooden</placeName> cases.</u>
+      <u who="MILAM">Inside the wooden cases are metal boxes and inside of that are cardboard boxes of ammo, not in magazines correct?</u>
+      <u who="JENNINGS">No, we got them in magazines.</u>
+      <u who="MILAM">You were resupplied in magazines?</u>
+      <u who="JENNINGS">In magazines. Yes, sir.</u>
+      <u who="MILAM">Was that the way it was supposed to be or was that because somebody back in the rear decided to do it for this battle?</u>
+      <u who="JENNINGS">I'm not sure. I don’t know. I think most of that was in magazines, there was some that was not. But the magazines is what we needed, so I don’t know if they did or not. I can’t answer that honestly.</u>
+      <u who="MILAM">That’s fine. When you went into battle on <date>this first day</date>, I know later in the war soldiers got to putting, realizing sometimes twenty rounds will jam the magazine and they started changing it to eighteen. Was that a problem there in the beginning?</u>
+      <u who="JENNINGS">No, sir.</u>
+      <u who="MILAM">You were on twenty rounds?</u>
+      <u who="JENNINGS">Some thirty round magazines.</u>
+      <u who="MILAM">Some thirty round magazines. There was also later in the war guys duct taping one on top of the other one and flipping it back up. Did they go in like that? Obviously, you can’t do it the second time around—</u>
+      <u who="JENNINGS">Some of us went in that way. I stayed the whole year, and know it happened later. I'm almost positive that someone had taped together earlier. Some of them even had three taped together. </u>
+      <u who="MILAM">I see.</u>
+      <u who="JENNINGS">Two, then one in the middle and keep flipping.</u>
+      <u who="MILAM">I got you. I’ve read Colonel Moore’s after-action report and I know he makes a point in there that resupply is so critical but the resupply of food in this situation is not important because nobody is very hungry. But did they take one meal in?</u>
+      <u who="JENNINGS">We carried basically one meal. Everyone carried one.</u>
+      <u who="MILAM">You carried one meal, but you weren’t wearing rucks. You weren’t wearing rucksacks, is that right?</u>
+      <u who="JENNINGS">No sir, we had a little pack.</u>
+      <u who="MILAM">You had a just little backpack thing.</u>
+      <u who="JENNINGS">Backpack on a belt. Two canteens, a backpack, of course your first aid pouch and that’s really it. Each man is supposed to have three-hundred rounds of ammunition in their backpack and they probably—most of them probably had six hundred.</u>
+      <u who="MILAM">I see. The standard, everybody is supposed to keep their steel pots on, was that a problem in combat? </u>
+      <u who="JENNINGS">No, sir.</u>
+      <u who="MILAM">Did everybody understood that was the best way to keep shrapnel out your head?</u>
+      <u who="JENNINGS">Yes, sir. Some of them lived in the steel pot, I think. They’d crawl up in it. It was no problem there.</u>
+      <u who="MILAM">How about fire discipline at night, in terms of smoking and all that kind of stuff, any problems with that?</u>
+      <u who="JENNINGS">None whatsoever. When the lights got dim, there was some problems with fire discipline. Somebody would shoot their weapons. A few of them and they would be naturally jittery. I'm not too sure that I wouldn’t have. I didn’t but—</u>
+      <u who="MILAM">They were told to maintain fire discipline, to not give away their position, to shoot only if they see something?</u>
+      <u who="JENNINGS">Yes, sir. Especially the machine guns.</u>
+      <u who="MILAM">Especially the gunners.</u>
+      <u who="JENNINGS">The guns stayed silent unless it was absolutely needed.</u>
+      <u who="MILAM">Did you put men on the guns that you had confidence in would do that? I mean that would be able to refrain from shooting. Were they on the guns because of that? Or was that the way all the men—</u>
+      <u who="JENNINGS">I'm not sure that was even considered. The machine gunners had been the gunners ever since. Their assistance, the machine gun teams, three people were pretty much a team ever since we’d been there.</u>
+      <u who="MILAM">Did you have occasion, on that first day, where the gunner teams lost men and had to be replaced?</u>
+      <u who="JENNINGS">Yes, sir.</u>
+      <u who="MILAM"><orgName>Gunner</orgName> goes down and the ammo bearer picks it up kind of thing?</u>
+      <u who="JENNINGS">Yeah.</u>
+      <u who="MILAM">So your teams did not stay intact that first day?</u>
+      <u who="JENNINGS">Not after <date>the first day</date>, no.</u>
+      <u who="MILAM">Then that night, you reassign men—the squad leaders, I assume, or platoon leaders say, “Okay we need to put—”</u>
+      <u who="JENNINGS">The squad leaders, the platoon leaders, that pretty much takes care of it.</u>
+      <u who="MILAM">Was there a sense by the men as to the importance of the M60?</u>
+      <u who="JENNINGS">I think so. But when you can hear the M60, I personally felt a little safer when it was talking.</u>
+      <u who="MILAM">Right. Did you get a sense that the M60, the enemy knows that too? They know the effects of it, and they were targeting the 60? I mean we would target their equivalence. </u>
+      <u who="JENNINGS">Yes. Yes, they did.</u>
+      <u who="MILAM">You had no reports that night. Anybody complain about their weapons jamming or anything wrong with them?</u>
+      <u who="JENNINGS">No.</u>
+      <u who="MILAM">As men went down, <orgName>KIA</orgName> or wounded, what did you do with the extra weapons? Did you keep them there or did you medevac them out?</u>
+      <u who="JENNINGS">We took them back to the battalion aid station. They stayed within the battalion.</u>
+      <u who="MILAM">They stayed in the battalion, but you had plenty of weapons so that one—</u>
+      <u who="JENNINGS">We had control of everything there, yes.</u>
+      <u who="MILAM">Okay. But the ammunition, you would take the ammunition off of the <orgName>KIA</orgName> and WIA, so you could use it.</u>
+      <u who="JENNINGS">Distribute it up, yes. </u>
+      <u who="MILAM">But not the weapon itself.</u>
+      <u who="JENNINGS">That’s right, unless someone needed one. If they wanted to keep one there. We accounted for it, we’re ultimately wound up that night, we didn’t really care. As long as it didn’t get it in their hands.</u>
+      <u who="MILAM">Right. That was my thinking, that you got to keep control of it, but the battalion aid station was sort of the central headquarters for all weapons. How about that night in terms of enemy weapons and things like that, had you done any policing that afternoon of any of your fire fights?</u>
+      <u who="JENNINGS">We couldn’t.</u>
+      <u who="MILAM">You couldn’t police that area, so that was a, “Not to be done for <date>another day</date>”</u>
+      <u who="JENNINGS">Correct.</u>
+      <u who="MILAM">That night you were—by dark, you knew exactly the situation with all of your men, is that correct?</u>
+      <u who="JENNINGS">Pretty much.</u>
+      <u who="MILAM">As to whether they had been medevac’d or whether they had been killed, you didn’t know whether they would die later. But you certainly knew that you could account for all of your men that night.</u>
+      <u who="JENNINGS">That night we accounted for all of our people.</u>
+      <u who="MILAM">Did that change any during the rest of the <date>two or three days</date>? Or were you always—</u>
+      <u who="JENNINGS">Not with A Company.</u>
+      <u who="MILAM">A Company always knew its status?</u>
+      <u who="JENNINGS">Yes, sir. <persName>Tony Nadal</persName>, among other things being my friend, was a super company commander. Very emotional yet he doesn’t show the emotion. He never ordered anybody to attack, he let them. He went over that hill first. That’s the kind of people <persName>Tony Nadal</persName> is. I'm proud to call him my friend.</u>
+      <u who="MILAM">So when this battle is over, I understand you guys didn’t really stand down exactly, you went back to Plei Me and you had to pull—not exactly pull guard duty but you had set up your defense and that sort of thing. Your unit has been reduced by more than fifty percent.</u>
+      <u who="JENNINGS">Way more.</u>
+      <u who="MILAM">You’ve got <date>another eight months</date> of duty in <placeName>Vietnam</placeName> left, facing it.</u>
+      <u who="JENNINGS">Yes.</u>
+      <u who="MILAM">Did you ever—I know the answer as a unit you didn’t face anything like this again, hardly anyone in all of <name type="event">the Vietnam War</name> faced what you guys went through.</u>
+      <u who="JENNINGS">Right.</u>
+      <u who="MILAM">But as an individual solider for the rest of your tour, did you experience anything like that first time?</u>
+      <u who="JENNINGS">No. I’ve experienced some intense combat in the <placeName>Bong Son</placeName> area, personally. When we got back to the base camp from <placeName>Ia</placeName> <placeName>Drang</placeName>, from the <placeName>Pleiku</placeName> province, Colonel <persName>Moore</persName> was also a little—not soft, but he is emotionally curious, he cares deeply about his people, just like <persName>Tony</persName>. He took the lieutenants, of us that were left and changed our jobs and brought in new people, most of us changed jobs. I went to battalion headquarters as a company commander for <date>two weeks</date>—</u>
+      <u who="MILAM">As a—I'm sorry, company commander of the headquarters company of the battalion did you say?</u>
+      <u who="JENNINGS">Yes, headquarters company. The battalion S2 intelligence officer was reassigned somewhere so I asked if I could have the staff job. Of course, I don’t want to get stuck in a headquarters company. It was—I'm not a garrison trooper. I was more of a field trooper, always was. Then, <date>three weeks later</date> we were in <persName>Bong Son</persName>, in <date>January</date> and I was sitting there talking on one of the radios in the battalion headquarters, fat, dumb and happy. B Company gets into another big fire fight up in <persName>Bong Son</persName>. Captain <persName>Rozanski</persName> was shot, lost all of his lieutenants and had an artillery officer in command of B. Not planning to be totally stupid, but it was a dumb move, I got in a helicopter and flew up and our battalion commander had been shot, so Major <persName>Worth</persName> was in command and <persName>Captain Herren</persName>, who was the B Company commander in the Ia Drang was the battalion S3 of operations. I walked up and when I got up there, I said “Major <persName>Worth</persName>, you need to put me in B Company. I am the only infantry officer you got qualified. I'm here to take command.” Then he turned around to Captain <persName>Herren</persName> and said, “What do you think?” He said, “Sure, put him out there, he knows what he’s doing.” So I assumed command of B Company under fire, up in the <placeName>Bong Son</placeName> area. I kept command of B Company the rest of my tour in <placeName>Vietnam</placeName> with a slight detour with a punji stick in my leg.</u>
+      <u who="MILAM">I see. When did that take place?</u>
+      <u who="JENNINGS">That was probably <date>April</date>. We went to <persName>Bong Son</persName> twice and stayed up there <date>about a month</date> both times. <date>January and March</date>, we were coming back—it was <date>the middle of March</date> when I got that punji stick in my leg because we were grasshopping back into the base camp. We landed in <persName>Landing Zones</persName>, protecting our way in. We went into this one landing zone with lot of punji sticks, the bamboo rotor busters, the big bamboo trees they stick up there to bust our rotors. It was almost too late, but the chopper stalled, was starting to pull back up and we decided to jump out anyway, it was eight feet above the ground, we did. I got a stake in my leg here, a punji stake.</u>
+      <u who="MILAM">Had it been—it wasn’t part of a planned boobytrap, it was just a carved down piece of bamboo or—</u>
+      <u who="JENNINGS">They’d planted it.</u>
+      <u who="MILAM">They planted it.</u>
+      <u who="JENNINGS">The whole landing zone had them all over it.</u>
+      <u who="MILAM">I see.</u>
+      <u who="JENNINGS">I had about ten guys get stakes in their legs.</u>
+      <u who="MILAM">Had they been dipped at all?</u>
+      <u who="JENNINGS">The one that I had looked like it had been. The doctor cut my leg open after <date>two weeks</date>.</u>
+      <u who="MILAM">Just to make sure to—</u>
+      <u who="JENNINGS">Just to drain.</u>
+      <u who="MILAM">That was in <date>April</date>. You depart in—</u>
+      <u who="JENNINGS">Not until <date>July</date>.</u>
+      <u who="MILAM">In <date>July</date>.</u>
+      <u who="JENNINGS">I stayed in a base camp <date>about two weeks</date>. There was—Captain <persName>Pedone</persName> took over B Company when I left there and he got <placeName>Malaria</placeName> and left right away, so I went back B Company. Colonel <persName>Moore</persName> called me to the brigade headquarters. He wanted to talk to me specifically. I sat down there and said, “What do you think about B Company?” I said, “I love it. It’s my company, my guys you know.” He said, “That’s what I wanted to hear because I'm going to leave you there. There’s been two captains asking for that job because captains need combat command time and you’re just a 1st lieutenant. I told them to get lost, you can have that company as long as you want.” I told him thank you and, “I appreciate it. I'm just doing my job.” He told me, he told them, but <persName>George</persName> was there when I needed him, he’d come to ask for help, so I did it.</u>
+      <u who="MILAM">Great. How about when you de—what’d you do when you got home? How much time did you have left on your enlistment?</u>
+      <u who="JENNINGS">I was indefinite, as reserve officer on active duty indefinitely. That means I could quit or that the army could boot me, either one. I got back to <persName>Fort Polk</persName>, my wife and my daughter was—when I left, my daughter was the same age as <persName>Jack Geoghegan’s</persName> daughter, <date>five months</date>. When I got back, I could still see <persName>Jack</persName> and <persName>Neil Kroger</persName> and <persName>Bob Taft</persName> and all those guys. I kept asking myself, why me? How did those guys with beautiful personalities as they had, why me? I couldn’t answer that question. Anyway, my daughter was <date>sixteen months old</date> at that time, <date>seventeen months</date> at Fort Polk. My wife and I spent a year together and <date>a then year</date> apart. <date>About six months</date> after, I was at Fort Polk, I was a company commander of an <orgName>AIT</orgName> company, and everybody was going to <placeName>Vietnam</placeName>, out of my company. All of it worked on me. Then I got a call saying, “Guess what, <persName>George</persName>?” I said, “What?” He said, “You’re going to <placeName>Vietnam</placeName>!” I said, “No. I ain’t going.” “What do you mean?” I said, “I'm a reserve officer on active duty and you’ll have my resignation <date>tomorrow</date>.” He said, “What’s the matter?” I said, “On <persName>Fort Polk</persName>, <placeName>Louisiana</placeName> there’s about seventy percent infantry captains” I had been promoted to captain in the meantime, Colonel <persName>Moore</persName> resolved that. “There’s about seventy percent infantry captains on Fort Polk that are homestead in this place, hadn’t been to <placeName>Vietnam</placeName>, don’t have orders to go, and you're going to send me back? No sir, I'm not going.” So I resigned. Effective <date>November the 1st of ’67</date>. I didn’t have college education. My full intention was to go get some college. I love the army, still do. I even tried to get back in one time with the help of <orgName>General Moore</orgName>, but that didn’t help, I was getting a little old then. I did good. I survived. I had the same nightmare over and over every night for <date>about two years</date>. My wife got where she wouldn’t even sleep with me. She’d get me to sleep then move somewhere else because I might hit her, I might wake up screaming, I might knock a window out. I just had the same dream. I had this for <date>about four months</date> before <persName>Matt Dillon</persName> called, he was the one with the officer’s assignments, he called and said I was going to <placeName>Vietnam</placeName>. I said “No, I ain’t going.” <date>About three days later</date>, after I turned in my resignation, he said, “How about <placeName>Korea</placeName>?” I said, “I don’t want to go there either. I want to stay with my daughter and my wife.” At that point, I’d made up my mind. I'm going home.</u>
+      <u who="MILAM">We’re talking about ’67 and ’68 here?</u>
+      <u who="JENNINGS">’67. November ’67.</u>
+      <u who="MILAM">The army has changed a lot by that time, as you now know. <persName>George</persName>, those nightmares don’t ever exactly go away, but was there a time after the war was over, ’73 for us, and everybody is home. As time went on, were you able to deal with all this? Better than you did those first few years?</u>
+      <u who="JENNINGS">It was pushed back to the past, way back in the back of my mind kind of thing. I thought I did. I thought I could deal with it, I thought that I had. Then in <date>’93</date>, ’94, whenever <orgName>General Moore</orgName> and a bunch of them went back to <placeName>Vietnam</placeName> on a research mission and made the book, my wife was sitting in the living room, I was shaving I guess in the bathroom. She started screaming and hollering “Come here.” The Day One program was on. I said, “Yeah, I know those guys.” Then I found out about the book and the next night <persName>Bob Kincaid</persName> called me, he’s from <orgName>C Company</orgName>. He said, “I’ve been trying to get a hold of you for <date>years</date>, boy.” Then, <persName>Bill Franklin</persName> called me the night after that. We were having a—this must’ve been <date>about April</date> or <date>May</date> in ’94 and they had a division reunion in <date>June</date>, in <placeName>Orlando</placeName>, <placeName>Florida</placeName>. I knew nothing about any reunion. So my wife and I drove to <placeName>Orlando</placeName>. I saw <persName>Larry Litton</persName>, <persName>Lieutenant Litton</persName>, he was one of my friends. We went to OCS together. <persName>Dick Merchant</persName> and I went to OCS together. It came back so fast; memories flooded my mind so much. We left to go home the next morning, I couldn’t even stay. I’ve been coming to the reunions ever since <date>’94</date>. All the spring reunions where we have the fun gathering, where we rejoice each other, the ones of us that are left. This one up here is more of a serious—</u>
+      <u who="MILAM">The one we’re at right now?</u>
+      <u who="JENNINGS">The one right here, now. We are paying out respect to our dead ones. Our lost.</u>
+      <u who="MILAM">When the movie came out then, in <date>2000</date>, I know when the book came out, you could read it at your leisure and you could put it down and everything, what impact did the movie have?</u>
+      <u who="JENNINGS">I couldn’t put the book down, I read it three times before I put it down. It took me <date>two days</date> to do it. But the movie itself was worse. We went to the premiere in <placeName>Fort Hood</placeName>, <placeName>Texas</placeName>. My wife and I, my daughter and son in-law. I couldn’t watch it. I needed to close my eyes or hold my hands over my ears, and I had to go to the bathroom once just to get up and get out of there. I watched most of it. I couldn’t believe it, I just sat there in a daze. I haven’t watched it whole since either. I tried to sit through one in a movie theater once and I’ve seen it on TV a couple of times, I tuned in. We’ve got the CD, but I’ve never put it in there to watch. General <persName>Moore</persName> was there at Fort Hood. General <persName>Moore</persName>, <persName>Joe Galloway</persName>, <persName>Berry Pepper</persName> who played as <persName>Joe</persName> and <persName>Madeline Stowe</persName> were all there. We have a friend at home, a retired general. He was a staff guy, nice guy but he was a staff guy. I made a comment to my son in-law, “You want to meet a real general, come here I’ll show you one.” We went over and <orgName>General Moore</orgName> grabbed me and said, “<persName>George</persName>, what did you think about the movie?” I said, “I wasn’t able to watch quite all of it.” He said, “I know, I saw you. I didn’t watch it all the first time either.”</u>
+      <u who="MILAM">Well, what you men went through, to have a movie made that is as accurate as it is because General <persName>Moore</persName> supervised it to make it as accurate as the absolute battle parts could be. I'm sure having to give in to <placeName>Hollywood</placeName>’s need for drama outside of battlefield if there wasn’t enough on the battlefield, but for you men to watch that happening has got to be a remarkable experience. I can’t even imagine what it would be like, but I will say this. I am a professor of military history and I teach <name type="event">the Vietnam War</name> at <orgName>Texas Tech University</orgName> and I use the film, and I use a lot of film but I use that particular film because in my own opinion, so much bad has been portrayed by <placeName>Hollywood</placeName> about the <placeName>Vietnam</placeName> solider. All those 70s films I'm sure you didn’t see either, like <placeName>Platoon</placeName> and Apocalypse Now and all those kinds of things, and my students know all those films. So I have tried to almost make—well We Were Soldiers is mandatory watching because I want them to understand the <orgName>Army</orgName> of 1965 and <date>1966</date> in <placeName>Vietnam</placeName>, because it’s a very positive movement about the soldiers that fought there. As hard as it is for you to watch, I think that for this generation it has done more for turning around some of the images of <orgName>Vietnam Solider</orgName> than any other thing that has been done. So you had a major part in the battle, a major part as you know. But that’s kind of the legacy, that <placeName>Hollywood</placeName> did something that we can be proud of in terms of those of us that served there.</u>
+      <u who="JENNINGS">I agree.</u>
+      <u who="MILAM"><persName>George</persName>, I really appreciate you sitting down for this interview, I know how difficult it is. But I also want you to know that how much good it is going to do because your story now will be part of history, part of the archives of <orgName>Texas Tech University</orgName> and it will be out there and available for historians long after you and I are gone, that can access these things and the stories of all of your brothers. We at <orgName>Texas Tech</orgName> appreciate it very much, thank you.</u>
+      <u who="JENNINGS">Thank you.(End of interview)</u>
+    </body>
+  </text>
+</TEI>
