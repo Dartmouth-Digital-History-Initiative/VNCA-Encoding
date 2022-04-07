@@ -78,12 +78,12 @@
       <u who="MILAM">What was your branch communication?</u>
       <u who="ALLEY">I was infantry.</u>
       <u who="MILAM">You were infantry. You weren’t single corps, you were infantry.</u>
-      <u who="ALLEY">Yes, I was apart another program too, that was kind of unusual, it was the <orgName ref="#ttu_460_org_6">U2 program</orgName>. Do you know about the <orgName ref="#ttu_460_org_7">U2 program</orgName>?</u>
-      <u who="MILAM"><orgName ref="#ttu_460_org_8">U2 program</orgName>. Well, is that the one where you didn’t have to go to OBC (Basic Orientation Course), you could go directly to troop command?</u>
+      <u who="ALLEY">Yes, I was apart another program too, that was kind of unusual, it was the U2 program. Do you know about the U2 program?</u>
+      <u who="MILAM">U2 program. Well, is that the one where you didn’t have to go to OBC (Basic Orientation Course), you could go directly to troop command?</u>
       <u who="ALLEY">Yup.</u>
       <u who="MILAM">How long was that program in place? I’ve done a lot of research on schools for officers during the <name type="event" ref="#ttu_460_event_0">Vietnam war</name> and this is a new one for me. I didn’t know about that program; it must’ve been short lived.</u>
       <u who="ALLEY">It was. <persName ref="#ttu_460_person_3">Enrique Pujals</persName>, who was with us in the valley. <persName ref="#ttu_460_person_4">Jim Bail</persName>, who is since deceased was one of them. <persName ref="#ttu_460_person_5">Paul Bonacourse</persName> was another. <persName ref="#ttu_460_person_6">Mike Mantegna</persName> was another. So there was a number of us and those were guys I knew were in that little class with, there was about fourteen or fifteen, and <persName ref="#ttu_460_person_7">Joe Marm</persName> was the one of the cadry guys of our little. What they did was they had a little school for about ten days in <date when="1965-10">October</date>, after we’d gone in <date when="1965-08">August</date>, that they put us through.</u>
-      <u who="MILAM">During that same time there was a big controversy as to whether or not academy graduates had to go to OBC, because the feeling was that they had already gone through the four years of hell, why go to OBC? So for a time, they didn’t have to go to OBC but it changes then again and they required it again, it’s back and forth. But I was not aware of this <orgName ref="#ttu_460_org_9">U2 program</orgName>, so I appreciate you making me aware of it, it adds to my body of knowledge.</u>
+      <u who="MILAM">During that same time there was a big controversy as to whether or not academy graduates had to go to OBC, because the feeling was that they had already gone through the four years of hell, why go to OBC? So for a time, they didn’t have to go to OBC but it changes then again and they required it again, it’s back and forth. But I was not aware of this U2 program, so I appreciate you making me aware of it, it adds to my body of knowledge.</u>
       <u who="ALLEY">Yeah, that was for untrained 2nd lieutenants, as far as I can tell. (Laughs)</u>
       <u who="MILAM">Yes. So you are with the second infantry division at <placeName ref="#ttu_460_place_5">Benning </placeName>or at <placeName ref="#ttu_460_place_6">Bragg</placeName>?</u>
       <u who="ALLEY">Well, we were at stationed at <persName ref="#ttu_460_person_8">Benning</persName> at PCS (Permanent Change of Station). Then we were detailed up to <placeName ref="#ttu_460_place_7">Fort Bragg</placeName>.</u>
@@ -818,18 +818,6 @@
       </org>
       <org xml:id="ttu_460_org_5">
         <orgName>ROTC</orgName>
-      </org>
-      <org xml:id="ttu_460_org_6">
-        <orgName>U2 program</orgName>
-      </org>
-      <org xml:id="ttu_460_org_7">
-        <orgName>U2 program</orgName>
-      </org>
-      <org xml:id="ttu_460_org_8">
-        <orgName>U2 program</orgName>
-      </org>
-      <org xml:id="ttu_460_org_9">
-        <orgName>U2 program</orgName>
       </org>
       <org xml:id="ttu_460_org_10">
         <orgName>1st Air Cav</orgName>
