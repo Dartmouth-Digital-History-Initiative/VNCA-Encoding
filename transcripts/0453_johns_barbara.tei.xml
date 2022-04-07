@@ -1,4 +1,4 @@
-<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/ddhi.rnc453" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_453">
   <teiHeader>
     <fileDesc>
@@ -74,7 +74,7 @@
       <u who="VERRONE">Tell me about Africa, it’s a very unique experience.</u>
       <u who="JOHNS">It certainly was. </u>
       <u who="VERRONE">It stands out in a lot of people’s minds as something mentioned in movies, mentioned in the book, and people are remembering it now forty years later. Tell me about the experience.</u>
-      <u who="JOHNS">It was an incredible experience. I had never been out of <placeName ref="#ttu_453_place_7">New Jersey</placeName> except for family trips and <persName ref="#ttu_453_person_11">Jack</persName> said, “I’ve lifted you out of the swamps of <placeName ref="#ttu_453_place_8">South Jersey</placeName> and dropped you into the jungles of Africa.”</u>
+      <u who="JOHNS">It was an incredible experience. I had never been out of <placeName ref="#ttu_453_place_7">New Jersey</placeName> except for family trips and <persName ref="#ttu_453_person_11">Jack</persName> said, “I’ve lifted you out of the swamps of South Jersey and dropped you into the jungles of Africa.”</u>
       <u who="VERRONE">Where in Africa were you?</u>
       <u who="JOHNS">In <placeName ref="#ttu_453_place_9">Tanzania</placeName>. <placeName ref="#ttu_453_place_10">Dar es Salaam, Tanzania</placeName>. We lived in the outskirts.</u>
       <u who="VERRONE">What did you do there for ten months?</u>
@@ -212,9 +212,6 @@
       </place>
       <place xml:id="ttu_453_place_7">
         <placeName>New Jersey</placeName>
-      </place>
-      <place xml:id="ttu_453_place_8">
-        <placeName>South Jersey</placeName>
       </place>
       <place xml:id="ttu_453_place_9">
         <placeName>Tanzania</placeName>
