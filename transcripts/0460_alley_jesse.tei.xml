@@ -134,7 +134,7 @@
       <u who="MILAM">Oh, okay. It’s a part of S3, at the battalion level.</u>
       <u who="ALLEY">Yes, the message center belonged to me. The telephones belonged to me. Power generators for electricity belonged to me, and the radios belonged to me.</u>
       <u who="MILAM">But in all ways that we would look at this, this was a staff function at the battalion level being fulfilled by a second lieutenant in a captain slot. Is that the picture as we leave the country?</u>
-      <u who="ALLEY">Yeah. <orgName ref="#ttu_460_org_26">U2</orgName> second lieutenant (Laughs).</u>
+      <u who="ALLEY">Yeah. U2 second lieutenant (Laughs).</u>
       <u who="MILAM">Okay, so which boat did you go over on?</u>
       <u who="ALLEY">The <orgName ref="#ttu_460_org_27">Maurice Rose</orgName>.</u>
       <u who="MILAM">You were on the <orgName ref="#ttu_460_org_28">Rose</orgName>, okay. On the trip over, thirty days or so, what did you do?</u>
@@ -863,9 +863,6 @@
       </org>
       <org xml:id="ttu_460_org_25">
         <orgName>2nd Battalion of the 9th Infantry</orgName>
-      </org>
-      <org xml:id="ttu_460_org_26">
-        <orgName>U2</orgName>
       </org>
       <org xml:id="ttu_460_org_27">
         <orgName>Maurice Rose</orgName>
