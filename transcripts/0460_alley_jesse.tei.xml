@@ -163,7 +163,7 @@
       <u who="ALLEY">Instead it was—well, it passed out, several things happened that night. We were up onboard, watching the rockets and the flairs go off, and at the meeting they passed out the ammo and then they come in, call us in and take all our money away and give us script. Then they made the announcement, “We’re going in administratively. No weapons are to be loaded! At all!” This is still the middle of the night; you go back outside, and you were seeing—</u>
       <u who="MILAM">You’re there where you can see armaments being fired at night?</u>
       <u who="ALLEY">Yeah.</u>
-      <u who="MILAM">And contacts 173rd into far away, I suppose <orgName ref="#ttu_460_org_29">marines</orgName> and everything else. You’re being told to not lock and load, that there’s going to be—now I don’t remember the exact incidents, but I’ve read where even in some cases, women in <placeName ref="#ttu_460_place_28">Áo dài</placeName> and native dress were there to greet troops. That the  <persName ref="#ttu_460_person_18">General Westmoreland</persName> was at one of them and—</u>
+      <u who="MILAM">And contacts 173rd into far away, I suppose <orgName ref="#ttu_460_org_29">marines</orgName> and everything else. You’re being told to not lock and load, that there’s going to be—now I don’t remember the exact incidents, but I’ve read where even in some cases, women in Áo dài and native dress were there to greet troops. That the  <persName ref="#ttu_460_person_18">General Westmoreland</persName> was at one of them and—</u>
       <u who="ALLEY">Yeah, he wasn’t near when I was—</u>
       <u who="MILAM">Yes, but it was an administratively—that’s what they called it, you would be coming on shore administratively, how interesting. Did it make you feel a little better at that moment?</u>
       <u who="ALLEY">I didn’t quite know what to think at that a point. (Chuckles) Anyway, we go down the rope ladders into these LSDs (Dock Landing Ship) and off to the shore and get out in the sand, and somebody is saying, “Get on deuce and a half,” so we load up on deuce and a half and we go over to an airfield, get on a Chinooks and off we go!</u>
@@ -419,9 +419,6 @@
       </place>
       <place xml:id="ttu_460_place_27">
         <placeName>An Khe</placeName>
-      </place>
-      <place xml:id="ttu_460_place_28">
-        <placeName>Áo dài</placeName>
       </place>
       <place xml:id="ttu_460_place_29">
         <placeName>An Khe</placeName>
