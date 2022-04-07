@@ -131,7 +131,7 @@
       <u who="LUND">Yeah, I was alone. When we first got there, we tried to do the traditional—I think a traditional like a sergeant, a jeep driver, and a radio operator.</u>
       <u who="MILAM">Yeah, DOE (Date of Enlistment) is that.</u>
       <u who="LUND">Yeah right, we started like that and trust me, nobody wanted to be with the FO. The minute they realized they really didn’t need it these guys bailed in a hurry and they just rotated a guy and I always laughed, I said, “Are you being punished? Are you being punished to come over to be my radio operator for a week? "Two weeks?” Because they keep changing these guys. It really ended up just a radio operator and me.</u>
-      <u who="MILAM">You’re going to <placeName ref="#ttu_463_place_33">Vietnam</placeName> as a one-man shuttle. In a sense of you’re not a platoon leader. In a traditional sense, you’re not going to be at a fire base, supervising the firing of 105s. You’re going to be the guy that calls it in. You’re going to be out there with the troops. Your experience so far has been this honest <persName ref="#ttu_463_person_8">John</persName>, tactical nuke thing, OBC and everything. You’re really going to do some OJT (On the Job Training) from the standpoint of not that you don’t know FO stuff, but knowing it on the ground, in combat is going to be new to you.</u>
+      <u who="MILAM">You’re going to <placeName ref="#ttu_463_place_33">Vietnam</placeName> as a one-man shuttle. In a sense of you’re not a platoon leader. In a traditional sense, you’re not going to be at a fire base, supervising the firing of 105s. You’re going to be the guy that calls it in. You’re going to be out there with the troops. Your experience so far has been this honest John, tactical nuke thing, OBC and everything. You’re really going to do some OJT (On the Job Training) from the standpoint of not that you don’t know FO stuff, but knowing it on the ground, in combat is going to be new to you.</u>
       <u who="LUND">Brand new. Never had a clue. I always remember this, we were out on patrol, the company, at that time I wasn’t quite—I was maybe a platoon back from the company commander, kind of in the middle of that platoon. He thought that was probably a good idea, and I thought it was probably a good idea. We got ambushed a little bit up on the front. In fact, <persName ref="#ttu_463_person_9">Rick Rescorla</persName> got wounded that day. I remember when the firing started, I turned to the radio operator and I looked at him and said, “Well, we either get in or we get out, but I think we better get in.” I said, “Come on, let’s go.” I took off for the front and just as I sat down right behind the dirt, he goes, “Where’s the FO?” I said, “Right here.” He looked at me and said, “Alright.” I had a rocket ship up there, a gun ship, and I talked to him and laid out some fire and through the smoke and sitting out to the north of that or whatever and I kind of got my feet wet that way.</u>
       <u who="MILAM">This is at <placeName ref="#ttu_463_place_34">X-Ray</placeName>?</u>
       <u who="LUND">This is before <placeName ref="#ttu_463_place_35">X-Ray</placeName>.</u>
@@ -546,9 +546,6 @@
       </person>
       <person xml:id="ttu_463_person_7">
         <persName>Rick Rescorla</persName>
-      </person>
-      <person xml:id="ttu_463_person_8">
-        <persName>John</persName>
       </person>
       <person xml:id="ttu_463_person_9">
         <persName>Rick Rescorla</persName>

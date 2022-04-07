@@ -59,13 +59,13 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MILAM"><orgName ref="#ttu_462_org_0">Texas Tech University</orgName> and <orgName ref="#ttu_462_org_1">the Vietnam Center</orgName>. Today I am interviewing <persName ref="#ttu_462_person_0">Tony Nadal</persName>. <persName ref="#ttu_462_person_1">Tony</persName>, I would like to start with you just kind of identifying for us what your responsibilities were, your <orgName ref="#ttu_462_org_2">MOS (Military Occupational Specialty Code</orgName>),<date when="1965-11-14"> November 14th, 1965</date>.</u>
+      <u who="MILAM"><orgName ref="#ttu_462_org_0">Texas Tech University</orgName> and <orgName ref="#ttu_462_org_1">the Vietnam Center</orgName>. Today I am interviewing <persName ref="#ttu_462_person_0">Tony Nadal</persName>. <persName ref="#ttu_462_person_1">Tony</persName>, I would like to start with you just kind of identifying for us what your responsibilities were, your MOS (Military Occupational Specialty Code),<date when="1965-11-14"> November 14th, 1965</date>.</u>
       <u who="NADAL"> I was the captain commander of <orgName ref="#ttu_462_org_3">Company A, 1st Battalion 7th Cavalry</orgName>.</u>
       <u who="MILAM">Knowing that’s what you’re going to be doing, leading a company into the <placeName ref="#ttu_462_place_0">Ia Drang Valley</placeName> on <date when="1965-11-14">November 14th</date>, let’s back up a little bit. Let’s go back to when you first joined the 1st <name type="event" ref="#ttu_462_event_0">Air Cav</name>. What <date>month</date> and year did you join?</u>
       <u who="NADAL">I joined in <date when="1965-08">August of ’65</date>. I had been in graduate school in <placeName ref="#ttu_462_place_1">Oklahoma</placeName> studying—wait a minute, let me back up, that was wrong. I had just finished the armor career course. I’m an infantry officer but I had been sent to the armor career course. I had gone to finish that course, had gone to <placeName ref="#ttu_462_place_2">Fort Benning</placeName> for pathfinder school and then was home for thirty day leave in <placeName ref="#ttu_462_place_3">Oklahoma</placeName>, on orders to <placeName ref="#ttu_462_place_4">Korea</placeName>, to command a rifle company in <placeName ref="#ttu_462_place_5">Korea</placeName>. I had been to <placeName ref="#ttu_462_place_6">Vietnam</placeName>, prior to the career course as a special forces and  attachment commander and was very interested in going back to <placeName ref="#ttu_462_place_7">Vietnam</placeName>, and if there was a war going on, I’d rather command my company during the wartime than in <placeName ref="#ttu_462_place_8">Korea</placeName>. After many calls to <placeName ref="#ttu_462_place_9">Fort Benning</placeName>—I mean, after many calls to the personnel office of the army, to try to get my assignment change, one day I got an unexpected phone call, about four in the morning and said, “Report to <placeName ref="#ttu_462_place_10">Fort Benning</placeName> in three days.” The reason was <persName ref="#ttu_462_person_2">President Johnson</persName> had decided to send <orgName ref="#ttu_462_org_4">the 1st Cav</orgName> to <placeName ref="#ttu_462_place_11">Vietnam</placeName> and they were in the process of building up the unit. So here they had a guy that wanted to go and on orders to somewhere else and they changed my orders and sent me to the <orgName ref="#ttu_462_org_5">1st Cav</orgName>. When I reported to <placeName ref="#ttu_462_place_12">Fort Benning</placeName>, within that probate two-week period, there was something like, two-three-four thousand officers reporting in at the same time, to fill the division to the full company of officers.</u>
       <u who="MILAM">So you volunteered in the strictest sense of the words for this particular, or for <placeName ref="#ttu_462_place_13">Vietnam</placeName> for a troop command.</u>
       <u who="NADAL">That’s true.</u>
-      <u who="MILAM">You were in <orgName ref="#ttu_462_org_6">18th</orgName>? <orgName ref="#ttu_462_org_7">Special forces</orgName>, what year?</u>
+      <u who="MILAM">You were in 18th? <orgName ref="#ttu_462_org_7">Special forces</orgName>, what year?</u>
       <u who="NADAL"><date when="1963">’63</date>, <date when="1964">’64</date>.</u>
       <u who="MILAM">So you were there during the advisory effort, you saw the changeover to a <placeName ref="#ttu_462_place_14">US</placeName> ground troop operation. In between, you were in graduate school?</u>
       <u who="NADAL">No, I was the armored officer career course. I went to grad school after I came back from this assignment from the <orgName ref="#ttu_462_org_8">cav</orgName>.</u>
@@ -74,7 +74,7 @@
       <u who="MILAM">Now, so the <orgName ref="#ttu_462_org_12">1st Air Cav</orgName> had been formed up for about eighteen months before that. Had been undergoing training as an air cav unit, you didn’t participate in that training at <placeName ref="#ttu_462_place_15">Benning</placeName>. You just got on the boat with them?</u>
       <u who="NADAL">That’s correct.</u>
       <u who="MILAM">When did you get your assignment as CO (Commanding Officer) of <orgName ref="#ttu_462_org_13">Alpha Company</orgName>?</u>
-      <u who="NADAL">That’s an interesting story. When I reported into <placeName ref="#ttu_462_place_16">Fort Benning</placeName>, they had a gymnasium. They had this big desk set up and the G1 section was assigning officers. You know, they had a chart and said, “Okay, you go there, you go here.” And putting names in. I said, “Well, I want to command a rifle company.” They said, “Well, we don’t have one right now, we’re going to make you the signal officer of the <orgName ref="#ttu_462_org_14">first brigade</orgName>.” I said, “I really don’t want to be a signal officer. You can do a lot of things with it, but not a signal officer.” So I went—they said, “Report to the 1st brigade in a couple of days.” Or something. Basically, I went AWOL and went looking for a job. I had a friend who was in the <orgName ref="#ttu_462_org_15">1st of 7th Cav</orgName>, <persName ref="#ttu_462_person_3">John Herren</persName>, who commanded <orgName ref="#ttu_462_org_16">B Company</orgName>. So I went down there and went to see the brigade commander of the <orgName ref="#ttu_462_org_17">third brigade</orgName>. I said, “I want to command a rifle company. I’ve been to <placeName ref="#ttu_462_place_17">Vietnam</placeName>, I have experience in combat, I’ve led patrols and that sort-of thing, I’ve done all sorts of things. Ambushes, counter-ambushes, etc. So I like to command a rifle company.” The brigade commander was named <persName ref="#ttu_462_person_4">Tim Brown</persName>. He said, “Well, this is very unusual to someone to knock on my door looking for a job. What did the <orgName ref="#ttu_462_org_18">G1 section</orgName> say?” I said, “I don’t know, I’m here sir, they sent me off to the <orgName ref="#ttu_462_org_19">1st brigade</orgName>.” He said, “Why don’t pyou go see <persName ref="#ttu_462_person_5">Hal Moore</persName>?” So, I went down to see <persName ref="#ttu_462_person_6">Colonel Moore</persName>. The same conversion, “Why are you here? What about the <orgName ref="#ttu_462_org_20">G1 section</orgName>?” I said, “Well, I don’t want to go become a signal officer.” He says, “Let me call <persName ref="#ttu_462_person_7">Colonel Brown</persName>.” So he calls <persName ref="#ttu_462_person_8">Colonel Brown</persName>, <persName ref="#ttu_462_person_9">Colonel Brown</persName> called the <orgName ref="#ttu_462_org_21">G1</orgName> and they said, “Oh, that’s where he is.” And they said, “Okay, you can have him.” Initially, I was the S2 of the battalion.</u>
+      <u who="NADAL">That’s an interesting story. When I reported into <placeName ref="#ttu_462_place_16">Fort Benning</placeName>, they had a gymnasium. They had this big desk set up and the G1 section was assigning officers. You know, they had a chart and said, “Okay, you go there, you go here.” And putting names in. I said, “Well, I want to command a rifle company.” They said, “Well, we don’t have one right now, we’re going to make you the signal officer of the <orgName ref="#ttu_462_org_14">first brigade</orgName>.” I said, “I really don’t want to be a signal officer. You can do a lot of things with it, but not a signal officer.” So I went—they said, “Report to the 1st brigade in a couple of days.” Or something. Basically, I went AWOL and went looking for a job. I had a friend who was in the <orgName ref="#ttu_462_org_15">1st of 7th Cav</orgName>, <persName ref="#ttu_462_person_3">John Herren</persName>, who commanded <orgName ref="#ttu_462_org_16">B Company</orgName>. So I went down there and went to see the brigade commander of the <orgName ref="#ttu_462_org_17">third brigade</orgName>. I said, “I want to command a rifle company. I’ve been to <placeName ref="#ttu_462_place_17">Vietnam</placeName>, I have experience in combat, I’ve led patrols and that sort-of thing, I’ve done all sorts of things. Ambushes, counter-ambushes, etc. So I like to command a rifle company.” The brigade commander was named <persName ref="#ttu_462_person_4">Tim Brown</persName>. He said, “Well, this is very unusual to someone to knock on my door looking for a job. What did the G1 section say?” I said, “I don’t know, I’m here sir, they sent me off to the <orgName ref="#ttu_462_org_19">1st brigade</orgName>.” He said, “Why don’t pyou go see <persName ref="#ttu_462_person_5">Hal Moore</persName>?” So, I went down to see <persName ref="#ttu_462_person_6">Colonel Moore</persName>. The same conversion, “Why are you here? What about the G1 section?” I said, “Well, I don’t want to go become a signal officer.” He says, “Let me call <persName ref="#ttu_462_person_7">Colonel Brown</persName>.” So he calls <persName ref="#ttu_462_person_8">Colonel Brown</persName>, <persName ref="#ttu_462_person_9">Colonel Brown</persName> called the G1 and they said, “Oh, that’s where he is.” And they said, “Okay, you can have him.” Initially, I was the S2 of the battalion.</u>
       <u who="MILAM">So <persName ref="#ttu_462_person_10">Colonel Moore</persName> at the time brought you in as the S2, the intelligence officer of the <orgName ref="#ttu_462_org_22">1st of the 7th</orgName>?</u>
       <u who="NADAL">Right. I did that for a couple of months and—</u>
       <u who="MILAM">So you did that fora couple of months, meaning you did that when you first went to <placeName ref="#ttu_462_place_18">Vietnam</placeName>?</u>
@@ -156,7 +156,7 @@
       <u who="MILAM"><date when="1965-11-13">The day before you assault into X-Ray</date>. What was involved that day, in terms of your role?</u>
       <u who="NADAL">Can I backup for a couple of days?</u>
       <u who="MILAM">Sure.</u>
-      <u who="NADAL">We went to <placeName ref="#ttu_462_place_42">Pleiku</placeName>. You have to remember <placeName ref="#ttu_462_place_43">Plei Me</placeName> has been under siege, the cav went up there with artillery primarily and <orgName ref="#ttu_462_org_66">ARA</orgName> (Aerial Rocket Artillery) and supported the battle. <orgName ref="#ttu_462_org_67">The 1st Brigade</orgName> went in and looked for the enemy, didn’t really find them but they found some, the <orgName ref="#ttu_462_org_68">9th Cav</orgName>, the Air Cav squadron, found a hospital and they’re going to fight one night a very tough fight. The picture to us was, “The enemy is here, we haven’t found them in numbers, but we’ve had one big tough company-sized fight, and they found a hospital and all this other kind of stuff.” <orgName ref="#ttu_462_org_69">1st Brigade</orgName> was there for about two weeks after <name type="event" ref="#ttu_462_event_13">Plei Me</name> and then they brought us in. They said “Okay, you’re going to go look in this area.” Well, they put us in that area, we broke down by companies. This was not near <placeName ref="#ttu_462_place_44">LZ (Landing Zone) X-Ray</placeName>. This was east of <placeName ref="#ttu_462_place_45">LZ X-Ray</placeName>. We spent about ten days doing small unit platoon size patrols over this big area looking for the enemy. Did not find them. We were due to be pulled out. Two days hence to be replaced by <orgName ref="#ttu_462_org_70">2nd Brigade</orgName>. On the twelfth, <persName ref="#ttu_462_person_29">Hal Moore</persName> calls us together and says “Okay, we have a new mission. The <orgName ref="#ttu_462_org_71">brigade</orgName> has some intelligence that there is an enemy force somewhere.” He drew a goose egg on the map. Right at the base of <placeName ref="#ttu_462_place_46">Chu Pong Mountain</placeName>. Our mission is to go there and see what’s there. That was about the degree of intelligence we had.</u>
+      <u who="NADAL">We went to <placeName ref="#ttu_462_place_42">Pleiku</placeName>. You have to remember <placeName ref="#ttu_462_place_43">Plei Me</placeName> has been under siege, the cav went up there with artillery primarily and ARA (Aerial Rocket Artillery) and supported the battle. <orgName ref="#ttu_462_org_67">The 1st Brigade</orgName> went in and looked for the enemy, didn’t really find them but they found some, the <orgName ref="#ttu_462_org_68">9th Cav</orgName>, the Air Cav squadron, found a hospital and they’re going to fight one night a very tough fight. The picture to us was, “The enemy is here, we haven’t found them in numbers, but we’ve had one big tough company-sized fight, and they found a hospital and all this other kind of stuff.” <orgName ref="#ttu_462_org_69">1st Brigade</orgName> was there for about two weeks after <name type="event" ref="#ttu_462_event_13">Plei Me</name> and then they brought us in. They said “Okay, you’re going to go look in this area.” Well, they put us in that area, we broke down by companies. This was not near <placeName ref="#ttu_462_place_44">LZ (Landing Zone) X-Ray</placeName>. This was east of <placeName ref="#ttu_462_place_45">LZ X-Ray</placeName>. We spent about ten days doing small unit platoon size patrols over this big area looking for the enemy. Did not find them. We were due to be pulled out. Two days hence to be replaced by <orgName ref="#ttu_462_org_70">2nd Brigade</orgName>. On the twelfth, <persName ref="#ttu_462_person_29">Hal Moore</persName> calls us together and says “Okay, we have a new mission. The <orgName ref="#ttu_462_org_71">brigade</orgName> has some intelligence that there is an enemy force somewhere.” He drew a goose egg on the map. Right at the base of <placeName ref="#ttu_462_place_46">Chu Pong Mountain</placeName>. Our mission is to go there and see what’s there. That was about the degree of intelligence we had.</u>
       <u who="MILAM">I see.</u>
       <u who="NADAL">“We believe there’s an enemy base camp, but we don’t know how many, anything. You guys going to go there to see what’s there.” We 				were all spread out. On the twelfth we’re all spread out in platoonsized locations. The air assault on the fourteen was difficult because there weren’t many helicopters and got to make a lot of trips to pick up this group here, this group over here, and this group over here.</u>
       <u who="MILAM">So you didn’t stage from one central location?</u>
@@ -245,7 +245,7 @@
       <u who="NADAL">Later on, the <orgName ref="#ttu_462_org_93">Marines</orgName> used to bitch like hell about the M16. My response was that’s because they don’t clean their rifles, because we didn’t have a lot of problems with them. We had problems with other things, like medevac and so forth. The biggest problem I had in the battlefield was that before the major assault—in that afternoon, when <persName ref="#ttu_462_person_49">Hal Moore</persName> told <orgName ref="#ttu_462_org_94">B Company</orgName> and I to go get that lost platoon, I could not get artillery fire to fire prep for me because at the time, we only had one artillery fire control net. Only one FO from the various companies could be directing artillery at one time. <orgName ref="#ttu_462_org_95">B Company</orgName> had a very good FO, raiding that early. Whenever it came time for us to assault, I couldn’t get through to get a prep-fire. So I used my mortars and they didn’t have much ammunition. They ran out of ammo very rapidly, so my biggest problem was that.</u>
       <u who="MILAM">You were trying to bring in 105s?</u>
       <u who="NADAL">105s.</u>
-      <u who="MILAM">How difficult was it to identify your own positions when you were calling <orgName ref="#ttu_462_org_96">ARA</orgName>?</u>
+      <u who="MILAM">How difficult was it to identify your own positions when you were calling ARA?</u>
       <u who="NADAL">We just used red smoke.</u>
       <u who="MILAM">You used smoke. So your troops were carrying smoke grenades that you just get on the radio and say identify and you let them—then you had an aerial FO?</u>
       <u who="NADAL">We had an <orgName ref="#ttu_462_org_97">Air Force</orgName> vac on the ground but also, there were <orgName ref="#ttu_462_org_98">Air Force</orgName> vacs in the air. We had for the army helicopters, it was just radio contact with the choppers, with the flight leaders.</u>
@@ -680,9 +680,6 @@
       <org xml:id="ttu_462_org_1">
         <orgName>the Vietnam Center</orgName>
       </org>
-      <org xml:id="ttu_462_org_2">
-        <orgName>MOS (Military Occupational Specialty Code</orgName>
-      </org>
       <org xml:id="ttu_462_org_3">
         <orgName>Company A, 1st Battalion 7th Cavalry</orgName>
       </org>
@@ -691,9 +688,6 @@
       </org>
       <org xml:id="ttu_462_org_5">
         <orgName>1st Cav</orgName>
-      </org>
-      <org xml:id="ttu_462_org_6">
-        <orgName>18th</orgName>
       </org>
       <org xml:id="ttu_462_org_7">
         <orgName>Special forces</orgName>
@@ -728,17 +722,8 @@
       <org xml:id="ttu_462_org_17">
         <orgName>third brigade</orgName>
       </org>
-      <org xml:id="ttu_462_org_18">
-        <orgName>G1 section</orgName>
-      </org>
       <org xml:id="ttu_462_org_19">
         <orgName>1st brigade</orgName>
-      </org>
-      <org xml:id="ttu_462_org_20">
-        <orgName>G1 section</orgName>
-      </org>
-      <org xml:id="ttu_462_org_21">
-        <orgName>G1</orgName>
       </org>
       <org xml:id="ttu_462_org_22">
         <orgName>1st of the 7th</orgName>
@@ -872,9 +857,6 @@
       <org xml:id="ttu_462_org_65">
         <orgName>battalion</orgName>
       </org>
-      <org xml:id="ttu_462_org_66">
-        <orgName>ARA</orgName>
-      </org>
       <org xml:id="ttu_462_org_67">
         <orgName>The 1st Brigade</orgName>
       </org>
@@ -961,9 +943,6 @@
       </org>
       <org xml:id="ttu_462_org_95">
         <orgName>B Company</orgName>
-      </org>
-      <org xml:id="ttu_462_org_96">
-        <orgName>ARA</orgName>
       </org>
       <org xml:id="ttu_462_org_97">
         <orgName>Air Force</orgName>
