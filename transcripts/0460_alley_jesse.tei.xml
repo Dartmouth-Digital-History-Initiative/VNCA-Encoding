@@ -178,7 +178,7 @@
       <u who="MILAM">So between sometime in <date when="1965-08">August</date> when you get there and <date when="1965-11-14">November 14th</date>, what all did you do? What was your job?</u>
       <u who="ALLEY">We got our equipment in, we were getting it out, we got it tested out. We went out to the <placeName ref="#ttu_460_place_30">An Khe Pass</placeName>. <placeName ref="#ttu_460_place_31">An Khe</placeName> is on a plateau. We went out there on operation as plateau security or guardians, there was kind of a shake out. From there, we went onto some other—we jumped off onto a couple other shake out missions down in the Valley, towards the coast.</u>
       <u who="MILAM">That was <name type="event" ref="#ttu_460_event_2">“Operation Silver Bayonet”</name>, did you participate in that? </u>
-      <u who="ALLEY">Yeah. Then we—during that <name type="event" ref="#ttu_460_event_3">operation</name> while we were at the pass, I was responsible for maintaining. They were trying out new techniques and they divided the battalion in half and put part of it under the command of the executive officer and they called it <orgName ref="#ttu_460_org_30">Task Force Mallet</orgName>. <persName ref="#ttu_460_person_20">Major Mallet</persName> had it, he was down in the valley and they had a separate operation center, and so my job was to maintain the communication between, we were still using the old written orders, message center runs down, we were still learning how to operate the radios and stuff. So there was some breakdowns, so occasionally I had to ride down to the bottom and deliver the message, and ride back up. I did that because I didn’t want my men to risk it and get shot down. Fortunately, we didn’t, we never did have any contact at night, but I wouldn’t go take any chances.</u>
+      <u who="ALLEY">Yeah. Then we—during that <name type="event" ref="#ttu_460_event_3">operation</name> while we were at the pass, I was responsible for maintaining. They were trying out new techniques and they divided the battalion in half and put part of it under the command of the executive officer and they called it Task Force Mallet. <persName ref="#ttu_460_person_20">Major Mallet</persName> had it, he was down in the valley and they had a separate operation center, and so my job was to maintain the communication between, we were still using the old written orders, message center runs down, we were still learning how to operate the radios and stuff. So there was some breakdowns, so occasionally I had to ride down to the bottom and deliver the message, and ride back up. I did that because I didn’t want my men to risk it and get shot down. Fortunately, we didn’t, we never did have any contact at night, but I wouldn’t go take any chances.</u>
       <u who="MILAM">When were you issued your M16?</u>
       <u who="ALLEY">I think we got them in <placeName ref="#ttu_460_place_32">Benning</placeName>, honestly, I can’t—</u>
       <u who="MILAM">You mean before? Then you carried them on ship. When did you first fire it?</u>
@@ -878,9 +878,6 @@
       </org>
       <org xml:id="ttu_460_org_29">
         <orgName>marines</orgName>
-      </org>
-      <org xml:id="ttu_460_org_30">
-        <orgName>Task Force Mallet</orgName>
       </org>
       <org xml:id="ttu_460_org_31">
         <orgName>ROTC</orgName>
