@@ -204,7 +204,7 @@
       <u who="MILAM">I’m just trying to see if you had—I know that as the entire war, we really never experienced anything like the <name type="event" ref="#ttu_457_event_1">Battle of the Ia Drang Valley</name>.</u>
       <u who="KOMICH">Which was a good thing</u>
       <u who="MILAM">As in individuals, certain people did experience other kinds of things. Did you, on your second tour, experience anything like you had in that first period?</u>
-      <u who="KOMICH">No. No. The answer is very simple, I had one really bad experience on my second tour, I got shot down in a Chinook and went down in fire. But it was turned into an extraction. Once you’re on fire, you’re on fire, but I didn’t know that was going to happen. With <placeName ref="#ttu_457_place_99">X-Ray</placeName> and <placeName ref="#ttu_457_place_100">Albany</placeName>, you get to think about it all the way down there. All the way to the <placeName ref="#ttu_457_place_101">LZ</placeName>. So no, nothing at all like that. I did find that the level of experience and skill on my second tour had dropped unbelievably, I just couldn’t believe it.</u>
+      <u who="KOMICH">No. No. The answer is very simple, I had one really bad experience on my second tour, I got shot down in a Chinook and went down in fire. But it was turned into an extraction. Once you’re on fire, you’re on fire, but I didn’t know that was going to happen. With <placeName ref="#ttu_457_place_99">X-Ray</placeName> and <placeName ref="#ttu_457_place_100">Albany</placeName>, you get to think about it all the way down there. All the way to the LZ. So no, nothing at all like that. I did find that the level of experience and skill on my second tour had dropped unbelievably, I just couldn’t believe it.</u>
       <u who="MILAM">In terms of <orgName ref="#ttu_457_org_41">American</orgName> soldiers?</u>
       <u who="KOMICH"><orgName ref="#ttu_457_org_42">American</orgName> pilots. Certainly, no reflection on them, boy they did a wonderful job given the training that they had. But they didn’t spend fourteen months at <placeName ref="#ttu_457_place_102">Fort Benning</placeName> prior to going over and it really showed it. Please, in any of this, I'm not criticizing or belittling or degrading any of them. They bellied up to the bar so to speak, rolled their sleeves up. They did a heck of a job. They were going to the <placeName ref="#ttu_457_place_103">Ia Drang Valley</placeName>, as I mentioned earlier this tactical instrument ticket. They were taking sling loads into the clouds and flying over the mountains and then dropping down without any nave into this valley, flying the compass and the clock. That’s pretty impressive.</u>
       <u who="MILAM">Where were you on your second tour?</u>
@@ -542,9 +542,6 @@
       </place>
       <place xml:id="ttu_457_place_100">
         <placeName>Albany</placeName>
-      </place>
-      <place xml:id="ttu_457_place_101">
-        <placeName>LZ</placeName>
       </place>
       <place xml:id="ttu_457_place_102">
         <placeName>Fort Benning</placeName>
