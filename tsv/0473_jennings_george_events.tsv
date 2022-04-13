@@ -1,14 +1,14 @@
-id	name
-ttu_473_event_0	Vietnam War
-ttu_473_event_1	Operation Silver Bayonet
-ttu_473_event_2	Ia Drang
-ttu_473_event_3	Ia Drang
-ttu_473_event_4	Vietnam
-ttu_473_event_5	Vietnam
-ttu_473_event_6	Valley
-ttu_473_event_7	Korea
-ttu_473_event_8	Vietnam War
-ttu_473_event_9	Ia Drang
-ttu_473_event_10	Vietnam War
-ttu_473_event_11	Vietnam
-ttu_473_event_12	Vietnam
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_473_event_0	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_473_event_1	Pleiku Campaign	Q24189107				1965-11-26T00:00:00Z
+ttu_473_event_2	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_473_event_3	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_473_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_473_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_473_event_6	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_473_event_7	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_473_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_473_event_9	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_473_event_10	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_473_event_11	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_473_event_12	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
