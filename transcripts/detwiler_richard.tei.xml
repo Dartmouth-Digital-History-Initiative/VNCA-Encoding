@@ -1,0 +1,1805 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_088">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Richard Detwiler</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_088</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="DETWILER"/>
+        <person xml:id="DIM"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2016-05-26"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="DIM">Okay. Hello, this is <persName ref="#dvp_088_person_0">Chileta Dim</persName>, and I am here at <placeName ref="#dvp_088_place_0">Rauner Special Collections Library</placeName> at <orgName ref="#dvp_088_org_0">Dartmouth College</orgName> in <placeName ref="#dvp_088_place_1">Hanover, New Hampshire</placeName>. It is <date when="2016-05-26">May 26, 2016</date>, 1 p.m., and I am here with <persName ref="#dvp_088_person_1">Richard Detwiler</persName>, and he is—<persName ref="#dvp_088_person_2">Rick</persName>, where are you?</u>
+      <u who="DETWILER">Yeah, I’m here.</u>
+      <u who="DIM">Oh, no, where are you physically?</u>
+      <u who="DETWILER">Oh, I am in <placeName ref="#dvp_088_place_2"> Ferrisburgh, Vermont</placeName>.</u>
+      <u who="DIM"><placeName ref="#dvp_088_place_3">Ferrisburgh, Vermont</placeName>. Wonderful. And we’ll start our interview. So, <persName ref="#dvp_088_person_3">Rick</persName>, just to start it off, when and where were you born?</u>
+      <u who="DETWILER">Oh, you’re going way back, aren’t you?</u>
+      <u who="DIM">Yeah. [Chuckles.]</u>
+      <u who="DETWILER">I was born in <placeName ref="#dvp_088_place_4">Rochester, New York</placeName>, in <date when="1947-10">October 1947</date>.</u>
+      <u who="DIM">Okay. And can you tell me a little bit about what it was like living in upstate <placeName ref="#dvp_088_place_5">New York</placeName> at that time?</u>
+      <u who="DETWILER">Yeah. My family moved around, so we lived in <placeName ref="#dvp_088_place_6">Rochester</placeName>, <placeName ref="#dvp_088_place_7">Binghamton</placeName>, moved to <placeName ref="#dvp_088_place_8">Philadelphia [Pennsylvania]</placeName> for junior high days, then back to <placeName ref="#dvp_088_place_9">Buffalo</placeName> area, where I graduated from high school. So, you know, [unintelligible; 1:13], from my experience, it was kind of a suburban life. You know, you get [up] in the morning, go to school, and that was [a] very traditional family. My father worked. My mother didn’t. I had one older brother, three years older. We got along very well and had a very—</u>
+      <u who="DIM">[cross-talk; unintelligible; 1:27]?</u>
+      <u who="DETWILER">—normal teenagehood.</u>
+      <u who="DIM">Mmm. So you said your family moved around a lot. </u>
+      <u who="DETWILER">Yeah.</u>
+      <u who="DIM">Was there a particular reason?</u>
+      <u who="DETWILER">Yeah, my father’s job. He would—he worked for <orgName ref="#dvp_088_org_1">Atlantic Refining</orgName>, which turned into <orgName ref="#dvp_088_org_2">ARCO [Atlantic Richfield Company]</orgName>—you know, [a] gas company. He was in sales, and then he was in real estate, and then he was in development for them, so he would move around from region to region every four or five years.</u>
+      <u who="DIM">Mmm. But it seems like it was all on the East Coast.</u>
+      <u who="DETWILER">Yeah, exactly. We didn’t do much traveling. Went to <placeName ref="#dvp_088_place_10">New Jersey</placeName> to visit grandparents. As a family, I think that’s as far north, south, east or west as we got. [Chuckles.]</u>
+      <u who="DIM">Oh, wow. [Chuckles.] Were you close with your grandparents in particular?</u>
+      <u who="DETWILER">No. My father’s parents had died before I was born. My mother’s father died when I was about 10 or 12, and her mother then had Alzheimer’s, and she lived with us a little bit, but it wasn’t the typical grandmother, you know, and then she died when I was in college.</u>
+      <u who="DIM">Oh, okay, yeah.So you were born in <date when="1945">1945</date>—</u>
+      <u who="DETWILER"><date when="1947">Forty-seven</date>.</u>
+      <u who="DIM"><date when="1947">Forty-seven</date>, I’m sorry. <name type="event" ref="#dvp_088_event_0">World War II</name> ended in <date when="1945">1945</date>.</u>
+      <u who="DETWILER">Yeah.</u>
+      <u who="DIM">I was wondering: Was your family involved in any way? Did you have anyone that served?</u>
+      <u who="DETWILER">Yeah, my father was in the <orgName ref="#dvp_088_org_3">[U.S.] Navy</orgName>. He was a <orgName ref="#dvp_088_org_4">Navy</orgName> officer, as I became later.</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">And he was on a minesweeper. Actually, he was sweeping the coast off of <placeName ref="#dvp_088_place_11">Normandy [France]</placeName> on <date when="1944-06-06">D-Day</date>.</u>
+      <u who="DIM">Oh, wow!</u>
+      <u who="DETWILER">And my wife’s father was also in the <orgName ref="#dvp_088_org_5">Navy</orgName>. He was a radioman on the <orgName ref="#dvp_088_org_6">[USS] Enterprise</orgName>, and he was in early on. Actually, the <orgName ref="#dvp_088_org_7">Enterprise</orgName> was pulling into <placeName ref="#dvp_088_place_12">[Naval Station] Pearl Harbor [Hawaii]</placeName> on <date when="1941-12-07">December 7th</date>, and they deflected; they told them to stay out, so they stayed out and he got away from that, but he went through the whole<name type="event" ref="#dvp_088_event_1">Pacific campaign</name>. He saw a lot of action there.And both my mother’s brothers were doctors in the <orgName ref="#dvp_088_org_8">Navy</orgName>.</u>
+      <u who="DIM">Oh.</u>
+      <u who="DETWILER">So, yeah. Grandparents, no, but certainly the—you know, the great gen— the greatest generation—you know, <name type="event" ref="#dvp_088_event_2">the World War II</name> group—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—family was very--[unintelligible; 3:52] so many Americans were, right?</u>
+      <u who="DIM">Mmm. So did your father or family members talk a lot about their experience in <name type="event" ref="#dvp_088_event_3">World War II</name> as you were growing up?</u>
+      <u who="DETWILER">No, they didn’t talk a lot about it, but they didn’t avoid it, either. Occasionally my father would bring it up, or I would bring it up, ask a question or something like that, but it wasn’t a topic on the table by the time I was a conscious little toddler.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And he would then—you know, he didn’t—he wasn’t—he didn’t stay in the <orgName ref="#dvp_088_org_9">Reserves</orgName>. He wasn’t in for a career. He was—I think he went in about <date when="1941">’41</date> or <date when="1942">’42</date>. Yeah, my brother was born in <date when="1944">’44</date>, so he was still around in <date when="1943">late ’43</date>. But then, again, being—he was a skipper of a minesweeper, so they went overseas. And then he got out right at the end of the war.</u>
+      <u who="DIM">Could you tell me your parents’ names? Quickly.</u>
+      <u who="DETWILER">Yeah, my mother was <persName ref="#dvp_088_person_4">Muriel [Foulk] Detwiler [Bridge]</persName>.  My father was <persName ref="#dvp_088_person_5">Charles [K.] Detwiler</persName>.</u>
+      <u who="DIM">Do you know your mother’s maiden name?</u>
+      <u who="DETWILER">F-o-u-l-k, <persName ref="#dvp_088_person_6">Foulk</persName> [pronounced like FOKE].</u>
+      <u who="DIM">Okay. Thank you.So moving around a lot, where did you go to high school?</u>
+      <u who="DETWILER">I started high school outside of <placeName ref="#dvp_088_place_13">Philadelphia</placeName>, in <placeName ref="#dvp_088_place_14">Berwyn, Pennsylvania</placeName>, and in the beginning of the 11th grade we moved to <placeName ref="#dvp_088_place_15">Hamburg, New York</placeName>, where I graduated from high school.</u>
+      <u who="DIM">What was that like, moving around so much, especially at such a—a pivotal age?</u>
+      <u who="DETWILER">Yeah. Well, we didn’t move every year. It was a five-year, pretty much, interval. Four to five years in <placeName ref="#dvp_088_place_16">Buffalo</placeName>, you know, those two years in high school, and then another couple of years in college, so five years in <placeName ref="#dvp_088_place_17">Philly</placeName>, five years in <placeName ref="#dvp_088_place_18">Binghamton</placeName> before that, and before that, I wasn’t very conscious. [Chuckles]</u>
+      <u who="DIM">[Chuckles.] Right.</u>
+      <u who="DETWILER">You know, I made friends. I kept friends, somewhat. I think it developed some flexibility in me. I mean, as an adult I’ve moved around a lot, too. And I think I also developed some skills in terms—social skills as well as coping skills and not—it—it was not terrible. It did not bother me, nor really anybody in the family. You kind of did what—what the dad’s job said you were going to do.</u>
+      <u who="DIM">Mm-hm. And what was your older brother’s name?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_7">[Charles K.] “Chip” [Detwiler]</persName>.</u>
+      <u who="DIM"><persName ref="#dvp_088_person_8">Chip</persName>. [Chuckles.] And you were three years older.</u>
+      <u who="DETWILER">Huh?</u>
+      <u who="DIM">And he was three years older.</u>
+      <u who="DETWILER">Yes. </u>
+      <u who="DIM">Okay. Yes. Okay.What were you like as—as a student? How was school like?</u>
+      <u who="DETWILER">I did okay in school; hence, going to <orgName ref="#dvp_088_org_10">Dartmouth</orgName>. [Chuckles.] </u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">I could—I could—I think I did my work fast. I stayed up with it. It wasn’t like you had to twist my arm. But I was in sports and clubs, and I had my friends and we would screw around, so I—I wasn’t just a wonk. But I did fine, you know, and graduated—you know, even after changing high school in <placeName ref="#dvp_088_place_19">Hamburg</placeName>, coming in there with a very different [unintelligible; 7:19], I still—I think I was in the—up in the tenth – top ten in my class, actually, I think.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">School was never a drag to me. I mean, it was a source of friends, source of activity, and I don’t have the memories or adolescence that we’re supposed to. [Laughs.] Of trauma and despair.</u>
+      <u who="DIM">[Chuckles.] Uh-huh. Yeah. So you said you did sports and clubs. What sort of sports and activities were you doing at school?</u>
+      <u who="DETWILER">And I just read—just as I was waiting for you, I was looking at my e-mail, and <persName ref="#dvp_088_person_9">Coach [Chad] Riley</persName> just sent out a thing. Somebody—he’s got matching gifts for $50,000 for the soccer team. I go, Oh, my God! [Laughs.] How did he get that? Because I played soccer at <orgName ref="#dvp_088_org_11">Dartmouth</orgName> all four years.</u>
+      <u who="DIM">Mmmmm.</u>
+      <u who="DETWILER">Actually sat on the bench all four years, but I was—</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">—[unintelligible; 8:11] on the team.</u>
+      <u who="DIM">[Laughs.]</u>
+      <u who="DETWILER">I played soccer in high school, played—that was the one thing I did regularly and had some ability to play. You know, I’d go up—my buddies and I went out for the—went—ran track one spring. We joined the volleyball team one year. I wrestled one year. But track was—I mean, soccer was pretty much the one thing I could claim that I participated in.</u>
+      <u who="DIM">[Chuckles.] And were you recruited for soccer at <orgName ref="#dvp_088_org_12">Dartmouth</orgName>?</u>
+      <u who="DETWILER">Oh, no.</u>
+      <u who="DIM">Or was it just something you decided to continue?</u>
+      <u who="DETWILER">No.</u>
+      <u who="DIM">Okay.</u>
+      <u who="DETWILER">A long way from that. [Chuckles.] </u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">I showed up. I did come early freshman year for practice, but, no, I—I was a walk-on.</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">I think I got ten minutes of—of <orgName ref="#dvp_088_org_13">Ivy League</orgName> time my senior year. I think that was my total.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">He put me in when we played [unintelligible; 9:09] or <orgName ref="#dvp_088_org_14">KUA [Kimball Union Academy]</orgName>, but—[Chuckles.]</u>
+      <u who="DIM">Did your parents go to college?</u>
+      <u who="DETWILER">Yeah, they both went to <orgName ref="#dvp_088_org_15">Penn [University of Pennsylvania</orgName>].</u>
+      <u who="DIM">Mm-hm. <orgName ref="#dvp_088_org_16">University of Pennsylvania</orgName> or <orgName ref="#dvp_088_org_17">Penn State [Pennsylvania State University]</orgName>?</u>
+      <u who="DETWILER">Well, both graduated from the <orgName ref="#dvp_088_org_18">University of Pennsylvania</orgName>. My father started at <orgName ref="#dvp_088_org_19">Penn State</orgName>.</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">And then he had to drop out.  He ran out of money, and he worked for a year or two, and then worked—and then—he was living in <placeName ref="#dvp_088_place_20">Philly</placeName>, so he went to <orgName ref="#dvp_088_org_20">Penn</orgName> then. Worked himself through the rest of college.</u>
+      <u who="DIM">So—so what—how did you decide on <orgName ref="#dvp_088_org_21">Dartmouth</orgName>?</u>
+      <u who="DETWILER">I got a <orgName ref="#dvp_088_org_22">ROTC</orgName> scholarship.</u>
+      <u who="DIM">Hmm!</u>
+      <u who="DETWILER">And I think that’s why I got into <orgName ref="#dvp_088_org_23">Dartmouth</orgName>, because they had 25 slots, and I was one of them that had put <orgName ref="#dvp_088_org_24">Dartmouth</orgName> on its list. [Chuckles.] </u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And I—I—you know, we went around with my parents. We did the—the—the tour. Might have gone to <orgName ref="#dvp_088_org_25">Dickinson [College]</orgName>. My brother was there. But I wanted to break away from him, you know, and go my own route. And I really liked <placeName ref="#dvp_088_place_21">Hanover</placeName>. I mean, I just—coming in there, I liked the small town, I liked the outdoors, I liked the feel of it. You know, the <orgName ref="#dvp_088_org_26">ROTC [Reserve Officers’ Training Corps]</orgName> thing was—was a great opportunity and, you know, it paid for college. I had known a couple people from high school who had—who were at <orgName ref="#dvp_088_org_27">Dartmouth</orgName>, and I liked them, and they—they had—they liked the school. So it—it just had all the pieces that I was looking for.</u>
+      <u who="DIM">You said you got a—a <orgName ref="#dvp_088_org_28">ROTC</orgName>[pronouncing it ROT-see] scholarship. Is that correct?</u>
+      <u who="DETWILER"><orgName ref="#dvp_088_org_29">R-O-T-C</orgName>, yes.</u>
+      <u who="DIM">Oh, okay, <orgName ref="#dvp_088_org_30">R-O-T-C</orgName> scholarship, okay.</u>
+      <u who="DETWILER">Yeah.</u>
+      <u who="DIM">So you were—you were thinking about joining the <orgName ref="#dvp_088_org_31">military</orgName> even before starting school.</u>
+      <u who="DETWILER">Well, yes. I mean, you know, consider the time, which is, you know, the subject of what we’re talking about here.</u>
+      <u who="DIM">Mm-hm, mm-hm.</u>
+      <u who="DETWILER">And there were student deferments, still.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And, you know, I was probably going to go in, but I wanted to go as an officer,—</u>
+      <u who="DIM">Okay.</u>
+      <u who="DETWILER">—which meant you had to get the college degree first, you know, typically, especially as a naval officer, and I wanted to go into the <orgName ref="#dvp_088_org_32">[U.S.] Navy</orgName>, if I had to go. You know, I felt a little bit of patriotism in terms of that’s what you do. My father, you know, had done that, and so the <orgName ref="#dvp_088_org_33">ROTC</orgName> scholarship seemed like a good way of—of approaching that. You graduate with your commission. You don’t have to go to the <orgName ref="#dvp_088_org_34">[U.S.] Naval Academy</orgName>. [Chuckles.] </u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And, you know, you got to get four years at the end, but that was—that was worth the bargain, I thought. So it wasn’t like I wanted to go in the <orgName ref="#dvp_088_org_35">Navy</orgName> and then, Okay, I gotta stall for four years while I get my degree and commission. It’s just kind of the whole package.</u>
+      <u who="DIM">Just so can you say a little bit about your first term at <orgName ref="#dvp_088_org_36">Dartmouth</orgName>, your first fall? And—and what year was that?</u>
+      <u who="DETWILER">Yeah, it would be fall of <date when="1965">’65</date>.</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">I was very young, immature [chuckles], short, and my eyes were wide open.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">I—some of the particular memories I had was the variety of kids that were there—my roommate was from—a recruited football player from <placeName ref="#dvp_088_place_22">South Dakota</placeName>, who lasted a year. [Chuckles.] All these preppies! I mean, the school had—was full of these kids from prep schools, an experience which was totally different from mine.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">You know, [unintelligible; 12:57]—I can’t—I don’t know what it is now, but you didn’t rush a fraternity until sophomore year, so freshman—you were kind of dorm bound. I had some friends—one—one friend I had gone to high school outside of <placeName ref="#dvp_088_place_23">Philadelphia</placeName> with. Hadn’t seen him in two years, and he shows up at <orgName ref="#dvp_088_org_37">Dartmouth</orgName>. </u>
+      <u who="DIM">Mmm!</u>
+      <u who="DETWILER">So I built some friends. I found the academics extremely challenging, much more so than high school. I mean, it didn’t come easy anymore.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And so I had to work, but I also socialized.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And, you know, thoroughly enjoyed it.</u>
+      <u who="DIM">So what sort of activities were you doing at <orgName ref="#dvp_088_org_38">Dartmouth</orgName>? So you did soccer, and you were in <orgName ref="#dvp_088_org_39">ROTC</orgName>. Were those your main activities?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_10">ROTC</persName> was not a terrible time commitment. It was Wednesday afternoon for a couple of hours you had to go drill.</u>
+      <u who="DIM">Oh.</u>
+      <u who="DETWILER">And other than that, you took a course which met once or twice a week. I think it’s—it’s a lot heavier now, although I don’t think <orgName ref="#dvp_088_org_40">Dartmouth</orgName> has <orgName ref="#dvp_088_org_41">NAVY ROTC [Naval Reserve Officer Training Corps]</orgName>. I think it’s—I think they have <orgName ref="#dvp_088_org_42">Army [ROTC]</orgName> or something. I think up to <orgName ref="#dvp_088_org_43">Norwich [University]</orgName>, I don’t know. But that was not a terrible load. I played soccer, was on the lacrosse team for a few weeks, until my English professor gave me a D and said I wasn’t doing so—gonna pass. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">So I dropped out of that. I worked on the newspaper freshman year. You know, did the all-nighters and helped them with some articles and so forth. <orgName ref="#dvp_088_org_44">[The Dartmouth] Outing Club</orgName>. You know, the skiing stuff that they teach you how to ski. Those kinds of things. But mainly, you know, the course load was a full load.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">Didn’t have a car, of course, so—</u>
+      <u who="DIM">Right. [Chuckles.]</u>
+      <u who="DETWILER">—you know, social life was limited. And as a freshman, you just [unintelligible; 14:48], as you know, so [both chuckle] that part was [unintelligible; 14:49]. And, you know, social life was really focused around fraternities in those days, so if you weren’t in one, that was—you know, you had to kind of find your way.</u>
+      <u who="DIM">Mm-hm. Did you join a fraternity?</u>
+      <u who="DETWILER">Yeah, I did, <orgName ref="#dvp_088_org_45">Psi U[psilon]</orgName>. It’s still there.</u>
+      <u who="DIM">What were your experiences in it?</u>
+      <u who="DETWILER">You know, I—still my closest friend—we get together every year—I lived overseas for 20, 21 years, and—I’d come back in the summer, though. We were fraternity brothers. There are four of us that are—are—are very tight—you know, godfathers of kids and—</u>
+      <u who="DIM">Mmm!</u>
+      <u who="DETWILER">—[unintelligible; 15:36] and so forth. So I think that is—kind of represents what I feel about the fraternity life there, you  know.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">Good friends. Everybody was not the same. We had a real variety of folks in—in <orgName ref="#dvp_088_org_46">Psi U</orgName> in those days.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">But there was an opportunity to, you know, forge some really strong friendships.</u>
+      <u who="DIM">Do you remember those—those men’s names?</u>
+      <u who="DETWILER">Those what?</u>
+      <u who="DIM">Do you remem- —the names of those friends that you were very close to. Do you remember their names?</u>
+      <u who="DETWILER">Yeah, the three that are <persName ref="#dvp_088_person_11">Jon [T.] Roll</persName> <orgName ref="#dvp_088_org_47">[Class of 1967]</orgName>, <persName ref="#dvp_088_person_12">[Edward N.] “Ed” Damon</persName> <orgName ref="#dvp_088_org_48">[Class of 1969]</orgName> and <persName ref="#dvp_088_person_13">[Frederick S.] “Rick” Lounsbury [Jr.,</persName> <orgName ref="#dvp_088_org_49">Class of 1969]</orgName>. </u>
+      <u who="DIM">Can you spell his last name?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_14">Lounsbury</persName> is L-o-u-n-s-b-u-r-y.</u>
+      <u who="DIM">Okay. Thank you.Yeah, so as you’re in <orgName ref="#dvp_088_org_50">ROTC</orgName> at <orgName ref="#dvp_088_org_51">Dartmouth</orgName> in this time, <name type="event" ref="#dvp_088_event_4">Vietnam</name> is—is amping up. Was there any major discussion on campus that you were tuned into?</u>
+      <u who="DETWILER">Oh, yeah, big time, right? I mean, the—the big protest, <name type="event" ref="#dvp_088_event_5">Occupy Parkhurst [sic; the Parkhurst Hall takeover]</name>—that was all that—that spring.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">Yeah, throughout, especially around elections, you know. I mean,—I—I voted for<persName ref="#dvp_088_person_15"> [Eugene J.] McCarthy</persName> and <persName ref="#dvp_088_person_16">[George S.] McGovern</persName>, but I didn’t vote for <persName ref="#dvp_088_person_17">[Richard M.] Nixon</persName>! [Laughs.] I didn’t want to go to <placeName ref="#dvp_088_place_24">Vietnam</placeName>. I thought it was terrible there. Not enough that I was going to, you know, give up my commission or—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—break the law, you know, [I was] kind of raised, almost a moralist in that you make a commitment and you follow through with it, so—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">But, yeah, there was lots of discussion then. You know, it picked up after [the] <name type="event" ref="#dvp_088_event_6">Kent State [University shootings]</name>, right?</u>
+      <u who="DIM">Mm-hm, yeah, absolutely.</u>
+      <u who="DETWILER">A lot.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">So it was minor, but—there weren’t—being in <orgName ref="#dvp_088_org_52">ROTC</orgName> was a very interesting—was—in my experience, no way a marker of—of who I was or how I interacted with friends, you know? </u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">My roommate in the house was in all the protests. I think he was in <name type="event" ref="#dvp_088_event_7">Park</name>- —</u>
+      <u who="DIM">Mmm. [Chuckles.]</u>
+      <u who="DETWILER">So that was not viewed as, you know, your—your statement of who you are. It was, “Okay, some people signed up, some people didn’t. All right.” So—but, yes, there were lots of discussions. I can’t recall the—the texture of them other than, you know, what you know about from having studied that period.</u>
+      <u who="DIM">Mm-hm. Do you have your roommate’s name?</u>
+      <u who="DETWILER">Yeah,<persName ref="#dvp_088_person_18"> [Peter M.] “Pete” Bryant</persName> <orgName ref="#dvp_088_org_53">[Class of 1970]</orgName>. </u>
+      <u who="DIM"><persName ref="#dvp_088_person_19">Bryant</persName>. Spell it. Can you spell the last name?</u>
+      <u who="DETWILER">B-r-y-a-n-t.</u>
+      <u who="DIM">Okay. Thank you.</u>
+      <u who="DETWILER">I haven’t seen or heard of him since <date when="1969-06">June of 1969</date>, so—[Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Okay. Maybe we can get in contact with him.</u>
+      <u who="DETWILER">Yeah, there were three of us that lived together in the house. He was a year behind—behind us, but he was in there.</u>
+      <u who="DIM">Mm-hm. So graduating—you would have graduated in <date when="1969">’69</date>, and were there any particular core memories or major take-aways you took from your time at <orgName ref="#dvp_088_org_54">Dartmouth</orgName> that may have helped you as you’re entering your commission?</u>
+      <u who="DETWILER">Well, I–I—I remain a strong supporter of <orgName ref="#dvp_088_org_55">ROTC</orgName> because I think the notion of citizen soldier, particularly in—an officer in—and the senior cadre—is—is really important. And I just found that—having a liberal arts education—you know, having been in—in an academic environment of the caliber of <orgName ref="#dvp_088_org_56">Dartmouth</orgName>, gave me a perspective and made me some ability to think through what I was perceiving and seeing in terms of recognizing the big picture, looking at some of the ethical issues underlying some of the things we did, and—I just think—now, you know, I—I mean, I was living that life at the time, so I don’t think I was consciously saying, Oh, I am a liberal arts educated officer. I can see differently. </u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">But just reflecting back upon your question, I think that was probably the—the most important preparation, if you will, that I could have. You know, during my time in the <orgName ref="#dvp_088_org_57">Navy</orgName>, I associated with a lot of folks from the <orgName ref="#dvp_088_org_58">Academy</orgName>, and, jeez, they had a totally different world view, you know? And I was just so grateful for the—both the academic background but also the social milieu and, more importantly, the variety of people at <orgName ref="#dvp_088_org_59">Dartmouth</orgName> and the variety of perspectives.</u>
+      <u who="DIM">Yeah. So can you talk a little bit about your senior year and what gradu- —what graduating was like?</u>
+      <u who="DETWILER">Well, yeah, a little bit. I kind of got my act together with my courses, so I started getting decent grades again. I was not a terribly good student.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">I was in—I was in—I think I grad- —I—I graduated in the top three-quarters of my class. [Chuckles.]</u>
+      <u who="DIM">Okay. [Chuckles.]</u>
+      <u who="DETWILER">So that’s not—nothing to brag about. No, but I—I was—I getting it together academ- —I was taking some neat courses, you know, because I was a biology major, and, you know, all the introductory stuff of the first two, three years was over, and I was pre-med too, so I had to, you know, grind through physics, organic chemistry, all that stuff. All that was done by the time I was a senior, and I was able to take art history,—</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">—and then biology classes were very focused, you know? Endocrinology and flowering plant taxon- —which—which were really—</u>
+      <u who="DIM">Mmm!</u>
+      <u who="DETWILER">—they were—it was a lot more fun to do that kind of stuff, so academically it was more interesting. By then, I had a car, I had a social life—</u>
+      <u who="DIM">[Laughs.]</u>
+      <u who="DETWILER">—and, you know, you know your way around when you’re a senior. You—you got a bank of friends.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">I guess one thing that was maybe a little different was, you know, all my buddies were kind of wondering what they were going to do next because the draft was there. The lottery system had not been implemented yet. </u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And when they graduated, it was up to their local draft board what was going to happen to them.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">So I had—you know, guys were scurrying around, trying to get in the <orgName ref="#dvp_088_org_60">[National] Guard [of the U.S.]</orgName> or trying to get a deferment to go teach somewhere, go in the <orgName ref="#dvp_088_org_61">Peace Corps</orgName>, looking at, you know, embellishing their twisted ankle or whatever.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">They were—they were en- —engulfed in that, whereas for me it was a non-issue. I knew what I was going.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">So it was not a worry. It was—it was not a—I was not dreading it; it was just what was next, and it cleared the plate a lot for being able to, you know, focus on what was—what I was doing.</u>
+      <u who="DIM">Yes.</u>
+      <u who="DETWILER">Excuse me—and being at <orgName ref="#dvp_088_org_62">Dartmouth</orgName>—</u>
+      <u who="DIM">Right.</u>
+      <u who="DETWILER">—for my last semester and—quarter, rather. And, you know, saying goodbye to buddies, that good stuff.</u>
+      <u who="DIM">Were there any professors or coaches that you were particularly close to?</u>
+      <u who="DETWILER">Certainly not anymore, but—[Chuckles.]</u>
+      <u who="DIM">Mmm. [Chuckles.]</u>
+      <u who="DETWILER">But at that point—you know, you’ve probably heard of <persName ref="#dvp_088_person_20">[Alden H.] “Whitey” Burnham</persName>. There’s a <placeName ref="#dvp_088_place_25">Burnham Field</placeName>? He was a college coach.</u>
+      <u who="DIM">Yes. Mmm.</u>
+      <u who="DETWILER">And I actually wrote to him about ten years ago, eight or ten years. I was working in <placeName ref="#dvp_088_place_26">Brazil</placeName>. </u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">And—and I wrote to him out of the blue, and he wrote back to me, and it was a wonderful—</u>
+      <u who="DIM">Mm-hm. Oh, wow!</u>
+      <u who="DETWILER">—[unintelligible; 23:50]. He died, like, literally a few months later, I think.</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">But, yeah, he was, you know, kind of a character, but—and—and—as I—he said—you know, he claimed he remembered me, but I don’t think so because I was just a hack player.</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">But it was—even though I was not the starting—you know, he treated me with respect and—and—and I—I remember that. There was a professor named <persName ref="#dvp_088_person_21">[William E.] Slesnick</persName>, who was in the math department forever. I remember I took math, you know, freshman year, and—we used to have these fraternity cocktail parties, faculty [unintelligible; 24:30] parties on Fri- —I just don’t remember when. I don’t know. And he would always get involved by somebody. And he always—</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">—always remembered me thereafter, every year, even when I was senior. He [unintelligible; 24:40] a math major. So those kinds of things matter, don’t they?</u>
+      <u who="DIM">Yeah.</u>
+      <u who="DETWILER">And, you know, little offshoots. I remember the guy that taught art history. How fascinating! I mean, that—that course was, like, a—it was like you went on a tour every—every class, [unintelligible; 24:57] times a week. It was just great. I could probably dig out some others if I thought about it more, but I—but certainly I did not maintain contact with any—any professor. You know, I was in the <orgName ref="#dvp_088_org_63">Navy</orgName> for four years, and then—</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">—moving on from there.</u>
+      <u who="DIM">Okay. So you graduate in <date when="1969">’69</date>. What comes next?</u>
+      <u who="DETWILER">What comes next is I go to <placeName ref="#dvp_088_place_27">New York</placeName> to my roommate’s wedding.</u>
+      <u who="DIM">Okay. [Chuckles.]</u>
+      <u who="DETWILER">And from there to <placeName ref="#dvp_088_place_28">California</placeName>, and get on a destroyer, as a brand-new ensign with—with a division of 20 men that I was responsible for. And in <date when="1969-09">September</date> we headed for <placeName ref="#dvp_088_place_29">Vietnam</placeName>.</u>
+      <u who="DIM">Mmm. So—so you road-tripped from <placeName ref="#dvp_088_place_30">New York</placeName> to <placeName ref="#dvp_088_place_31">California</placeName>.</u>
+      <u who="DETWILER">Yeah.</u>
+      <u who="DIM">Yeah. And knowing what you were about to embark on, do you remember what you were feeling at that time? How long was this trip? Were you alone?</u>
+      <u who="DETWILER">I was alone. I just—I just [unintelligible; 26:03] out there—you know, 12 hours a day, probably four—three, <date>four days</date>. No, I was excited. I was glad I was moving on—you know, doing something. You know, I knew where I was going on a tour. It wasn’t like, Oh, God, am I gonna get shot or anything?</u>
+      <u who="DIM">DIM:`Mm-hm.</u>
+      <u who="DETWILER">And a little nervous about taking on the responsibility of suddenly having, you know, some enlisted guys that you’re responsible for, but—well, you know it. I don’t know—[unintelligible; 26:29] you’re involved in some other things. As a college student, you’re responsible for only one person. [Chuckles.]</u>
+      <u who="DIM">Right. [Chuckles.]</u>
+      <u who="DETWILER">And then suddenly, at 21 years old, you got this other—there’s [unintelligible; 26:41] other systems that support you, but—but I certainly didn’t dread it. I think I was looking forward to the next step. I tend to see things positively. I don’t think I was thinking, Oh, I wish I was traveling in <placeName ref="#dvp_088_place_32">Europe</placeName> with my buddies. I was ready to go.</u>
+      <u who="DIM">Good. Mmm. So how was training like?</u>
+      <u who="DETWILER">Well, you know, we had all our training during <orgName ref="#dvp_088_org_64">ROTC</orgName>, so—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—a—a—a class or two—a class ev- —two—two trimesters out of the year, everything from leadership to naval operations to naval engineering. We had to take a military history course, you know, and so that was the academic stuff. And then your drills, which were a—joke.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">You—you—you’d put on a uniform and go and stand there,—</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">—and maybe you’d march around, but everybody—nobody took it seriously.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And then in the summers. You went six weeks each summer,—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—which was, I found, just fascinating. The first year, we went to <placeName ref="#dvp_088_place_33">Puerto Rico</placeName>. I was on a cruiser out of <placeName ref="#dvp_088_place_34">Charleston, South Carolina</placeName>. Went to <placeName ref="#dvp_088_place_35">Puerto Rico</placeName> and—I’d never been out—you know, out of the Northeast, so—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">Then the second summer, we spent three weeks in <placeName ref="#dvp_088_place_36">Virginia</placeName> with the <orgName ref="#dvp_088_org_65">Marines [the U.S. Marine Corps]</orgName>, trying to recruit us to join the Marine option, and three weeks in <placeName ref="#dvp_088_place_37">Corpus Christi [Texas]</placeName> with an aviation group, trying to—they wanted us to choose those branches, you know? And I got—got to fly a plane, got to do touch-and-go’s. I mean, I was doing all this stuff that, you know, my buddies weren’t doing. It was very interesting.</u>
+      <u who="DIM">Mmm. </u>
+      <u who="DETWILER">And then the last summer, which was the real training, I guess—it was germane to what was coming down the pike, which was we were—we were on a ship—I was on a ship out of <placeName ref="#dvp_088_place_38">Brooklyn [New York]</placeName>. It wasn’t so great, but—and we were, like, junior officers, and we were under training here, if you will, and we had to, you know, take on some responsibilities for those six weeks. So—so the training was kind of spread out over four years.Of course, once you arrived, you know, you have the—the—the chain of command and people that guide you when you—when I was on the ship, but the training itself—it was kind of over—you’re on—you’re diving in.</u>
+      <u who="DIM">Mm-hm. Great.So you—about when do you arrive at your—at your destination?</u>
+      <u who="DETWILER">Okay, I arrived in Californ- —<placeName ref="#dvp_088_place_39">Long Beach, California</placeName>, late June, ten days after graduation.</u>
+      <u who="DIM">Oh, wow! Very quick.</u>
+      <u who="DETWILER">Board a ship. And you live on the ship, so it’s there. Or you’re there.</u>
+      <u who="DIM">Mm-hm. So do you—what were your first couple of weeks like on the ship?</u>
+      <u who="DETWILER">It was—it was like fraternity rush.</u>
+      <u who="DIM">Okay. [Laughs.]</u>
+      <u who="DETWILER">You were trying to remember people, trying to find your way around, or maybe like <name type="event" ref="#dvp_088_event_8">Freshman Week</name>, right? [Chuckles.] It was—you know, the ship was—is a finite ship. Sure, you know, it’s not a tiny ship, but it’s got a lot of nooks and crannies [chuckles], and trying to find your way around and not look like a fool, which everybody knows you are because you’re an ensign with the shiniest bars ever. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">You’re just trying not to screw up and not to be a dope and learn as fast as I could [chuckles] what was going on.</u>
+      <u who="DIM">So what was your—what was your chain of command like? How—who was your—what were your peers like? Who were you in charge of? Who was supervising you?</u>
+      <u who="DETWILER">Yeah. So there were, like,—about 300 people on the ship, about 20 officers, and there were—and two or three of us brand new, another three or four who’d been around for a year or so, and then it kind of pyramided up to the—the commanding officer, who, you know—he was a—the rank of commander. He was probably about 35.</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">And, you know, he’d been in the <orgName ref="#dvp_088_org_66">Navy</orgName> for 15, 18 years, and then the next in line was the next rank down. He’d—you know, a little bit further down. And then there was the senior management, we called the department heads, who’d been in the <orgName ref="#dvp_088_org_67">Navy</orgName> three, four years, and they were really the ones  that you worked for. You know, there were—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—two or three of us very junior people to each one of those department heads, if you will. And they were kind of the guides.</u>
+      <u who="DIM">Do you remember any of their names, the name of your commanding officer, for example?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_22">[Thomas L.] “Tom” Meeks</persName>.</u>
+      <u who="DIM">Meeks. Okay. Were you [cross-talk; unintelligible; 31:25].</u>
+      <u who="DETWILER">He was a <orgName ref="#dvp_088_org_68">Naval Academy</orgName> guy and—and just a tight-ass and—</u>
+      <u who="DIM">[Laughs.]</u>
+      <u who="DETWILER">—[cross-talk; unintelligible; 31:34]. And he—he represented what I spoke of earlier.</u>
+      <u who="DIM">Mmm. How was it like living under that sort of leadership?</u>
+      <u who="DETWILER">Well, it’s fine because, you know, you bitch about it with everybody else, but he wasn’t—it wasn’t The Caine Mutiny again. [Chuckles.] You know, he wasn’t terrible.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And, you know, in the military there are—there is a deep and flawed bank of regulations and protocols that one follows, so, you know, it’s not like your internship at <orgName ref="#dvp_088_org_69">Google</orgName>, where anything goes out there. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] So you’re talking about how there were a few officers of your age group and how you all sort of had these sort of feelings about the regimentation of the military. Were you guys close? I mean, you’re all living on this one ship, but what was that social dynamic like?</u>
+      <u who="DETWILER">Yeah, you know, you do get pretty close on the ship. I mean, you’re out to sea—one time we were out to sea for 54 days, I remember,—</u>
+      <u who="DIM">Wow.</u>
+      <u who="DETWILER">—without getting off the ship. So, you know,—and then when we were off the coast of <placeName ref="#dvp_088_place_40">Vietnam</placeName> the—you know, you’re—you were on watch, six hours on, six hours off, and then you had a work day on top of that, so you weren’t getting a lot of sleep. You’re in everybody’s—you’re in each other’s face all the time.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">So you really do build a camaraderie and a team because, you know, everybody’s tired, everybody’s pulling together to do—make some things work.</u>
+      <u who="DIM">Right.</u>
+      <u who="DETWILER">And then you hit port, and you—you’d go out and, you know, blow it off with—with—with a—with a couple of buddies.</u>
+      <u who="DIM">Hmm.</u>
+      <u who="DETWILER">And hit the bars and jump around. [Laughs.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">Yeah, there were some good friendships, none that endure today, but—</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">—at the time they were very important.</u>
+      <u who="DIM">And you were talking about how a lot of them were <orgName ref="#dvp_088_org_70">Academy</orgName> men. Can you talk a little bit about what that experience was like, interacting with people from a very different military background and experience from yourself?</u>
+      <u who="DETWILER">Yeah, some of them were. Not—you know, probably 30 percent, something like that. I don’t know.</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">More—more of the senior people, the people who stayed in, you know.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">Well, I alluded to that earlier. I don’t want to paint the broad brush for everybody, but—</u>
+      <u who="DIM">Of course.</u>
+      <u who="DETWILER">—but typically a little more gung-ho, a little more narrow-minded, I might say—you know, with exceptions, clearly, but—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—I think that kind of characterizes it.</u>
+      <u who="DIM">Can you explain your day to day? What were you doing on a regular basis on the ship?</u>
+      <u who="DETWILER">Okay. Well, I was on—I was on the ship for a year and a half, so I did three different jobs in the <orgName ref="#dvp_088_org_71">Navy</orgName>. For that part, you know, you wake up early in the morning and you—you’d all come tog- —you’d come together with your work group, you know, the people I was responsible for, and you’d—you’d figure out the work plan for the day. I was in a repair division, it was called, so we were the guys that—the people that worked for me were all mechanics and machinists and engine men, and they would be working on trying to keep the ship running. And you had different tasks going on. And then if you’re under way, you got on top of those daily tasks. You got other things that come up, you know. Again, when we were off the coast of <placeName ref="#dvp_088_place_41">Vietnam</placeName>, every three days we would take on ammunition, and every two days we’d take on fuel, and every couple of days we’d take on more supplies—food and stuff. So there’s always some kind of evolution going on. Or a helicopter would come, or we’d have to go and shoot off and do some transfer of personnel across the ship. There’s always something on top of that. So no day was exactly the same.</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">But basically it’s—it’s overlay of the special evolutions, if you will, on top of your normal, daily routine. As an officer, you know, I was more—I wasn’t supervising the actual guys with the wrenches and so forth, but more working through the senior enlisted guys who did that, and just trying to prioritize and work the whole thing into our ship’s schedule. But, again, no day exactly alike, like another one.</u>
+      <u who="DIM">Okay. So can you talk a little bit about these three stages in your year and a half in <placeName ref="#dvp_088_place_42">Vietnam</placeName>? Were they spread out evenly?</u>
+      <u who="DETWILER">The three stages of my four years. </u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">The first year and a half, I was—I was on the destroyer. I told you I was an officer.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And then the next 12 months I was an adviser in country.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">I was a field adviser in <placeName ref="#dvp_088_place_43">Vietnam</placeName>. And them my last year and a half I—I was a race relations instructor in—out of <placeName ref="#dvp_088_place_44">Newport, Rhode Island</placeName>.</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">They were three very different jobs, which kept [cross-talk; unintelligible; 36:57].</u>
+      <u who="DIM">Oh, yeah, they—</u>
+      <u who="DETWILER">I guess that fits with my moving around as a kid, right? [Chuckles.] I was—</u>
+      <u who="DIM">Yeah, for sure. [Chuckles.]</u>
+      <u who="DETWILER">In fact, I wanted that. I could have stayed on the destroyer longer, but they said, “Well, you’re probably going to go to <placeName ref="#dvp_088_place_45">Vietnam</placeName>.” I said, “Okay, so be it.” [Chuckles.]</u>
+      <u who="DIM">Mm-hm, mm-hm.</u>
+      <u who="DETWILER">And I did. And then I could have stayed longer in <placeName ref="#dvp_088_place_46">Vietnam</placeName>, but I didn’t want to do that! [Chuckles.]</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And I could have stayed in the <orgName ref="#dvp_088_org_72">Navy</orgName>, but I didn’t want to do that, either.</u>
+      <u who="DIM">So—so going back to the destroyer, you’re living in a very confined space, but a lot of people with the same—with the same people, and was sending letters easy? Were you able to contact the family regularly?</u>
+      <u who="DETWILER">Yeah, you won’t believe it, someone your age, what it was like [chuckles] [unintelligible; 37:46], right? These old letters that you would fold up and seal and mail them off. That was it.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">Yeah, we were able—we had mail. When you’re deployed, you know, every—every time you—you take on some fuel or something, there’s a mail bag that goes over and comes back, so you’d get mail once a week. You’d send it once a week. It took two weeks to get anywhere, but—[Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">There—there was that process, but, yeah, certainly no e-mail and no phone or that kind of thing. But, you know, that—that’s what it was, so you didn’t know any better. [Chuckles.]</u>
+      <u who="DIM">Was there—can you describe the sort of letters you were sending? Was it mainly to family? Did you have a girlfriend? What was it, friends?</u>
+      <u who="DETWILER">Yes and no. Mainly to family. Mainly parents. They were the only ones that write back. Yeah, I did have a girlfriend. For the first few months, I was in Vi- —as an adviser, when I was in country, until I got a letter from her saying that she’d gotten married, so that—that kind of—</u>
+      <u who="DIM">[Laughs.]</u>
+      <u who="DETWILER">—that kind of dulled that relationship. [Laughs.]</u>
+      <u who="DIM">Right. [Laughs.] As it does.</u>
+      <u who="DETWILER">Classic. That was classic. Yeah.</u>
+      <u who="DIM">Uh!</u>
+      <u who="DETWILER">So—but exchanging—you know, with somebody—these guys I told you about, especially the one friend who had gone in the <orgName ref="#dvp_088_org_73">[U.S.] Army</orgName> and had spent a year in <placeName ref="#dvp_088_place_47">Vietnam</placeName>, in combat [chuckles]—</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">And we just missed. He left—literally he left country the day I arrived.</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">So we would write—</u>
+      <u who="DIM">Do you remember his name?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_23">Jon [T.] Roll</persName>.</u>
+      <u who="DIM">Okay. And he was in the same class year as yourself.</u>
+      <u who="DETWILER">No, he was <orgName ref="#dvp_088_org_74">’67</orgName>. </u>
+      <u who="DIM">Okay. Okay. Yeah.So how often were you on the Vi- —on the coast of <placeName ref="#dvp_088_place_48">Vietnam</placeName>?</u>
+      <u who="DETWILER">When I was on the destroyer?</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">Yeah. When I was on the ship, we were—or do you mean on land? What do you mean?</u>
+      <u who="DIM">Yeah, on—on land. Did you—does it—like, disembark?</u>
+      <u who="DETWILER">Yeah. No, when I was on the destroyer a year and a half, I didn’t touch the soil, okay?</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">We’d be off—off the coast, you know, a mile off the coast—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—about a mile off, way up in <placeName ref="#dvp_088_place_49">north Vietnam</placeName>, and we’d be shooting our guns and—you know, in positions, or we’d be out at sea, you know, following an aircraft carrier, something like that. But never went—but then in <date when="1971-01">January of 1971</date>, I arrived in <placeName ref="#dvp_088_place_50">Saigon</placeName>, and I had boots on the ground then for 12 months, so I was—I was right in <placeName ref="#dvp_088_place_51">Vietnam</placeName>.</u>
+      <u who="DIM">Okay. How did that trans- —transition work? Did you ask to—for a change, or was it an opportunity given to you?</u>
+      <u who="DETWILER">No, after a year and a half, you could re- —retour on your ship if you wanted to, but I was tired of that stuff,—</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">—so I—I communicated to the people in <placeName ref="#dvp_088_place_52">Washington</placeName>—they had a process to get your—what your interests were.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And—and I did not particularly want to be in combat [chuckles], so I said—you know. But I—But I knew that by then, I think out of six officers who had left the ship, five of them had gone in country, so I—I knew that was coming.</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">And they came back—I remember getting a call when I was still on the ship. They said—from the man who [unintelligible; 41:25] part of the alphabet or whatever—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">Said, “I got something for you. Since you were a biology major, you must know about agriculture and—and—and animal husbandry and stuff.”</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">“So I’ve got a position. We need a fishing and agriculture adviser to the Vietnamese [unintelligible; 41:44].” And I said, “Okay, I’ll do it.” [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">So it wasn’t like I could turn it down, but—</u>
+      <u who="DIM">Right.</u>
+      <u who="DETWILER">So that became the—the—the marker, and then the transition was trying to get ready for that. And, you know, there were cert- —there was some training I had to go through, and—before you go to Viet- —you know, weapons training and—and survival training and that kind of stuff. And then I was on a plane to—to <placeName ref="#dvp_088_place_53">Vietnam</placeName>.</u>
+      <u who="DIM">Mm-hm. And when was that? Do you—what month?</u>
+      <u who="DETWILER"><date when="1971-01">January of ’71</date>.</u>
+      <u who="DIM">Okay. So where did you land? What was your—yeah, where did you land?</u>
+      <u who="DETWILER">I landed in <placeName ref="#dvp_088_place_54">Saigon</placeName>. I worked out of an office in <placeName ref="#dvp_088_place_55">Saigon</placeName>, main headquarters, because that’s where our counterparts were. I  had a—kind of in the Vietnamese navy, the Vietnamese, you know, who—who was my counterpart, who was assigned to this fishing and agriculture program, too. Now, I was there to work with him. Basically, what we supplied was the materiel, and we had—I had 10 to 12 guys working for me, who actually knew about growing stuff and fishing. [Chuckles.]</u>
+      <u who="DIM">Right. [Chuckles.]</u>
+      <u who="DETWILER">And we would be—and—and we were also really trying to promote the program. It was like a civic action program.</u>
+      <u who="DIM">Hmm!</u>
+      <u who="DETWILER">Very different from the typical <placeName ref="#dvp_088_place_56">Vietnam</placeName> experi- —which is one reason I was interested in talking with you, because I think my experience was so different than the typical <placeName ref="#dvp_088_place_57">Vietnam</placeName> vet—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—experience.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">I think there’s a message there that we can learn from. [Chuckles.]</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">So I had an office in <placeName ref="#dvp_088_place_58">Saigon</placeName>, but I trav- —I was out of <placeName ref="#dvp_088_place_59">Saigon</placeName> about 50 percent of the time.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">So I traveled from the very far north—right at the <placeName ref="#dvp_088_place_60">DMZ [Demilitarized Zone]</placeName> there was a navy base—all the way down to an island off the southern coast. So there were about 50 Vietnamese navy bases. I probably went to half of them or two-thirds of them.</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">For 12 months.</u>
+      <u who="DIM">Hmm. So you’re—you’re talking about—you mentioned how this experience is very different from what a lot of soldiers who were sent to <placeName ref="#dvp_088_place_61">Vietnam</placeName> was like. Was there a particular reason?</u>
+      <u who="DETWILER">Yeah, several. Number one, I never got shot at. That was huge.</u>
+      <u who="DIM">Mm-hm, mm-hm.</u>
+      <u who="DETWILER">Number two, I was like an independent operator. I really had a lot of control over what I did. It was a project, and I—you know, there was a hierarchy there. There were [sic] senior officer in charge, but he didn’t have a clue what I was doing, so I was able to—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—do my own planning schedule, plan the schedules for my—the men that worked with—for me.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And really developed this program from nothing into something.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">A. B) I—I think it was a constructive experience rather than destructive experience, if you will. What we did was we started agriculture projects and—and fishing projects at the Vietnamese navy base. It sounds weird, I know, but the idea was at that point we were trying to turn over a lot of the operations to the Vietnamese, and in turning it over, they would not engage in—in—in whatever the mission was, because they were more—you know, sailors—they were more concerned about their families. When they went off on a patrol, their family didn’t eat. [Chuckles.]</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">There was no—so the notion was that if we started some self-help programs and—you know, they could do that. They could have a self-help fishing program at every navy base because they had the ships—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—and we could give them the equipment. They could have, you know, victory gardens, truck gardens and everything, so if—if we could get them to be more self-sufficient, the families, then maybe the—the sailors wouldn’t go and hide—go fishing instead of going out to engage the enemy, so—[Chuckles.] So there was a method to the madness of what we were doing. And it—it made a lot of sense to me, so I felt that it was really contributing something to that—to that group.</u>
+      <u who="DIM">So I’m sure you were working a lot with local Vietnamese people. What was that like?</u>
+      <u who="DETWILER">Yeah. Yeah, the Vietnamese navy people, yeah.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">Wonderful people. It’s the hottest tourist place now, right? [Chuckles.]</u>
+      <u who="DIM">Right. [Chuckles.]</u>
+      <u who="DETWILER">Our family went back about 10 years ago, 15 years ago. We went [unintelligible; 46:44]—in <date when="2000">2000</date> we went on vacation and had that same thing. They have a—I mean, the Vietnamese culture is—what I recall [chuckles]—is a very thoughtful—you know, this whole Confucian system—it’s big there. Their—you know, they’ve been through hell, but they were still seeing the positive of things. They were—I found the that I worked with honest, hard-working. So, the relationship with the Vietnamese was always very positive from my perspective.</u>
+      <u who="DIM">Were they particularly receptive to this program?</u>
+      <u who="DETWILER">Yeah, they were. You know, they had—individuals had different perspectives, but in general, yes, they were.</u>
+      <u who="DIM">So could you explain the—the day-to-day in this job? Was it mostly planning, or—</u>
+      <u who="DETWILER">Well, yeah, half the time I was in <placeName ref="#dvp_088_place_62">Saigon</placeName>, you know, I was acquiring materials, fishnets, you know, going to different suppliers in the coun- —in the city or with some of my fishing guys. You know, I had cultural stuff. I was arranging for stuff to be shipped in. I was doing reports—you know, how many pounds of fish were caught and what the caloric intake was and—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—and I was planning the next trip and writing up reports on the previous trip. And then the half the time I was out—I mean, it took you a while to get anywhere because I was traveling—I had blanket travel orders. I could go anywhere in <placeName ref="#dvp_088_place_63">Vietnam</placeName> any time. It was wonder- —so I’d go out to the airport, and I’d hop on a plane that was going to an air base up north, and there I’d get on a helicopter that was going to the coast, and there I’d get on a river boat that was heading up to the base I was going to. It was that kind of thing.Usually when I took off, I didn’t know how I was going to get to where I was going to get, but they knew I was coming in the next few days, so [chuckles]—so I’d get to a base, and then I’d meet with the—the naval—navy advisers who were stationed at that base, and then together we would meet with the Vietnamese commanders who were at the base—you know, describing them the program, explaining the protocols and, you know, just trying to set up some systems so that they would adopt it.About the half the time, I traveled with my counterpart, the Vietnamese lieutenant, but he didn’t like to leave <placeName ref="#dvp_088_place_64">Saigon</placeName> much, so he didn’t. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Do you remember his name?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_24">[Guy Li Lim</persName>? 49:30] [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Do you know how it’s spelled?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_25">“Guywee”</persName> is “lieutenant.”</u>
+      <u who="DIM">Okay.</u>
+      <u who="DETWILER">Or was it <persName ref="#dvp_088_person_26">Kim</persName>? I—I don’t remem- —probably <persName ref="#dvp_088_person_27">Lim</persName>, L-i-m. And then I had a—he was relieved by an ensign whose name was I think [L-i-e-n, <persName ref="#dvp_088_person_28">Lien</persName>? 49;52]. I’m not sure. Long time [ago].</u>
+      <u who="DIM">Who—who else were you interacting with in <placeName ref="#dvp_088_place_65">Vietnam</placeName>, apart from your <orgName ref="#dvp_088_org_75">navy</orgName> counterparts?</u>
+      <u who="DETWILER">Well, the other officers. There were three or four of us. I was doing fishing and agriculture. There was a guy who was doing pigs and chickens, literally.</u>
+      <u who="DIM">Mmm!</u>
+      <u who="DETWILER">There was a guy who was doing dependent housing.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">And there was a guy doing veterans affairs. So basically it was the four of us in the program, and—and—so we were—we were pretty tight, particularly a couple of the guys.</u>
+      <u who="DIM">Oh, nice. And how—how long were you in this position?</u>
+      <u who="DETWILER">A year.</u>
+      <u who="DIM">A year.</u>
+      <u who="DETWILER">I mean, one of the guys, I’m still friends with. I’m godfather to his son. I introduced him to the woman he married.</u>
+      <u who="DIM">Oh, wow! [Chuckles.]</u>
+      <u who="DETWILER">And that was—jeez, 40 years ago [unintelligible; 50:42]—go back. It was a long time ago.</u>
+      <u who="DIM">Yeah, yeah. Do you remember his name?</u>
+      <u who="DETWILER">Yeah, his name is <persName ref="#dvp_088_person_29">John Kane</persName>, K-a-n-e. Now, he’s an <orgName ref="#dvp_088_org_76">Academy</orgName> guy, but he was different. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Yeah. Was there any major take-aways or memories from—from this time that you want to speak about?</u>
+      <u who="DETWILER">Oh, yeah. A big piece that affected me was just the notion of living in a different culture.Mm-hm.</u>
+      <u who="DETWILER">I—I really thrived on that. You know, I came back and I got married. Met my wife, I got married. We immediately went in the <orgName ref="#dvp_088_org_77">Peace Corps</orgName>. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Oh, wow!</u>
+      <u who="DETWILER">[cross-talk; unintelligible; 51:21] two years in <placeName ref="#dvp_088_place_66">Botswana</placeName>. And then we came back here for 10 years, and then we went overseas again and spent 21 years overseas. And—and that I think was all seeded by my year in <placeName ref="#dvp_088_place_67">Vietnam</placeName>. It wasn’t from graduating from school in <placeName ref="#dvp_088_place_68">Buffalo, New York</placeName>, for sure. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Right.</u>
+      <u who="DETWILER">So that notion of the world as a big place—and even now, I’m still doing consulting work. I mean, I just got back from <placeName ref="#dvp_088_place_69">India</placeName> on Monday, and so that travel thing, of—of—of living in the country and getting to know it was sparked by that time.The other piece was—and this gets a little—perhaps it sounds trite, but it—it certainly is an impact on me, is—and what’s brought it out, of course, is all our <orgName ref="#dvp_088_org_78">military</orgName> incursions since then—<placeName ref="#dvp_088_place_70">Iraq</placeName> and <placeName ref="#dvp_088_place_71">Afghan</placeName>- —being the most egregious, but how it just doesn’t work. I mean, it was evident to me— in traveling around a lot, I got to see a lot of different situations, and—you know, although I was never in combat, right? But I got to see—</u>
+      <u who="DIM">Right.</u>
+      <u who="DETWILER">—and it just doesn’t work. You can’t go in and [chuckles] fight a guerrilla war, the kind of thing we’re doing now, and expect to—to win. [unintelligible; 52:44]. You know, you got to get the hearts and minds. And I felt what I was doing was working in that direction.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And then you see what we did in <placeName ref="#dvp_088_place_72">Iraq</placeName> and all we did in <placeName ref="#dvp_088_place_73">Afghanistan</placeName>. My wife and I often say 100,000 <orgName ref="#dvp_088_org_79">Peace Corps</orgName> volunteers as a surge instead of [chuckles] infantrymen.</u>
+      <u who="DIM">[Chuckles.] Wow.</u>
+      <u who="DETWILER"><orgName ref="#dvp_088_org_80">ISIS [Islamic State of Iraq and Syria, officially known as Islamic State of Iraq and the Levant, or ISIL]</orgName> never would have a chance. So that was a strong lesson to me.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">The former one, about living in another culture really had direct impact on my life, and the—the latter one was more esoteric or political perspective maker, if you will.</u>
+      <u who="DIM">So you’re—you’re in this position for a year. </u>
+      <u who="DETWILER">Right.</u>
+      <u who="DIM">And then you made a transition to become a race relations specialist. Can you explain how that transition worked? [Chuckles.]</u>
+      <u who="DETWILER">Yeah. You’ve never heard a career like this have you? Nobody has.</u>
+      <u who="DIM">[Chuckles.] It’s—it’s very new to me, and—and quite interesting.</u>
+      <u who="DETWILER">The same guys, the top of the <orgName ref="#dvp_088_org_81">Navy</orgName>, a guy named <persName ref="#dvp_088_person_30">[Elmo R.] Zumwalt [Jr.]</persName>, who was the head of the <orgName ref="#dvp_088_org_82">Navy</orgName>, the CNO [Chief of Naval Operations], who was—when he was in <placeName ref="#dvp_088_place_74">Vietnam</placeName>—and he was in charge of the <orgName ref="#dvp_088_org_83">Navy</orgName> in <placeName ref="#dvp_088_place_75">Vietnam</placeName>—he started this program, this fishing and agriculture—the whole—the whole program. When he left there and he went back and he was promoted, he was the head of the whole <orgName ref="#dvp_088_org_84">Navy</orgName>. At that time, the <orgName ref="#dvp_088_org_85">Navy</orgName>—the whole country was embedded in—the world in—in—in—in racial strife.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And it—it reached the <orgName ref="#dvp_088_org_86">Navy</orgName>, and fin- —there were protests. There—there was a riot on an aircraft carrier, a big deal.</u>
+      <u who="DIM">Oh, wow!</u>
+      <u who="DETWILER">And they said, “That’s enough. We gotta do something about it.” So what they did was they—</u>
+      <u who="DIM">When was that?</u>
+      <u who="DETWILER">—made an office of race relations. And I got in on the ground floor of it. And they—what they wanted was—they had a center in the West Coast and a center in the East Coast, and in each center they wanted—they set up teams, and they wanted—and they trained us in race relations instruction, a particular program. And then we—I was in <placeName ref="#dvp_088_place_76">Newport</placeName> with eight other people. And what they were—I was the token white officer. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And there was a black officer, and there was a white enlisted and a black enlisted guy, and we would go out in tea- —and there were three or four of them, I guess. And we would go out in teams, a white guy and a black guy, and an officer and  an enlisted,—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—and we would conduct seminars that were two-and-a-half days long, to groups of <orgName ref="#dvp_088_org_87">Navy</orgName> people. We might go to a ship and do it with a select group of 15, 20 people on the ship. The idea is you’re seeding some of these ideas.</u>
+      <u who="DIM">Right.</u>
+      <u who="DETWILER">I—I was then involved in training. They—they trained the entire flight officers corps. All the admirals in the <orgName ref="#dvp_088_org_88">Navy</orgName>—you know, two, three hundred of us.</u>
+      <u who="DIM">Oh, wow!</u>
+      <u who="DETWILER">So I did a trip to <placeName ref="#dvp_088_place_77">Europe</placeName>—well, we went to <placeName ref="#dvp_088_place_78">Greece</placeName>, we went to <placeName ref="#dvp_088_place_79">Italy</placeName>, and we ran training with a bunch of these senior guys. Oh, that was a piece of work. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">These guys aren’t used to some lieutenant instructing them [chuckles], if you will.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">So I did that for a year and a half, out of <placeName ref="#dvp_088_place_80">Newport, Rhode Island</placeName>,—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—conducting those seminars and traveling, but—</u>
+      <u who="DIM">How—how long were you in this position?</u>
+      <u who="DETWILER">A year and a half.</u>
+      <u who="DIM">A year and a half. Starting from <date when="1971">’71</date> or—</u>
+      <u who="DETWILER">Yeah, I came back from <placeName ref="#dvp_088_place_81">Vietnam</placeName> at the end of <date when="1971">’71</date>, so from <date when="1972">‘72</date>—</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">—until I got out of the <orgName ref="#dvp_088_org_89">Navy</orgName> in <date when="1973-06">June of ’73</date>.</u>
+      <u who="DIM">Mmm. Did you think—what was the training for something like that like? What—what were you learning in those initial weeks?</u>
+      <u who="DETWILER">They sent me to a seven-week institute called the <orgName ref="#dvp_088_org_90">Defense Race Relations Institute [now the Defense Equal Opportunity Management Institute]</orgName>. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">Located in <placeName ref="#dvp_088_place_82">Cocoa Beach, Florida</placeName>, on an <orgName ref="#dvp_088_org_91">Air Force</orgName> base down there, where they—or people from all branches of the <orgName ref="#dvp_088_org_92">military</orgName>, and it was basically a seven-week crash course in race relations/adult learning/instructing—you know, with the background that one would need for that. There was a curriculum, but we were able to give input to it, which was then a package which we presented. And it—it consisted of basically a seminar format—I mean, the training was that as well: seminar format with prompts, videos, reading, activities. You know, you’d do the activity where you designate some people as the have-nots and other people as the haves, and, you know, you go through that simulation, those kinds of things.And then there were some field trips to—we went down to <placeName ref="#dvp_088_place_83">Miami</placeName> and, you know, to wherever the—the—the wrong side of the tracks was. We did the <orgName ref="#dvp_088_org_93">Meals on Wheels</orgName> thing for an afternoon, I think. I don’t know.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">But it was a—the design of the program was to prepare people to return to their branch of service and to their post and, you know, be able to conduct actual training in—really an attitude adjustment. [Chuckles.]</u>
+      <u who="DIM">Mm-hm. Do you think the trainings that you were giving—that they were received well?</u>
+      <u who="DETWILER">Oh, it was all across the board, <orgName ref="#dvp_088_org_94">Chileta</orgName>. You can imagine.</u>
+      <u who="DIM">[Laughs.]</u>
+      <u who="DETWILER">People were no different then than they are now. [Chuckles.]</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And, I mean, you know, the people who—there were people who would have followed <persName ref="#dvp_088_person_31">[President Donald J.] Trump</persName> back then. Uh-huh, they’re around.</u>
+      <u who="DIM">Ahh! Mm-hm. </u>
+      <u who="DETWILER">So some people, it was like—you know, it was totally swimming upstream, and they were ornery and resistant. Other people were right on board—you know, “Right on! This is right. Glad to hear it get some official”—and a lot of people were in the middle, saying, “Oh, I never thought of it that way.” “Oh, I never thought of their perspective.” “Oh.” So—yeah, it was the whole range of things. It was very challenging—and—and rewarding. Not every one worked, right?</u>
+      <u who="DIM">Mm-hm. What did you—what do you think you learned in this very interesting period of your life?</u>
+      <u who="DETWILER">Yeah, that—that year and a half, you mean?</u>
+      <u who="DIM">Mm-hm. Yeah, as a race relations specialist.</u>
+      <u who="DETWILER">Well, on a plus side, I learned a lot about my own perspective on race. Even growing up in, you know, an integrated environment, particularly—I lived in <placeName ref="#dvp_088_place_84">Philly</placeName>. You know, good friends who were—who were all kinds of shades of the rainbow. But I realized how institutional forces, you know, do have an impact on individuals, so it was a good self-reflection time.I learned a lot of skills, I think, in terms of working with adults as learners.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">I think I learned some human relations things: how to listen, how to—how to speak in a way that will be heard.</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">I also learned—I pretty much decided I didn’t want to stay in the <orgName ref="#dvp_088_org_95">Navy</orgName>. It was way too regimented. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] I would imagine that this sort of position would be especially interesting after—you know, the ’60s had just passed, and there was a lot of—the civil rights movement was going on at that time, and—yeah. How were—how was interactions with—with the black soldiers that you were working on this project with?</u>
+      <u who="DETWILER">Yeah, no, you’re right, the timing was fascinating because that was the time—you know, I mean, the civil rights movement—all right, it was law, but that didn’t mean—that didn’t mean nothin’ in some places, right? [Chuckles.]</u>
+      <u who="DIM">Mm-hm, mm-hm.</u>
+      <u who="DETWILER">So what was happening was there was, you know, a big backlash coming, so—</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">Particularly blacks, much more so than—and now we—we talk about the entire spectrum of minorities, but it was really a black-white issue. In fact, one of the—I still remember one of the—of all people, <persName ref="#dvp_088_person_32">[William H.] “Bill” Cosby [Jr.]</persName> [chuckles] </u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">—had—did a video called Black, White: Uptight [sic; Black and White: Uptight], which we used as a prop.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">We could have used his [chuckles] stuff for something else. [Laughs.] But that was a long time [ago]. But there was—it was really a uptight time. </u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">There were protests in terms of, you know, some really fundamental and profoundly important things as well as how long you could wear your hair and, you know, how big a “fro” [an Afro hair style] a black enlisted guy could wear.</u>
+      <u who="DIM">Oh!</u>
+      <u who="DETWILER">And whether he could wear the—the—the comb in his [hair]. I mean, so it was all across the board. And then you had these rednecks who were—would come out and—and—and---with these outrageous statements, but they—you’d see them afterwards with a black guy who was their best friend, you know? [Chuckles.]</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">And then you’d have, you know, some—some brighter folks who could [steel off? 1:02:44] to all the progressive-liberal kind of mentality, but they dropped something later on that would tell you that it was all superficial, you know. So very complex.And—and as you say, that time, race relations was very high on the—on the agenda. You could just tune in [journalist] <persName ref="#dvp_088_person_33">Walter [L.] Cronkite [Jr.]</persName> and there’d be something about it.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">But I think it was another opportunity for me to be involved that something that mattered.</u>
+      <u who="DIM">And you were doing this all out of <placeName ref="#dvp_088_place_85">Rhode Island</placeName>.</u>
+      <u who="DETWILER">I was—yeah, we lived in <placeName ref="#dvp_088_place_86">Rhode Island</placeName>. There was a big <orgName ref="#dvp_088_org_96">Navy</orgName> base in <placeName ref="#dvp_088_place_87">Newport</placeName>, and that’s where we were stationed.</u>
+      <u who="DIM">And so when do you finish this—this part of your service? What year?</u>
+      <u who="DETWILER">In <date when="1973-06">June of ’73</date> my four-year obligation was over, and I got out of the <orgName ref="#dvp_088_org_97">Navy</orgName>.</u>
+      <u who="DIM">And what did you do immediately after that?</u>
+      <u who="DETWILER">I went to graduate school. I went to <orgName ref="#dvp_088_org_98">BU [Boston University]</orgName>. I was going to go to medical school as I was taking the rest of the pre-med school courses. I was trying to pass organic chemistry, in which I’d gotten a D at—at <orgName ref="#dvp_088_org_99">Dartmouth</orgName>. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And after the first semester, I had a break, and I did some substitute teaching. My wife was a teacher. We were living in <placeName ref="#dvp_088_place_88">Boston</placeName>, and the substitute teaching really appealed. My brother was a doctor, and he was not happy with his life, and he was working his tail off, and I said, I don’t want to do this for another five years, so I—so I shifted programs and—to get a master’s in education and started teaching outside of <placeName ref="#dvp_088_place_89">Boston</placeName>, you know, a year after I got out of the <orgName ref="#dvp_088_org_100">Navy</orgName>.</u>
+      <u who="DIM">Mmm. And—and what were you teaching, biology?</u>
+      <u who="DETWILER">Yeah, I was teaching high school science.</u>
+      <u who="DIM">And did you—</u>
+      <u who="DETWILER">[cross-talk; unintelligible; 1:04:45] went in the <orgName ref="#dvp_088_org_101">Peace Corps</orgName> for two years and taught in <placeName ref="#dvp_088_place_90">Botswana</placeName>.</u>
+      <u who="DIM">Okay.</u>
+      <u who="DETWILER">Science in a local school, local high school.</u>
+      <u who="DIM">What year was that?</u>
+      <u who="DETWILER">That was <date when="1975">’75</date> to <date when="1977">’77</date>.</u>
+      <u who="DIM">In <placeName ref="#dvp_088_place_91">Botswana</placeName>. </u>
+      <u who="DETWILER">Yeah.</u>
+      <u who="DIM">What was—what was that experience like? Like, what was the calculus into going into the <orgName ref="#dvp_088_org_102">Peace Corps</orgName> after service?</u>
+      <u who="DETWILER">Well, my wife—[Chuckles.] I met her on an airplane. She was a flight attendant for <orgName ref="#dvp_088_org_103">Pan Am[erican World Airways]</orgName>.</u>
+      <u who="DIM">Mmm! [Chuckles.]</u>
+      <u who="DETWILER">And this was a whirlwind—we decided to get married after we’d been together five hours, so it was one of those—</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">We’re still married after 44 years, so I guess it was okay.</u>
+      <u who="DIM">Wow! Oh, wow! [Chuckles.]</u>
+      <u who="DETWILER">I don’t—I don’t recommend it to our kids, but it worked for us. And she had trained as a teacher, but she was flying because she wanted to see the world, and she was—she did with <orgName ref="#dvp_088_org_104">Pan Am</orgName>.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And both—and I’d come back from <placeName ref="#dvp_088_place_92">Vietnam</placeName>. Both—I said, “Boy, wouldn’t it be great to see the world?” “Yeah!” And here we are, we’re teachers, yeah. And coincidentally—she was in a graduate program too. We both came home one night, living in <placeName ref="#dvp_088_place_93">Boston</placeName>, and we’d each spoken to a recruiter who’d been on campus. I was at <orgName ref="#dvp_088_org_105">Tufts [University]</orgName>, and she was over at <orgName ref="#dvp_088_org_106">Lesley College [now Lesley University]</orgName>, part of <orgName ref="#dvp_088_org_107">Harvard [University]</orgName>, hooked to <orgName ref="#dvp_088_org_108">Harvard</orgName>. And she—and it was, like, a weird situation. And we both said, “What about this?” And right away, we said, “Yeah, that’ll be—that’s what we want to do.” So it was a combination of being able to teach—we both—she had the experience, and I had at least a degree—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—and be able to be—live in—in another country. Living in was the critical thing, not just traveling through.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And we had no obligations. We had no kids—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—and not real money hungry, and, yeah, it sounded like the right thing to do at the right—at the time, and it certainly was.</u>
+      <u who="DIM">How did you tie in the <orgName ref="#dvp_088_org_109">Peace Corps</orgName> compared to your time in <placeName ref="#dvp_088_place_94">Vietnam</placeName>?</u>
+      <u who="DETWILER">Very—in many ways, very similar, okay?</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">In terms of needing to understand the culture. I kind of blew by that, but, you know, working with a—with a program as an adviser—the <orgName ref="#dvp_088_org_110">Navy</orgName> doesn’t give you much intercultural preparation for that. You’re really winging it—</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">—in terms—and there were advisers that just told their counterparts what to do, and others that worked with them. So—so—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—I learned about working with people who have a totally different cultural perspective on the world.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">And in an environment that was not my home environment, right?</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">I think that—I think they were very similar in that respect. The positives—you know, just—just being fascinated by—I mean, Botswana culture is not like Vietnamese culture in any way. [Chuckles.]</u>
+      <u who="DIM">Right. [Chuckles.] </u>
+      <u who="DETWILER">It is like it in that it is very different from—</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">—the way we operated in <placeName ref="#dvp_088_place_95">Hamburg, New York</placeName>. [Chuckles.]</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">So, you know, being open to that and knowing how—witnessing and being a part of that kind of milieu really appealed to me, and my wife. We both felt that way. We both really resonated with that. So I think—surprisingly, I think there was some similarity there, although I don’t think there are a huge number of <name type="event" ref="#dvp_088_event_9">Vietnam</name> veterans who joined the <orgName ref="#dvp_088_org_111">Peace Corps</orgName> right after. [Chuckles.]</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">Kind of a nice balance, yeah.</u>
+      <u who="DIM">Mmm. Hmm!Yeah. Can you just tell me your wife’s name very quickly?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_34">Sandi Detwiler</persName>.</u>
+      <u who="DIM">Okay. What was her maiden name?</u>
+      <u who="DETWILER"><persName ref="#dvp_088_person_35">Ford</persName>.</u>
+      <u who="DIM"><persName ref="#dvp_088_person_36">Ford</persName>. Okay. Yeah, I mean, that sounds like a—an incredible  experience, especially after coming out of <placeName ref="#dvp_088_place_96">Vietnam</placeName> and—and jumping right into another very foreign experience for an extended period of time. So were you teaching day in and day out? Were you doing other things as well in <placeName ref="#dvp_088_place_97">Botswana</placeName>?</u>
+      <u who="DETWILER">Yeah. Just to follow up on y- —on—on the first comment, yeah. But, you know, bear in mind that I was not broken. I was not disturbed. I was not haunted—</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">—by—you know, like some of the people you’re talking to, who were in combat, okay?</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">I was coming out of what for me was a very positive experience, both in terms of what I—</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">—was contributing but also what I gained from it, okay? So—so—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—in fact, I think psychologically the transition to <orgName ref="#dvp_088_org_112">Peace Corps</orgName> was not startling. [Chuckles.] Would not have been startling to anybody if—if we—if somebody had stepped back and looked at it, [unintelligible; 1:09:44].</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">Yeah, there, as a <orgName ref="#dvp_088_org_113">Peace Corps</orgName> volunteer who’s teaching in—at a local, national school,—</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">—I think it’s true today: You’re very much, you know, 24/7. You’re part of that school.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">You know, there was a <orgName ref="#dvp_088_org_114">Peace Corps</orgName> volunteer who did all the coaching. We were—we would—all our kids were <placeName ref="#dvp_088_place_98">Botswana</placeName>. The headmaster of the school was a <placeName ref="#dvp_088_place_99">Botswana</placeName>. I mean, half—there were—there was one other <orgName ref="#dvp_088_org_115">Peace Corps</orgName> volunteer, a couple of Canadian volunteers, a few Danish and a couple of Brit volunteers too, in a big school. We had 700, 800 kids, so—</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">—so—there was a Ghanaian volunteer, from <placeName ref="#dvp_088_place_100">Ghana</placeName>. [Chuckles.] I mean—</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">—that’s—so, you know, we get up in the morning, go teach all day, then we’d coach, and then we—at night we’d do lesson planning and grading, and then go back and do it the next day.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">On weekends we’d clean up the house. We’d get food ready. I mean, it took a little more to live there. You know, you didn’t quite have all the amenities, shopping and so forth. And then you’re back at it Monday. Now, we did have holidays, and we took off. We toured <placeName ref="#dvp_088_place_101">South Africa</placeName>, we toured what was then <placeName ref="#dvp_088_place_102">Rhodesia (which is now Zimbabwe)</placeName>.</u>
+      <u who="DIM">Mm-hm, right.</u>
+      <u who="DETWILER">We went all over <placeName ref="#dvp_088_place_103">Botswana</placeName>, up in the desert, and then we—we covered the territory, so we made the best of it. But fundamentally, we were teachers there.</u>
+      <u who="DIM">Mm-hm. Where in <placeName ref="#dvp_088_place_104">Botswana</placeName> were you?</u>
+      <u who="DETWILER">The town is <placeName ref="#dvp_088_place_105">Lobatse</placeName>, L-o-b-a-t-s-e. It’s on the southeastern border of the country.</u>
+      <u who="DIM">Mm-hm. Do you keep in contact with any of your former students or <orgName ref="#dvp_088_org_116">Peace Corps</orgName> friends?</u>
+      <u who="DETWILER">No former students. A couple of <orgName ref="#dvp_088_org_117">Peace Corps</orgName> friends. We’re at the Christmas card level, yeah.</u>
+      <u who="DIM">[Chuckles.] And—and none of them have <name type="event" ref="#dvp_088_event_10">Vietnam War</name> experience?</u>
+      <u who="DETWILER">Correct.</u>
+      <u who="DIM">Mmm. When did you leave the—the <orgName ref="#dvp_088_org_118">Peace Corps</orgName>?</u>
+      <u who="DETWILER">In <date when="1977">’77</date>.</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">In <date when="1977-12">December of 1977</date> we left—we took our—our airplane ticket and cashed it in. This is from <placeName ref="#dvp_088_place_106">Botswana</placeName> back to <placeName ref="#dvp_088_place_107">Seattle [Washington]</placeName>, because my wife’s from <placeName ref="#dvp_088_place_108">Seattle</placeName>, so this was a good ticket. [Chuckles.]</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">We cashed it in—</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">—and bought a <orgName ref="#dvp_088_org_119">Land Rover</orgName>, and we took off and drove to <placeName ref="#dvp_088_place_109">London</placeName> for six months.</u>
+      <u who="DIM">Oh, wow! And you just—</u>
+      <u who="DETWILER">Huh?</u>
+      <u who="DIM">And you just lived in <placeName ref="#dvp_088_place_110">London</placeName> for six months?</u>
+      <u who="DETWILER">No, it took us six months to get there.</u>
+      <u who="DIM">Oh.</u>
+      <u who="DETWILER">We drove—we drove up—up through <placeName ref="#dvp_088_place_111">Botswana</placeName>—</u>
+      <u who="DIM">Oh, oh!</u>
+      <u who="DETWILER">—over to—over to the coast—</u>
+      <u who="DIM">Oh, wow! </u>
+      <u who="DETWILER">And [cross-talk; unintelligible; 12:12:34].</u>
+      <u who="DIM">Yeah, I misheard you, yeah.</u>
+      <u who="DETWILER">We stayed—you know, we camped the whole time. We didn’t have that much money. In <placeName ref="#dvp_088_place_112">Serengeti [a region of Africa]</placeName>, and then we came across through <placeName ref="#dvp_088_place_113">Rwanda</placeName> and what was <placeName ref="#dvp_088_place_114">Zaire [now the Democratic Republic of the Congo]</placeName> and on up—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—and then finally crossed the desert into <placeName ref="#dvp_088_place_115">Algeria</placeName> and worked our way over to <placeName ref="#dvp_088_place_116">Morocco</placeName> and crossed into <orgName ref="#dvp_088_org_120">Gibraltar</orgName> and then hightailed it to <placeName ref="#dvp_088_place_117">London</placeName>. </u>
+      <u who="DIM">Wow. It must have been an amazing experience. Were—were there any major—stories that—that you’d like to share?</u>
+      <u who="DETWILER">That’s another—that’s another three-hour phone call. [Laughs.]</u>
+      <u who="DIM">[Chuckles.] Okay.</u>
+      <u who="DETWILER">Yeah, it was—it was wonderful, you know, seeing all the different things. We climbed <placeName ref="#dvp_088_place_118">Mount Kilimanjaro</placeName>. </u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">We—two weeks across the <placeName ref="#dvp_088_place_119">Sahara Desert</placeName>, you know, where you’d see maybe one or two other cars a day.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">[unintelligible; 1:13:30]. You know, we got held up in <placeName ref="#dvp_088_place_120">Zaire</placeName> by some drunken soldier with an automatic weapon and talked him out of it by giving him some vitamins, telling him that they helped a man perform better.</u>
+      <u who="DIM">Hmmph!</u>
+      <u who="DETWILER">And he fell for it, and he was very happy, so—</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">I know—there—there are all kinds of stories. It was just a wonderful experi- —you know, I mean, there were the down times, too, getting robbed one time and other stuff,—</u>
+      <u who="DIM">Uh-huh. </u>
+      <u who="DETWILER">—but, no, it was great.</u>
+      <u who="DIM">Mmm!</u>
+      <u who="DETWILER">But I—I kind of—I—i injected that because, again, it’s an illustration I think of what was seeded with my year in <placeName ref="#dvp_088_place_121">Vietnam</placeName> that did—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—[cross-talk; unintelligible; 12:14:12] us off to not being too rattled by—you know, we don’t need to stay in resorts [chuckles] [unintelligible; 1:14:19].</u>
+      <u who="DIM">Right.So after that long road trip, what did you do next?</u>
+      <u who="DETWILER">Oh, then we homesteaded. We—we—we settled down.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">We moved to <placeName ref="#dvp_088_place_122">Vermont</placeName>.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">We bought an old farmhouse that had been empty for 30 years, and we both got teaching jobs making $8,000 a year.</u>
+      <u who="DIM">Mmm. [Chuckles.]</u>
+      <u who="DETWILER">It wasn’t much money, but we put the house together. We had—had our kids. I went back to school at night to [unintelligible; 1:14:52] be an administrator in schools. My wife taught. And we had—had three kids, a dog, the whole thing, big chickens [unintelligible; 1:15:01].</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And then after 10 years—by then I was a principal in an elementary school here.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And then our youngest hit kindergarten age, so you know what we did: We went back overseas. [Chuckles.]</u>
+      <u who="DIM">[Laughs.]</u>
+      <u who="DETWILER">We—we spent our career, then, working in American international schools.</u>
+      <u who="DIM">Mmm!</u>
+      <u who="DETWILER"><placeName ref="#dvp_088_place_123">Hungary</placeName>, <placeName ref="#dvp_088_place_124">Israel</placeName>, <placeName ref="#dvp_088_place_125">Bangladesh</placeName>, <placeName ref="#dvp_088_place_126">Budapest</placeName>—<placeName ref="#dvp_088_place_127">Brazil</placeName>, <placeName ref="#dvp_088_place_128">Nepal</placeName>, <placeName ref="#dvp_088_place_129">Austria</placeName>. I was basically head of school, head of these international schools over there for 21 [years], and then we went back for a couple of years. </u>
+      <u who="DIM">Wow.</u>
+      <u who="DETWILER">So that’s—so that—that <placeName ref="#dvp_088_place_130">Vietnam</placeName> seed, again, continues to grow.</u>
+      <u who="DIM">Right! Really lodged itself deep.</u>
+      <u who="DETWILER">Yeah, yeah.</u>
+      <u who="DIM">And how long have you been—were you head of these international—American international schools?</u>
+      <u who="DETWILER">Yeah, yeah. Well, we went from <placeName ref="#dvp_088_place_131">Vermont</placeName> to <placeName ref="#dvp_088_place_132">Greece</placeName>, as a principal—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—in <date when="1988">1988</date>, okay? We did three years there, and then I was head—I went as head of school at the American international school in <placeName ref="#dvp_088_place_133">Tel Aviv [Israel]</placeName>—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—for seven years, and then in <placeName ref="#dvp_088_place_134">Dhaka, Bangladesh</placeName> for three years, then <placeName ref="#dvp_088_place_135">Budapest, Hungary</placeName>for five; and in <placeName ref="#dvp_088_place_136">São Paulo, Brazil</placeName>, for three.</u>
+      <u who="DIM">Mmm.</u>
+      <u who="DETWILER">And then I came back for a couple of years and then went—and then went to <placeName ref="#dvp_088_place_137">Kathmandu [Nepal]</placeName> as head of school there for an interim, just for a semester while they fired the other guy. [Chuckles.]</u>
+      <u who="DIM">Oh. [Chuckles.]</u>
+      <u who="DETWILER">And the next year, I went to <placeName ref="#dvp_088_place_138">Vienna [Austria]</placeName>, doing the same thing, [as headmaster? 1:16:53].</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">That’s more—that’s more than you wanted to hear, but that’s—that was the career.</u>
+      <u who="DIM">[Chuckles.] No, that—that—that’s great to hear.You mentioned earlier than in <date when="2000">2000</date> you went back to <placeName ref="#dvp_088_place_139">Vietnam</placeName> with your wife.</u>
+      <u who="DETWILER">Yeah.</u>
+      <u who="DIM">Where did you go?</u>
+      <u who="DETWILER">Yeah, all five of us went, the three kids this time. I still remember. We took $3,000 in cash with us. We were there 16 days,—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—and that covered everything for five people.</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">We went – we flew to <placeName ref="#dvp_088_place_140">Hanoi</placeName>, and they just took care of us. We had tour guides. We had—</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">It wasn’t—you didn’t want to do it on your own then. We didn’t. Not with the kids.</u>
+      <u who="DIM">Right.</u>
+      <u who="DETWILER">And we went to <persName ref="#dvp_088_person_37">Ha Long Bay</persName>, which is this gorgeous coastal area north of <placeName ref="#dvp_088_place_141">Haiphong</placeName>. And then we flew to <persName ref="#dvp_088_person_38">Da Nang</persName>, and then from there on, I went to these places where I had been when I was in the <orgName ref="#dvp_088_org_121">Navy</orgName>. And we were in the north, and then we went to the center part of the coast, and then we came—went to <placeName ref="#dvp_088_place_142">Saigon</placeName>, and then we went down to the <placeName ref="#dvp_088_place_143">[Mekong] Delta</placeName>. So it was just a wonderful break, vacation for us, for the whole family. Dirt cheap. It’s not that cheap anymore. It has been discovered, especially after <persName ref="#dvp_088_person_39">[President Barack H.] Obama</persName> [cross-talk; unintelligible; 1:18:17].</u>
+      <u who="DIM">[Chuckles.] Oh, yeah!So do you keep in contact with any <orgName ref="#dvp_088_org_122">Dartmouth</orgName> friends who might have been veterans, who went to <placeName ref="#dvp_088_place_144">Vietnam</placeName>?</u>
+      <u who="DETWILER">Well, the friend I mentioned, <persName ref="#dvp_088_person_40">Jon Roll</persName>,—</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">—who was—he was, you know, a second lieutenant in—in—up north, and he saw a lot of action, so, yeah, we—we see him all—three or four times a year. He comes up. We just spent a week with him on <placeName ref="#dvp_088_place_145">St. John [U.S. Virgin Islands]</placeName> in the <placeName ref="#dvp_088_place_146">Caribbean</placeName> this winter.</u>
+      <u who="DIM">Oh, wow.</u>
+      <u who="DETWILER">We get together every summer, so, yeah, we’re very tight with him.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">No other veterans. No other veterans. It’s really just those three guys that I’m close with. He was—he did that. One guy, the <persName ref="#dvp_088_person_41">Rick Lounsbury</persName> I mentioned—he—he got into the <orgName ref="#dvp_088_org_123">Guard</orgName> and did his, you know, two weeks a year here. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">And the third guy had—who was actually—he was captain of the ski team, and he was actually <orgName ref="#dvp_088_org_124">NCAA [National Collegiate Athletic Association]</orgName> skimeister when we were at <orgName ref="#dvp_088_org_125">Dartmouth</orgName>.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">And then—he won the combined. He had a bad knee, so he had—he had a waiver. He didn’t have to go in the service. Go figure! [Chuckles.] So, no, <persName ref="#dvp_088_person_42">Jon</persName> is the only one that would fit that description.</u>
+      <u who="DIM">And do you guys talk about your experiences often?</u>
+      <u who="DETWILER">It usually comes up in—in—but always in some humorous way.</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">We did a very tasteless skit at his wedding four years ago, where we acted out with my wife and other women playing as bar girls, and I ended up playing as GIs, so [chuckles] it’s on that level, unfortunately. But that tells you—</u>
+      <u who="DIM">Okay. </u>
+      <u who="DETWILER">—our maturity level when we get together.</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">But no—no serious—you know, when we talk serious, we’re not talking <placeName ref="#dvp_088_place_147">Vietnam</placeName>, we’re talking about <placeName ref="#dvp_088_place_148">Iraq</placeName> or <placeName ref="#dvp_088_place_149">Afghanistan</placeName> or <persName ref="#dvp_088_person_43">Trump</persName>.</u>
+      <u who="DIM">Mmm. Do you talk to your wife or your kids about your <name type="event" ref="#dvp_088_event_11">Vietnam</name> experience?</u>
+      <u who="DETWILER">Yeah, you know, kind of like I described how my father did. It doesn’t—I don’t bring it up, and it’s not a—a dominant fact, but in passing, you know, I might refer to that, more with my wife.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">The kids certainly know what I did, both that—in—in terms of—I’ve explained it to you.</u>
+      <u who="DIM">Mm-hm.</u>
+      <u who="DETWILER">You know, I wasn’t in the—in the combat side of things, and yet they know I did spend a year there.Mm-hm.</u>
+      <u who="DETWILER">Yeah, nothing—nothing profound, nothing that’s worth publishing. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Right. Yeah.So do you have any final thoughts reflecting on your experience in <placeName ref="#dvp_088_place_150">Vietnam</placeName>, how it’s impacted you today? You mentioned a couple key take-aways that you thought really stayed with you after your—your experience, but really looking back, is there any last thoughts that you have on your—on your experience?</u>
+      <u who="DETWILER">Just to underscore kind of the two domains: the one, the impact on me in terms of being—you know, opening my eyes to the world and appreciating and wanting to see places in the world. You know, we’ve traveled a lot. [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] Yeah.</u>
+      <u who="DETWILER">And lived [unintelligible; 1:21:57]. And then the other part is related to just some—you know, intense frustration with our—our foreign policy and our—our—our whole decision-making process around our—our military interventions, how just wasteful and dumb it is and how we don’t learn—learn lessons. You know, I can go on about that [chuckles], but—</u>
+      <u who="DIM">[Chuckles.]</u>
+      <u who="DETWILER">—I think you know where I’m coming from on that, yeah.</u>
+      <u who="DIM">Mm-hm. </u>
+      <u who="DETWILER">So I think those would be the two major things to underscore. I think you’ve done a good job in teasing out and being patient as I’ve droned on about just the texture of—of those things.</u>
+      <u who="DIM">Yeah. So if you don’t have anything else to share, I think we can wrap up this interview?</u>
+      <u who="DETWILER">Yeah, yeah.</u>
+      <u who="DIM">Is that all right? Great. Thank you so—so much, <persName ref="#dvp_088_person_44">Rick</persName>. This is a really interesting conversation, and I just really want to thank you for your time. So I’ll end our interview right here. It is now 2:27 p.m., <date when="2016-05-26">May 26th, 2016</date>. And we’ll end our interview.[End of interview.]</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_088_place_0">
+        <placeName>Rauner Special Collections Library</placeName>
+      </place>
+      <place xml:id="dvp_088_place_1">
+        <placeName>Hanover, New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_088_place_2">
+        <placeName> Ferrisburgh, Vermont</placeName>
+      </place>
+      <place xml:id="dvp_088_place_3">
+        <placeName>Ferrisburgh, Vermont</placeName>
+      </place>
+      <place xml:id="dvp_088_place_4">
+        <placeName>Rochester, New York</placeName>
+      </place>
+      <place xml:id="dvp_088_place_5">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dvp_088_place_6">
+        <placeName>Rochester</placeName>
+      </place>
+      <place xml:id="dvp_088_place_7">
+        <placeName>Binghamton</placeName>
+      </place>
+      <place xml:id="dvp_088_place_8">
+        <placeName>Philadelphia [Pennsylvania]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_9">
+        <placeName>Buffalo</placeName>
+      </place>
+      <place xml:id="dvp_088_place_10">
+        <placeName>New Jersey</placeName>
+      </place>
+      <place xml:id="dvp_088_place_11">
+        <placeName>Normandy [France]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_12">
+        <placeName>[Naval Station] Pearl Harbor [Hawaii]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_13">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_088_place_14">
+        <placeName>Berwyn, Pennsylvania</placeName>
+      </place>
+      <place xml:id="dvp_088_place_15">
+        <placeName>Hamburg, New York</placeName>
+      </place>
+      <place xml:id="dvp_088_place_16">
+        <placeName>Buffalo</placeName>
+      </place>
+      <place xml:id="dvp_088_place_17">
+        <placeName>Philly</placeName>
+      </place>
+      <place xml:id="dvp_088_place_18">
+        <placeName>Binghamton</placeName>
+      </place>
+      <place xml:id="dvp_088_place_19">
+        <placeName>Hamburg</placeName>
+      </place>
+      <place xml:id="dvp_088_place_20">
+        <placeName>Philly</placeName>
+      </place>
+      <place xml:id="dvp_088_place_21">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dvp_088_place_22">
+        <placeName>South Dakota</placeName>
+      </place>
+      <place xml:id="dvp_088_place_23">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_088_place_24">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_25">
+        <placeName>Burnham Field</placeName>
+      </place>
+      <place xml:id="dvp_088_place_26">
+        <placeName>Brazil</placeName>
+      </place>
+      <place xml:id="dvp_088_place_27">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dvp_088_place_28">
+        <placeName>California</placeName>
+      </place>
+      <place xml:id="dvp_088_place_29">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_30">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dvp_088_place_31">
+        <placeName>California</placeName>
+      </place>
+      <place xml:id="dvp_088_place_32">
+        <placeName>Europe</placeName>
+      </place>
+      <place xml:id="dvp_088_place_33">
+        <placeName>Puerto Rico</placeName>
+      </place>
+      <place xml:id="dvp_088_place_34">
+        <placeName>Charleston, South Carolina</placeName>
+      </place>
+      <place xml:id="dvp_088_place_35">
+        <placeName>Puerto Rico</placeName>
+      </place>
+      <place xml:id="dvp_088_place_36">
+        <placeName>Virginia</placeName>
+      </place>
+      <place xml:id="dvp_088_place_37">
+        <placeName>Corpus Christi [Texas]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_38">
+        <placeName>Brooklyn [New York]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_39">
+        <placeName>Long Beach, California</placeName>
+      </place>
+      <place xml:id="dvp_088_place_40">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_41">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_42">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_43">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_44">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_088_place_45">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_46">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_47">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_48">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_49">
+        <placeName>north Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_50">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_51">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_52">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_088_place_53">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_54">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_55">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_56">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_57">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_58">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_59">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_60">
+        <placeName>DMZ [Demilitarized Zone]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_61">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_62">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_63">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_64">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_65">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_66">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_67">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_68">
+        <placeName>Buffalo, New York</placeName>
+      </place>
+      <place xml:id="dvp_088_place_69">
+        <placeName>India</placeName>
+      </place>
+      <place xml:id="dvp_088_place_70">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="dvp_088_place_71">
+        <placeName>Afghan</placeName>
+      </place>
+      <place xml:id="dvp_088_place_72">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="dvp_088_place_73">
+        <placeName>Afghanistan</placeName>
+      </place>
+      <place xml:id="dvp_088_place_74">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_75">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_76">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_088_place_77">
+        <placeName>Europe</placeName>
+      </place>
+      <place xml:id="dvp_088_place_78">
+        <placeName>Greece</placeName>
+      </place>
+      <place xml:id="dvp_088_place_79">
+        <placeName>Italy</placeName>
+      </place>
+      <place xml:id="dvp_088_place_80">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_088_place_81">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_82">
+        <placeName>Cocoa Beach, Florida</placeName>
+      </place>
+      <place xml:id="dvp_088_place_83">
+        <placeName>Miami</placeName>
+      </place>
+      <place xml:id="dvp_088_place_84">
+        <placeName>Philly</placeName>
+      </place>
+      <place xml:id="dvp_088_place_85">
+        <placeName>Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_088_place_86">
+        <placeName>Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_088_place_87">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_088_place_88">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_088_place_89">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_088_place_90">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_91">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_92">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_93">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_088_place_94">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_95">
+        <placeName>Hamburg, New York</placeName>
+      </place>
+      <place xml:id="dvp_088_place_96">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_97">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_98">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_99">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_100">
+        <placeName>Ghana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_101">
+        <placeName>South Africa</placeName>
+      </place>
+      <place xml:id="dvp_088_place_102">
+        <placeName>Rhodesia (which is now Zimbabwe)</placeName>
+      </place>
+      <place xml:id="dvp_088_place_103">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_104">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_105">
+        <placeName>Lobatse</placeName>
+      </place>
+      <place xml:id="dvp_088_place_106">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_107">
+        <placeName>Seattle [Washington]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_108">
+        <placeName>Seattle</placeName>
+      </place>
+      <place xml:id="dvp_088_place_109">
+        <placeName>London</placeName>
+      </place>
+      <place xml:id="dvp_088_place_110">
+        <placeName>London</placeName>
+      </place>
+      <place xml:id="dvp_088_place_111">
+        <placeName>Botswana</placeName>
+      </place>
+      <place xml:id="dvp_088_place_112">
+        <placeName>Serengeti [a region of Africa]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_113">
+        <placeName>Rwanda</placeName>
+      </place>
+      <place xml:id="dvp_088_place_114">
+        <placeName>Zaire [now the Democratic Republic of the Congo]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_115">
+        <placeName>Algeria</placeName>
+      </place>
+      <place xml:id="dvp_088_place_116">
+        <placeName>Morocco</placeName>
+      </place>
+      <place xml:id="dvp_088_place_117">
+        <placeName>London</placeName>
+      </place>
+      <place xml:id="dvp_088_place_118">
+        <placeName>Mount Kilimanjaro</placeName>
+      </place>
+      <place xml:id="dvp_088_place_119">
+        <placeName>Sahara Desert</placeName>
+      </place>
+      <place xml:id="dvp_088_place_120">
+        <placeName>Zaire</placeName>
+      </place>
+      <place xml:id="dvp_088_place_121">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_122">
+        <placeName>Vermont</placeName>
+      </place>
+      <place xml:id="dvp_088_place_123">
+        <placeName>Hungary</placeName>
+      </place>
+      <place xml:id="dvp_088_place_124">
+        <placeName>Israel</placeName>
+      </place>
+      <place xml:id="dvp_088_place_125">
+        <placeName>Bangladesh</placeName>
+      </place>
+      <place xml:id="dvp_088_place_126">
+        <placeName>Budapest</placeName>
+      </place>
+      <place xml:id="dvp_088_place_127">
+        <placeName>Brazil</placeName>
+      </place>
+      <place xml:id="dvp_088_place_128">
+        <placeName>Nepal</placeName>
+      </place>
+      <place xml:id="dvp_088_place_129">
+        <placeName>Austria</placeName>
+      </place>
+      <place xml:id="dvp_088_place_130">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_131">
+        <placeName>Vermont</placeName>
+      </place>
+      <place xml:id="dvp_088_place_132">
+        <placeName>Greece</placeName>
+      </place>
+      <place xml:id="dvp_088_place_133">
+        <placeName>Tel Aviv [Israel]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_134">
+        <placeName>Dhaka, Bangladesh</placeName>
+      </place>
+      <place xml:id="dvp_088_place_135">
+        <placeName>Budapest, Hungary</placeName>
+      </place>
+      <place xml:id="dvp_088_place_136">
+        <placeName>São Paulo, Brazil</placeName>
+      </place>
+      <place xml:id="dvp_088_place_137">
+        <placeName>Kathmandu [Nepal]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_138">
+        <placeName>Vienna [Austria]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_139">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_140">
+        <placeName>Hanoi</placeName>
+      </place>
+      <place xml:id="dvp_088_place_141">
+        <placeName>Haiphong</placeName>
+      </place>
+      <place xml:id="dvp_088_place_142">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_088_place_143">
+        <placeName>[Mekong] Delta</placeName>
+      </place>
+      <place xml:id="dvp_088_place_144">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_145">
+        <placeName>St. John [U.S. Virgin Islands]</placeName>
+      </place>
+      <place xml:id="dvp_088_place_146">
+        <placeName>Caribbean</placeName>
+      </place>
+      <place xml:id="dvp_088_place_147">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_088_place_148">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="dvp_088_place_149">
+        <placeName>Afghanistan</placeName>
+      </place>
+      <place xml:id="dvp_088_place_150">
+        <placeName>Vietnam</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_088_event_0">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_088_event_1">
+        <desc>Pacific campaign</desc>
+      </event>
+      <event xml:id="dvp_088_event_2">
+        <desc>the World War II</desc>
+      </event>
+      <event xml:id="dvp_088_event_3">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_088_event_4">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_088_event_5">
+        <desc>Occupy Parkhurst [sic; the Parkhurst Hall takeover]</desc>
+      </event>
+      <event xml:id="dvp_088_event_6">
+        <desc>Kent State [University shootings]</desc>
+      </event>
+      <event xml:id="dvp_088_event_7">
+        <desc>Park</desc>
+      </event>
+      <event xml:id="dvp_088_event_8">
+        <desc>Freshman Week</desc>
+      </event>
+      <event xml:id="dvp_088_event_9">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_088_event_10">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_088_event_11">
+        <desc>Vietnam</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_088_person_0">
+        <persName>Chileta Dim</persName>
+      </person>
+      <person xml:id="dvp_088_person_1">
+        <persName>Richard Detwiler</persName>
+      </person>
+      <person xml:id="dvp_088_person_2">
+        <persName>Rick</persName>
+      </person>
+      <person xml:id="dvp_088_person_3">
+        <persName>Rick</persName>
+      </person>
+      <person xml:id="dvp_088_person_4">
+        <persName>Muriel [Foulk] Detwiler [Bridge]</persName>
+      </person>
+      <person xml:id="dvp_088_person_5">
+        <persName>Charles [K.] Detwiler</persName>
+      </person>
+      <person xml:id="dvp_088_person_6">
+        <persName>Foulk</persName>
+      </person>
+      <person xml:id="dvp_088_person_7">
+        <persName>[Charles K.] “Chip” [Detwiler]</persName>
+      </person>
+      <person xml:id="dvp_088_person_8">
+        <persName>Chip</persName>
+      </person>
+      <person xml:id="dvp_088_person_9">
+        <persName>Coach [Chad] Riley</persName>
+      </person>
+      <person xml:id="dvp_088_person_10">
+        <persName>ROTC</persName>
+      </person>
+      <person xml:id="dvp_088_person_11">
+        <persName>Jon [T.] Roll</persName>
+      </person>
+      <person xml:id="dvp_088_person_12">
+        <persName>[Edward N.] “Ed” Damon</persName>
+      </person>
+      <person xml:id="dvp_088_person_13">
+        <persName>[Frederick S.] “Rick” Lounsbury [Jr.,</persName>
+      </person>
+      <person xml:id="dvp_088_person_14">
+        <persName>Lounsbury</persName>
+      </person>
+      <person xml:id="dvp_088_person_15">
+        <persName> [Eugene J.] McCarthy</persName>
+      </person>
+      <person xml:id="dvp_088_person_16">
+        <persName>[George S.] McGovern</persName>
+      </person>
+      <person xml:id="dvp_088_person_17">
+        <persName>[Richard M.] Nixon</persName>
+      </person>
+      <person xml:id="dvp_088_person_18">
+        <persName> [Peter M.] “Pete” Bryant</persName>
+      </person>
+      <person xml:id="dvp_088_person_19">
+        <persName>Bryant</persName>
+      </person>
+      <person xml:id="dvp_088_person_20">
+        <persName>[Alden H.] “Whitey” Burnham</persName>
+      </person>
+      <person xml:id="dvp_088_person_21">
+        <persName>[William E.] Slesnick</persName>
+      </person>
+      <person xml:id="dvp_088_person_22">
+        <persName>[Thomas L.] “Tom” Meeks</persName>
+      </person>
+      <person xml:id="dvp_088_person_23">
+        <persName>Jon [T.] Roll</persName>
+      </person>
+      <person xml:id="dvp_088_person_24">
+        <persName>[Guy Li Lim</persName>
+      </person>
+      <person xml:id="dvp_088_person_25">
+        <persName>“Guywee”</persName>
+      </person>
+      <person xml:id="dvp_088_person_26">
+        <persName>Kim</persName>
+      </person>
+      <person xml:id="dvp_088_person_27">
+        <persName>Lim</persName>
+      </person>
+      <person xml:id="dvp_088_person_28">
+        <persName>Lien</persName>
+      </person>
+      <person xml:id="dvp_088_person_29">
+        <persName>John Kane</persName>
+      </person>
+      <person xml:id="dvp_088_person_30">
+        <persName>[Elmo R.] Zumwalt [Jr.]</persName>
+      </person>
+      <person xml:id="dvp_088_person_31">
+        <persName>[President Donald J.] Trump</persName>
+      </person>
+      <person xml:id="dvp_088_person_32">
+        <persName>[William H.] “Bill” Cosby [Jr.]</persName>
+      </person>
+      <person xml:id="dvp_088_person_33">
+        <persName>Walter [L.] Cronkite [Jr.]</persName>
+      </person>
+      <person xml:id="dvp_088_person_34">
+        <persName>Sandi Detwiler</persName>
+      </person>
+      <person xml:id="dvp_088_person_35">
+        <persName>Ford</persName>
+      </person>
+      <person xml:id="dvp_088_person_36">
+        <persName>Ford</persName>
+      </person>
+      <person xml:id="dvp_088_person_37">
+        <persName>Ha Long Bay</persName>
+      </person>
+      <person xml:id="dvp_088_person_38">
+        <persName>Da Nang</persName>
+      </person>
+      <person xml:id="dvp_088_person_39">
+        <persName>[President Barack H.] Obama</persName>
+      </person>
+      <person xml:id="dvp_088_person_40">
+        <persName>Jon Roll</persName>
+      </person>
+      <person xml:id="dvp_088_person_41">
+        <persName>Rick Lounsbury</persName>
+      </person>
+      <person xml:id="dvp_088_person_42">
+        <persName>Jon</persName>
+      </person>
+      <person xml:id="dvp_088_person_43">
+        <persName>Trump</persName>
+      </person>
+      <person xml:id="dvp_088_person_44">
+        <persName>Rick</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_088_org_0">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dvp_088_org_1">
+        <orgName>Atlantic Refining</orgName>
+      </org>
+      <org xml:id="dvp_088_org_2">
+        <orgName>ARCO [Atlantic Richfield Company]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_3">
+        <orgName>[U.S.] Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_4">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_5">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_6">
+        <orgName>[USS] Enterprise</orgName>
+      </org>
+      <org xml:id="dvp_088_org_7">
+        <orgName>Enterprise</orgName>
+      </org>
+      <org xml:id="dvp_088_org_8">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_9">
+        <orgName>Reserves</orgName>
+      </org>
+      <org xml:id="dvp_088_org_10">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_11">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_12">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_13">
+        <orgName>Ivy League</orgName>
+      </org>
+      <org xml:id="dvp_088_org_14">
+        <orgName>KUA [Kimball Union Academy]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_15">
+        <orgName>Penn [University of Pennsylvania</orgName>
+      </org>
+      <org xml:id="dvp_088_org_16">
+        <orgName>University of Pennsylvania</orgName>
+      </org>
+      <org xml:id="dvp_088_org_17">
+        <orgName>Penn State [Pennsylvania State University]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_18">
+        <orgName>University of Pennsylvania</orgName>
+      </org>
+      <org xml:id="dvp_088_org_19">
+        <orgName>Penn State</orgName>
+      </org>
+      <org xml:id="dvp_088_org_20">
+        <orgName>Penn</orgName>
+      </org>
+      <org xml:id="dvp_088_org_21">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_22">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_23">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_24">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_25">
+        <orgName>Dickinson [College]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_26">
+        <orgName>ROTC [Reserve Officers’ Training Corps]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_27">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_28">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_29">
+        <orgName>R-O-T-C</orgName>
+      </org>
+      <org xml:id="dvp_088_org_30">
+        <orgName>R-O-T-C</orgName>
+      </org>
+      <org xml:id="dvp_088_org_31">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_088_org_32">
+        <orgName>[U.S.] Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_33">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_34">
+        <orgName>[U.S.] Naval Academy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_35">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_36">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_37">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_38">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_39">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_40">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_41">
+        <orgName>NAVY ROTC [Naval Reserve Officer Training Corps]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_42">
+        <orgName>Army [ROTC]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_43">
+        <orgName>Norwich [University]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_44">
+        <orgName>[The Dartmouth] Outing Club</orgName>
+      </org>
+      <org xml:id="dvp_088_org_45">
+        <orgName>Psi U[psilon]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_46">
+        <orgName>Psi U</orgName>
+      </org>
+      <org xml:id="dvp_088_org_47">
+        <orgName>[Class of 1967]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_48">
+        <orgName>[Class of 1969]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_49">
+        <orgName>Class of 1969]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_50">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_51">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_52">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_53">
+        <orgName>[Class of 1970]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_54">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_55">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_56">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_57">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_58">
+        <orgName>Academy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_59">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_60">
+        <orgName>[National] Guard [of the U.S.]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_61">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_62">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_63">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_64">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_088_org_65">
+        <orgName>Marines [the U.S. Marine Corps]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_66">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_67">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_68">
+        <orgName>Naval Academy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_69">
+        <orgName>Google</orgName>
+      </org>
+      <org xml:id="dvp_088_org_70">
+        <orgName>Academy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_71">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_72">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_73">
+        <orgName>[U.S.] Army</orgName>
+      </org>
+      <org xml:id="dvp_088_org_74">
+        <orgName>’67</orgName>
+      </org>
+      <org xml:id="dvp_088_org_75">
+        <orgName>navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_76">
+        <orgName>Academy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_77">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_78">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_088_org_79">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_80">
+        <orgName>ISIS [Islamic State of Iraq and Syria, officially known as Islamic State of Iraq and the Levant, or ISIL]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_81">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_82">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_83">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_84">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_85">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_86">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_87">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_88">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_89">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_90">
+        <orgName>Defense Race Relations Institute [now the Defense Equal Opportunity Management Institute]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_91">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="dvp_088_org_92">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_088_org_93">
+        <orgName>Meals on Wheels</orgName>
+      </org>
+      <org xml:id="dvp_088_org_94">
+        <orgName>Chileta</orgName>
+      </org>
+      <org xml:id="dvp_088_org_95">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_96">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_97">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_98">
+        <orgName>BU [Boston University]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_99">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_100">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_101">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_102">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_103">
+        <orgName>Pan Am[erican World Airways]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_104">
+        <orgName>Pan Am</orgName>
+      </org>
+      <org xml:id="dvp_088_org_105">
+        <orgName>Tufts [University]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_106">
+        <orgName>Lesley College [now Lesley University]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_107">
+        <orgName>Harvard [University]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_108">
+        <orgName>Harvard</orgName>
+      </org>
+      <org xml:id="dvp_088_org_109">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_110">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_111">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_112">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_113">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_114">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_115">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_116">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_117">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_118">
+        <orgName>Peace Corps</orgName>
+      </org>
+      <org xml:id="dvp_088_org_119">
+        <orgName>Land Rover</orgName>
+      </org>
+      <org xml:id="dvp_088_org_120">
+        <orgName>Gibraltar</orgName>
+      </org>
+      <org xml:id="dvp_088_org_121">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_088_org_122">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_088_org_123">
+        <orgName>Guard</orgName>
+      </org>
+      <org xml:id="dvp_088_org_124">
+        <orgName>NCAA [National Collegiate Athletic Association]</orgName>
+      </org>
+      <org xml:id="dvp_088_org_125">
+        <orgName>Dartmouth</orgName>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
