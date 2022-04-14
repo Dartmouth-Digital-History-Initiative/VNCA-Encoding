@@ -1,96 +1,96 @@
-id	orgName
-ttu_473_org_0	Texas Tech University
-ttu_473_org_1	Vietnam Center and Sam Johnson Vietnam Archive
-ttu_473_org_2	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_3	Company A, 2nd Battalion, 7th Cavalry Regiment
-ttu_473_org_4	1st Battalion, 7th Cavalry Regiment
-ttu_473_org_5	1st Battalion, 7th Cavalry Regiment
-ttu_473_org_6	1st Cavalry Division
-ttu_473_org_7	1st Cavalry Division
-ttu_473_org_8	class one of ’63
-ttu_473_org_9	Class one of ’63
-ttu_473_org_10	United States Army
-ttu_473_org_11	United States Army
-ttu_473_org_12	United States Army
-ttu_473_org_13	United States Army
-ttu_473_org_14	1st Battalion, 7th Cavalry Regiment
-ttu_473_org_15	1st Battalion, 7th Cavalry Regiment
-ttu_473_org_16	11th Airborne Division
-ttu_473_org_17	1st Battalion, 7th Cavalry Regiment
-ttu_473_org_18	1st Battalion, 9th Infantry Regiment
-ttu_473_org_19	2nd Infantry Division
-ttu_473_org_20	11th Airborne Division
-ttu_473_org_21	1st Cavalry Division
-ttu_473_org_22	1st Battalion, 7th Cavalry Regiment
-ttu_473_org_23	United States Armed Forces
-ttu_473_org_24	2nd Infantry Division
-ttu_473_org_25	1st Cavalry Division
-ttu_473_org_26	1st Cavalry Division
-ttu_473_org_27	Ledger-Enquirer
-ttu_473_org_28	Inquirer
-ttu_473_org_29	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_30	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_31	USS Admiral Hugh Rodman
-ttu_473_org_32	USS Admiral Hugh Rodman
-ttu_473_org_33	USS Admiral Hugh Rodman
-ttu_473_org_34	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_35	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_36	2nd Infantry Division
-ttu_473_org_37	United States Army
-ttu_473_org_38	Reserve Officers' Training Corps
-ttu_473_org_39	United States Military Academy
-ttu_473_org_40	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_41	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_42	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_43	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_44	USS Admiral Hugh Rodman
-ttu_473_org_45	United States Army
-ttu_473_org_46	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_47	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_48	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_49	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_50	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_51	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_52	Cav
-ttu_473_org_53	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_54	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_55	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_56	2nd Battalion, 7th Cavalry Regiment
-ttu_473_org_57	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_58	Bravo Company
-ttu_473_org_59	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_60	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_61	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_62	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_63	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_64	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_65	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_66	National Front for the Liberation of South Vietnam
-ttu_473_org_67	People's Army of Vietnam
-ttu_473_org_68	National Front for the Liberation of South Vietnam
-ttu_473_org_69	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_70	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_71	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_72	Bravo Company
-ttu_473_org_73	11th Assault
-ttu_473_org_74	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_75	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_76	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_77	D Company, 229th Assault Helicopter Battalion
-ttu_473_org_78	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_79	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_80	Company A, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_81	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_82	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_83	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_84	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_85	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_86	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_87	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_88	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_89	Company B, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_90	Company C, 1st Battalion, 7th Cavalry Regiment
-ttu_473_org_91	Texas Tech University
-ttu_473_org_92	United States Army
-ttu_473_org_93	Texas Tech University
-ttu_473_org_94	Texas Tech University
+id	orgName	QID	ttu_id
+ttu_473_org_0	Texas Tech University	Q1423756	
+ttu_473_org_1	Vietnam Center and Sam Johnson Vietnam Archive	Q7928492	
+ttu_473_org_2	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_3	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_473_org_4	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_473_org_5	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_473_org_6	1st Cavalry Division	Q2338	
+ttu_473_org_7	1st Cavalry Division	Q2338	
+ttu_473_org_8	class one of ’63		
+ttu_473_org_9	Class one of ’63		
+ttu_473_org_10	United States Army	Q9212	
+ttu_473_org_11	United States Army	Q9212	
+ttu_473_org_12	United States Army	Q9212	
+ttu_473_org_13	United States Army	Q9212	
+ttu_473_org_14	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_473_org_15	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_473_org_16	11th Airborne Division	Q169980	
+ttu_473_org_17	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_473_org_18	1st Battalion, 9th Infantry Regiment	Q111597029	
+ttu_473_org_19	2nd Infantry Division	Q210607	
+ttu_473_org_20	11th Airborne Division	Q169980	
+ttu_473_org_21	1st Cavalry Division	Q2338	
+ttu_473_org_22	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_473_org_23	United States Armed Forces	Q11211	
+ttu_473_org_24	2nd Infantry Division	Q210607	
+ttu_473_org_25	1st Cavalry Division	Q2338	
+ttu_473_org_26	1st Cavalry Division	Q2338	
+ttu_473_org_27	Ledger-Enquirer	Q6512650	
+ttu_473_org_28	Ledger-Enquirer	Q6512650	
+ttu_473_org_29	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_30	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_31	USS Admiral Hugh Rodman	Q7867050	
+ttu_473_org_32	USS Admiral Hugh Rodman	Q7867050	
+ttu_473_org_33	USS Admiral Hugh Rodman	Q7867050	
+ttu_473_org_34	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_35	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_36	2nd Infantry Division	Q210607	
+ttu_473_org_37	United States Army	Q9212	
+ttu_473_org_38	Reserve Officers' Training Corps	Q489983	
+ttu_473_org_39	United States Military Academy	Q9219	
+ttu_473_org_40	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_41	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_42	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_43	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_44	USS Admiral Hugh Rodman	Q7867050	
+ttu_473_org_45	United States Army	Q9212	
+ttu_473_org_46	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_47	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_48	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_49	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_50	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_51	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_52	1st Cavalry Division	Q2338	
+ttu_473_org_53	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_54	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_55	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_56	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_473_org_57	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_58	Bravo Company	Q55525881	
+ttu_473_org_59	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_60	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_61	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_62	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_63	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_64	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_65	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_66	National Front for the Liberation of South Vietnam	Q174423	
+ttu_473_org_67	People's Army of Vietnam	Q3936506	
+ttu_473_org_68	National Front for the Liberation of South Vietnam	Q174423	
+ttu_473_org_69	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_70	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_71	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_72	Bravo Company	Q55525881	
+ttu_473_org_73	11th Airborne Division	Q169980	
+ttu_473_org_74	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_75	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_76	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_77	D Company, 229th Assault Helicopter Battalion	Q111192054	
+ttu_473_org_78	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_79	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_80	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_473_org_81	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_82	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_83	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_84	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_85	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_86	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_87	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_88	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_89	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_473_org_90	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_473_org_91	Texas Tech University	Q1423756	
+ttu_473_org_92	United States Army	Q9212	
+ttu_473_org_93	Texas Tech University	Q1423756	
+ttu_473_org_94	Texas Tech University	Q1423756	
