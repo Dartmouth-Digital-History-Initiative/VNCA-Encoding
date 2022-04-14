@@ -1,39 +1,39 @@
-id	placeName
-ttu_474_place_0	Crystal City Hilton
-ttu_474_place_1	Brooklyn, New York
-ttu_474_place_2	Vietnam
-ttu_474_place_3	Brooklyn
-ttu_474_place_4	Rantoul, Illinois
-ttu_474_place_5	Chanute Air Force Base
-ttu_474_place_6	England
-ttu_474_place_7	Fort Knox, Kentucky
-ttu_474_place_8	Fort Jackson, South Carolina
-ttu_474_place_9	Fort Benning
-ttu_474_place_10	Dahlonega, Georgia
-ttu_474_place_11	Air Force Base
-ttu_474_place_12	Vietnam
-ttu_474_place_13	Fort Benning
-ttu_474_place_14	Fort Benning
-ttu_474_place_15	Vietnam
-ttu_474_place_16	Charleston, South Carolina
-ttu_474_place_17	Panama Canal
-ttu_474_place_18	Long Beach
-ttu_474_place_19	Long Beach
-ttu_474_place_20	Hawaii Islands
-ttu_474_place_21	Japan
-ttu_474_place_22	Vietnam
-ttu_474_place_23	Qui Nhon
-ttu_474_place_24	An Khe
-ttu_474_place_25	Vietnam
-ttu_474_place_26	Vung Tau
-ttu_474_place_27	Ia Drang Valley
-ttu_474_place_28	X-Ray
-ttu_474_place_29	Plei Me camp
-ttu_474_place_30	LZ (Landing Zone) X-Ray
-ttu_474_place_31	X-Ray
-ttu_474_place_32	X-Ray
-ttu_474_place_33	LZ Columbus
-ttu_474_place_34	LZ Albany
-ttu_474_place_35	Albany
-ttu_474_place_36	Pleiku
-ttu_474_place_37	Pleiku
+id	placeName	QID	ttu_id	coordinate location
+ttu_474_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.85273695571491,-77.0517220465822
+ttu_474_place_1	Brooklyn	Q18419		40.692777777778,-73.990277777778
+ttu_474_place_2	Vietnam	Q881		16,108
+ttu_474_place_3	Brooklyn	Q18419		40.692777777778,-73.990277777778
+ttu_474_place_4	Rantoul	Q1025637		40.304722222222,-88.151944444444
+ttu_474_place_5	Chanute Air Force Base	Q5072704		40.2944,-88.1431
+ttu_474_place_6	England	Q21		53,-1
+ttu_474_place_7	Fort Knox	Q8962067		37.89278,-85.97444
+ttu_474_place_8	Fort Jackson	Q5471392		34.039166666667,-80.822222222222
+ttu_474_place_9	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_474_place_10	Dahlonega	Q1003662		34.5325,-83.985
+ttu_474_place_11	Air Force Base			
+ttu_474_place_12	Vietnam	Q881		16,108
+ttu_474_place_13	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_474_place_14	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_474_place_15	Vietnam	Q881		16,108
+ttu_474_place_16	Charleston	Q47716		32.776111111111,-79.9325
+ttu_474_place_17	Panama Canal	Q7350		9.08,-79.68
+ttu_474_place_18	Long Beach	Q16739		33.768321,-118.1956168
+ttu_474_place_19	Long Beach	Q16739		33.768321,-118.1956168
+ttu_474_place_20	Hawaiian Islands	Q192626		20.75,-156.15
+ttu_474_place_21	Japan	Q17		35,136
+ttu_474_place_22	Vietnam	Q881		16,108
+ttu_474_place_23	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_474_place_24	An Khê	Q15179893		13.9530664,108.6569463
+ttu_474_place_25	Vietnam	Q881		16,108
+ttu_474_place_26	Vũng Tàu	Q21194		10.404166666667,107.14166666667
+ttu_474_place_27	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_474_place_28	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_474_place_29	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_474_place_30	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_474_place_31	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_474_place_32	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_474_place_33	LZ Columbus			
+ttu_474_place_34	LZ Albany	Q110624853		13.59528,107.71528
+ttu_474_place_35	LZ Albany	Q110624853		13.59528,107.71528
+ttu_474_place_36	Pleiku	Q30599		13.971519,108.014673
+ttu_474_place_37	Pleiku	Q30599		13.971519,108.014673
