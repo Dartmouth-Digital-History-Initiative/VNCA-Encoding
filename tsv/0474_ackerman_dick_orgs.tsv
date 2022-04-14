@@ -1,20 +1,20 @@
-id	orgName
-ttu_474_org_0	Air Force
-ttu_474_org_1	Air Force
-ttu_474_org_2	military
-ttu_474_org_3	29th Infantry
-ttu_474_org_4	OCS (Officer Candidate School)
-ttu_474_org_5	1st Cavalry Division
-ttu_474_org_6	Army
-ttu_474_org_7	General Maurice Rose
-ttu_474_org_8	NVA (North Vietnamese Army)
-ttu_474_org_9	General Moore
-ttu_474_org_10	battalion
-ttu_474_org_11	2nd of the 5th
-ttu_474_org_12	battalion
-ttu_474_org_13	battalion
-ttu_474_org_14	NVA
-ttu_474_org_15	NVA
-ttu_474_org_16	NVA
-ttu_474_org_17	military
-ttu_474_org_18	military
+id	orgName	QID	ttu_id
+ttu_474_org_0	United States Air Force	Q11223	
+ttu_474_org_1	United States Air Force	Q11223	
+ttu_474_org_2	United States Armed Forces	Q11211	
+ttu_474_org_3	29th Infantry Division	Q2715528	
+ttu_474_org_4	Officer Candidate School	Q14319576	
+ttu_474_org_5	1st Cavalry Division	Q2338	
+ttu_474_org_6	United States Army	Q9212	
+ttu_474_org_7	USS Admiral Hugh Rodman	Q7867050	
+ttu_474_org_8	People's Army of Vietnam	Q3936506	
+ttu_474_org_9	Hal Moore	Q430209	
+ttu_474_org_10	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_474_org_11	2nd Battalion, 5th Cavalry Regiment	Q110641607	
+ttu_474_org_12	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_474_org_13	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_474_org_14	People's Army of Vietnam	Q3936506	
+ttu_474_org_15	People's Army of Vietnam	Q3936506	
+ttu_474_org_16	People's Army of Vietnam	Q3936506	
+ttu_474_org_17	United States Armed Forces	Q11211	
+ttu_474_org_18	United States Armed Forces	Q11211	
