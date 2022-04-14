@@ -1,8 +1,8 @@
-id	name
-ttu_480_event_0	Vietnam
-ttu_480_event_1	Ia Drang Valley
-ttu_480_event_2	Vietnam
-ttu_480_event_3	Ia Drang
-ttu_480_event_4	Ia Drang
-ttu_480_event_5	Ia Drang Valley
-ttu_480_event_6	Ia Drang Valley
+id	name	QID	dvp_id	start time	end time	point in time
+ttu_480_event_0	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_480_event_1	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_480_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_480_event_3	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_480_event_4	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_480_event_5	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_480_event_6	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
