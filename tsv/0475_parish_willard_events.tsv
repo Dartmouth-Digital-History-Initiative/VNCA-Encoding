@@ -1,8 +1,8 @@
-id	name
-ttu_475_event_0	assassination of John F. Kennedy
-ttu_475_event_1	World War II
-ttu_475_event_2	World War II
-ttu_475_event_3	World War II
-ttu_475_event_4	Operation Desert Storm
-ttu_475_event_5	Vietnam War
-ttu_475_event_6	World War II
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_475_event_0	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+ttu_475_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+ttu_475_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+ttu_475_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+ttu_475_event_4	Operation Desert Storm	Q2349281		1991-01-17T00:00:00Z	1991-02-28T00:00:00Z	
+ttu_475_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_475_event_6	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
