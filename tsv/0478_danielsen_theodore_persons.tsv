@@ -1,31 +1,31 @@
-id	persName
-ttu_478_person_0	Colonel Brown
-ttu_478_person_1	Cynthia
-ttu_478_person_2	Swift Martin
-ttu_478_person_3	Colonel Stockton
-ttu_478_person_4	Colonel Stockton
-ttu_478_person_5	Colonel Stockton
-ttu_478_person_6	Major Zion
-ttu_478_person_7	Captain Nolan
-ttu_478_person_8	Major Zion
-ttu_478_person_9	Colonel Stockton
-ttu_478_person_10	Zion
-ttu_478_person_11	Zion
-ttu_478_person_12	John Hanlon
-ttu_478_person_13	Zion
-ttu_478_person_14	Specialist Ortiz
-ttu_478_person_15	General Moore
-ttu_478_person_16	Colonel Moore
-ttu_478_person_17	General Moore
-ttu_478_person_18	General Moore
-ttu_478_person_19	General Moore
-ttu_478_person_20	General Moore
-ttu_478_person_21	Ted
-ttu_478_person_22	Colonel Brown
-ttu_478_person_23	General Moore
-ttu_478_person_24	Colonel Danielsen
-ttu_478_person_25	Joe Galloway
-ttu_478_person_26	Colonel Stockton
-ttu_478_person_27	Stockton
-ttu_478_person_28	John Hanlon
-ttu_478_person_29	John
+id	persName	QID	ttu_id
+ttu_478_person_0	Colonel Brown		ttu_0134
+ttu_478_person_1	Cynthia		ttu_0135
+ttu_478_person_2	Swift Martin		ttu_0136
+ttu_478_person_3	Colonel Stockton		ttu_0137
+ttu_478_person_4	Colonel Stockton		ttu_0137
+ttu_478_person_5	Colonel Stockton		ttu_0137
+ttu_478_person_6	Major Zion		ttu_0138
+ttu_478_person_7	Captain Nolan		ttu_0139
+ttu_478_person_8	Major Zion		ttu_0138
+ttu_478_person_9	Colonel Stockton		ttu_0137
+ttu_478_person_10	Zion		ttu_0138
+ttu_478_person_11	Zion		ttu_0138
+ttu_478_person_12	John Hanlon		ttu_0142
+ttu_478_person_13	Zion	Q6171416	
+ttu_478_person_14	Specialist Ortiz		ttu_0140
+ttu_478_person_15	Hal Moore	Q430209	
+ttu_478_person_16	Hal Moore	Q430209	
+ttu_478_person_17	Hal Moore	Q430209	
+ttu_478_person_18	Hal Moore	Q430209	
+ttu_478_person_19	Hal Moore	Q430209	
+ttu_478_person_20	Hal Moore	Q430209	
+ttu_478_person_21	Ted		ttu_0141
+ttu_478_person_22	Colonel Brown		ttu_0134
+ttu_478_person_23	Hal Moore	Q430209	
+ttu_478_person_24	Colonel Danielsen		ttu_0141
+ttu_478_person_25	Joseph L. Galloway	Q3185182	
+ttu_478_person_26	Colonel Stockton		ttu_0137
+ttu_478_person_27	Stockton		ttu_0137
+ttu_478_person_28	John Hanlon		ttu_0142
+ttu_478_person_29	John		ttu_0142
