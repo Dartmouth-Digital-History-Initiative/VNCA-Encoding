@@ -1,5 +1,5 @@
 id	persName	QID	ttu_id
-ttu_460_person_0	Dr. Ron Milam		ttu_0029
+ttu_460_person_0	Dr. Ron Milam	Q110624764	
 ttu_460_person_1	Bud Alley		ttu_0030
 ttu_460_person_2	Leo Welch	Q21066270	
 ttu_460_person_3	Enrique Pujals		ttu_0031
@@ -25,13 +25,13 @@ ttu_460_person_22	John		ttu_0071
 ttu_460_person_23	John		ttu_0071
 ttu_460_person_24	Captain Dan		ttu_0069
 ttu_460_person_25	Major Henry		ttu_0073
-ttu_460_person_26	Colonel Moore		ttu_0074
+ttu_460_person_26	Colonel Moore	Q430209	 
 ttu_460_person_27	Major Henry		ttu_0073
 ttu_460_person_28	John Howard		ttu_0071
 ttu_460_person_29	John		ttu_0071
-ttu_460_person_30	Joel Sugdinis		ttu_0076
+ttu_460_person_30	Joel Sugdinis	Q111443804	
 ttu_460_person_31	Major Henry		ttu_0073
-ttu_460_person_32	Sugdinis		ttu_0076
+ttu_460_person_32	Sugdinis	Q111443804	
 ttu_460_person_33	John		ttu_0071
 ttu_460_person_34	John		ttu_0071
 ttu_460_person_35	Colonel Moore		ttu_0074
@@ -40,12 +40,12 @@ ttu_460_person_37	Dan		ttu_0069
 ttu_460_person_38	Dan Boone		ttu_0069
 ttu_460_person_39	Doc Shucart		ttu_0078
 ttu_460_person_40	Charlie Company		
-ttu_460_person_41	Joel		ttu_0076
-ttu_460_person_42	Captain Forrest		ttu_0079
+ttu_460_person_41	Joel	Q111443804	
+ttu_460_person_42	Captain Forrest	Q111597595	
 ttu_460_person_43	John Howard Nash		ttu_0071
 ttu_460_person_44	John		ttu_0071
 ttu_460_person_45	John		ttu_0071
-ttu_460_person_46	Tony Nadal		ttu_0080
+ttu_460_person_46	Tony Nadal	Q111442803	
 ttu_460_person_47	Frank Henry		ttu_0073
 ttu_460_person_48	Frank		ttu_0073
 ttu_460_person_49	John Howard		ttu_0071
