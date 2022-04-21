@@ -1,53 +1,53 @@
-id	orgName
-ttu_472_org_0	Texas Tech University
-ttu_472_org_1	Vietnam Center
-ttu_472_org_2	Charlie Company, 2nd Battalion 7th Cav
-ttu_472_org_3	2nd
-ttu_472_org_4	1st Cav
-ttu_472_org_5	1st Cav
-ttu_472_org_6	Alpha Company, 1st of the 29th infantry
-ttu_472_org_7	1st Air Cav
-ttu_472_org_8	11th Air Assault
-ttu_472_org_9	ROTC (Reserve Officers’ Training Corps)
-ttu_472_org_10	Pennsylvania Military College
-ttu_472_org_11	ROTC
-ttu_472_org_12	RA (Regular Army)
-ttu_472_org_13	Pennsylvania Military College
-ttu_472_org_14	army
-ttu_472_org_15	Army
-ttu_472_org_16	OCS (Officer Candidate School)
-ttu_472_org_17	OCS
-ttu_472_org_18	9th Infantry Division
-ttu_472_org_19	1st Air Cav
-ttu_472_org_20	1st Cav
-ttu_472_org_21	cav
-ttu_472_org_22	Delta company of 1st of the 7th
-ttu_472_org_23	Cuban brigade
-ttu_472_org_24	armed forces of the United States
-ttu_472_org_25	brigade
-ttu_472_org_26	PAVN (People’s Army of Vietnam)
-ttu_472_org_27	Viet Cong
-ttu_472_org_28	PAVN
-ttu_472_org_29	Vietcong
-ttu_472_org_30	PAVN
-ttu_472_org_31	2nd Battalion
-ttu_472_org_32	cav
-ttu_472_org_33	1st battalion
-ttu_472_org_34	ROTC
-ttu_472_org_35	Charlie Company 2nd of the 7th
-ttu_472_org_36	Air Force
-ttu_472_org_37	Alpha company
-ttu_472_org_38	1st of the 7th
-ttu_472_org_39	1st of the 7th
-ttu_472_org_40	Alpha Company of 1st of the 7th
-ttu_472_org_41	5th Cav
-ttu_472_org_42	1st of the 5th
-ttu_472_org_43	2nd of the 5th
-ttu_472_org_44	2nd of the 5th
-ttu_472_org_45	Alpha Company, 2nd of the 7th
-ttu_472_org_46	Alpha Company
-ttu_472_org_47	Captain Forrest’s Company
-ttu_472_org_48	1st of the 5th
-ttu_472_org_49	1st
-ttu_472_org_50	Alpha Company
-ttu_472_org_51	Captain George Forrest’s Company
+id	orgName	QID	ttu_id
+ttu_472_org_0	Texas Tech University	Q1423756	
+ttu_472_org_1	Vietnam Center and Sam Johnson Vietnam Archive	Q7928492	
+ttu_472_org_2	Company C, 2nd Battalion, 7th Cavalry Regiment	Q111524902	
+ttu_472_org_3	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_472_org_4	1st Cavalry Division	Q2338	
+ttu_472_org_5	1st Cavalry Division	Q2338	
+ttu_472_org_6	Alpha Company, 1st of the 29th infantry		ttu_0143
+ttu_472_org_7	1st Cavalry Division	Q2338	
+ttu_472_org_8	11th Airborne Division	Q169980	
+ttu_472_org_9	Reserve Officers' Training Corps	Q489983	
+ttu_472_org_10	Widener University	Q3443325	
+ttu_472_org_11	Reserve Officers' Training Corps	Q489983	
+ttu_472_org_12	Regular Army (United States)	Q4992216	
+ttu_472_org_13	Widener University	Q3443325	
+ttu_472_org_14	United States Army	Q9212	
+ttu_472_org_15	United States Army	Q9212	
+ttu_472_org_16	Officer Candidate School	Q14319576	
+ttu_472_org_17	Officer Candidate School	Q14319576	
+ttu_472_org_18	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_472_org_19	1st Cavalry Division	Q2338	
+ttu_472_org_20	1st Cavalry Division	Q2338	
+ttu_472_org_21	1st Cavalry Division	Q2338	
+ttu_472_org_22	Company D, 1st Battalion, 7th Cavalry Regiment	Q110745368	
+ttu_472_org_23	Brigade 2506	Q915334	
+ttu_472_org_24	United States Armed Forces	Q11211	
+ttu_472_org_25	Brigade 2506	Q915334	
+ttu_472_org_26	People's Army of Vietnam	Q3936506	
+ttu_472_org_27	National Front for the Liberation of South Vietnam	Q174423	
+ttu_472_org_28	People's Army of Vietnam	Q3936506	
+ttu_472_org_29	National Front for the Liberation of South Vietnam	Q174423	
+ttu_472_org_30	People's Army of Vietnam	Q3936506	
+ttu_472_org_31	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_472_org_32	1st Cavalry Division	Q2338	
+ttu_472_org_33	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_472_org_34	Reserve Officers' Training Corps	Q489983	
+ttu_472_org_35	Company C, 2nd Battalion, 7th Cavalry Regiment	Q111524902	
+ttu_472_org_36	United States Air Force	Q11223	
+ttu_472_org_37	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_472_org_38	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_472_org_39	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_472_org_40	Company A, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_472_org_41	5th Cavalry Regiment	Q4641270	
+ttu_472_org_42	1st Battalion, 5th Cavalry Regiment	Q110880590	
+ttu_472_org_43	2nd Battalion, 5th Cavalry Regiment	Q110641607	
+ttu_472_org_44	2nd Battalion, 5th Cavalry Regiment	Q110641607	
+ttu_472_org_45	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_472_org_46	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_472_org_47	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_472_org_48	1st Battalion, 5th Cavalry Regiment	Q110880590	
+ttu_472_org_49	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_472_org_50	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_472_org_51	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
