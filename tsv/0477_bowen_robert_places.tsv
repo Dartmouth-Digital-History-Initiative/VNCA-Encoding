@@ -1,104 +1,123 @@
-id	placeName
-ttu_477_place_0	Crystal Hilton City
-ttu_477_place_1	Holly Springs, Mississippi
-ttu_477_place_2	Fort Benning
-ttu_477_place_3	Fort Rucker
-ttu_477_place_4	Fort Benning
-ttu_477_place_5	Vietnam
-ttu_477_place_6	Mobile
-ttu_477_place_7	Fort Benning
-ttu_477_place_8	San Francisco
-ttu_477_place_9	San Francisco
-ttu_477_place_10	Honolulu
-ttu_477_place_11	Hickam Air Force Base
-ttu_477_place_12	Midway Island
-ttu_477_place_13	Wake Island
-ttu_477_place_14	Guam
-ttu_477_place_15	Vietnam
-ttu_477_place_16	Hawaii
-ttu_477_place_17	Vung Tau
-ttu_477_place_18	An Khe
-ttu_477_place_19	An Khe Air Field
-ttu_477_place_20	Camp Holloway, Pleiku
-ttu_477_place_21	Camp Holloway
-ttu_477_place_22	States
-ttu_477_place_23	An Khe
-ttu_477_place_24	Camp Holloway
-ttu_477_place_25	Plei Me
-ttu_477_place_26	An Khe
-ttu_477_place_27	LZ (Landing Zone) X-Ray
-ttu_477_place_28	Albany
-ttu_477_place_29	An Khe
-ttu_477_place_30	Ia Drang
-ttu_477_place_31	Camp Holloway
-ttu_477_place_32	Camp Holloway
-ttu_477_place_33	Qui Nhon
-ttu_477_place_34	Nha Trang
-ttu_477_place_35	South Carolina
-ttu_477_place_36	An Khe
-ttu_477_place_37	Vietnam
-ttu_477_place_38	An Khe
-ttu_477_place_39	An Khe
-ttu_477_place_40	Camp Holloway
-ttu_477_place_41	X-Ray
-ttu_477_place_42	An Khe
-ttu_477_place_43	Pleiku
-ttu_477_place_44	X-Ray
-ttu_477_place_45	Pleiku
-ttu_477_place_46	LZ X-Ray
-ttu_477_place_47	Catecka
-ttu_477_place_48	An Khe
-ttu_477_place_49	An Khe
-ttu_477_place_50	Pleiku
-ttu_477_place_51	Camp Holloway
-ttu_477_place_52	LZ Albany
-ttu_477_place_53	Camp Holloway
-ttu_477_place_54	Saigon
-ttu_477_place_55	US
-ttu_477_place_56	Holloway
-ttu_477_place_57	Camp Holloway
-ttu_477_place_58	Albany
-ttu_477_place_59	Camp Holloway
-ttu_477_place_60	Camp Holloway
-ttu_477_place_61	An Khe
-ttu_477_place_62	Camp Holloway
-ttu_477_place_63	Kontum
-ttu_477_place_64	States
-ttu_477_place_65	States
-ttu_477_place_66	Vietnam
-ttu_477_place_67	the United States
-ttu_477_place_68	South Carolina
-ttu_477_place_69	Fort Benning
-ttu_477_place_70	Puerto Rico
-ttu_477_place_71	Puerto Rico
-ttu_477_place_72	Fort Benning
-ttu_477_place_73	Kansas City
-ttu_477_place_74	Fort Meade, Maryland
-ttu_477_place_75	San Francisco
-ttu_477_place_76	Hawaii
-ttu_477_place_77	Hawaii
-ttu_477_place_78	Hickam Field,
-ttu_477_place_79	Midway
-ttu_477_place_80	Midway
-ttu_477_place_81	An Khe
-ttu_477_place_82	Pleiku
-ttu_477_place_83	Plei Me Special Forces camp
-ttu_477_place_84	An Khe
-ttu_477_place_85	Saigon
-ttu_477_place_86	Vietnam
-ttu_477_place_87	Andersen
-ttu_477_place_88	Andersen
-ttu_477_place_89	Memphis
-ttu_477_place_90	Vietnam
-ttu_477_place_91	X-Ray
-ttu_477_place_92	Albany
-ttu_477_place_93	Qui Nhon
-ttu_477_place_94	An Khe
-ttu_477_place_95	An Khe
-ttu_477_place_96	Pleiku
-ttu_477_place_97	An Khe
-ttu_477_place_98	Philippines
-ttu_477_place_99	Fort Benning
-ttu_477_place_100	South Carolina
-ttu_477_place_101	Vietnam
-ttu_477_place_102	Buffalo
+id	placeName	coordinate location	QID	ttu_id
+ttu_477_place_0	Hilton Crystal City at Washington Reagan National Airport	38.852191,-77.052014	Q110624980	
+ttu_477_place_1	Holly Springs	34.7733,-89.4464	Q2273202	
+ttu_477_place_2	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_477_place_3	Fort Rucker	31.34,-85.71	Q1292067	
+ttu_477_place_4	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_477_place_5	Vietnam	16,108	Q881	
+ttu_477_place_6	Mobile	30.727669444444,-88.052672222222	Q79875	
+ttu_477_place_7	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_477_place_8	San Francisco	37.7775,-122.41638888888889	Q62	
+ttu_477_place_9	San Francisco	37.7775,-122.41638888888889	Q62	
+ttu_477_place_10	Honolulu	21.304694444444443,-157.85719444444445	Q18094	
+ttu_477_place_11	Hickam Field	21.318680555556,-157.92242777778	Q1617253	
+ttu_477_place_12	Midway Atoll	28.2,-177.35	Q47863	
+		28.20935,-177.37813		
+ttu_477_place_13	Wake Island	19.3,166.63333333333	Q43296	
+ttu_477_place_14	Guam	13.5,144.8	Q16635	
+ttu_477_place_15	Vietnam	16,108	Q881	
+ttu_477_place_16	Hawaii	21.3075,-157.8575	Q782	
+ttu_477_place_17	Vũng Tàu	10.404166666667,107.14166666667	Q21194	
+ttu_477_place_18	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_19	Camp Radcliff	13.5934800,108.3854593	Q18386291	
+ttu_477_place_20	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_21	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_22	United States of America	39.828175,-98.5795	Q30	
+ttu_477_place_23	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_24	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_25	Plei Me Camp	13.6175,107.9175	Q110624862	
+ttu_477_place_26	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_27	LZ X-Ray	13.567944,107.714	Q110624850	
+ttu_477_place_28	LZ Albany	13.59528,107.71528	Q110624853	
+ttu_477_place_29	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_30	Ia Drăng	13.76361111,107.8541667	Q10772506	
+ttu_477_place_31	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_32	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_33	Qui Nhơn	13.769580555555555,109.23137222222222	Q36081	
+ttu_477_place_34	Nha Trang	12.249527,109.190764	Q19491	
+ttu_477_place_35	South Carolina	34,-81	Q1456	
+ttu_477_place_36	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_37	Vietnam	16,108	Q881	
+ttu_477_place_38	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_39	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_40	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_41	X-Ray	13.567944,107.714	Q110624850	
+ttu_477_place_42	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_43	Pleiku	13.971519,108.014673	Q30599	
+ttu_477_place_44	X-Ray	13.567944,107.714	Q110624850	
+ttu_477_place_45	Pleiku	13.971519,108.014673	Q30599	
+ttu_477_place_46	LZ X-Ray	13.567944,107.714	Q110624850	
+ttu_477_place_47	Catecka Base Camp	13.865,107.962	Q18639524	
+ttu_477_place_48	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_49	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_50	Pleiku	13.971519,108.014673	Q30599	
+ttu_477_place_51	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_52	LZ Albany	13.59528,107.71528	Q110624853	
+ttu_477_place_53	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_54	Ho Chi Minh City	10.775555555555556,106.70194444444445	Q1854	
+ttu_477_place_55	United States of America	39.828175,-98.5795	Q30	
+ttu_477_place_56	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_57	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_58	LZ Albany	13.59528,107.71528	Q110624853	
+ttu_477_place_59	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_60	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_61	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_62	Camp Holloway	13.973,108.031	Q5027263	
+ttu_477_place_63	Kon Tum	14.75,107.91666666667	Q36315	
+ttu_477_place_64	United States of America	39.828175,-98.5795	Q30	
+ttu_477_place_65	United States of America	39.828175,-98.5795	Q30	
+ttu_477_place_66	Vietnam	16,108	Q881	
+ttu_477_place_67	United States of America	39.828175,-98.5795	Q30	
+ttu_477_place_68	South Carolina	34,-81	Q1456	
+ttu_477_place_69	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_477_place_70	Puerto Rico	18.25,-66.5	Q1183	
+ttu_477_place_71	Puerto Rico	18.25,-66.5	Q1183	
+ttu_477_place_72	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_477_place_73	Kansas City	39.05,-94.583333333333	Q41819	
+ttu_477_place_74	Fort Meade, Maryland	39.105,-76.7414	Q755026	
+ttu_477_place_75	San Francisco	37.7775,-122.41638888888889	Q62	
+ttu_477_place_76	Hawaii	21.3075,-157.8575	Q782	
+ttu_477_place_77	Hawaii	21.3075,-157.8575	Q782	
+ttu_477_place_78	Hickam Field	21.318680555556,-157.92242777778	Q1617253	
+ttu_477_place_79	Midway Atoll	28.2,-177.35	Q47863	
+		28.20935,-177.37813		
+ttu_477_place_80	Midway Atoll	28.2,-177.35	Q47863	
+		28.20935,-177.37813		
+ttu_477_place_81	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_82	Pleiku	13.971519,108.014673	Q30599	
+ttu_477_place_83	Plei Me Camp	13.6175,107.9175	Q110624862	
+ttu_477_place_84	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_85	Ho Chi Minh City	10.775555555555556,106.70194444444445	Q1854	
+ttu_477_place_86	Vietnam	16,108	Q881	
+ttu_477_place_87	Andersen Air Force Base	13.583952777778,144.930025	Q491372	
+ttu_477_place_88	Andersen Air Force Base	13.583952777778,144.930025	Q491372	
+ttu_477_place_89	Memphis	35.1175,-89.971111111111	Q16563	
+ttu_477_place_90	Vietnam	16,108	Q881	
+ttu_477_place_91	X-Ray	13.567944,107.714	Q110624850	
+ttu_477_place_92	LZ Albany	13.59528,107.71528	Q110624853	
+ttu_477_place_93	Qui Nhơn	13.769580555555555,109.23137222222222	Q36081	
+ttu_477_place_94	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_95	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_96	Pleiku	13.971519,108.014673	Q30599	
+ttu_477_place_97	An Khê	16.05222222,108.1855556	Q10733203	
+		16.046388888889,108.1875		
+ttu_477_place_98	Philippines	12,123	Q928	
+ttu_477_place_99	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+ttu_477_place_100	South Carolina	34,-81	Q1456	
+ttu_477_place_101	Vietnam	16,108	Q881	
+ttu_477_place_102	Buffalo	42.904722222222,-78.849444444444	Q40435	
