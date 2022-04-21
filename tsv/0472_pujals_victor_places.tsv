@@ -1,35 +1,35 @@
-id	placeName
-ttu_472_place_0	Benning
-ttu_472_place_1	Fort Benning
-ttu_472_place_2	Macon
-ttu_472_place_3	Chester, Pennsylvania
-ttu_472_place_4	Germany
-ttu_472_place_5	Vietnam
-ttu_472_place_6	Vietnam
-ttu_472_place_7	Fort Benning
-ttu_472_place_8	Vietnam
-ttu_472_place_9	“Golf course”
-ttu_472_place_10	“Golf Course”
-ttu_472_place_11	Hawaii
-ttu_472_place_12	Vietnam
-ttu_472_place_13	Happy Valley
-ttu_472_place_14	X-Ray
-ttu_472_place_15	X-Ray
-ttu_472_place_16	Pleiku
-ttu_472_place_17	X-Ray
-ttu_472_place_18	X-Ray
-ttu_472_place_19	X-Ray
-ttu_472_place_20	X-Ray
-ttu_472_place_21	Ponce, Puerto Rico
-ttu_472_place_22	Puerto Rico
-ttu_472_place_23	Ponce
-ttu_472_place_24	Puerto Rico
-ttu_472_place_25	X-Ray
-ttu_472_place_26	X-Ray
-ttu_472_place_27	LZ Columbus
-ttu_472_place_28	Falcon
-ttu_472_place_29	Columbus
-ttu_472_place_30	Albany
-ttu_472_place_31	LZ Albany
-ttu_472_place_32	Albany
-ttu_472_place_33	Fort Benning
+id	placeName	OID	ttu_id	coordinate location
+ttu_472_place_0	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_472_place_1	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_472_place_2	Macon	Q219656		32.84069,-83.6324
+ttu_472_place_3	Chester	Q368045		39.847222222222,-75.372777777778
+ttu_472_place_4	Germany	Q183		51,10
+ttu_472_place_5	Vietnam	Q881		16,108
+ttu_472_place_6	Vietnam	Q881		16,108
+ttu_472_place_7	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_472_place_8	Vietnam	Q881		16,108
+ttu_472_place_9	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_472_place_10	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_472_place_11	Hawaii	Q782		21.3075,-157.8575
+ttu_472_place_12	Vietnam	Q881		16,108
+ttu_472_place_13	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_472_place_14	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_15	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_16	Camp Holloway	Q5027263		13.973,108.031
+ttu_472_place_17	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_18	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_19	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_20	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_21	Ponce	Q864024		18.0027266,-66.6072588
+ttu_472_place_22	Puerto Rico	Q1183		18.25,-66.5
+ttu_472_place_23	Ponce	Q864024		18.0027266,-66.6072588
+ttu_472_place_24	Puerto Rico	Q1183		18.25,-66.5
+ttu_472_place_25	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_26	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_472_place_27	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_472_place_28	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_472_place_29	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_472_place_30	LZ Albany	Q110624853		13.59528,107.71528
+ttu_472_place_31	LZ Albany	Q110624853		13.59528,107.71528
+ttu_472_place_32	LZ Albany	Q110624853		13.59528,107.71528
+ttu_472_place_33	Fort Benning	Q1438462		32.366111111111,-84.969166666667
