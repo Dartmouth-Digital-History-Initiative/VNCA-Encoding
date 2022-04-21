@@ -1,16 +1,16 @@
-id	persName
-ttu_477_person_0	Philip Napoli
-ttu_477_person_1	Mr. Bob Bowen
-ttu_477_person_2	Mr. Bowen
-ttu_477_person_3	President Johnson
-ttu_477_person_4	Clark Airbase
-ttu_477_person_5	Vung Tau
-ttu_477_person_6	Lieutenant Bowen
-ttu_477_person_7	Hal Moore
-ttu_477_person_8	Pleiku
-ttu_477_person_9	Joe Galloway
-ttu_477_person_10	Rube Goldberg
-ttu_477_person_11	Arthur Andersen
-ttu_477_person_12	Bruce Crandall
-ttu_477_person_13	General Kinnard
-ttu_477_person_14	Mr. Bowen
+id	persName	QID	ttu_id
+ttu_477_person_0	Philip F. Napoli	Q111599207	
+ttu_477_person_1	Bob Bowen	Q111677801	
+ttu_477_person_2	Bob Bowen	Q111677801	
+ttu_477_person_3	Lyndon B. Johnson	Q9640	
+ttu_477_person_4	Clark Airbase		
+ttu_477_person_5	Vung Tau		
+ttu_477_person_6	Bob Bowen	Q111677801	
+ttu_477_person_7	Hal Moore	Q430209	
+ttu_477_person_8	Pleiku		
+ttu_477_person_9	Joseph L. Galloway	Q3185182	
+ttu_477_person_10	Rube Goldberg	Q505850	
+ttu_477_person_11	Arthur Andersen		
+ttu_477_person_12	Bruce Perry Crandall	Q3431327	
+ttu_477_person_13	Harry Kinnard	Q2138194	
+ttu_477_person_14	Bob Bowen	Q111677801	

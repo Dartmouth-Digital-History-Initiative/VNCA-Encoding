@@ -1,11 +1,11 @@
-id	name
-ttu_477_event_0	Ia Drang-Pleiku campaign
-ttu_477_event_1	11th Air Assault
-ttu_477_event_2	Pleiku campaign
-ttu_477_event_3	Bong Son campaign
-ttu_477_event_4	Ia Drang operation
-ttu_477_event_5	Ia Drang-Pleiku campaign
-ttu_477_event_6	Air Assault II
-ttu_477_event_7	Vietnam war
-ttu_477_event_8	Air Assault II
-ttu_477_event_9	Air Assault II
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_477_event_0	Pleiku Campaign	Q24189107				1965-11-26T00:00:00Z
+ttu_477_event_1	11th Air Assault					
+ttu_477_event_2	Pleiku Campaign	Q24189107				1965-11-26T00:00:00Z
+ttu_477_event_3	Bong Son Campaign	Q111602490		1966-01-28T00:00:00Z	1966-02-12T00:00:00Z	
+ttu_477_event_4	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_477_event_5	Pleiku Campaign	Q24189107				1965-11-26T00:00:00Z
+ttu_477_event_6	Air Assault II	Q111603495				1964-10-01T00:00:00Z
+ttu_477_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_477_event_8	Air Assault II	Q111603495				1964-10-01T00:00:00Z
+ttu_477_event_9	Air Assault II	Q111603495				1964-10-01T00:00:00Z
