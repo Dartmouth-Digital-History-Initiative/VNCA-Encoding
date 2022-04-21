@@ -1,56 +1,56 @@
-id	placeName
-ttu_478_place_0	Vietnam
-ttu_478_place_1	Fort Benning
-ttu_478_place_2	Vietnam
-ttu_478_place_3	Vietnam
-ttu_478_place_4	Vietnam
-ttu_478_place_5	Vietnam
-ttu_478_place_6	Vietnam
-ttu_478_place_7	Benning
-ttu_478_place_8	Vietnam
-ttu_478_place_9	Vietnam
-ttu_478_place_10	Qui Nhon
-ttu_478_place_11	An Khe
-ttu_478_place_12	An Khe
-ttu_478_place_13	An Khe
-ttu_478_place_14	Pleiku
-ttu_478_place_15	Catecka
-ttu_478_place_16	Ia Drang river
-ttu_478_place_17	Pleiku
-ttu_478_place_18	Duc Co
-ttu_478_place_19	LZ Betty
-ttu_478_place_20	Duc Co
-ttu_478_place_21	Plei Me
-ttu_478_place_22	Drang River
-ttu_478_place_23	Laos
-ttu_478_place_24	Texas
-ttu_478_place_25	Vietnam
-ttu_478_place_26	Ia Drang River
-ttu_478_place_27	Ia Drang
-ttu_478_place_28	Chu Pong Mountain
-ttu_478_place_29	Chu Pong
-ttu_478_place_30	An Khe
-ttu_478_place_31	Ia Drang River
-ttu_478_place_32	Fort Benning
-ttu_478_place_33	Fort Benning
-ttu_478_place_34	Vietnam
-ttu_478_place_35	Vietnam
-ttu_478_place_36	Vietnam
-ttu_478_place_37	Holland
-ttu_478_place_38	Holland
-ttu_478_place_39	Korea
-ttu_478_place_40	Vietnam
-ttu_478_place_41	Fort Benning
-ttu_478_place_42	West Point
-ttu_478_place_43	Vietnam
-ttu_478_place_44	Holland
-ttu_478_place_45	Korea
-ttu_478_place_46	South Carolina
-ttu_478_place_47	South Carolina
-ttu_478_place_48	Fort Leavenworth
-ttu_478_place_49	Iraq
-ttu_478_place_50	Fort Jackson
-ttu_478_place_51	San Diego
-ttu_478_place_52	West Point
-ttu_478_place_53	LZ Mary
-ttu_478_place_54	Ia Drang River
+id	placeName	QID	ttu_ID	coordinate location
+ttu_478_place_0	Vietnam	Q881		16,108
+ttu_478_place_1	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_478_place_2	Vietnam	Q881		16,108
+ttu_478_place_3	Vietnam	Q881		16,108
+ttu_478_place_4	Vietnam	Q881		16,108
+ttu_478_place_5	Vietnam	Q881		16,108
+ttu_478_place_6	Vietnam	Q881		16,108
+ttu_478_place_7	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_478_place_8	Vietnam	Q881		16,108
+ttu_478_place_9	Vietnam	Q881		16,108
+ttu_478_place_10	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_478_place_11	An Khê	Q15179893		13.9530664,108.6569463
+ttu_478_place_12	An Khê	Q15179893		13.9530664,108.6569463
+ttu_478_place_13	An Khê	Q15179893		13.9530664,108.6569463
+ttu_478_place_14	Pleiku	Q30599		13.971519,108.014673
+ttu_478_place_15	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_478_place_16	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
+ttu_478_place_17	Pleiku	Q30599		13.971519,108.014673
+ttu_478_place_18	Đức Cơ	Q5311199		13.783333333333,107.67083333333
+ttu_478_place_19	Firebase Betty	Q19840097		
+ttu_478_place_20	Đức Cơ	Q5311199		13.783333333333,107.67083333333
+ttu_478_place_21	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_478_place_22	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
+ttu_478_place_23	Laos	Q819		18.2,104.1
+ttu_478_place_24	Texas	Q1439		31,-100
+ttu_478_place_25	Vietnam	Q881		16,108
+ttu_478_place_26	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
+ttu_478_place_27	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
+ttu_478_place_28	Chư Pong	Q31621915		13.315277777778,108.35555555556
+ttu_478_place_29	Chư Pong	Q31621915		13.315277777778,108.35555555556
+ttu_478_place_30	An Khê	Q15179893		13.9530664,108.6569463
+ttu_478_place_31	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
+ttu_478_place_32	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_478_place_33	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_478_place_34	Vietnam	Q881		16,108
+ttu_478_place_35	Vietnam	Q881		16,108
+ttu_478_place_36	Vietnam	Q881		16,108
+ttu_478_place_37	Netherlands	Q55		52.316666666667,5.55
+ttu_478_place_38	Netherlands	Q55		52.316666666667,5.55
+ttu_478_place_39	South Korea	Q884		36,128
+ttu_478_place_40	Vietnam	Q881		16,108
+ttu_478_place_41	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_478_place_42	United States Military Academy	Q9219		41.39277778,-73.95833333
+ttu_478_place_43	Vietnam	Q881		16,108
+ttu_478_place_44	Netherlands	Q55		52.316666666667,5.55
+ttu_478_place_45	South Korea	Q884		36,128
+ttu_478_place_46	South Carolina	Q1456		34,-81
+ttu_478_place_47	South Carolina	Q1456		34,-81
+ttu_478_place_48	Fort Leavenworth	Q590879		39.355,-94.921111111111
+ttu_478_place_49	Iraq	Q796		33,43
+ttu_478_place_50	Fort Jackson	Q5471392		34.039166666667,-80.822222222222
+ttu_478_place_51	San Diego	Q16552		32.715,-117.1625
+ttu_478_place_52	United States Military Academy	Q9219		41.39277778,-73.95833333
+ttu_478_place_53	LZ Mary	Q111677084		13.617861111111111,107.61383333333333
+ttu_478_place_54	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
