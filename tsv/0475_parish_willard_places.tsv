@@ -1,46 +1,48 @@
-id	placeName
-ttu_475_place_0	Crystal City Hilton
-ttu_475_place_1	Vietnam
-ttu_475_place_2	Bristow, Oklahoma
-ttu_475_place_3	Fort Polk, Louisiana
-ttu_475_place_4	Fort Benning, Georgia
-ttu_475_place_5	Kelley Hill
-ttu_475_place_6	Fort Benning
-ttu_475_place_7	Harmony Church
-ttu_475_place_8	Kelley Hill
-ttu_475_place_9	South Carolina
-ttu_475_place_10	Benning
-ttu_475_place_11	Vietnam
-ttu_475_place_12	French-Indochina
-ttu_475_place_13	1st Air Cav
-ttu_475_place_14	Korea
-ttu_475_place_15	Fort Benning
-ttu_475_place_16	Long Beach
-ttu_475_place_17	Kelley Hill
-ttu_475_place_18	Charleston, South Carolina
-ttu_475_place_19	Panama Canal
-ttu_475_place_20	Long Beach
-ttu_475_place_21	Qui Nhon
-ttu_475_place_22	Japan
-ttu_475_place_23	Benning
-ttu_475_place_24	Vietnam
-ttu_475_place_25	Happy Valley
-ttu_475_place_26	Saigon
-ttu_475_place_27	Happy Valley
-ttu_475_place_28	Plei Me
-ttu_475_place_29	Chu Pong Massif
-ttu_475_place_30	LZ
-ttu_475_place_31	An Khe
-ttu_475_place_32	Tulsa
-ttu_475_place_33	An Khe
-ttu_475_place_34	Iraq
-ttu_475_place_35	Fort Sill
-ttu_475_place_36	Philippines
-ttu_475_place_37	Vietnam
-ttu_475_place_38	Japan
-ttu_475_place_39	Japan
-ttu_475_place_40	Vietnam
-ttu_475_place_41	Fort Hood
-ttu_475_place_42	Oklahoma
-ttu_475_place_43	Vietnam
-ttu_475_place_44	Canada
+id	placeName	QID	ttu_id	coordinate location
+ttu_475_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
+ttu_475_place_1	Vietnam	Q881		16,108
+ttu_475_place_2	Bristow	Q2856388		35.830833333333,-96.390555555556
+ttu_475_place_3	Fort Polk South	Q1922637		31.0469,-93.2111
+ttu_475_place_4	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_475_place_5	Kelley Hill	Q31612986		34.7059,-88.849
+ttu_475_place_6	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_475_place_7	Harmony Church	Q5659475		38.6058,-75.2189
+ttu_475_place_8	Kelley Hill	Q31612986		34.7059,-88.849
+ttu_475_place_9	South Carolina	Q1456		34,-81
+ttu_475_place_10	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_475_place_11	Vietnam	Q881		16,108
+ttu_475_place_12	French Indochina	Q185682		21.033333333333,105.85
+ttu_475_place_13	1st Air Cav			
+ttu_475_place_14	Korea	Q18097		38.316666666667,127.23333333333
+ttu_475_place_15	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_475_place_16	Long Beach	Q16739		33.768321,-118.1956168
+ttu_475_place_17	Kelley Hill	Q31612986		34.7059,-88.849
+ttu_475_place_18	Charleston	Q47716		32.776111111111,-79.9325
+ttu_475_place_19	Panama Canal	Q7350		9.08,-79.68
+ttu_475_place_20	Long Beach	Q16739		33.768321,-118.1956168
+ttu_475_place_21	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_475_place_22	Japan	Q17		35,136
+ttu_475_place_23	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_475_place_24	Vietnam	Q881		16,108
+ttu_475_place_25	Happy Valley	Q312436		22.2667,114.183
+ttu_475_place_26	Ho Chi Minh City	Q1854		10.775555555555556,106.70194444444445
+ttu_475_place_27	Happy Valley	Q312436		22.2667,114.183
+ttu_475_place_28	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_475_place_29	Chu Pong Massif	Q65040315		13.57286132548346,107.66598001153218
+ttu_475_place_30	landing zone	Q3305194		
+ttu_475_place_31	An Khê	Q10733203		16.05222222,108.1855556
+				16.046388888889,108.1875
+ttu_475_place_32	Tulsa	Q44989		36.131388888889,-95.937222222222
+ttu_475_place_33	An Khê	Q10733203		16.05222222,108.1855556
+				16.046388888889,108.1875
+ttu_475_place_34	Iraq	Q796		33,43
+ttu_475_place_35	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_475_place_36	Philippines	Q928		12,123
+ttu_475_place_37	Vietnam	Q881		16,108
+ttu_475_place_38	Japan	Q17		35,136
+ttu_475_place_39	Japan	Q17		35,136
+ttu_475_place_40	Vietnam	Q881		16,108
+ttu_475_place_41	Fort Hood	Q783854		31.1344744,-97.7797191
+ttu_475_place_42	Oklahoma	Q1649		35.5,-98
+ttu_475_place_43	Vietnam	Q881		16,108
+ttu_475_place_44	Canada	Q16		56,-109
