@@ -1,66 +1,66 @@
-id	orgName
-ttu_480_org_0	7th Cavalry
-ttu_480_org_1	Charlie Company, 1st of the 9th Infantry
-ttu_480_org_2	2nd Infantry Division
-ttu_480_org_3	Charlie Company 1st of the 9th
-ttu_480_org_4	A Company 2nd of the 7th Cavalry, 1st Cav Division
-ttu_480_org_5	7th Cav
-ttu_480_org_6	Army
-ttu_480_org_7	A Company, 2nd of the 7th
-ttu_480_org_8	2nd Infantry Division
-ttu_480_org_9	C Company 1st of the 9th
-ttu_480_org_10	2nd Division
-ttu_480_org_11	1st Cav Division
-ttu_480_org_12	11th Air Assault
-ttu_480_org_13	2nd Infantry Division
-ttu_480_org_14	1st Cav Division
-ttu_480_org_15	Delta Company, 2nd of the 7th
-ttu_480_org_16	11th Air Assault
-ttu_480_org_17	11th Air Assault
-ttu_480_org_18	1st Cav
-ttu_480_org_19	2nd of the 7th
-ttu_480_org_20	1st of the 7th
-ttu_480_org_21	1st of the 7th
-ttu_480_org_22	1st Cav Division
-ttu_480_org_23	USS Rose
-ttu_480_org_24	Rose
-ttu_480_org_25	ol’ rambling Rose
-ttu_480_org_26	USS Maurice Rose
-ttu_480_org_27	3rd Brigade of the 1st Cav
-ttu_480_org_28	USS Rose
-ttu_480_org_29	1st of the 7th Cavalry
-ttu_480_org_30	Battalion 1st of the 7th
-ttu_480_org_31	B Company 2nd Battalion
-ttu_480_org_32	B Company
-ttu_480_org_33	A Company
-ttu_480_org_34	2nd of the 7th
-ttu_480_org_35	A Company
-ttu_480_org_36	A company
-ttu_480_org_37	B Company, 2nd of the 7th
-ttu_480_org_38	A Company
-ttu_480_org_39	B Company
-ttu_480_org_40	B Company 2nd of the 7th
-ttu_480_org_41	B Company
-ttu_480_org_42	NVA (North Vietnamese Army)
-ttu_480_org_43	A Company 2nd of the 7th
-ttu_480_org_44	B Company 2nd of the 7th
-ttu_480_org_45	A Company
-ttu_480_org_46	A Company
-ttu_480_org_47	AP
-ttu_480_org_48	VA (Veterans Affairs)
-ttu_480_org_49	VA
-ttu_480_org_50	Red Cross
-ttu_480_org_51	Army
-ttu_480_org_52	C Company 1st of the 47th Infantry
-ttu_480_org_53	Charlie Company, 1st of the 9th
-ttu_480_org_54	ARVN (Army of the Republic of Vietnam)
-ttu_480_org_55	ARVN
-ttu_480_org_56	VC (Viet Cong)
-ttu_480_org_57	Delta, Delta 3rd Battalion, 3rd Brigade
-ttu_480_org_58	D33
-ttu_480_org_59	America
-ttu_480_org_60	US Army
-ttu_480_org_61	American Army
-ttu_480_org_62	Vietnamese Army
-ttu_480_org_63	South Vietnamese Army
-ttu_480_org_64	1st Cav
+id	orgName	QID	dvp_id
+ttu_480_org_0	7th Cavalry Regiment	Q269574	
+ttu_480_org_1	Company C, 1st of the 9th Infantry	Q111639872	
+ttu_480_org_2	2nd Infantry Division	Q210607	
+ttu_480_org_3	Company C, 1st of the 9th Infantry	Q111639872	
+ttu_480_org_4	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_5	7th Cavalry Regiment	Q269574	
+ttu_480_org_6	United States Army	Q9212	
+ttu_480_org_7	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_8	2nd Infantry Division	Q210607	
+ttu_480_org_9	Company C, 1st of the 9th Infantry	Q111639872	
+ttu_480_org_10	2nd Infantry Division	Q210607	
+ttu_480_org_11	1st Cavalry Division	Q2338	
+ttu_480_org_12	11th Airborne Division	Q169980	
+ttu_480_org_13	2nd Infantry Division	Q210607	
+ttu_480_org_14	1st Cavalry Division	Q2338	
+ttu_480_org_15	Company D, 2nd Battalion, 7th Cavalry Regiment	Q111640320	
+ttu_480_org_16	11th Airborne Division	Q169980	
+ttu_480_org_17	11th Airborne Division	Q169980	
+ttu_480_org_18	1st Cavalry Division	Q2338	
+ttu_480_org_19	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_480_org_20	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_480_org_21	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_480_org_22	1st Cavalry Division	Q2338	
+ttu_480_org_23	USS Admiral Hugh Rodman	Q7867050	
+ttu_480_org_24	USS Admiral Hugh Rodman	Q7867050	
+ttu_480_org_25	USS Admiral Hugh Rodman	Q7867050	
+ttu_480_org_26	USS Admiral Hugh Rodman	Q7867050	
+ttu_480_org_27	3rd Brigade Combat Team, 1st Cavalry Division	Q4636701	
+ttu_480_org_28	USS Admiral Hugh Rodman	Q7867050	
+ttu_480_org_29	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_480_org_30	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_480_org_31	B Company 2nd Battalion, 7th Cavalry Regiment	Q110884354	
+ttu_480_org_32	B Company 2nd Battalion, 7th Cavalry Regiment	Q110884354	
+ttu_480_org_33	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_34	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_480_org_35	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_36	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_37	B Company 2nd Battalion, 7th Cavalry Regiment	Q110884354	
+ttu_480_org_38	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_39	B Company 2nd Battalion, 7th Cavalry Regiment	Q110884354	
+ttu_480_org_40	B Company 2nd Battalion, 7th Cavalry Regiment	Q110884354	
+ttu_480_org_41	B Company 2nd Battalion, 7th Cavalry Regiment	Q110884354	
+ttu_480_org_42	People's Army of Vietnam	Q3936506	
+ttu_480_org_43	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_44	B Company 2nd Battalion, 7th Cavalry Regiment	Q110884354	
+ttu_480_org_45	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_46	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_480_org_47	Associated Press	Q40469	
+ttu_480_org_48	United States Department of Veterans Affairs	Q592576	
+ttu_480_org_49	United States Department of Veterans Affairs	Q592576	
+ttu_480_org_50	American Red Cross	Q470110	
+ttu_480_org_51	United States Army	Q9212	
+ttu_480_org_52	Company C, 1st Battalion, 47th Infantry	Q111678050	
+ttu_480_org_53	1st Squadron, 9th Cavalry Regiment	Q111029867	
+ttu_480_org_54	Army of the Republic of Vietnam	Q18917	
+ttu_480_org_55	Army of the Republic of Vietnam	Q18917	
+ttu_480_org_56	National Front for the Liberation of South Vietnam	Q174423	
+ttu_480_org_57	Company D, 3rd Battalion 3rd Brigade	Q111678007	
+ttu_480_org_58	Company D, 3rd Battalion 3rd Brigade	Q111678007	
+ttu_480_org_59	United States Army	Q9212	
+ttu_480_org_60	United States Army	Q9212	
+ttu_480_org_61	United States Army	Q9212	
+ttu_480_org_62	Army of the Republic of Vietnam	Q18917	
+ttu_480_org_63	Army of the Republic of Vietnam	Q18917	
+ttu_480_org_64	1st Cavalry Division	Q2338	
