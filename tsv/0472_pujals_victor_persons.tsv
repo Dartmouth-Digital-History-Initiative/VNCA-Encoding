@@ -1,45 +1,45 @@
-id	persName
-ttu_472_person_0	Dr. Ron Milam
-ttu_472_person_1	Enrique Pujals
-ttu_472_person_2	Joe Marm
-ttu_472_person_3	Raul Taboada
-ttu_472_person_4	President Kennedy
-ttu_472_person_5	Captain Johnson
-ttu_472_person_6	Captain Koga
-ttu_472_person_7	Koga
-ttu_472_person_8	Corporal John Setelin
-ttu_472_person_9	Captain Koga
-ttu_472_person_10	John Setelin
-ttu_472_person_11	Colonel White
-ttu_472_person_12	Eisenhower
-ttu_472_person_13	Captain Lawrence
-ttu_472_person_14	Lawrence
-ttu_472_person_15	captain Pritko
-ttu_472_person_16	Lawrence
-ttu_472_person_17	Captain Lawrence
-ttu_472_person_18	Captain Johnson
-ttu_472_person_19	Colonel White
-ttu_472_person_20	Captain Johnson
-ttu_472_person_21	Lieutenant Pujals
-ttu_472_person_22	Captain Lawrence
-ttu_472_person_23	Sergeant Bass
-ttu_472_person_24	Captain Tony Nadal
-ttu_472_person_25	Taboada
-ttu_472_person_26	Raul Taboada
-ttu_472_person_27	Santiago
-ttu_472_person_28	Santiago
-ttu_472_person_29	Ortiz-Suarez
-ttu_472_person_30	Ortiz-Suarez Humberto
-ttu_472_person_31	Pujals
-ttu_472_person_32	Pujals
-ttu_472_person_33	John Setelin
-ttu_472_person_34	Lamont
-ttu_472_person_35	James Lamont
-ttu_472_person_36	Drew McKinney
-ttu_472_person_37	Captain Fesmire
-ttu_472_person_38	Bernard
-ttu_472_person_39	Bernard Fall
-ttu_472_person_40	Bernard Fall
-ttu_472_person_41	Larry Gwin
-ttu_472_person_42	Larry Gwin’s
-ttu_472_person_43	Larry Gwin
+id	persName	QID	ttu_id
+ttu_472_person_0	Ron Milam	Q110624764	
+ttu_472_person_1	Enrique Victor Pujals	Q111653479	
+ttu_472_person_2	Walter Joseph Marm, Jr.	Q7965296	
+ttu_472_person_3	Raul Taboada	Q111678306	
+ttu_472_person_4	John F. Kennedy	Q9696	
+ttu_472_person_5	George Johnson	Q111729788	
+ttu_472_person_6	Captain Koga		ttu_0158
+ttu_472_person_7	Koga		ttu_0158
+ttu_472_person_8	John Setelin	Q111678401	
+ttu_472_person_9	Captain Koga		ttu_0158
+ttu_472_person_10	John Setelin	Q111678401	
+ttu_472_person_11	John D. White	Q111659224	
+ttu_472_person_12	Dwight D. Eisenhower	Q9916	
+ttu_472_person_13	Captain Lawrence		ttu_0156
+ttu_472_person_14	Lawrence		ttu_0156
+ttu_472_person_15	captain Pritko		ttu_0157
+ttu_472_person_16	Lawrence		ttu_0156
+ttu_472_person_17	Captain Lawrence		ttu_0156
+ttu_472_person_18	George Johnson	Q111729788	
+ttu_472_person_19	John D. White	Q111659224	
+ttu_472_person_20	George Johnson	Q111729788	
+ttu_472_person_21	Enrique Victor Pujals	Q111653479	
+ttu_472_person_22	Captain Lawrence		ttu_0156
+ttu_472_person_23	Charles W. Bass	Q111699904	
+ttu_472_person_24	Ramon Antonio Nadal	Q111442803	
+ttu_472_person_25	Raul Taboada	Q111678306	
+ttu_472_person_26	Raul Taboada	Q111678306	
+ttu_472_person_27	Eugenio Ortiz-Suarez	Q111730002	
+ttu_472_person_28	Eugenio Ortiz-Suarez	Q111730002	
+ttu_472_person_29	Eugenio Ortiz-Suarez	Q111730002	
+ttu_472_person_30	Eugenio Ortiz-Suarez	Q111730002	
+ttu_472_person_31	Enrique Victor Pujals	Q111653479	
+ttu_472_person_32	Enrique Victor Pujals	Q111653479	
+ttu_472_person_33	John Setelin	Q111678401	
+ttu_472_person_34	Lamont		ttu_0155
+ttu_472_person_35	James Lamont		ttu_0155
+ttu_472_person_36	Drew McKinney		ttu_0154
+ttu_472_person_37	John A. Fesmire	Q111699516	
+ttu_472_person_38	Bernard B. Fall	Q213957	
+ttu_472_person_39	Bernard B. Fall	Q213957	
+ttu_472_person_40	Bernard B. Fall	Q213957	
+ttu_472_person_41	Lawrence S. Gwin	Q111686250	
+ttu_472_person_42	Lawrence S. Gwin	Q111686250	
+ttu_472_person_43	Lawrence S. Gwin	Q111686250	
