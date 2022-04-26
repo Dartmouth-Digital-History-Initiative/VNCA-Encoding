@@ -1,34 +1,34 @@
-id	persName
-ttu_475_person_0	Willard Parish
-ttu_475_person_1	Willard Parish
-ttu_475_person_2	President Johnson
-ttu_475_person_3	John Wayne
-ttu_475_person_4	An Khe
-ttu_475_person_5	Charlie Marshall
-ttu_475_person_6	Mathis
-ttu_475_person_7	Sergeant Thompson
-ttu_475_person_8	Thompson
-ttu_475_person_9	Major Crandall
-ttu_475_person_10	Joe Galloway
-ttu_475_person_11	Colonel Moore
-ttu_475_person_12	James Coman
-ttu_475_person_13	Sergeant Major Plumley
-ttu_475_person_14	Platoon Sergeant Freeman
-ttu_475_person_15	Coman
-ttu_475_person_16	Sergeant Mathis
-ttu_475_person_17	Coman
-ttu_475_person_18	Coman
-ttu_475_person_19	Coman
-ttu_475_person_20	Sergeant Mathis
-ttu_475_person_21	Sergeant Mathis
-ttu_475_person_22	General Moore
-ttu_475_person_23	Joe Galloway
-ttu_475_person_24	General Moore
-ttu_475_person_25	General Moore
-ttu_475_person_26	General Moore
-ttu_475_person_27	Joe Galloway
-ttu_475_person_28	Joe
-ttu_475_person_29	Joe Galloway
-ttu_475_person_30	Hal
-ttu_475_person_31	Hal
-ttu_475_person_32	Deana
+id	persName	QID	ttu_id
+ttu_475_person_0	Willard Parish	Q111685959	
+ttu_475_person_1	Willard Parish	Q111685959	
+ttu_475_person_2	Lyndon B. Johnson	Q9640	
+ttu_475_person_3	John Wayne	Q40531	
+ttu_475_person_4	An Khe		
+ttu_475_person_5	Charlie Marshall		ttu_0136
+ttu_475_person_6	Ronnie Mathis	Q111686070	
+ttu_475_person_7	Sergeant Thompson		
+ttu_475_person_8	Thompson		
+ttu_475_person_9	Bruce Perry Crandall	Q3431327	
+ttu_475_person_10	Joseph L. Galloway	Q3185182	
+ttu_475_person_11	Hal Moore	Q430209	
+ttu_475_person_12	James Coman	Q111686042	
+ttu_475_person_13	Basil L. Plumley	Q2535583	
+ttu_475_person_14	Ed Freeman	Q5334823	
+ttu_475_person_15	James Coman	Q111686042	
+ttu_475_person_16	Ronnie Mathis	Q111686070	
+ttu_475_person_17	James Coman	Q111686042	
+ttu_475_person_18	James Coman	Q111686042	
+ttu_475_person_19	James Coman	Q111686042	
+ttu_475_person_20	Ronnie Mathis	Q111686070	
+ttu_475_person_21	Ronnie Mathis	Q111686070	
+ttu_475_person_22	Hal Moore	Q430209	
+ttu_475_person_23	Joseph L. Galloway	Q3185182	
+ttu_475_person_24	Hal Moore	Q430209	
+ttu_475_person_25	Hal Moore	Q430209	
+ttu_475_person_26	Hal Moore	Q430209	
+ttu_475_person_27	Joseph L. Galloway	Q3185182	
+ttu_475_person_28	Joseph L. Galloway	Q3185182	
+ttu_475_person_29	Joseph L. Galloway	Q3185182	
+ttu_475_person_30	Hal Moore	Q430209	
+ttu_475_person_31	Hal Moore	Q430209	
+ttu_475_person_32	Deana		

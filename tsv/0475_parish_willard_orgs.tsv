@@ -1,32 +1,32 @@
-id	orgName
-ttu_475_org_0	2nd 23rd Infantry
-ttu_475_org_1	2nd Infantry Division
-ttu_475_org_2	11th Airborne
-ttu_475_org_3	11th Air Assault
-ttu_475_org_4	2nd and the 23rd
-ttu_475_org_5	1st and the 38th
-ttu_475_org_6	2nd Infantry Division
-ttu_475_org_7	11th Air Assault
-ttu_475_org_8	82nd Airborne
-ttu_475_org_9	1st Air Cav
-ttu_475_org_10	1st Cav
-ttu_475_org_11	1st Cav
-ttu_475_org_12	Continental Trailway
-ttu_475_org_13	Continental Trailway
-ttu_475_org_14	USNS Rose
-ttu_475_org_15	TIME Magazine
-ttu_475_org_16	TIME Magazine
-ttu_475_org_17	An Khe
-ttu_475_org_18	Charlie Company
-ttu_475_org_19	Charlie Company
-ttu_475_org_20	Delta Company
-ttu_475_org_21	Disney
-ttu_475_org_22	US Army
-ttu_475_org_23	Random House
-ttu_475_org_24	UPS
-ttu_475_org_25	1st Cavalry
-ttu_475_org_26	1st Cav
-ttu_475_org_27	Americal Division
-ttu_475_org_28	12th Cav
-ttu_475_org_29	1st Cav
-ttu_475_org_30	1st Cav
+id	orgName	QID	ttu_id
+ttu_475_org_0	2nd Battalion, 23rd Infantry Regiment	Q110707169	
+ttu_475_org_1	2nd Infantry Division	Q210607	
+ttu_475_org_2	11th Airborne Division	Q169980	
+ttu_475_org_3	11th Airborne Division	Q169980	
+ttu_475_org_4	2nd Battalion, 23rd Infantry Regiment	Q110707169	
+ttu_475_org_5	1st Battalion, 5th Cavalry Regiment	Q110880590	
+ttu_475_org_6	2nd Infantry Division	Q210607	
+ttu_475_org_7	11th Airborne Division	Q169980	
+ttu_475_org_8	82nd Airborne Division	Q2358	
+ttu_475_org_9	1st Cavalry Division	Q2338	
+ttu_475_org_10	1st Cavalry Division	Q2338	
+ttu_475_org_11	1st Cavalry Division	Q2338	
+ttu_475_org_12	Greyhound Lines	Q755309	
+ttu_475_org_13	Greyhound Lines	Q755309	
+ttu_475_org_14	USNS Rose Knot	Q7866700	
+ttu_475_org_15	Time	Q43297	
+ttu_475_org_16	Time	Q43297	
+ttu_475_org_17	An Khe		
+ttu_475_org_18	Charlie & Co.	Q5084411	
+ttu_475_org_19	Charlie & Co.	Q5084411	
+ttu_475_org_20	D Company, 229th Assault Helicopter Battalion	Q111192054	
+ttu_475_org_21	The Walt Disney Company	Q7414	
+ttu_475_org_22	United States Army	Q9212	
+ttu_475_org_23	Random House	Q744182	
+ttu_475_org_24	United Parcel Service	Q155026	
+ttu_475_org_25	1st Cavalry Division	Q2338	
+ttu_475_org_26	1st Cavalry Division	Q2338	
+ttu_475_org_27	23rd Infantry Division	Q215790	
+ttu_475_org_28	12th Cavalry	Q4548796	
+ttu_475_org_29	1st Cavalry Division	Q2338	
+ttu_475_org_30	1st Cavalry Division	Q2338	
