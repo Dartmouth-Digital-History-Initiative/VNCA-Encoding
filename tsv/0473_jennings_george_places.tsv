@@ -1,64 +1,64 @@
-id	placeName
-ttu_473_place_0	Fort Benning
-ttu_473_place_1	Fort Benning
-ttu_473_place_2	Foot Hood, Texas
-ttu_473_place_3	Germany
-ttu_473_place_4	Fort Benning
-ttu_473_place_5	Fort Benning
-ttu_473_place_6	Kelley Hill
-ttu_473_place_7	Benning
-ttu_473_place_8	Kelley Hill
-ttu_473_place_9	Sand Hill
-ttu_473_place_10	Kelley Hill
-ttu_473_place_11	Vietnam
-ttu_473_place_12	Fort Benning
-ttu_473_place_13	Vietnam
-ttu_473_place_14	Vietnam
-ttu_473_place_15	An Khe
-ttu_473_place_16	An Khe
-ttu_473_place_17	An Khe
-ttu_473_place_18	Vietnam
-ttu_473_place_19	Qui Nhon
-ttu_473_place_20	Qui Nhon Bay
-ttu_473_place_21	An Khe
-ttu_473_place_22	Happy Valley
-ttu_473_place_23	Plei Me special forces camp
-ttu_473_place_24	Pleiku province
-ttu_473_place_25	valley
-ttu_473_place_26	the states
-ttu_473_place_27	Plei Me Special Forces Camp
-ttu_473_place_28	Plei Me
-ttu_473_place_29	Plei Me
-ttu_473_place_30	Plei Me
-ttu_473_place_31	Plei Me
-ttu_473_place_32	Chu Pong Mountain
-ttu_473_place_33	Plei Me
-ttu_473_place_34	Vietnam
-ttu_473_place_35	Bong Son
-ttu_473_place_36	Ia Drang
-ttu_473_place_37	Pleiku province
-ttu_473_place_38	Bong Son
-ttu_473_place_39	Bong Son
-ttu_473_place_40	Bong Son
-ttu_473_place_41	Vietnam
-ttu_473_place_42	Bong Son
-ttu_473_place_43	Fort Polk
-ttu_473_place_44	Fort Polk
-ttu_473_place_45	Fort Polk
-ttu_473_place_46	Vietnam
-ttu_473_place_47	Vietnam
-ttu_473_place_48	Fort Polk, Louisiana
-ttu_473_place_49	Fort Polk
-ttu_473_place_50	Vietnam
-ttu_473_place_51	General Moore
-ttu_473_place_52	Vietnam
-ttu_473_place_53	Korea
-ttu_473_place_54	Vietnam
-ttu_473_place_55	Orlando, Florida
-ttu_473_place_56	Orlando
-ttu_473_place_57	Fort Hood, Texas
-ttu_473_place_58	Fort Hood
-ttu_473_place_59	Hollywood
-ttu_473_place_60	Hollywood
-ttu_473_place_61	Vietnam
-ttu_473_place_62	Hollywood
+id	placeName	QID	ttu_id	coordinate location
+ttu_473_place_0	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_473_place_1	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_473_place_2	Fort Hood	Q783854		31.1344744,-97.7797191
+ttu_473_place_3	Germany	Q183		51,10
+ttu_473_place_4	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_473_place_5	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_473_place_6	Kelley Hill	Q110888302		32.38325815053565,-84.89875257096901
+ttu_473_place_7	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_473_place_8	Kelley Hill	Q110888302		32.38325815053565,-84.89875257096901
+ttu_473_place_9	Sand Hill	Q111597169		32.4082176,-84.9054367
+ttu_473_place_10	Kelley Hill	Q110888302		32.38325815053565,-84.89875257096901
+ttu_473_place_11	Vietnam	Q881		16,108
+ttu_473_place_12	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_473_place_13	Vietnam	Q881		16,108
+ttu_473_place_14	Vietnam	Q881		16,108
+ttu_473_place_15	An Khê	Q15179893		13.9530664,108.6569463
+ttu_473_place_16	An Khê	Q15179893		13.9530664,108.6569463
+ttu_473_place_17	An Khê	Q15179893		13.9530664,108.6569463
+ttu_473_place_18	Vietnam	Q881		16,108
+ttu_473_place_19	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_473_place_20	Qui Nhon Bay	Q111597181		13.7521065,109.2242888
+ttu_473_place_21	An Khê	Q15179893		13.9530664,108.6569463
+ttu_473_place_22	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_473_place_23	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_473_place_24	Pleiku	Q30599		13.971519,108.014673
+ttu_473_place_25	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_473_place_26	United States of America	Q30		39.828175,-98.5795
+ttu_473_place_27	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_473_place_28	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_473_place_29	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_473_place_30	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_473_place_31	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_473_place_32	Chu Pong Massif	Q65040315		13.57286132548346,107.66598001153218
+ttu_473_place_33	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_473_place_34	Vietnam	Q881		16,108
+ttu_473_place_35	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_473_place_36	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_473_place_37	Pleiku	Q30599		13.971519,108.014673
+ttu_473_place_38	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_473_place_39	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_473_place_40	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_473_place_41	Vietnam	Q881		16,108
+ttu_473_place_42	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_473_place_43	Fort Polk	Q1438661		31.0726,-93.0806
+ttu_473_place_44	Fort Polk	Q1438661		31.0726,-93.0806
+ttu_473_place_45	Fort Polk	Q1438661		31.0726,-93.0806
+ttu_473_place_46	Vietnam	Q881		16,108
+ttu_473_place_47	Vietnam	Q881		16,108
+ttu_473_place_48	Fort Polk	Q1438661		31.0726,-93.0806
+ttu_473_place_49	Fort Polk	Q1438661		31.0726,-93.0806
+ttu_473_place_50	Vietnam	Q881		16,108
+ttu_473_place_51	General Moore	Q103780610		54.90554695498165,-5.045452905892415
+ttu_473_place_52	Vietnam	Q881		16,108
+ttu_473_place_53	Korea	Q18097		38.316666666667,127.23333333333
+ttu_473_place_54	Vietnam	Q881		16,108
+ttu_473_place_55	Orlando	Q49233		28.533611111111,-81.386666666667
+ttu_473_place_56	Orlando	Q49233		28.533611111111,-81.386666666667
+ttu_473_place_57	Fort Hood	Q783854		31.1344744,-97.7797191
+ttu_473_place_58	Fort Hood	Q783854		31.1344744,-97.7797191
+ttu_473_place_59	Hollywood	Q34006		34.098333333333336,-118.32666666666667
+ttu_473_place_60	Hollywood	Q34006		34.098333333333336,-118.32666666666667
+ttu_473_place_61	Vietnam	Q881		16,108
+ttu_473_place_62	Hollywood	Q34006		34.098333333333336,-118.32666666666667
