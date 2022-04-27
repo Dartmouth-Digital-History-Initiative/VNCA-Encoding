@@ -2,8 +2,8 @@ id	orgName	QID	ttu_id
 ttu_479_org_0	Brooklyn College	Q371625	
 ttu_479_org_1	United States Military Academy	Q9219	
 ttu_479_org_2	Florida State University	Q861548	
-ttu_479_org_3	Air Force Reserve Officer Training Corp	Q101243281	
-ttu_479_org_4	Air Force Reserve Officer Training Corp	Q101243281	
+ttu_479_org_3	Air Force Reserve Officer Training Corps	Q4697942	
+ttu_479_org_4	Air Force Reserve Officer Training Corps	Q4697942	
 ttu_479_org_5	United States Army	Q9212	
 ttu_479_org_6	Reserve Officers' Training Corps	Q489983	
 ttu_479_org_7	United States Army	Q9212	
@@ -12,17 +12,17 @@ ttu_479_org_9	United States Military Academy	Q9219
 ttu_479_org_10	United States Military Academy	Q9219	
 ttu_479_org_11	United States Army	Q9212	
 ttu_479_org_12	United States Army	Q9212	
-ttu_479_org_13	1542 infantry		
+ttu_479_org_13			
 ttu_479_org_14	2nd Infantry Division	Q210607	
 ttu_479_org_15	1st Cavalry Division	Q2338	
 ttu_479_org_16	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
-ttu_479_org_17	Maurice Rose	Q728855	
+ttu_479_org_17	USS Admiral Hugh Rodman	Q7867050	
 ttu_479_org_18	William Beaumont Army Medical Center	Q14711408	
-ttu_479_org_19	Maurice Rose	Q728855	
+ttu_479_org_19	USS Admiral Hugh Rodman	Q7867050	
 ttu_479_org_20	United States Navy	Q11220	
 ttu_479_org_21	United States Navy	Q11220	
 ttu_479_org_22	United States Air Force	Q11223	
-ttu_479_org_23	Maurice Rose	Q728855	
+ttu_479_org_23	USS Admiral Hugh Rodman	Q7867050	
 ttu_479_org_24	United States Navy	Q11220	
 ttu_479_org_25	United States Navy	Q11220	
 ttu_479_org_26	United States Navy	Q11220	
@@ -32,7 +32,7 @@ ttu_479_org_29	7th Cavalry Regiment	Q269574
 ttu_479_org_30	France	Q142	
 ttu_479_org_31	National Front for the Liberation of South Vietnam	Q174423	
 ttu_479_org_32	National Front for the Liberation of South Vietnam	Q174423	
-ttu_479_org_33	1st Brigade Airborne	Q4596090	
+ttu_479_org_33	1st Air Cavalry Brigade, 1st Cavalry Division	Q4596090	
 ttu_479_org_34	101st Airborne Division	Q165256	
 ttu_479_org_35	82nd Airborne Division	Q2358	
 ttu_479_org_36	1st Air Cavalry Brigade, 1st Cavalry Division	Q4596090	
@@ -47,13 +47,13 @@ ttu_479_org_44	Soviet Union	Q15180
 ttu_479_org_45	United States Armed Forces	Q11211	
 ttu_479_org_46	United States Army Reserve	Q2036662	
 ttu_479_org_47	People's Army of Vietnam	Q3936506	
-ttu_479_org_48	military	Q8473	
+ttu_479_org_48	United States Armed Forces	Q11211	
 ttu_479_org_49	United States Armed Forces	Q11211	
 ttu_479_org_50	United States Army Special Forces	Q482421	
-ttu_479_org_51	Charlie & Co.	Q5084411	
-ttu_479_org_52	2nd Platoon		
-ttu_479_org_53	1st Platoon		
-ttu_479_org_54	3rd Platoon		
+ttu_479_org_51	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_479_org_52			
+ttu_479_org_53			
+ttu_479_org_54			
 ttu_479_org_55	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
 ttu_479_org_56	2nd Battalion, 7th Cavalry Regiment	Q110629367	
 ttu_479_org_57	People's Army of Vietnam	Q3936506	
@@ -62,26 +62,26 @@ ttu_479_org_59	173rd Airborne Brigade	Q198679
 ttu_479_org_60	United States Military Academy	Q9219	
 ttu_479_org_61	101st Airborne Division	Q165256	
 ttu_479_org_62	Military Assistance Command, Vietnam	Q485921	
-ttu_479_org_63	Vietnam People's Ground Forces	Q21769915	
+ttu_479_org_63	Army of the Republic of Vietnam	Q18917	
 ttu_479_org_64	United States Marine Corps	Q11218	
 ttu_479_org_65	United States Air Force	Q11223	
 ttu_479_org_66	United States Air Force	Q11223	
 ttu_479_org_67	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
 ttu_479_org_68	People's Army of Vietnam	Q3936506	
 ttu_479_org_69	1st Battalion, 7th Cavalry Regiment	Q110641589	
-ttu_479_org_70	Charlie		
-ttu_479_org_71	Holloway		
-ttu_479_org_72	American		
-ttu_479_org_73	Koreans		
-ttu_479_org_74	ROK 20th Mechanized Infantry Division	Q12591972	
-ttu_479_org_75	Americans		
+ttu_479_org_70	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_479_org_71			
+ttu_479_org_72	United States Army	Q9212	
+ttu_479_org_73	Republic of Korea Army	Q483268	
+ttu_479_org_74	20th Division		
+ttu_479_org_75	United States Army	Q9212	
 ttu_479_org_76	United States Air Force	Q11223	
 ttu_479_org_77	United States Air Force	Q11223	
 ttu_479_org_78	2nd Battalion, 12th Cavalry Regiment	Q111677846	
 ttu_479_org_79	United States Armed Forces	Q11211	
 ttu_479_org_80	United States Air Force	Q11223	
 ttu_479_org_81	United States Air Force	Q11223	
-ttu_479_org_82	Scott		
+ttu_479_org_82			
 ttu_479_org_83	United States Air Force	Q11223	
 ttu_479_org_84	United States Army	Q9212	
 ttu_479_org_85	United States Air Force	Q11223	
