@@ -1,71 +1,71 @@
-id	orgName
-ttu_477_org_0	17th Aviation Company
-ttu_477_org_1	Air Force
-ttu_477_org_2	Air Force
-ttu_477_org_3	11th Air Assault Division
-ttu_477_org_4	11th Air Assault
-ttu_477_org_5	2nd Infantry Division
-ttu_477_org_6	1st Cavalry Division
-ttu_477_org_7	Cav
-ttu_477_org_8	7th Aviation Company
-ttu_477_org_9	Cav
-ttu_477_org_10	 Airmobile Division
-ttu_477_org_11	Cav
-ttu_477_org_12	Cav
-ttu_477_org_13	17th Aviation Company
-ttu_477_org_14	Cav
-ttu_477_org_15	Cav
-ttu_477_org_16	Cav
-ttu_477_org_17	Cav
-ttu_477_org_18	11th Air Assault Division
-ttu_477_org_19	17th Aviation Company
-ttu_477_org_20	7th regiment
-ttu_477_org_21	5th regiment
-ttu_477_org_22	North Vietnamese
-ttu_477_org_23	Cav
-ttu_477_org_24	Cav
-ttu_477_org_25	7th Cav Regiment
-ttu_477_org_26	Cav
-ttu_477_org_27	NVA (North Vietnamese Army)
-ttu_477_org_28	the Air Force
-ttu_477_org_29	American
-ttu_477_org_30	Cav
-ttu_477_org_31	7th Regiment
-ttu_477_org_32	Army
-ttu_477_org_33	Vietnamese
-ttu_477_org_34	Air Force
-ttu_477_org_35	Cav
-ttu_477_org_36	Cav
-ttu_477_org_37	Cav
-ttu_477_org_38	Cav
-ttu_477_org_39	Air Force
-ttu_477_org_40	Air Force
-ttu_477_org_41	Cav
-ttu_477_org_42	8th Air Force
-ttu_477_org_43	7th Air Force
-ttu_477_org_44	Cav
-ttu_477_org_45	Cav
-ttu_477_org_46	Cav
-ttu_477_org_47	Cav
-ttu_477_org_48	Cav
-ttu_477_org_49	Cav
-ttu_477_org_50	Emory University
-ttu_477_org_51	United Way
-ttu_477_org_52	Audubon society Mississippi
-ttu_477_org_53	Cav
-ttu_477_org_54	7th Cav Regiment
-ttu_477_org_55	5th
-ttu_477_org_56	Cav
-ttu_477_org_57	Army
-ttu_477_org_58	Air Force
-ttu_477_org_59	Air Force
-ttu_477_org_60	Army
-ttu_477_org_61	Air Force
-ttu_477_org_62	Air Force
-ttu_477_org_63	17th
-ttu_477_org_64	Air Force
-ttu_477_org_65	 Air Force
-ttu_477_org_66	Air Force
-ttu_477_org_67	Air Force
-ttu_477_org_68	Army
-ttu_477_org_69	Air Force
+id	orgName	QID	ttu_id
+ttu_477_org_0	17th Aviation Brigade	Q4553583	
+ttu_477_org_1	United States Air Force	Q11223	
+ttu_477_org_2	United States Air Force	Q11223	
+ttu_477_org_3	11th Airborne Division	Q169980	
+ttu_477_org_4	11th Airborne Division	Q169980	
+ttu_477_org_5	2nd Infantry Division	Q210607	
+ttu_477_org_6	1st Cavalry Division	Q2338	
+ttu_477_org_7	1st Cavalry Division	Q2338	
+ttu_477_org_8	17th Aviation Brigade	Q4553583	
+ttu_477_org_9	1st Cavalry Division	Q2338	
+ttu_477_org_10	17th Aviation Brigade	Q4553583	
+ttu_477_org_11	1st Cavalry Division	Q2338	
+ttu_477_org_12	1st Cavalry Division	Q2338	
+ttu_477_org_13	17th Aviation Brigade	Q4553583	
+ttu_477_org_14	1st Cavalry Division	Q2338	
+ttu_477_org_15	1st Cavalry Division	Q2338	
+ttu_477_org_16	1st Cavalry Division	Q2338	
+ttu_477_org_17	1st Cavalry Division	Q2338	
+ttu_477_org_18	11th Airborne Division	Q169980	
+ttu_477_org_19	17th Aviation Brigade	Q4553583	
+ttu_477_org_20	17th Aviation Brigade	Q4553583	
+ttu_477_org_21	5th Infantry Regiment	Q4641330	
+ttu_477_org_22	People's Army of Vietnam	Q3936506	
+ttu_477_org_23	1st Cavalry Division	Q2338	
+ttu_477_org_24	1st Cavalry Division	Q2338	
+ttu_477_org_25	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_477_org_26	1st Cavalry Division	Q2338	
+ttu_477_org_27	People's Army of Vietnam	Q3936506	
+ttu_477_org_28	The Air Force	Q7712925	
+ttu_477_org_29	United States Army	Q9212	
+ttu_477_org_30	1st Cavalry Division	Q2338	
+ttu_477_org_31	7th Regiment	Q4644024	
+ttu_477_org_32	United States Army	Q9212	
+ttu_477_org_33	Vietnamese		
+ttu_477_org_34	United States Air Force	Q11223	
+ttu_477_org_35	1st Cavalry Division	Q2338	
+ttu_477_org_36	1st Cavalry Division	Q2338	
+ttu_477_org_37	1st Cavalry Division	Q2338	
+ttu_477_org_38	1st Cavalry Division	Q2338	
+ttu_477_org_39	United States Air Force	Q11223	
+ttu_477_org_40	United States Air Force	Q11223	
+ttu_477_org_41	1st Cavalry Division	Q2338	
+ttu_477_org_42	Eighth Air Force	Q270921	
+ttu_477_org_43	Seventh Air Force	Q483080	
+ttu_477_org_44	1st Cavalry Division	Q2338	
+ttu_477_org_45	1st Cavalry Division	Q2338	
+ttu_477_org_46	1st Cavalry Division	Q2338	
+ttu_477_org_47	1st Cavalry Division	Q2338	
+ttu_477_org_48	1st Cavalry Division	Q2338	
+ttu_477_org_49	1st Cavalry Division	Q2338	
+ttu_477_org_50	Emory University	Q621043	
+ttu_477_org_51	United Way of America	Q3050859	
+ttu_477_org_52	Audobon Society Mississippi	Q111603417	
+ttu_477_org_53	1st Cavalry Division	Q2338	
+ttu_477_org_54	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_477_org_55	5th Infantry Regiment	Q4641330	
+ttu_477_org_56	1st Cavalry Division	Q2338	
+ttu_477_org_57	United States Army	Q9212	
+ttu_477_org_58	United States Air Force	Q11223	
+ttu_477_org_59	United States Air Force	Q11223	
+ttu_477_org_60	United States Army	Q9212	
+ttu_477_org_61	United States Air Force	Q11223	
+ttu_477_org_62	United States Air Force	Q11223	
+ttu_477_org_63	17th Aviation Brigade	Q4553583	
+ttu_477_org_64	United States Air Force	Q11223	
+ttu_477_org_65	United States Air Force	Q11223	
+ttu_477_org_66	United States Air Force	Q11223	
+ttu_477_org_67	United States Air Force	Q11223	
+ttu_477_org_68	United States Army	Q9212	
+ttu_477_org_69	United States Air Force	Q11223	
