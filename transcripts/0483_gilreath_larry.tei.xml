@@ -59,133 +59,635 @@
   </teiHeader>
   <text>
     <body>
-      <u who="VERRONE">I am <persName>Dr. Richard Verrone</persName>. I am doing a video oral history with <persName>Master Sergeant Larry Gilreath</persName>. Today is <date when="2005-11-11">November 11th, 2005</date>, Veteran’s Day. We are in <placeName>Washington, D.C.</placeName> at the <placeName>Hilton Crystal City Hotel</placeName> for the 40th anniversary reunion of the <name type="event">Battles of Ia Drang-Pleiku</name>. <persName>Sergeant Gilreath</persName>, thank you for being here and I want to talk about those days in <date when="1965-11">November</date> and what happened in the <placeName>Ia Drang Valley</placeName>. Before we get down there, tell me a little bit about what you were in your platoon, you’re the platoon sergeant, what were your responsibilities under <persName>Hal Moore</persName> and then your lieutenant and captain.</u>
-      <u who="GILREATH">Of course, any small unit leader I'm sure the mission is to accomplish the mission and look after the welfare of your men which we all strive to do and did a pretty fair job of it during <name type="event">X-Ray</name>. Of course, I lost some men and that’s wounded and KIA (Killed In Action). You feel like hindsight always what I could’ve done to better that situation. Again, it’s hard to lose anyone like that or anyone for that matter.</u>
+      <u who="VERRONE">I am <persName ref="#ttu_483_person_0">Dr. Richard Verrone</persName>. I am doing a video oral history with <persName ref="#ttu_483_person_1">Master Sergeant Larry Gilreath</persName>. Today is <date when="2005-11-11">November 11th, 2005</date>, Veteran’s Day. We are in <placeName ref="#ttu_483_place_0">Washington, D.C.</placeName> at the <placeName ref="#ttu_483_place_1">Hilton Crystal City Hotel</placeName> for the 40th anniversary reunion of the <name type="event" ref="#ttu_483_event_0">Battles of Ia Drang-Pleiku</name>. <persName ref="#ttu_483_person_2">Sergeant Gilreath</persName>, thank you for being here and I want to talk about those days in <date when="1965-11">November</date> and what happened in the <placeName ref="#ttu_483_place_2">Ia Drang Valley</placeName>. Before we get down there, tell me a little bit about what you were in your platoon, you’re the platoon sergeant, what were your responsibilities under <persName ref="#ttu_483_person_3">Hal Moore</persName> and then your lieutenant and captain.</u>
+      <u who="GILREATH">Of course, any small unit leader I'm sure the mission is to accomplish the mission and look after the welfare of your men which we all strive to do and did a pretty fair job of it during <name type="event" ref="#ttu_483_event_1">X-Ray</name>. Of course, I lost some men and that’s wounded and KIA (Killed In Action). You feel like hindsight always what I could’ve done to better that situation. Again, it’s hard to lose anyone like that or anyone for that matter.</u>
       <u who="VERRONE">Your relationship was very close with these men?</u>
-      <u who="GILREATH">See, those particular squad leaders, I joined that unit in <date when="1961">1961</date>. It was the <orgName>2nd Battalion, 23rd Infantry</orgName> on <placeName>Kelley Hill</placeName>, which later became air assault. Squad leaders were basically the ones I’d been with for three or four years. Of course, our privates and everything they were draftees mostly and of course some were regular <orgName>Army</orgName>. There were some turned over there, but prior of going into <placeName>Vietnam</placeName>, we had a very nice base of men that we’d been with for so long. Then, <persName>President Johnson</persName> as you know, said in ninety days or less, you go. So that didn’t set too well with us, but you know that’s orders, so you do what you’re told.</u>
-      <u who="VERRONE">When you were going to prepare yourself to air assault into <placeName>X-Ray</placeName>, what did you do beforehand with the men under you? How did you prepare them?</u>
-      <u who="GILREATH">We had been out on an operation there around the <placeName>Plei Me Special Forces camp</placeName>. The night before we went into <placeName>X-Ray</placeName>, the brigade headquarters had been attacked. So we pulled <orgName>B Company</orgName> in out on the field to beef up security around the brigade headquarters. I didn’t know until <persName>General Moore</persName> pointed it out to me in the book, <orgName>B Company</orgName> was awake for eighty-one hours. The night before, of course brigade security that’s on one-hundred percent alert. Then, the three days and nights in <placeName>X-Ray</placeName>. As far as preparations, issuing ammo, making sure all the equipment was right and you know if—if you’re on the airstrip or near an airstrip, take a backpack if you get a chance. You get squad leaders together and this basically telling him what I wanted to know. The platoon leader, <persName>Lieutenant Devney</persName>, we checked everything that—</u>
-      <u who="VERRONE"><persName>Lieutenant Devney</persName>?</u>
-      <u who="GILREATH"><persName>Devney</persName>. Yes</u>
+      <u who="GILREATH">See, those particular squad leaders, I joined that unit in <date when="1961">1961</date>. It was the <orgName ref="#ttu_483_org_0">2nd Battalion, 23rd Infantry</orgName> on <placeName ref="#ttu_483_place_3">Kelley Hill</placeName>, which later became air assault. Squad leaders were basically the ones I’d been with for three or four years. Of course, our privates and everything they were draftees mostly and of course some were regular <orgName ref="#ttu_483_org_1">Army</orgName>. There were some turned over there, but prior of going into <placeName ref="#ttu_483_place_4">Vietnam</placeName>, we had a very nice base of men that we’d been with for so long. Then, <persName ref="#ttu_483_person_4">President Johnson</persName> as you know, said in ninety days or less, you go. So that didn’t set too well with us, but you know that’s orders, so you do what you’re told.</u>
+      <u who="VERRONE">When you were going to prepare yourself to air assault into <placeName ref="#ttu_483_place_5">X-Ray</placeName>, what did you do beforehand with the men under you? How did you prepare them?</u>
+      <u who="GILREATH">We had been out on an operation there around the <placeName ref="#ttu_483_place_6">Plei Me Special Forces camp</placeName>. The night before we went into <placeName ref="#ttu_483_place_7">X-Ray</placeName>, the brigade headquarters had been attacked. So we pulled <orgName ref="#ttu_483_org_2">B Company</orgName> in out on the field to beef up security around the brigade headquarters. I didn’t know until <persName ref="#ttu_483_person_5">General Moore</persName> pointed it out to me in the book, <orgName ref="#ttu_483_org_3">B Company</orgName> was awake for eighty-one hours. The night before, of course brigade security that’s on one-hundred percent alert. Then, the three days and nights in <placeName ref="#ttu_483_place_8">X-Ray</placeName>. As far as preparations, issuing ammo, making sure all the equipment was right and you know if—if you’re on the airstrip or near an airstrip, take a backpack if you get a chance. You get squad leaders together and this basically telling him what I wanted to know. The platoon leader, <persName ref="#ttu_483_person_6">Lieutenant Devney</persName>, we checked everything that—</u>
+      <u who="VERRONE"><persName ref="#ttu_483_person_7">Lieutenant Devney</persName>?</u>
+      <u who="GILREATH"><persName ref="#ttu_483_person_8">Devney</persName>. Yes</u>
       <u who="VERRONE">Yes, yes.</u>
-      <u who="GILREATH">I haven’t seen him since then. I understand he’s somewhere in <placeName>Florida</placeName>. For some reason, he chooses not to participate in anything. I don’t force issues. I'm glad to see him but you know, I won’t beg him to come, that’s up to him.</u>
+      <u who="GILREATH">I haven’t seen him since then. I understand he’s somewhere in <placeName ref="#ttu_483_place_9">Florida</placeName>. For some reason, he chooses not to participate in anything. I don’t force issues. I'm glad to see him but you know, I won’t beg him to come, that’s up to him.</u>
       <u who="VERRONE">Tell me about the morning of the <date when="1965-11-14">14th</date> and what you did.</u>
-      <u who="GILREATH">Again, this was prior preparation. When we got the assault order, <orgName>B Company</orgName> was the lead company. They chose me as lead platoon.</u>
+      <u who="GILREATH">Again, this was prior preparation. When we got the assault order, <orgName ref="#ttu_483_org_4">B Company</orgName> was the lead company. They chose me as lead platoon.</u>
       <u who="VERRONE">Right. Do you know why?</u>
-      <u who="GILREATH">Experience, I hope was the reason. I think probably because I had been a platoon sergeant there for four, five years in that general area. And <persName>John Herren</persName>, the company commander, he had all sorts of confidence in me and my platoon. That’s basically the reason we were chosen.</u>
-      <u who="VERRONE">Tell me about <persName>John Herren</persName>.</u>
-      <u who="GILREATH">Wonderful person. Just—I don’t know, he assume—he wouldn’t get excited I don’t think, very cool. Very efficient about it. Like I said, he’s just a wonderful person and one hell of a company commander. Again, I’ll always call him <persName>Captain John</persName>. Just <persName>Captain John</persName>.</u>
+      <u who="GILREATH">Experience, I hope was the reason. I think probably because I had been a platoon sergeant there for four, five years in that general area. And <persName ref="#ttu_483_person_9">John Herren</persName>, the company commander, he had all sorts of confidence in me and my platoon. That’s basically the reason we were chosen.</u>
+      <u who="VERRONE">Tell me about <persName ref="#ttu_483_person_10">John Herren</persName>.</u>
+      <u who="GILREATH">Wonderful person. Just—I don’t know, he assume—he wouldn’t get excited I don’t think, very cool. Very efficient about it. Like I said, he’s just a wonderful person and one hell of a company commander. Again, I’ll always call him <persName ref="#ttu_483_person_11">Captain John</persName>. Just <persName ref="#ttu_483_person_12">Captain John</persName>.</u>
       <u who="VERRONE">So you’re in the first lift out?</u>
-      <u who="GILREATH">First wave, yes. They lined up with the choppers. <persName>Colonel Moore</persName> of course with his entourage, I think one or two choppers took for him. He was the first one in. Then I think I had the next six choppers, a landing zone would hold that many. Of course the gunships and everything prior to us and on approach they did their prep and rocket fire and everything. Of course, we had artillery prepped. Once that was lifted, we hit the ground. Of course in air assault always—you have an area assigned to, like my platoon security may have been from nine to three, for example. I always use the nose of the helicopter as twelve o’clock. So when I got out, we fanned out to our area, we got down, we got out of the way then and went through the process of clearing the landing zone.</u>
+      <u who="GILREATH">First wave, yes. They lined up with the choppers. <persName ref="#ttu_483_person_13">Colonel Moore</persName> of course with his entourage, I think one or two choppers took for him. He was the first one in. Then I think I had the next six choppers, a landing zone would hold that many. Of course the gunships and everything prior to us and on approach they did their prep and rocket fire and everything. Of course, we had artillery prepped. Once that was lifted, we hit the ground. Of course in air assault always—you have an area assigned to, like my platoon security may have been from nine to three, for example. I always use the nose of the helicopter as twelve o’clock. So when I got out, we fanned out to our area, we got down, we got out of the way then and went through the process of clearing the landing zone.</u>
       <u who="VERRONE">There was no enemy fire at this point was there?</u>
-      <u who="GILREATH">None whatsoever. In fact, I ran into <persName>Colonel Moore</persName> and <persName>Sergeant Major Plumley</persName> clearing the landing zone, they were already on the ground. I made remarks, something about this area is clear move fire teams here or something like that. Again, we just did our thing, we pushed out. Main thing on the clearance of the <placeName>Landing Zone</placeName> initially, you want to stay pretty close to the chopper to get them out of there. In case any fire starts or anything, you can push from fire on the end. Like I said, when they lifted off, we went into our spread pushing out, clearing the <placeName>landing zone</placeName> and of course it was no fire or nothing</u>
+      <u who="GILREATH">None whatsoever. In fact, I ran into <persName ref="#ttu_483_person_14">Colonel Moore</persName> and <persName ref="#ttu_483_person_15">Sergeant Major Plumley</persName> clearing the landing zone, they were already on the ground. I made remarks, something about this area is clear move fire teams here or something like that. Again, we just did our thing, we pushed out. Main thing on the clearance of the <placeName ref="#ttu_483_place_10">Landing Zone</placeName> initially, you want to stay pretty close to the chopper to get them out of there. In case any fire starts or anything, you can push from fire on the end. Like I said, when they lifted off, we went into our spread pushing out, clearing the <placeName ref="#ttu_483_place_11">landing zone</placeName> and of course it was no fire or nothing</u>
       <u who="VERRONE">Did you all get off the choppers firing thinking the enemy was there?</u>
       <u who="GILREATH">Yeah. Sure. You know, in suspected positions. Pile of brush, an anthill or- scrub jungle and trees were the terrain there. We just—I always thought of it like recon but fire, find something that you think looks like, you know a place one would be and fire on it.</u>
-      <u who="VERRONE">Once you clear the <placeName>landing zone</placeName> and you set up where you’re supposed to be.</u>
+      <u who="VERRONE">Once you clear the <placeName ref="#ttu_483_place_12">landing zone</placeName> and you set up where you’re supposed to be.</u>
       <u who="GILREATH">Set up in like a defensive position until the rest of the outfit got in. You see, the 2nd Platoon came in next and the 3rd Platoon was our last platoon then.</u>
       <u who="VERRONE">How long were you there on the ground by yourself waiting?</u>
       <u who="GILREATH">Probably thirty to thirty-five minutes or so.</u>
       <u who="VERRONE">What was that like?</u>
       <u who="GILREATH">It actually, some of the squads started opening some C-rations because everything was so quiet, you know. Another air assault without contact. Then, when my men caught the—well we called him a prisoner, he was a deserter I think because he gave himself up.</u>
       <u who="VERRONE">How did you find him?</u>
-      <u who="GILREATH">He walked into us. You see, I have an LP that I always send somebody forward. I mean fifty yards or so for early warning. Two men, <persName>John Atkins</persName> and <persName>Ron Bear</persName> were a machine gunner and fireteam leader, they brought him back and “Hey sergeant, look! We caught a little boy out here.” Made some comment, “Boy? Hell, that’s no boy. Full dress <orgName>North Vietnamese</orgName> uniform except for a weapon” He had thrown his weapon away when he deserted. He had a wound on his one of his feet, I don’t remember, it doesn’t matter either way. But I sent him back to <persName>General Colonel Moore</persName> for an interpreter there. You know, interrogating. He told us there was many, many <orgName>North Vietnamese</orgName> on the mountain wanting to kill Americans.</u>
+      <u who="GILREATH">He walked into us. You see, I have an LP that I always send somebody forward. I mean fifty yards or so for early warning. Two men, <persName ref="#ttu_483_person_16">John Atkins</persName> and <persName ref="#ttu_483_person_17">Ron Bear</persName> were a machine gunner and fireteam leader, they brought him back and “Hey sergeant, look! We caught a little boy out here.” Made some comment, “Boy? Hell, that’s no boy. Full dress <orgName ref="#ttu_483_org_5">North Vietnamese</orgName> uniform except for a weapon” He had thrown his weapon away when he deserted. He had a wound on his one of his feet, I don’t remember, it doesn’t matter either way. But I sent him back to <persName ref="#ttu_483_person_18">General Colonel Moore</persName> for an interpreter there. You know, interrogating. He told us there was many, many <orgName ref="#ttu_483_org_6">North Vietnamese</orgName> on the mountain wanting to kill Americans.</u>
       <u who="VERRONE">Did you go back with the prisoner?</u>
-      <u who="GILREATH">No. I sent him back. I was a little bit busy. After I saw him, word about the next thing, which did happen. But in any case, he told the interrogator about the whole bunch on the mountain. They called and told me to move forward about a hundred yards or so, to expand the <placeName>landing zone</placeName>. I had gone thirty, forty yards, I guess. I saw him coming off of the mountain, of <placeName>Chu Pong</placeName>. There were lack of—some had weapons still slung on the shoulder and I had time to call back, to make sure there was no friendlies there because the <orgName>South Vietnamese army</orgName>, they didn’t coordinate well, they might show up anywhere. They issued me that there was none, so we actually ambushed them initially. Just let them get on in, get a little closer to us and then we opened fire on them. The funny thing was, I told <persName>General Moore</persName> once before, I said, “<persName>General</persName>, if I know the enemy is behind that first batch I fired on, I wouldn’t had fired on them, I would’ve sent them on down to you.” It was about a five-hundred man battalion. I think <persName>General</persName> finally traced it down to the <orgName>9th Battalion of the 66th NVA (North Vietnamese Army) Regiment</orgName> commanded by <persName>Colonel An</persName> in which <persName>General Moore</persName> went back and in fact called me the first trip he went back, wanted to know if I wanted to go back to <placeName>Ia Drang Valley</placeName>. I told him, “<persName>General</persName>, I respect you, but hell no I'm not going back. I ain’t lost a thing over there.” That’s when he interviewed <persName>Colonel An</persName>. You know, when you think about it, I got a platoon. I'm the lead forward for my battalion. These guys coming off the mountains, I don’t know what size unit it was, probably a platoon, I don’t know. I couldn’t see the tail end of the collar. Here he is leading the force with his battalion. Of course we clashed. One thing about helicopters, I'm sure you are aware of it. I think the reason they were delayed in getting to us—if you don’t see it, you can hear it, but you don’t know where it exactly where it is. I think they came off out of the cave and off the mountain.</u>
+      <u who="GILREATH">No. I sent him back. I was a little bit busy. After I saw him, word about the next thing, which did happen. But in any case, he told the interrogator about the whole bunch on the mountain. They called and told me to move forward about a hundred yards or so, to expand the <placeName ref="#ttu_483_place_13">landing zone</placeName>. I had gone thirty, forty yards, I guess. I saw him coming off of the mountain, of <placeName ref="#ttu_483_place_14">Chu Pong</placeName>. There were lack of—some had weapons still slung on the shoulder and I had time to call back, to make sure there was no friendlies there because the <orgName ref="#ttu_483_org_7">South Vietnamese army</orgName>, they didn’t coordinate well, they might show up anywhere. They issued me that there was none, so we actually ambushed them initially. Just let them get on in, get a little closer to us and then we opened fire on them. The funny thing was, I told <persName ref="#ttu_483_person_19">General Moore</persName> once before, I said, “<persName ref="#ttu_483_person_20">General</persName>, if I know the enemy is behind that first batch I fired on, I wouldn’t had fired on them, I would’ve sent them on down to you.” It was about a five-hundred man battalion. I think <persName ref="#ttu_483_person_21">General</persName> finally traced it down to the <orgName ref="#ttu_483_org_8">9th Battalion of the 66th NVA (North Vietnamese Army) Regiment</orgName> commanded by <persName ref="#ttu_483_person_22">Colonel An</persName> in which <persName ref="#ttu_483_person_23">General Moore</persName> went back and in fact called me the first trip he went back, wanted to know if I wanted to go back to <placeName ref="#ttu_483_place_15">Ia Drang Valley</placeName>. I told him, “<persName ref="#ttu_483_person_24">General</persName>, I respect you, but hell no I'm not going back. I ain’t lost a thing over there.” That’s when he interviewed <persName ref="#ttu_483_person_25">Colonel An</persName>. You know, when you think about it, I got a platoon. I'm the lead forward for my battalion. These guys coming off the mountains, I don’t know what size unit it was, probably a platoon, I don’t know. I couldn’t see the tail end of the collar. Here he is leading the force with his battalion. Of course we clashed. One thing about helicopters, I'm sure you are aware of it. I think the reason they were delayed in getting to us—if you don’t see it, you can hear it, but you don’t know where it exactly where it is. I think they came off out of the cave and off the mountain.</u>
       <u who="VERRONE">To the sound. </u>
       <u who="GILREATH">To the sound of where the helicopters were. Of course—I don’t say it saved us, but it really helped was when they moved me on forward and we run into them before they got in real close to us. From then on, it was just—it got very wild. 2nd Platoon came in and did their crazy maneuvering.</u>
-      <u who="VERRONE">Tell me that. Tell me about <persName>Henry Herrick</persName>.</u>
-      <u who="GILREATH"><persName>Henry Herrick</persName> was—he had made a comment on the ship going over that he was going for the medal of honor.</u>
+      <u who="VERRONE">Tell me that. Tell me about <persName ref="#ttu_483_person_26">Henry Herrick</persName>.</u>
+      <u who="GILREATH"><persName ref="#ttu_483_person_27">Henry Herrick</persName> was—he had made a comment on the ship going over that he was going for the medal of honor.</u>
       <u who="VERRONE">Did that concern you when you heard that?</u>
-      <u who="GILREATH">Not me particularly. It did on one of my dear friends, <persName>Carl Palmer</persName>, platoon sergeant. </u>
+      <u who="GILREATH">Not me particularly. It did on one of my dear friends, <persName ref="#ttu_483_person_28">Carl Palmer</persName>, platoon sergeant. </u>
       <u who="VERRONE">Yes, sir. </u>
       <u who="GILREATH">He told me—</u>
-      <u who="VERRONE">That was <orgName>Herrick</orgName>’s platoon sergeant.</u>
-      <u who="GILREATH">He said, “That’s son of a bitch is going to get us killed.” He told me that when we were going over on the ship. We had—he drowned two of his men, prior to any combat or anything. Gung ho, crazy training missions. It wasn’t a training mission, he should’ve been patrol. He was sent up to reinforce me and get on my flank and tie in with it. Here they come, <persName>Sergeant Palmer</persName>, he was from here to the camera from me. I said, “<persName>Carl</persName>, where the hell are you going?” “I don’t know, but where are following this thing.”</u>
+      <u who="VERRONE">That was <orgName ref="#ttu_483_org_9">Herrick</orgName>’s platoon sergeant.</u>
+      <u who="GILREATH">He said, “That’s son of a bitch is going to get us killed.” He told me that when we were going over on the ship. We had—he drowned two of his men, prior to any combat or anything. Gung ho, crazy training missions. It wasn’t a training mission, he should’ve been patrol. He was sent up to reinforce me and get on my flank and tie in with it. Here they come, <persName ref="#ttu_483_person_29">Sergeant Palmer</persName>, he was from here to the camera from me. I said, “<persName ref="#ttu_483_person_30">Carl</persName>, where the hell are you going?” “I don’t know, but where are following this thing.”</u>
       <u who="VERRONE">So you saw him going by, chasing the scouts.</u>
       <u who="GILREATH">Oh yeah, went right by me. I tried to stop it because I had my hands full already.</u>
-      <u who="VERRONE">But you couldn’t because he was answering to <persName>Lieutenant Herrick</persName>. Did you see the scouts they were chasing?</u>
+      <u who="VERRONE">But you couldn’t because he was answering to <persName ref="#ttu_483_person_31">Lieutenant Herrick</persName>. Did you see the scouts they were chasing?</u>
       <u who="GILREATH">No, didn’t.</u>
       <u who="VERRONE">Were there scouts, do you think?</u>
-      <u who="GILREATH"><persName>Sergeant Ernie Savage</persName> was the buck sergeant that wound up with the remains. I talked to him quite, he said there were probably three to four that he saw. If he saw them all or not, I don’t know. But it wasn’t any—like a platoon sized or anything like that, maybe a squad size.</u>
+      <u who="GILREATH"><persName ref="#ttu_483_person_32">Sergeant Ernie Savage</persName> was the buck sergeant that wound up with the remains. I talked to him quite, he said there were probably three to four that he saw. If he saw them all or not, I don’t know. But it wasn’t any—like a platoon sized or anything like that, maybe a squad size.</u>
       <u who="VERRONE">So they go by and do they just disappear out into the woods?</u>
-      <u who="GILREATH">Just went out and the <orgName>North Vietnamese</orgName> just kept leading them on. Got them out there where they wanted them and surround them and just—just tore them to pieces.</u>
+      <u who="GILREATH">Just went out and the <orgName ref="#ttu_483_org_10">North Vietnamese</orgName> just kept leading them on. Got them out there where they wanted them and surround them and just—just tore them to pieces.</u>
       <u who="VERRONE">Could you hear the gunfire from that action?</u>
-      <u who="GILREATH">Oh yeah. In fact, the weapon squad leader was <persName>Sergeant Hurdle</persName>. Two M60s. I don’t know how soon in the action again because I still had my hand fill. But machine gun fire coming back into us—</u>
-      <u who="VERRONE">Was it <orgName>American</orgName>?</u>
-      <u who="GILREATH">It was those two machine guns and I told <persName>Colonel Moore</persName> later, I said, “Hell, those were our M60s.” He verified it later that they had wiped out our weapons squad completely, got the machine guns and turned it on us.</u>
-      <u who="VERRONE">Right. <persName>Captain Herren</persName>, what was his reaction to this?</u>
-      <u who="GILREATH">He seemed like he aged five years in a matter of couple of hours. I'm sure you are familiar with the fact that the army delegates authority, not responsibility. <persName>John Herren</persName> felt responsible for that platoon out there, he asked me, he says “<persName>Sergeant Gilreath</persName>, any way that you can think of that we can get out to them.” I said, “<persName>Captain John</persName>, if the 3rd Platoon had moved up and we were in there.” I said, “Now we are going to the right flank with the 3rd Platoon. But that leaves everything open. On that side of the <placeName>landing zone</placeName>.” The 2nd Platoon was the one that would’ve filled in and sent 3rd Platoon out to do their tie in but we were missing a couple hundred meters there. I told them, I said “That’s the old way, that’s how we’re leaving the battalion wide open.” Drive a train down through there where we had it vacated. Of course we didn’t try it. We did try to do a direct assault out to get to that. They were well camouflaged, they knew where we were, we didn’t know where they were. I mean, it’s obvious that they were out in front of us, but we were taking casualties just trying to get out to them. The thing that was a savior for <orgName>B Company</orgName> in particular, was that dry creek bed.</u>
+      <u who="GILREATH">Oh yeah. In fact, the weapon squad leader was <persName ref="#ttu_483_person_33">Sergeant Hurdle</persName>. Two M60s. I don’t know how soon in the action again because I still had my hand fill. But machine gun fire coming back into us—</u>
+      <u who="VERRONE">Was it <orgName ref="#ttu_483_org_11">American</orgName>?</u>
+      <u who="GILREATH">It was those two machine guns and I told <persName ref="#ttu_483_person_34">Colonel Moore</persName> later, I said, “Hell, those were our M60s.” He verified it later that they had wiped out our weapons squad completely, got the machine guns and turned it on us.</u>
+      <u who="VERRONE">Right. <persName ref="#ttu_483_person_35">Captain Herren</persName>, what was his reaction to this?</u>
+      <u who="GILREATH">He seemed like he aged five years in a matter of couple of hours. I'm sure you are familiar with the fact that the army delegates authority, not responsibility. <persName ref="#ttu_483_person_36">John Herren</persName> felt responsible for that platoon out there, he asked me, he says “<persName ref="#ttu_483_person_37">Sergeant Gilreath</persName>, any way that you can think of that we can get out to them.” I said, “<persName ref="#ttu_483_person_38">Captain John</persName>, if the 3rd Platoon had moved up and we were in there.” I said, “Now we are going to the right flank with the 3rd Platoon. But that leaves everything open. On that side of the <placeName ref="#ttu_483_place_16">landing zone</placeName>.” The 2nd Platoon was the one that would’ve filled in and sent 3rd Platoon out to do their tie in but we were missing a couple hundred meters there. I told them, I said “That’s the old way, that’s how we’re leaving the battalion wide open.” Drive a train down through there where we had it vacated. Of course we didn’t try it. We did try to do a direct assault out to get to that. They were well camouflaged, they knew where we were, we didn’t know where they were. I mean, it’s obvious that they were out in front of us, but we were taking casualties just trying to get out to them. The thing that was a savior for <orgName ref="#ttu_483_org_12">B Company</orgName> in particular, was that dry creek bed.</u>
       <u who="VERRONE">Right, it’s a good position.</u>
       <u who="GILREATH">That’s a good firing position, they usually up in the backside, you got a good firing position.</u>
       <u who="VERRONE">Was it accurate as portrayed in the movie? Was it about that high? About shoulder?</u>
-      <u who="GILREATH">In places, yeah. But it ran out on my left flank where <orgName>A Company</orgName> started. Of course, the <orgName>North Vietnamese</orgName> they’re smart enough to know that we were in good position so they sort of skirted us around, on the <orgName>A Company</orgName> and <orgName>C Company</orgName> side. But we had—you know again, senseless to try to go out there after that and we would’ve lost half of the company if we had tried again and we did try it and like I said, we took casualties. Nothing we can do about it. Finally, <persName>Sergeant Savage</persName> did get the artillery adjusted in, right on his position. In fact we went back into the <placeName>Ia Drang</placeName> when I’d been promoted and moved up to intelligence sergeant. <persName>Colonel Moore</persName> came in one morning after a brief visit. “Going back to <placeName>X-Ray</placeName> tomorrow, do you want to go?” I said, “Yes, sir. I would like to go.” He said, “Well, be out there at my chopper six, seven o’clock whatever it was and we’ll go back in.” <persName>Colonel Earnie</persName> was the XO (Executive Officer). He tried to get everybody to take him out there and show him where everything was. I said, “Hell, I ain’t going out there just me and you colonel.” Artillery rounds and all sorts of stuff that didn’t explode. But <persName>Savage</persName> took them out there and showed him his position and the cut-off the platoon. Where the artillery, the craters were. <persName>Colonel Ernie</persName> made the comment, said, “<persName>Sergeant</persName> you had that artillery running you over, didn’t you?” I said, “Yes, that’s where the enemy was.”</u>
-      <u who="VERRONE">Wow. Tell me about <persName>Ernie Savage</persName>.</u>
-      <u who="GILREATH">Very fine buck sergeant at the time. He’s—we called him sort of loose. He may show up here, he may not. All the other reunions, but he was dedicated to that platoon and some of that <placeName>Hollywood</placeName> stuff in the movie shows him coming out and hanging it out, bullshit. There were all up in the firing position, alert when we finally got out to him.</u>
+      <u who="GILREATH">In places, yeah. But it ran out on my left flank where <orgName ref="#ttu_483_org_13">A Company</orgName> started. Of course, the <orgName ref="#ttu_483_org_14">North Vietnamese</orgName> they’re smart enough to know that we were in good position so they sort of skirted us around, on the <orgName ref="#ttu_483_org_15">A Company</orgName> and <orgName ref="#ttu_483_org_16">C Company</orgName> side. But we had—you know again, senseless to try to go out there after that and we would’ve lost half of the company if we had tried again and we did try it and like I said, we took casualties. Nothing we can do about it. Finally, <persName ref="#ttu_483_person_39">Sergeant Savage</persName> did get the artillery adjusted in, right on his position. In fact we went back into the <placeName ref="#ttu_483_place_17">Ia Drang</placeName> when I’d been promoted and moved up to intelligence sergeant. <persName ref="#ttu_483_person_40">Colonel Moore</persName> came in one morning after a brief visit. “Going back to <placeName ref="#ttu_483_place_18">X-Ray</placeName> tomorrow, do you want to go?” I said, “Yes, sir. I would like to go.” He said, “Well, be out there at my chopper six, seven o’clock whatever it was and we’ll go back in.” <persName ref="#ttu_483_person_41">Colonel Earnie</persName> was the XO (Executive Officer). He tried to get everybody to take him out there and show him where everything was. I said, “Hell, I ain’t going out there just me and you colonel.” Artillery rounds and all sorts of stuff that didn’t explode. But <persName ref="#ttu_483_person_42">Savage</persName> took them out there and showed him his position and the cut-off the platoon. Where the artillery, the craters were. <persName ref="#ttu_483_person_43">Colonel Ernie</persName> made the comment, said, “<persName ref="#ttu_483_person_44">Sergeant</persName> you had that artillery running you over, didn’t you?” I said, “Yes, that’s where the enemy was.”</u>
+      <u who="VERRONE">Wow. Tell me about <persName ref="#ttu_483_person_45">Ernie Savage</persName>.</u>
+      <u who="GILREATH">Very fine buck sergeant at the time. He’s—we called him sort of loose. He may show up here, he may not. All the other reunions, but he was dedicated to that platoon and some of that <placeName ref="#ttu_483_place_19">Hollywood</placeName> stuff in the movie shows him coming out and hanging it out, bullshit. There were all up in the firing position, alert when we finally got out to him.</u>
       <u who="VERRONE">This was on the <date when="1965-11-15">15th</date>, the next day. You led the group out to get them.</u>
       <u who="GILREATH">Yeah.</u>
-      <u who="VERRONE">Can you tell me about that action and what <persName>Herren</persName> said to you and then how you maneuvered out there.</u>
-      <u who="GILREATH">We had—I think the <orgName>2nd of the 5th</orgName>. I'm not sure, one of the companies, anyways another one that came in for reinforcement. We took my platoon and our 3rd Platoon and the—<persName>Joel Sugdinis</persName> I believe was the company commander’s name of the platoon that came in and supported us. They just sort of flanked us. We got <persName>John Herren</persName>, myself and the third platoon, you know move us up, straight out, tactical formation out to them.</u>
-      <u who="VERRONE">This was—so <persName>Herren</persName> went with you?</u>
+      <u who="VERRONE">Can you tell me about that action and what <persName ref="#ttu_483_person_46">Herren</persName> said to you and then how you maneuvered out there.</u>
+      <u who="GILREATH">We had—I think the <orgName ref="#ttu_483_org_17">2nd of the 5th</orgName>. I'm not sure, one of the companies, anyways another one that came in for reinforcement. We took my platoon and our 3rd Platoon and the—<persName ref="#ttu_483_person_47">Joel Sugdinis</persName> I believe was the company commander’s name of the platoon that came in and supported us. They just sort of flanked us. We got <persName ref="#ttu_483_person_48">John Herren</persName>, myself and the third platoon, you know move us up, straight out, tactical formation out to them.</u>
+      <u who="VERRONE">This was—so <persName ref="#ttu_483_person_49">Herren</persName> went with you?</u>
       <u who="GILREATH">Oh, yeah.</u>
       <u who="VERRONE">Was he that kind of commander?</u>
-      <u who="GILREATH">Oh, sure. They show <persName>Colonel Moore</persName> in that movie getting out there, <persName>Colonel Moore</persName> went with us, he didn’t go out with us. Of course, he shouldn’t have, that wasn’t his place.</u>
+      <u who="GILREATH">Oh, sure. They show <persName ref="#ttu_483_person_50">Colonel Moore</persName> in that movie getting out there, <persName ref="#ttu_483_person_51">Colonel Moore</persName> went with us, he didn’t go out with us. Of course, he shouldn’t have, that wasn’t his place.</u>
       <u who="VERRONE">Sure.</u>
       <u who="GILREATH">Commanding from back there. Again, when we came upon them, some were still suffering wounds and a medic, I think he was pretty well explained in book. </u>
       <u who="VERRONE">Yes, sir.</u>
       <u who="GILREATH">You know, when you get down you use some toilet paper. But we finally got him up and got the—you know we could move back, with help brought the dead out.</u>
-      <u who="VERRONE">Tell me about <persName>Sergeant Palmer</persName>.</u>
-      <u who="GILREATH">Just an outstanding platoon sergeant. Veteran of the <name type="event">Korean War</name>. Again, you get in that position of rank senior NCO (Non-Commissioned Officer), you have your, you know the one that you know is going to be, the good one. We sort of stuck together. I’ll never forget what he told me going over on the ship. We went over on the (unclear audio)  ship. <orgName>The Rose</orgName>. Well I never tried, I’ve always been on troop ships in my career in different places. Here we had a state run platoon sergeant. <persName>Sergeant Palmer</persName> had one, a platoon and Montgomery the mortar platoon, they had one together. <persName>Palmer</persName> told us, “They’re fattening up for the kids, hell I never travelled like this before going into combat!” And it turned out to be true in his case.</u>
+      <u who="VERRONE">Tell me about <persName ref="#ttu_483_person_52">Sergeant Palmer</persName>.</u>
+      <u who="GILREATH">Just an outstanding platoon sergeant. Veteran of the <name type="event" ref="#ttu_483_event_2">Korean War</name>. Again, you get in that position of rank senior NCO (Non-Commissioned Officer), you have your, you know the one that you know is going to be, the good one. We sort of stuck together. I’ll never forget what he told me going over on the ship. We went over on the (unclear audio)  ship. <orgName ref="#ttu_483_org_18">The Rose</orgName>. Well I never tried, I’ve always been on troop ships in my career in different places. Here we had a state run platoon sergeant. <persName ref="#ttu_483_person_53">Sergeant Palmer</persName> had one, a platoon and Montgomery the mortar platoon, they had one together. <persName ref="#ttu_483_person_54">Palmer</persName> told us, “They’re fattening up for the kids, hell I never travelled like this before going into combat!” And it turned out to be true in his case.</u>
       <u who="VERRONE">So when you’re approaching this platoon, did you holler out to them to let them know it’s you coming?</u>
-      <u who="GILREATH">Mm-hmm, radios. He still had his radio. In fact, there was one <orgName>North Vietnamese</orgName> laying against this scrub tree looked about this big. My radio operator, I think said, “<persName>Serg</persName>! His eyes blinked!” I said “Really?” “Yeah!” I looked at him and sure enough there was a grenade in his hand. I don’t know how many of us—I guess it was five or six magazines went into him.</u>
+      <u who="GILREATH">Mm-hmm, radios. He still had his radio. In fact, there was one <orgName ref="#ttu_483_org_19">North Vietnamese</orgName> laying against this scrub tree looked about this big. My radio operator, I think said, “<persName ref="#ttu_483_person_55">Serg</persName>! His eyes blinked!” I said “Really?” “Yeah!” I looked at him and sure enough there was a grenade in his hand. I don’t know how many of us—I guess it was five or six magazines went into him.</u>
       <u who="VERRONE">He was still alive?</u>
       <u who="GILREATH">Mm-hmm. Trying to, I guess get us in there and then explode that grenade on us.</u>
       <u who="VERRONE">Who took him out? Who killed him?</u>
       <u who="GILREATH">Oh, myself and the operator. Like I said, six or eight others. We didn’t have no use for him then.</u>
-      <u who="VERRONE">Your friend, <persName>Sergeant Palmer</persName>, did you think that he was the kind of person who would’ve made it through that? He was well equipped for this.</u>
-      <u who="GILREATH">Oh, yes. Again, you know it’s unfortunate, but you have a platoon leader that’s metal happy then—<persName>Palmer</persName> was enough of a solider that he followed. I'm not sure if I may have been a little short tempered with him and if he’d been my platoon leader I would’ve told him, “Hell no, we ain’t going to do this.” But like I said, just enough of a solider that he followed his orders.</u>
-      <u who="VERRONE">How did you feel when you got there and you realized that <persName>Herrick</persName>’s gone and <persName>Palmer</persName>’s gone?</u>
-      <u who="GILREATH">Terrible. In fact, I had <persName>Palmer</persName> back out in a poncho liner—</u>
+      <u who="VERRONE">Your friend, <persName ref="#ttu_483_person_56">Sergeant Palmer</persName>, did you think that he was the kind of person who would’ve made it through that? He was well equipped for this.</u>
+      <u who="GILREATH">Oh, yes. Again, you know it’s unfortunate, but you have a platoon leader that’s metal happy then—<persName ref="#ttu_483_person_57">Palmer</persName> was enough of a solider that he followed. I'm not sure if I may have been a little short tempered with him and if he’d been my platoon leader I would’ve told him, “Hell no, we ain’t going to do this.” But like I said, just enough of a solider that he followed his orders.</u>
+      <u who="VERRONE">How did you feel when you got there and you realized that <persName ref="#ttu_483_person_58">Herrick</persName>’s gone and <persName ref="#ttu_483_person_59">Palmer</persName>’s gone?</u>
+      <u who="GILREATH">Terrible. In fact, I had <persName ref="#ttu_483_person_60">Palmer</persName> back out in a poncho liner—</u>
       <u who="VERRONE">You ask permission to carry him?</u>
-      <u who="GILREATH">I don’t remember the exact number that was left, seventeen maybe. I’m not sure exactly. Kept <persName>John</persName> attached to me, to my platoon. Just to be part of <persName>Sergeant Gilreath</persName>’s platoon. When we got back to the creek bed, I told <persName>Savage</persName>, “Get him, line him up out here behind us on the creek bed, on the friendly side.”</u>
+      <u who="GILREATH">I don’t remember the exact number that was left, seventeen maybe. I’m not sure exactly. Kept <persName ref="#ttu_483_person_61">John</persName> attached to me, to my platoon. Just to be part of <persName ref="#ttu_483_person_62">Sergeant Gilreath</persName>’s platoon. When we got back to the creek bed, I told <persName ref="#ttu_483_person_63">Savage</persName>, “Get him, line him up out here behind us on the creek bed, on the friendly side.”</u>
       <u who="VERRONE">Right.</u>
       <u who="GILREATH">And I said, “Get some rest.”</u>
-      <u who="VERRONE">You’re able right now to speak to the future generations about this day, <date when="1965-11-15">November 15th</date>. What do you want them to know about—about you, but also about <persName>Carl Palmer</persName>?</u>
-      <u who="GILREATH">First off, I don’t know how many of you saw it, but that movie Platoon, <persName>Oliver Stone</persName> won an <orgName>Academy</orgName> Award for it and that’s the nearest thing to nothing I ever tried to look at, I saw very little of it. The way they depicted the American solider, that was wrong. Of course, later on in the seventies there was some frag cannons. We had no problems with drugs, we had no problem with alcohol. We had a small unit leader, well-disciplined men, that I guess was one of the reasons we survived it. There was no heat— he depicted the American soldiers as drunks, dope-heads, and all this crap and that wasn’t true at all. I do some speaking at high schools and some of the colleges around <placeName>South Carolina</placeName> and I let that fact be known. Don’t think of American soldiers that way. Again, that’s—he comes in with good leadership, good discipline, and that’s what we had.</u>
-      <u who="VERRONE">Tell me about your feelings about <persName>Henry Herrick</persName>.</u>
-      <u who="GILREATH">Had no use for it. You knew basically what he was, what he is. I guess his stated mission was to be medal hungry. That’s no way to be. <persName>John Herren</persName>, I think he had probably tried to calm him down a couple of times, but of course the <orgName>Army</orgName> says if you’re aggressive, that’s fine. But aggression can backfire on you and it did on him.</u>
+      <u who="VERRONE">You’re able right now to speak to the future generations about this day, <date when="1965-11-15">November 15th</date>. What do you want them to know about—about you, but also about <persName ref="#ttu_483_person_64">Carl Palmer</persName>?</u>
+      <u who="GILREATH">First off, I don’t know how many of you saw it, but that movie Platoon, <persName ref="#ttu_483_person_65">Oliver Stone</persName> won an <orgName ref="#ttu_483_org_20">Academy</orgName> Award for it and that’s the nearest thing to nothing I ever tried to look at, I saw very little of it. The way they depicted the American solider, that was wrong. Of course, later on in the seventies there was some frag cannons. We had no problems with drugs, we had no problem with alcohol. We had a small unit leader, well-disciplined men, that I guess was one of the reasons we survived it. There was no heat— he depicted the American soldiers as drunks, dope-heads, and all this crap and that wasn’t true at all. I do some speaking at high schools and some of the colleges around <placeName ref="#ttu_483_place_20">South Carolina</placeName> and I let that fact be known. Don’t think of American soldiers that way. Again, that’s—he comes in with good leadership, good discipline, and that’s what we had.</u>
+      <u who="VERRONE">Tell me about your feelings about <persName ref="#ttu_483_person_66">Henry Herrick</persName>.</u>
+      <u who="GILREATH">Had no use for it. You knew basically what he was, what he is. I guess his stated mission was to be medal hungry. That’s no way to be. <persName ref="#ttu_483_person_67">John Herren</persName>, I think he had probably tried to calm him down a couple of times, but of course the <orgName ref="#ttu_483_org_21">Army</orgName> says if you’re aggressive, that’s fine. But aggression can backfire on you and it did on him.</u>
       <u who="VERRONE">Yes, sir.</u>
-      <u who="GILREATH">I didn’t—I knew him as, you know, competitors. 1st Platoon, 2nd Platoon. He and <persName>Lieutenant Devney</persName>. Other than that, I didn’t—<persName>Lieutenant Deal</persName> was our third platoon leader, now he was a fine officer.</u>
-      <u who="VERRONE">Yes. Have you been able to release maybe the angry or the frustration with <persName>Herrick</persName> over the years?</u>
+      <u who="GILREATH">I didn’t—I knew him as, you know, competitors. 1st Platoon, 2nd Platoon. He and <persName ref="#ttu_483_person_68">Lieutenant Devney</persName>. Other than that, I didn’t—<persName ref="#ttu_483_person_69">Lieutenant Deal</persName> was our third platoon leader, now he was a fine officer.</u>
+      <u who="VERRONE">Yes. Have you been able to release maybe the angry or the frustration with <persName ref="#ttu_483_person_70">Herrick</persName> over the years?</u>
       <u who="GILREATH">Yeah, in a way I guess. But, like today, we go over back to the wall and see all the names, it makes you think about it again.</u>
-      <u who="VERRONE">Yes, sir. Tell me then, you get back with <persName>Sergeant Palmer</persName>, you’re back in the lines, then what happened with you?</u>
+      <u who="VERRONE">Yes, sir. Tell me then, you get back with <persName ref="#ttu_483_person_71">Sergeant Palmer</persName>, you’re back in the lines, then what happened with you?</u>
       <u who="GILREATH">You mean as far as the rest of the action?</u>
       <u who="VERRONE">Yes, sir. This is the terrible <date when="1965-11-15">day of “Broken Arrow”</date>, and all of that massive attack. What happened with you during that attack at dawn?</u>
-      <u who="GILREATH">We just started shooting and didn’t quit. They would—the movie did depict that pretty accurate as far as them attacking them leaves, they did. But again, we were in such good firing position. Those machine guns were just cutting them down, of course the rifleman pushed them all around. That was great but it ran out. I hate to say it, but we were given to <orgName>A Company</orgName>. <persName>Tony Nadal</persName>, the <orgName>A Company</orgName> commander said, “Send them around here to us.” Again, you know, that was just the way it panned out, we happened to be at the creek bed. Our 3rd Platoon we had, let’s see, <persName>Deal</persName>, William—no, <persName>Curry</persName>. <persName>Chief Curry</persName> was killed, that was that was one of the—he used to be my platoon and squad leader. Then, <persName>Colonel Moore</persName> before we left, a couple of times it was getting a little heavy, outstanding squad leaders, so he took two of them. I told <persName>Plumley</persName>, I went down to battalion after I got word of what he was doing, he took <persName>Sergeant Hull</persName> and <persName>Sergeant Curry</persName>. <persName>Sergeant Meyer</persName>, “They don’t need to go in there.” He said, “I know what you’re here for.” I said, “I’d like to see the <persName>colonel</persName>.” “The <persName>colonel</persName> ain't here.” I told them later, so I got my hand on you, I believe, the <persName>colonel</persName>. But I knew the reason, both of them were promotable to E7. So they were putting them in the slider. <persName>Sergeant Hull</persName> and the recon platoon sergeant and later on <persName>Curry</persName> would’ve been the third platoon sergeant if he had not been killed. It gave me—I’m not going to call him a name, but something that I wouldn’t care to.</u>
-      <u who="VERRONE">Tell me about <persName>Sergeant Major Plumley</persName>.</u>
+      <u who="GILREATH">We just started shooting and didn’t quit. They would—the movie did depict that pretty accurate as far as them attacking them leaves, they did. But again, we were in such good firing position. Those machine guns were just cutting them down, of course the rifleman pushed them all around. That was great but it ran out. I hate to say it, but we were given to <orgName ref="#ttu_483_org_22">A Company</orgName>. <persName ref="#ttu_483_person_72">Tony Nadal</persName>, the <orgName ref="#ttu_483_org_23">A Company</orgName> commander said, “Send them around here to us.” Again, you know, that was just the way it panned out, we happened to be at the creek bed. Our 3rd Platoon we had, let’s see, <persName ref="#ttu_483_person_73">Deal</persName>, William—no, <persName ref="#ttu_483_person_74">Curry</persName>. <persName ref="#ttu_483_person_75">Chief Curry</persName> was killed, that was that was one of the—he used to be my platoon and squad leader. Then, <persName ref="#ttu_483_person_76">Colonel Moore</persName> before we left, a couple of times it was getting a little heavy, outstanding squad leaders, so he took two of them. I told <persName ref="#ttu_483_person_77">Plumley</persName>, I went down to battalion after I got word of what he was doing, he took <persName ref="#ttu_483_person_78">Sergeant Hull</persName> and <persName ref="#ttu_483_person_79">Sergeant Curry</persName>. <persName ref="#ttu_483_person_80">Sergeant Meyer</persName>, “They don’t need to go in there.” He said, “I know what you’re here for.” I said, “I’d like to see the <persName ref="#ttu_483_person_81">colonel</persName>.” “The <persName ref="#ttu_483_person_82">colonel</persName> ain't here.” I told them later, so I got my hand on you, I believe, the <persName ref="#ttu_483_person_83">colonel</persName>. But I knew the reason, both of them were promotable to E7. So they were putting them in the slider. <persName ref="#ttu_483_person_84">Sergeant Hull</persName> and the recon platoon sergeant and later on <persName ref="#ttu_483_person_85">Curry</persName> would’ve been the third platoon sergeant if he had not been killed. It gave me—I’m not going to call him a name, but something that I wouldn’t care to.</u>
+      <u who="VERRONE">Tell me about <persName ref="#ttu_483_person_86">Sergeant Major Plumley</persName>.</u>
       <u who="GILREATH">Oh, tremendous person. All solider. His bite is not nearly as bad as his growl. He’s a good friend I’ve ever had, still friends with him, in fact I talked to him on Monday. I talk to him every now and then and he just didn’t take no crap. If you did your job, you have nothing to worry about. I had and still have a good relation with him. Of course, he is one of the few people I saw in the book. What they call a lifer or an airborne or whatever. Made all the combat jumps and hell how many wars he was in.</u>
       <u who="VERRONE">Three.</u>
       <u who="GILREATH">Three, yep that’s right. He’s getting a little, I guess a little feeble. Of course, he’s eighty-four or eighty-five, I think. </u>
       <u who="VERRONE">Yes, sir.</u>
       <u who="GILREATH">But still a tremendous person.</u>
-      <u who="VERRONE">Tell me about then <persName>Lieutenant Colonel Hal Moore</persName>?</u>
-      <u who="GILREATH">They don’t make them any better. He’s the type—again, if you do your job, show progress in whatever you’re doing as far as tactics or anything, training, your mission everything, you have no problem with <persName>Colonel Moore</persName>. I remember one time in inspection, full-field inspection where you have all your equipment laid out on the beds in the barracks prior to going. One of my machine gunners, there’s a pad that fits the harness. Makes it a little easier on the bones, I guess. Name was <persName>Rucker</persName> and he had his pad laid out there on the bed. It looked awful, old and ragged. <persName>Colonel Moore</persName> said, “<persName>Sergeant Gilreath</persName>, look at that thing.” I said, “Yes, sir. There’s a requisition for the unit.” I said, “But that piece of paper, put it on a shell it don’t help none, but that old ragged pad there will help him a little bit as far as carrying his gun.” Then, he saw the logic in that and then said nothing else about it. That type of person you know, if there is reason for it, then you tell <persName>Moore</persName> and he had no problem. In fact, when he started writing the book, he called me and travelled interstate I-85, which is near my home. He was going up to <placeName>West Point</placeName> to do a graduation address. He called me and said, “Would you meet me somewhere?” Because he started doing research on doing this book. I told him, “Yes, I would be glad to.” I was with the sheriff’s department then. So he called, I met him up there it was at a <orgName>Howard Johnson’s</orgName> on the interstate. It was three stories then, well still is. I said, “Why would you retire? I sort of thought you’d be chief of staff one day.” He said, “<persName>Sergeant</persName>, they offered me the <placeName>Ryukyu Islands</placeName>.”</u>
+      <u who="VERRONE">Tell me about then <persName ref="#ttu_483_person_87">Lieutenant Colonel Hal Moore</persName>?</u>
+      <u who="GILREATH">They don’t make them any better. He’s the type—again, if you do your job, show progress in whatever you’re doing as far as tactics or anything, training, your mission everything, you have no problem with <persName ref="#ttu_483_person_88">Colonel Moore</persName>. I remember one time in inspection, full-field inspection where you have all your equipment laid out on the beds in the barracks prior to going. One of my machine gunners, there’s a pad that fits the harness. Makes it a little easier on the bones, I guess. Name was <persName ref="#ttu_483_person_89">Rucker</persName> and he had his pad laid out there on the bed. It looked awful, old and ragged. <persName ref="#ttu_483_person_90">Colonel Moore</persName> said, “<persName ref="#ttu_483_person_91">Sergeant Gilreath</persName>, look at that thing.” I said, “Yes, sir. There’s a requisition for the unit.” I said, “But that piece of paper, put it on a shell it don’t help none, but that old ragged pad there will help him a little bit as far as carrying his gun.” Then, he saw the logic in that and then said nothing else about it. That type of person you know, if there is reason for it, then you tell <persName ref="#ttu_483_person_92">Moore</persName> and he had no problem. In fact, when he started writing the book, he called me and travelled interstate I-85, which is near my home. He was going up to <placeName ref="#ttu_483_place_21">West Point</placeName> to do a graduation address. He called me and said, “Would you meet me somewhere?” Because he started doing research on doing this book. I told him, “Yes, I would be glad to.” I was with the sheriff’s department then. So he called, I met him up there it was at a <orgName ref="#ttu_483_org_24">Howard Johnson’s</orgName> on the interstate. It was three stories then, well still is. I said, “Why would you retire? I sort of thought you’d be chief of staff one day.” He said, “<persName ref="#ttu_483_person_93">Sergeant</persName>, they offered me the <placeName ref="#ttu_483_place_22">Ryukyu Islands</placeName>.”</u>
       <u who="VERRONE">The what?</u>
-      <u who="GILREATH"><placeName>Ryukyu islands</placeName>. <placeName>Japan</placeName>, <placeName>Okinawa</placeName>, all that. He said, “You know how many combat troopers is in that command?” I said, “No sir, I'm not sure.” He said, “Not a damn one. So instead of taking that command, I retired.” That’s the way he was. He wanted combat troopers, of course he commanded a company in <placeName>Korea</placeName> during the <name type="event">Korea War</name>. He was just a hard know—well. If you deserved it, if not then you had no problem with it.</u>
-      <u who="VERRONE">What do you remember about him during that hree days at <placeName>X-Ray</placeName>? How well is it portrayed in the movie, how well is it portrayed in the book?</u>
-      <u who="GILREATH">We did a <orgName>History Channel</orgName> interview, there was eight of us all over the country. They flew us into <placeName>New York</placeName> and we went out to <placeName>West Point</placeName> and saw the movie for the first time and two days later, we went in and they—it was called “History vs. <placeName>Hollywood</placeName>” and we interviewed and we rated the movie. This one guy, from <placeName>South Carolina</placeName> said, “Did you notice that—I didn’t know <persName>Colonel Moore</persName> killed them all, I thought we killed few of them.” (Chuckles) Talking about the way the movie depicted and it wasn’t the way at all. Of course, he was in the action, but not to that extent. He finally made a comment that he was the command rifle and not B1. So they got him back in the rear there where he should’ve been to start with.</u>
-      <u who="VERRONE">Tell me about <persName>Joe Galloway</persName>, what kind of contact did you have with him?</u>
+      <u who="GILREATH"><placeName ref="#ttu_483_place_23">Ryukyu islands</placeName>. <placeName ref="#ttu_483_place_24">Japan</placeName>, <placeName ref="#ttu_483_place_25">Okinawa</placeName>, all that. He said, “You know how many combat troopers is in that command?” I said, “No sir, I'm not sure.” He said, “Not a damn one. So instead of taking that command, I retired.” That’s the way he was. He wanted combat troopers, of course he commanded a company in <placeName ref="#ttu_483_place_26">Korea</placeName> during the <name type="event" ref="#ttu_483_event_3">Korea War</name>. He was just a hard know—well. If you deserved it, if not then you had no problem with it.</u>
+      <u who="VERRONE">What do you remember about him during that hree days at <placeName ref="#ttu_483_place_27">X-Ray</placeName>? How well is it portrayed in the movie, how well is it portrayed in the book?</u>
+      <u who="GILREATH">We did a <orgName ref="#ttu_483_org_25">History Channel</orgName> interview, there was eight of us all over the country. They flew us into <placeName ref="#ttu_483_place_28">New York</placeName> and we went out to <placeName ref="#ttu_483_place_29">West Point</placeName> and saw the movie for the first time and two days later, we went in and they—it was called “History vs. <placeName ref="#ttu_483_place_30">Hollywood</placeName>” and we interviewed and we rated the movie. This one guy, from <placeName ref="#ttu_483_place_31">South Carolina</placeName> said, “Did you notice that—I didn’t know <persName ref="#ttu_483_person_94">Colonel Moore</persName> killed them all, I thought we killed few of them.” (Chuckles) Talking about the way the movie depicted and it wasn’t the way at all. Of course, he was in the action, but not to that extent. He finally made a comment that he was the command rifle and not B1. So they got him back in the rear there where he should’ve been to start with.</u>
+      <u who="VERRONE">Tell me about <persName ref="#ttu_483_person_95">Joe Galloway</persName>, what kind of contact did you have with him?</u>
       <u who="GILREATH">Knew him when he came in, course you know,  didn’t know that much about him. He was back in the battalion CP (Command Post) and of course I was out forward there. Didn’t really see that much of him. I think one time we went back—that’s when they brought 2nd Platoon back in, I saw him then. He was hustling around there and doing whatever you know. Had a rifle. Other than that, didn’t have any contact with him then. Mostly the folks around the CP area did.</u>
       <u who="VERRONE">In the interest of time, we have to wrap up, what’s it been like now on this 40th anniversary of these battles for you?</u>
       <u who="GILREATH">I can tell you better after today, we go over to the wall that’s always—you know, it’s hard but we go every time.</u>
       <u who="VERRONE">Yes, sir. </u>
       <u who="GILREATH">We reminisce some of the folks in the hospitality room. I don’t miss anything, I go to all the—But it’s enjoyable. Family orientated because I bring the family and the kids all the time, the grandchildren are here this year. But again, after this weekend, it’ll—I don’t really make it a milestone or anything, it just happened forty years ago.</u>
-      <u who="VERRONE"><persName>Sergeant Gilreath</persName>, what would you want the people listening in a hundred years, what would you want them to know about <name type="event">X-Ray</name> in those days?</u>
-      <u who="GILREATH">Without outstanding artillery and air support, we wouldn’t be sitting here talking. We had outstanding support from the <orgName>1st of the 21st Artillery</orgName>, <orgName>229th Aviation</orgName>, <persName>Bruce Crandall</persName>. Choppers in and out the whole time, and our air. The old A1E Skyraider, did more damage or pinpoint accuracy than the fast moving jets, because we had them all. Again, you got to know how to use your support, know when to use it, and don’t wear them out before you need it. </u>
+      <u who="VERRONE"><persName ref="#ttu_483_person_96">Sergeant Gilreath</persName>, what would you want the people listening in a hundred years, what would you want them to know about <name type="event" ref="#ttu_483_event_4">X-Ray</name> in those days?</u>
+      <u who="GILREATH">Without outstanding artillery and air support, we wouldn’t be sitting here talking. We had outstanding support from the <orgName ref="#ttu_483_org_26">1st of the 21st Artillery</orgName>, <orgName ref="#ttu_483_org_27">229th Aviation</orgName>, <persName ref="#ttu_483_person_97">Bruce Crandall</persName>. Choppers in and out the whole time, and our air. The old A1E Skyraider, did more damage or pinpoint accuracy than the fast moving jets, because we had them all. Again, you got to know how to use your support, know when to use it, and don’t wear them out before you need it. </u>
       <u who="VERRONE">Yes, sir. </u>
       <u who="GILREATH">Then again, you know the battalion commander doing hard leadership. Did not try to direct from the helicopter, he was there with us. He was the first on the ground and I was the second.</u>
-      <u who="VERRONE">Okay. Well, we’ll end the interview now, thank you very much <persName>sergeant</persName>.</u>
+      <u who="VERRONE">Okay. Well, we’ll end the interview now, thank you very much <persName ref="#ttu_483_person_98">sergeant</persName>.</u>
       <u who="GILREATH">No problem.</u>
       <u who="VERRONE">Appreciate it very much.</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_483_place_0">
+        <placeName>Washington, D.C.</placeName>
+      </place>
+      <place xml:id="ttu_483_place_1">
+        <placeName>Hilton Crystal City Hotel</placeName>
+      </place>
+      <place xml:id="ttu_483_place_2">
+        <placeName>Ia Drang Valley</placeName>
+      </place>
+      <place xml:id="ttu_483_place_3">
+        <placeName>Kelley Hill</placeName>
+      </place>
+      <place xml:id="ttu_483_place_4">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_483_place_5">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_483_place_6">
+        <placeName>Plei Me Special Forces camp</placeName>
+      </place>
+      <place xml:id="ttu_483_place_7">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_483_place_8">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_483_place_9">
+        <placeName>Florida</placeName>
+      </place>
+      <place xml:id="ttu_483_place_10">
+        <placeName>Landing Zone</placeName>
+      </place>
+      <place xml:id="ttu_483_place_11">
+        <placeName>landing zone</placeName>
+      </place>
+      <place xml:id="ttu_483_place_12">
+        <placeName>landing zone</placeName>
+      </place>
+      <place xml:id="ttu_483_place_13">
+        <placeName>landing zone</placeName>
+      </place>
+      <place xml:id="ttu_483_place_14">
+        <placeName>Chu Pong</placeName>
+      </place>
+      <place xml:id="ttu_483_place_15">
+        <placeName>Ia Drang Valley</placeName>
+      </place>
+      <place xml:id="ttu_483_place_16">
+        <placeName>landing zone</placeName>
+      </place>
+      <place xml:id="ttu_483_place_17">
+        <placeName>Ia Drang</placeName>
+      </place>
+      <place xml:id="ttu_483_place_18">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_483_place_19">
+        <placeName>Hollywood</placeName>
+      </place>
+      <place xml:id="ttu_483_place_20">
+        <placeName>South Carolina</placeName>
+      </place>
+      <place xml:id="ttu_483_place_21">
+        <placeName>West Point</placeName>
+      </place>
+      <place xml:id="ttu_483_place_22">
+        <placeName>Ryukyu Islands</placeName>
+      </place>
+      <place xml:id="ttu_483_place_23">
+        <placeName>Ryukyu islands</placeName>
+      </place>
+      <place xml:id="ttu_483_place_24">
+        <placeName>Japan</placeName>
+      </place>
+      <place xml:id="ttu_483_place_25">
+        <placeName>Okinawa</placeName>
+      </place>
+      <place xml:id="ttu_483_place_26">
+        <placeName>Korea</placeName>
+      </place>
+      <place xml:id="ttu_483_place_27">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_483_place_28">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="ttu_483_place_29">
+        <placeName>West Point</placeName>
+      </place>
+      <place xml:id="ttu_483_place_30">
+        <placeName>Hollywood</placeName>
+      </place>
+      <place xml:id="ttu_483_place_31">
+        <placeName>South Carolina</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_483_event_0">
+        <desc>Battles of Ia Drang-Pleiku</desc>
+      </event>
+      <event xml:id="ttu_483_event_1">
+        <desc>X-Ray</desc>
+      </event>
+      <event xml:id="ttu_483_event_2">
+        <desc>Korean War</desc>
+      </event>
+      <event xml:id="ttu_483_event_3">
+        <desc>Korea War</desc>
+      </event>
+      <event xml:id="ttu_483_event_4">
+        <desc>X-Ray</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_483_person_0">
+        <persName>Dr. Richard Verrone</persName>
+      </person>
+      <person xml:id="ttu_483_person_1">
+        <persName>Master Sergeant Larry Gilreath</persName>
+      </person>
+      <person xml:id="ttu_483_person_2">
+        <persName>Sergeant Gilreath</persName>
+      </person>
+      <person xml:id="ttu_483_person_3">
+        <persName>Hal Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_4">
+        <persName>President Johnson</persName>
+      </person>
+      <person xml:id="ttu_483_person_5">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_6">
+        <persName>Lieutenant Devney</persName>
+      </person>
+      <person xml:id="ttu_483_person_7">
+        <persName>Lieutenant Devney</persName>
+      </person>
+      <person xml:id="ttu_483_person_8">
+        <persName>Devney</persName>
+      </person>
+      <person xml:id="ttu_483_person_9">
+        <persName>John Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_10">
+        <persName>John Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_11">
+        <persName>Captain John</persName>
+      </person>
+      <person xml:id="ttu_483_person_12">
+        <persName>Captain John</persName>
+      </person>
+      <person xml:id="ttu_483_person_13">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_14">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_15">
+        <persName>Sergeant Major Plumley</persName>
+      </person>
+      <person xml:id="ttu_483_person_16">
+        <persName>John Atkins</persName>
+      </person>
+      <person xml:id="ttu_483_person_17">
+        <persName>Ron Bear</persName>
+      </person>
+      <person xml:id="ttu_483_person_18">
+        <persName>General Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_19">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_20">
+        <persName>General</persName>
+      </person>
+      <person xml:id="ttu_483_person_21">
+        <persName>General</persName>
+      </person>
+      <person xml:id="ttu_483_person_22">
+        <persName>Colonel An</persName>
+      </person>
+      <person xml:id="ttu_483_person_23">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_24">
+        <persName>General</persName>
+      </person>
+      <person xml:id="ttu_483_person_25">
+        <persName>Colonel An</persName>
+      </person>
+      <person xml:id="ttu_483_person_26">
+        <persName>Henry Herrick</persName>
+      </person>
+      <person xml:id="ttu_483_person_27">
+        <persName>Henry Herrick</persName>
+      </person>
+      <person xml:id="ttu_483_person_28">
+        <persName>Carl Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_29">
+        <persName>Sergeant Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_30">
+        <persName>Carl</persName>
+      </person>
+      <person xml:id="ttu_483_person_31">
+        <persName>Lieutenant Herrick</persName>
+      </person>
+      <person xml:id="ttu_483_person_32">
+        <persName>Sergeant Ernie Savage</persName>
+      </person>
+      <person xml:id="ttu_483_person_33">
+        <persName>Sergeant Hurdle</persName>
+      </person>
+      <person xml:id="ttu_483_person_34">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_35">
+        <persName>Captain Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_36">
+        <persName>John Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_37">
+        <persName>Sergeant Gilreath</persName>
+      </person>
+      <person xml:id="ttu_483_person_38">
+        <persName>Captain John</persName>
+      </person>
+      <person xml:id="ttu_483_person_39">
+        <persName>Sergeant Savage</persName>
+      </person>
+      <person xml:id="ttu_483_person_40">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_41">
+        <persName>Colonel Earnie</persName>
+      </person>
+      <person xml:id="ttu_483_person_42">
+        <persName>Savage</persName>
+      </person>
+      <person xml:id="ttu_483_person_43">
+        <persName>Colonel Ernie</persName>
+      </person>
+      <person xml:id="ttu_483_person_44">
+        <persName>Sergeant</persName>
+      </person>
+      <person xml:id="ttu_483_person_45">
+        <persName>Ernie Savage</persName>
+      </person>
+      <person xml:id="ttu_483_person_46">
+        <persName>Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_47">
+        <persName>Joel Sugdinis</persName>
+      </person>
+      <person xml:id="ttu_483_person_48">
+        <persName>John Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_49">
+        <persName>Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_50">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_51">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_52">
+        <persName>Sergeant Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_53">
+        <persName>Sergeant Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_54">
+        <persName>Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_55">
+        <persName>Serg</persName>
+      </person>
+      <person xml:id="ttu_483_person_56">
+        <persName>Sergeant Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_57">
+        <persName>Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_58">
+        <persName>Herrick</persName>
+      </person>
+      <person xml:id="ttu_483_person_59">
+        <persName>Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_60">
+        <persName>Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_61">
+        <persName>John</persName>
+      </person>
+      <person xml:id="ttu_483_person_62">
+        <persName>Sergeant Gilreath</persName>
+      </person>
+      <person xml:id="ttu_483_person_63">
+        <persName>Savage</persName>
+      </person>
+      <person xml:id="ttu_483_person_64">
+        <persName>Carl Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_65">
+        <persName>Oliver Stone</persName>
+      </person>
+      <person xml:id="ttu_483_person_66">
+        <persName>Henry Herrick</persName>
+      </person>
+      <person xml:id="ttu_483_person_67">
+        <persName>John Herren</persName>
+      </person>
+      <person xml:id="ttu_483_person_68">
+        <persName>Lieutenant Devney</persName>
+      </person>
+      <person xml:id="ttu_483_person_69">
+        <persName>Lieutenant Deal</persName>
+      </person>
+      <person xml:id="ttu_483_person_70">
+        <persName>Herrick</persName>
+      </person>
+      <person xml:id="ttu_483_person_71">
+        <persName>Sergeant Palmer</persName>
+      </person>
+      <person xml:id="ttu_483_person_72">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_483_person_73">
+        <persName>Deal</persName>
+      </person>
+      <person xml:id="ttu_483_person_74">
+        <persName>Curry</persName>
+      </person>
+      <person xml:id="ttu_483_person_75">
+        <persName>Chief Curry</persName>
+      </person>
+      <person xml:id="ttu_483_person_76">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_77">
+        <persName>Plumley</persName>
+      </person>
+      <person xml:id="ttu_483_person_78">
+        <persName>Sergeant Hull</persName>
+      </person>
+      <person xml:id="ttu_483_person_79">
+        <persName>Sergeant Curry</persName>
+      </person>
+      <person xml:id="ttu_483_person_80">
+        <persName>Sergeant Meyer</persName>
+      </person>
+      <person xml:id="ttu_483_person_81">
+        <persName>colonel</persName>
+      </person>
+      <person xml:id="ttu_483_person_82">
+        <persName>colonel</persName>
+      </person>
+      <person xml:id="ttu_483_person_83">
+        <persName>colonel</persName>
+      </person>
+      <person xml:id="ttu_483_person_84">
+        <persName>Sergeant Hull</persName>
+      </person>
+      <person xml:id="ttu_483_person_85">
+        <persName>Curry</persName>
+      </person>
+      <person xml:id="ttu_483_person_86">
+        <persName>Sergeant Major Plumley</persName>
+      </person>
+      <person xml:id="ttu_483_person_87">
+        <persName>Lieutenant Colonel Hal Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_88">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_89">
+        <persName>Rucker</persName>
+      </person>
+      <person xml:id="ttu_483_person_90">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_91">
+        <persName>Sergeant Gilreath</persName>
+      </person>
+      <person xml:id="ttu_483_person_92">
+        <persName>Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_93">
+        <persName>Sergeant</persName>
+      </person>
+      <person xml:id="ttu_483_person_94">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_483_person_95">
+        <persName>Joe Galloway</persName>
+      </person>
+      <person xml:id="ttu_483_person_96">
+        <persName>Sergeant Gilreath</persName>
+      </person>
+      <person xml:id="ttu_483_person_97">
+        <persName>Bruce Crandall</persName>
+      </person>
+      <person xml:id="ttu_483_person_98">
+        <persName>sergeant</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_483_org_0">
+        <orgName>2nd Battalion, 23rd Infantry</orgName>
+      </org>
+      <org xml:id="ttu_483_org_1">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="ttu_483_org_2">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_3">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_4">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_5">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_483_org_6">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_483_org_7">
+        <orgName>South Vietnamese army</orgName>
+      </org>
+      <org xml:id="ttu_483_org_8">
+        <orgName>9th Battalion of the 66th NVA (North Vietnamese Army) Regiment</orgName>
+      </org>
+      <org xml:id="ttu_483_org_9">
+        <orgName>Herrick</orgName>
+      </org>
+      <org xml:id="ttu_483_org_10">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_483_org_11">
+        <orgName>American</orgName>
+      </org>
+      <org xml:id="ttu_483_org_12">
+        <orgName>B Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_13">
+        <orgName>A Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_14">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_483_org_15">
+        <orgName>A Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_16">
+        <orgName>C Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_17">
+        <orgName>2nd of the 5th</orgName>
+      </org>
+      <org xml:id="ttu_483_org_18">
+        <orgName>The Rose</orgName>
+      </org>
+      <org xml:id="ttu_483_org_19">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_483_org_20">
+        <orgName>Academy</orgName>
+      </org>
+      <org xml:id="ttu_483_org_21">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="ttu_483_org_22">
+        <orgName>A Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_23">
+        <orgName>A Company</orgName>
+      </org>
+      <org xml:id="ttu_483_org_24">
+        <orgName>Howard Johnson’s</orgName>
+      </org>
+      <org xml:id="ttu_483_org_25">
+        <orgName>History Channel</orgName>
+      </org>
+      <org xml:id="ttu_483_org_26">
+        <orgName>1st of the 21st Artillery</orgName>
+      </org>
+      <org xml:id="ttu_483_org_27">
+        <orgName>229th Aviation</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
