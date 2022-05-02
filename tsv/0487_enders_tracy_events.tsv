@@ -1,9 +1,9 @@
-id	name
-ttu_487_event_0	Pleiku-Ia Drang Valley
-ttu_487_event_1	Vietnam War
-ttu_487_event_2	Vietnam
-ttu_487_event_3	Ia Drang battles
-ttu_487_event_4	Vietnam
-ttu_487_event_5	Vietnam
-ttu_487_event_6	Vietnam
-ttu_487_event_7	Vietnam
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_487_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_487_event_1	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_487_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_487_event_3	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_487_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_487_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_487_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_487_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
