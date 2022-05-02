@@ -1,56 +1,56 @@
-id	placeName
-ttu_488_place_0	Washington D.C.
-ttu_488_place_1	Crystal City Hilton
-ttu_488_place_2	Vietnam
-ttu_488_place_3	Cambodia
-ttu_488_place_4	Virginia
-ttu_488_place_5	Ia Drang
-ttu_488_place_6	Ia Drang
-ttu_488_place_7	Ia Drang
-ttu_488_place_8	Pleiku
-ttu_488_place_9	Pleiku
-ttu_488_place_10	Ia Drang
-ttu_488_place_11	tea plantation
-ttu_488_place_12	Ia Drang
-ttu_488_place_13	Pleiku
-ttu_488_place_14	tea plantation
-ttu_488_place_15	Ia Drang
-ttu_488_place_16	Ia Drang
-ttu_488_place_17	Ia Drang river
-ttu_488_place_18	X-Ray
-ttu_488_place_19	X-Ray
-ttu_488_place_20	X-Ray
-ttu_488_place_21	Albany
-ttu_488_place_22	Chu Pong Mountain
-ttu_488_place_23	Cambodia
-ttu_488_place_24	Ia Drang river
-ttu_488_place_25	tea plantation
-ttu_488_place_26	Pleiku
-ttu_488_place_27	Ia Drang
-ttu_488_place_28	Vietnam
-ttu_488_place_29	Pleiku
-ttu_488_place_30	Ia Drang
-ttu_488_place_31	Pleiku
-ttu_488_place_32	Pleiku
-ttu_488_place_33	tea plantation
-ttu_488_place_34	Chu Pong
-ttu_488_place_35	Chu Pong
-ttu_488_place_36	valley
-ttu_488_place_37	Albany
-ttu_488_place_38	Albany
-ttu_488_place_39	that LZ (Landing Zone)
-ttu_488_place_40	Ia Drang
-ttu_488_place_41	Albany
-ttu_488_place_42	LZ X-Ray
-ttu_488_place_43	Ia Drang
-ttu_488_place_44	Pleiku
-ttu_488_place_45	tea plantation
-ttu_488_place_46	Pleiku
-ttu_488_place_47	Pleiku
-ttu_488_place_48	Pleiku
-ttu_488_place_49	X-Ray
-ttu_488_place_50	Albany
-ttu_488_place_51	Fort Meade
-ttu_488_place_52	Vietnam
-ttu_488_place_53	X-Ray
-ttu_488_place_54	Albany
+id	placeName	QID	ttu_id	coordinate location
+ttu_488_place_0	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_488_place_1	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
+ttu_488_place_2	Vietnam	Q881		16,108
+ttu_488_place_3	Cambodia	Q424		12.6,105
+ttu_488_place_4	Virginia	Q1370		37.5,-79
+ttu_488_place_5	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_6	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_7	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_8	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_9	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_10	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_11	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_488_place_12	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_13	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_14	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_488_place_15	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_16	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_17	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
+ttu_488_place_18	LZ X-Ray	Q110624850		
+ttu_488_place_19	LZ X-Ray	Q110624850		
+ttu_488_place_20	LZ X-Ray	Q110624850		
+ttu_488_place_21	LZ Albany	Q110624853		13.59528,107.71528
+ttu_488_place_22	Chư Pong	Q31621915		13.315277777778,108.35555555556
+ttu_488_place_23	Cambodia	Q424		12.6,105
+ttu_488_place_24	Ia Drang River	Q111630713		13.58061111111111,107.69608333333333
+ttu_488_place_25	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_488_place_26	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_27	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_28	Vietnam	Q881		16,108
+ttu_488_place_29	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_30	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_31	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_32	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_33	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_488_place_34	Chư Pong	Q31621915		13.315277777778,108.35555555556
+ttu_488_place_35	Chư Pong	Q31621915		13.315277777778,108.35555555556
+ttu_488_place_36	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_37	LZ Albany	Q110624853		13.59528,107.71528
+ttu_488_place_38	LZ Albany	Q110624853		13.59528,107.71528
+ttu_488_place_39	LZ Albany	Q110624853		13.59528,107.71528
+ttu_488_place_40	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_41	LZ Albany	Q110624853		13.59528,107.71528
+ttu_488_place_42	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_488_place_43	Ia Drang	Q2904975		13.583333333333,107.71666666667
+ttu_488_place_44	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_45	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_488_place_46	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_47	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_48	Pleiku	Q30599		13.971519,108.014673
+ttu_488_place_49	LZ X-Ray	Q110624850		
+ttu_488_place_50	LZ Albany	Q110624853		13.59528,107.71528
+ttu_488_place_51	Fort George G. Meade	Q509549		39.1069,-76.7431
+ttu_488_place_52	Vietnam	Q881		16,108
+ttu_488_place_53	LZ X-Ray	Q101580609		Q110624850
+ttu_488_place_54	LZ Albany	Q110624853		13.59528,107.71528
