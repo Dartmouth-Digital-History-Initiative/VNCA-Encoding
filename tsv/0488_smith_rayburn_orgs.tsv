@@ -1,35 +1,35 @@
-id	orgName
-ttu_488_org_0	1st Cav
-ttu_488_org_1	1st of the 9th Air Cavalry squadron
-ttu_488_org_2	1st Cavalry Division
-ttu_488_org_3	North Vietnamese
-ttu_488_org_4	1st Cavalry Division
-ttu_488_org_5	North Vietnamese
-ttu_488_org_6	1st Cavalry Division
-ttu_488_org_7	Charlie troop
-ttu_488_org_8	7th Cavalry
-ttu_488_org_9	North Vietnamese
-ttu_488_org_10	North Vietnamese
-ttu_488_org_11	9th Cavalry Aircraft reconnaissance squadron
-ttu_488_org_12	227th
-ttu_488_org_13	229th
-ttu_488_org_14	Charlie troop
-ttu_488_org_15	A troop
-ttu_488_org_16	B troop
-ttu_488_org_17	Charlie troop
-ttu_488_org_18	North Vietnamese
-ttu_488_org_19	North Vietnamese
-ttu_488_org_20	Air Force
-ttu_488_org_21	North Vietnamese
-ttu_488_org_22	North Vietnamese
-ttu_488_org_23	North Vietnamese
-ttu_488_org_24	Army
-ttu_488_org_25	7th Cav
-ttu_488_org_26	1st of the 9th
-ttu_488_org_27	1st of the 9th
-ttu_488_org_28	1st of the 9th
-ttu_488_org_29	Colonel Stockton
-ttu_488_org_30	1st of the 7th
-ttu_488_org_31	Newsweek
-ttu_488_org_32	1st of the 9th
-ttu_488_org_33	7th
+id	orgName	Qid	ttu_id
+ttu_488_org_0	1st Cavalry Division	Q2338	
+ttu_488_org_1	1st Squadron, 9th Cavalry Regiment	Q111029867	
+ttu_488_org_2	1st Cavalry Division	Q2338	
+ttu_488_org_3	People's Army of Vietnam	Q3936506	
+ttu_488_org_4	1st Cavalry Division	Q2338	
+ttu_488_org_5	People's Army of Vietnam	Q3936506	
+ttu_488_org_6	1st Cavalry Division	Q2338	
+ttu_488_org_7	Charlie Troop, 1st Squadron, 9th Cavalry Regiment	Q111819005	
+ttu_488_org_8	7th Cavalry	Q4643987	
+ttu_488_org_9	People's Army of Vietnam	Q3936506	
+ttu_488_org_10	People's Army of Vietnam	Q3936506	
+ttu_488_org_11	1st Squadron, 9th Cavalry Regiment	Q111029867	
+ttu_488_org_12	227th Aviation Regiment (United States)	Q83185178	
+ttu_488_org_13	229th Aviation Regiment	Q4631295	
+ttu_488_org_14	Charlie Troop, 1st Squadron, 9th Cavalry Regiment	Q111819005	
+ttu_488_org_15	A Troop, 1st Squadron, 9th Cavalry Regiment	Q111819106	
+ttu_488_org_16	B Troop, 1st Squadron, 9th Cavalry Regiment	Q111819130	
+ttu_488_org_17	Charlie Troop, 1st Squadron, 9th Cavalry Regiment	Q111819005	
+ttu_488_org_18	People's Army of Vietnam	Q3936506	
+ttu_488_org_19	People's Army of Vietnam	Q3936506	
+ttu_488_org_20	United States Air Force	Q11223	
+ttu_488_org_21	People's Army of Vietnam	Q3936506	
+ttu_488_org_22	People's Army of Vietnam	Q3936506	
+ttu_488_org_23	People's Army of Vietnam	Q3936506	
+ttu_488_org_24	United States Army	Q9212	
+ttu_488_org_25	7th Cavalry Regiment	Q269574	
+ttu_488_org_26	1st Squadron, 9th Cavalry Regiment	Q111029867	
+ttu_488_org_27	1st Squadron, 9th Cavalry Regiment	Q111029867	
+ttu_488_org_28	1st Squadron, 9th Cavalry Regiment	Q111029867	
+ttu_488_org_29	Colonel Stockton		
+ttu_488_org_30	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_488_org_31	Newsweek	Q188413	
+ttu_488_org_32	1st Squadron, 9th Cavalry Regiment	Q111029867	
+ttu_488_org_33	7th Cavalry Regiment	Q269574	
