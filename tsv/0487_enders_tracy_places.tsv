@@ -1,20 +1,20 @@
-id	placeName
-ttu_487_place_0	Washington, D.C.
-ttu_487_place_1	Hilton Crystal City
-ttu_487_place_2	Vietnam
-ttu_487_place_3	Vietnam
-ttu_487_place_4	Columbus
-ttu_487_place_5	America
-ttu_487_place_6	Pleiku campaign
-ttu_487_place_7	Landing Zone Falcon
-ttu_487_place_8	Albany
-ttu_487_place_9	Vietnam
-ttu_487_place_10	Arlington Hyatt
-ttu_487_place_11	Hué
-ttu_487_place_12	Columbus
-ttu_487_place_13	Iraq
-ttu_487_place_14	Arlington Hyatt
-ttu_487_place_15	North Carolina
-ttu_487_place_16	D.C.
-ttu_487_place_17	D.C.
-ttu_487_place_18	Maine
+id	placeName	QID	coordinate location
+ttu_487_place_0	Washington, D.C.	Q61	38.895,-77.036666666667
+ttu_487_place_1	Hilton Crystal City at Washington Reagan National Airport	Q110624980	38.852191,-77.052014
+ttu_487_place_2	Vietnam	Q881	16,108
+ttu_487_place_3	Vietnam	Q881	16,108
+ttu_487_place_4	Columbus	Q239870	32.492222222222,-84.940277777778
+ttu_487_place_5	United States of America	Q30	39.828175,-98.5795
+ttu_487_place_6	Pleiku campaign		
+ttu_487_place_7	LZ Falcon	Q110624865	13.62278,107.76417
+ttu_487_place_8	LZ Albany	Q110624853	13.59528,107.71528
+ttu_487_place_9	Vietnam	Q881	16,108
+ttu_487_place_10	Hyatt Centric Arlington	Q111394670	38.8950034722,-77.0729622245
+ttu_487_place_11	Huế	Q36167	16.46371111111111,107.590825
+ttu_487_place_12	Columbus	Q239870	32.492222222222,-84.940277777778
+ttu_487_place_13	Iraq	Q796	33,43
+ttu_487_place_14	Hyatt Centric Arlington	Q111394670	38.8950034722,-77.0729622245
+ttu_487_place_15	North Carolina	Q1454	35.5,-80
+ttu_487_place_16	Washington, D.C.	Q61	38.895,-77.036666666667
+ttu_487_place_17	Washington, D.C.	Q61	38.895,-77.036666666667
+ttu_487_place_18	Maine	Q724	45.5,-69
