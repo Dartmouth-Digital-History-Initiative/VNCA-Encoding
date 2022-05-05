@@ -1,29 +1,29 @@
-id	orgName
-ttu_483_org_0	2nd Battalion, 23rd Infantry
-ttu_483_org_1	Army
-ttu_483_org_2	B Company
-ttu_483_org_3	B Company
-ttu_483_org_4	B Company
-ttu_483_org_5	North Vietnamese
-ttu_483_org_6	North Vietnamese
-ttu_483_org_7	South Vietnamese army
-ttu_483_org_8	9th Battalion of the 66th NVA (North Vietnamese Army) Regiment
-ttu_483_org_9	Herrick
-ttu_483_org_10	North Vietnamese
-ttu_483_org_11	American
-ttu_483_org_12	B Company
-ttu_483_org_13	A Company
-ttu_483_org_14	North Vietnamese
-ttu_483_org_15	A Company
-ttu_483_org_16	C Company
-ttu_483_org_17	2nd of the 5th
-ttu_483_org_18	The Rose
-ttu_483_org_19	North Vietnamese
-ttu_483_org_20	Academy
-ttu_483_org_21	Army
-ttu_483_org_22	A Company
-ttu_483_org_23	A Company
-ttu_483_org_24	Howard Johnson’s
-ttu_483_org_25	History Channel
-ttu_483_org_26	1st of the 21st Artillery
-ttu_483_org_27	229th Aviation
+id	orgName	QID	ttu_id
+ttu_483_org_0	"1st Battalion, 7th Cavalry Regiment"	Q110641589	
+ttu_483_org_1	United States Army	Q9212	
+ttu_483_org_2	"Company B, 1st Battalion, 7th Cavalry Regiment"	Q110874665	
+ttu_483_org_3	"Company B, 1st Battalion, 7th Cavalry Regiment"	Q110874665	
+ttu_483_org_4	"Company B, 1st Battalion, 7th Cavalry Regiment"	Q110874665	
+ttu_483_org_5	People's Army of Vietnam	Q3936506	
+ttu_483_org_6	People's Army of Vietnam	Q3936506	
+ttu_483_org_7	Army of the Republic of Vietnam	Q18917	
+ttu_483_org_8	9th Battalion of the 66th NVA Regiment	Q111843724	
+ttu_483_org_9	Herrick		
+ttu_483_org_10	People's Army of Vietnam	Q3936506	
+ttu_483_org_11	United States Armed Forces	Q11211	
+ttu_483_org_12	"Company B, 1st Battalion, 7th Cavalry Regiment"	Q110874665	
+ttu_483_org_13	"A Company, 1st Battalion, 7th Cavalry Regiment"	Q110745296	
+ttu_483_org_14	People's Army of Vietnam	Q3936506	
+ttu_483_org_15	"A Company, 1st Battalion, 7th Cavalry Regiment"	Q110745296	
+ttu_483_org_16	"Company C, 1st Battalion, 7th Cavalry Regiment"	Q110745354	
+ttu_483_org_17	"2nd Battalion, 5th Cavalry Regiment"	Q110641607	
+ttu_483_org_18	USS Admiral Hugh Rodman	Q7867050	
+ttu_483_org_19	People's Army of Vietnam	Q3936506	
+ttu_483_org_20	Academy of Motion Picture Arts and Sciences	Q212329	
+ttu_483_org_21	United States Army	Q9212	
+ttu_483_org_22	"A Company, 1st Battalion, 7th Cavalry Regiment"	Q110745296	
+ttu_483_org_23	"A Company, 1st Battalion, 7th Cavalry Regiment"	Q110745296	
+ttu_483_org_24	Howard Johnson's	Q5919997	
+ttu_483_org_25	History	Q1621107	
+ttu_483_org_26	1st Battalion of the 21st Artillery	Q110940770	
+ttu_483_org_27	229th Aviation Regiment	Q4631295	

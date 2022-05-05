@@ -1,6 +1,6 @@
-id	name
-ttu_483_event_0	Battles of Ia Drang-Pleiku
-ttu_483_event_1	X-Ray
-ttu_483_event_2	Korean War
-ttu_483_event_3	Korea War
-ttu_483_event_4	X-Ray
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_483_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_483_event_1	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_483_event_2	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_483_event_3	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_483_event_4	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
