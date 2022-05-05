@@ -1,62 +1,62 @@
-id	persName
-ttu_481_person_0	Philip Napoli
-ttu_481_person_1	Peggy Cornett
-ttu_481_person_2	Don
-ttu_481_person_3	Don
-ttu_481_person_4	Don
-ttu_481_person_5	Don
-ttu_481_person_6	Don
-ttu_481_person_7	Don
-ttu_481_person_8	Silva
-ttu_481_person_9	Don
-ttu_481_person_10	Jack Smith
-ttu_481_person_11	Jack
-ttu_481_person_12	Jack
-ttu_481_person_13	Jack
-ttu_481_person_14	Joe Galloway
-ttu_481_person_15	Jack
-ttu_481_person_16	Jack
-ttu_481_person_17	Jack
-ttu_481_person_18	Jack
-ttu_481_person_19	Jack Smith
-ttu_481_person_20	Chuckles
-ttu_481_person_21	Jack
-ttu_481_person_22	Jack
-ttu_481_person_23	Jack Smith
-ttu_481_person_24	Jack Smith
-ttu_481_person_25	Don
-ttu_481_person_26	Jack
-ttu_481_person_27	Don
-ttu_481_person_28	Jack
-ttu_481_person_29	Jack
-ttu_481_person_30	Jack
-ttu_481_person_31	Don
-ttu_481_person_32	Jack
-ttu_481_person_33	Don
-ttu_481_person_34	Don
-ttu_481_person_35	Jack
-ttu_481_person_36	Jack
-ttu_481_person_37	Jack
-ttu_481_person_38	Jack
-ttu_481_person_39	Jack
-ttu_481_person_40	Jack
-ttu_481_person_41	Jack
-ttu_481_person_42	Jack
-ttu_481_person_43	Jack
-ttu_481_person_44	Jack
-ttu_481_person_45	Don
-ttu_481_person_46	Don
-ttu_481_person_47	Don
-ttu_481_person_48	Jack
-ttu_481_person_49	Jack
-ttu_481_person_50	Don
-ttu_481_person_51	Don
-ttu_481_person_52	Don
-ttu_481_person_53	Jim Brigham
-ttu_481_person_54	Don
-ttu_481_person_55	Don
-ttu_481_person_56	Don
-ttu_481_person_57	Don
-ttu_481_person_58	Don
-ttu_481_person_59	Don
-ttu_481_person_60	Don
+id	persName	QID	ttu_id
+ttu_481_person_0	Philip F. Napoli	Q111599207	
+ttu_481_person_1	Peggy Cornett		ttu_0163
+ttu_481_person_2	Don Cornett	Q111844576	
+ttu_481_person_3	Don Cornett	Q111844576	
+ttu_481_person_4	Don Cornett	Q111844576	
+ttu_481_person_5	Don Cornett	Q111844576	
+ttu_481_person_6	Don Cornett	Q111844576	
+ttu_481_person_7	Don Cornett	Q111844576	
+ttu_481_person_8	Silva		
+ttu_481_person_9	Don Cornett	Q111844576	
+ttu_481_person_10	Jack Smith	Q15486512	
+ttu_481_person_11	Jack Smith	Q15486512	
+ttu_481_person_12	Jack Smith	Q15486512	
+ttu_481_person_13	Jack Smith	Q15486512	
+ttu_481_person_14	Joseph L. Galloway	Q3185182	
+ttu_481_person_15	Jack Smith	Q15486512	
+ttu_481_person_16	Jack Smith	Q15486512	
+ttu_481_person_17	Jack Smith	Q15486512	
+ttu_481_person_18	Jack Smith	Q15486512	
+ttu_481_person_19	Jack Smith	Q15486512	
+ttu_481_person_20	Chuckles		
+ttu_481_person_21	Jack Smith	Q15486512	
+ttu_481_person_22	Jack Smith	Q15486512	
+ttu_481_person_23	Jack Smith	Q15486512	
+ttu_481_person_24	Jack Smith	Q15486512	
+ttu_481_person_25	Don Cornett	Q111844576	
+ttu_481_person_26	Jack Smith	Q15486512	
+ttu_481_person_27	Don Cornett	Q111844576	
+ttu_481_person_28	Jack Smith	Q15486512	
+ttu_481_person_29	Jack Smith	Q15486512	
+ttu_481_person_30	Jack Smith	Q15486512	
+ttu_481_person_31	Don Cornett	Q111844576	
+ttu_481_person_32	Jack Smith	Q15486512	
+ttu_481_person_33	Don Cornett	Q111844576	
+ttu_481_person_34	Don Cornett	Q111844576	
+ttu_481_person_35	Jack Smith	Q15486512	
+ttu_481_person_36	Jack Smith	Q15486512	
+ttu_481_person_37	Jack Smith	Q15486512	
+ttu_481_person_38	Jack Smith	Q15486512	
+ttu_481_person_39	Jack Smith	Q15486512	
+ttu_481_person_40	Jack Smith	Q15486512	
+ttu_481_person_41	Jack Smith	Q15486512	
+ttu_481_person_42	Jack Smith	Q15486512	
+ttu_481_person_43	Jack Smith	Q15486512	
+ttu_481_person_44	Jack Smith	Q15486512	
+ttu_481_person_45	Don Cornett	Q111844576	
+ttu_481_person_46	Don Cornett	Q111844576	
+ttu_481_person_47	Don Cornett	Q111844576	
+ttu_481_person_48	Jack Smith	Q15486512	
+ttu_481_person_49	Jack Smith	Q15486512	
+ttu_481_person_50	Don Cornett	Q111844576	
+ttu_481_person_51	Don Cornett	Q111844576	
+ttu_481_person_52	Don Cornett	Q111844576	
+ttu_481_person_53	James S. Brigham	Q111658774	
+ttu_481_person_54	Don Cornett	Q111844576	
+ttu_481_person_55	Don Cornett	Q111844576	
+ttu_481_person_56	Don Cornett	Q111844576	
+ttu_481_person_57	Don Cornett	Q111844576	
+ttu_481_person_58	Don Cornett	Q111844576	
+ttu_481_person_59	Don Cornett	Q111844576	
+ttu_481_person_60	Don Cornett	Q111844576	
