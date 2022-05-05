@@ -1,17 +1,17 @@
-id	orgName
-ttu_481_org_0	Army
-ttu_481_org_1	McNeese State College
-ttu_481_org_2	ROTC (Reserve Officers' Training Corps)
-ttu_481_org_3	military
-ttu_481_org_4	Vietcong
-ttu_481_org_5	US News
-ttu_481_org_6	World Today
-ttu_481_org_7	ABC News
-ttu_481_org_8	Saturday Evening Post
-ttu_481_org_9	Saturday Evening Post
-ttu_481_org_10	Argosy
-ttu_481_org_11	Playboy
-ttu_481_org_12	Washington Post
-ttu_481_org_13	US News and World Today
-ttu_481_org_14	ROTC
-ttu_481_org_15	McNeese State University
+id	orgName	QID	ttu_id
+ttu_481_org_0	United States Army	Q9212	
+ttu_481_org_1	McNeese State University	Q634396	
+ttu_481_org_2	Reserve Officers' Training Corps	Q489983	
+ttu_481_org_3	United States Armed Forces	Q11211	
+ttu_481_org_4	People's Army of Vietnam	Q3936506	
+ttu_481_org_5	U.S. News & World Report	Q848629	
+ttu_481_org_6	The World Today	Q7776061	
+ttu_481_org_7	ABC News	Q287171	
+ttu_481_org_8	The Saturday Evening Post	Q2302345	
+ttu_481_org_9	The Saturday Evening Post	Q2302345	
+ttu_481_org_10	Argosy	Q649812	
+ttu_481_org_11	Playboy	Q150820	
+ttu_481_org_12	The Washington Post	Q166032	
+ttu_481_org_13	U.S. News & World Report	Q848629	
+ttu_481_org_14	Reserve Officers' Training Corps	Q489983	
+ttu_481_org_15	McNeese State University	Q634396	
