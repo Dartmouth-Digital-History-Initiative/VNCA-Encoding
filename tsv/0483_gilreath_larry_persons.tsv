@@ -1,100 +1,100 @@
-id	persName
-ttu_483_person_0	Dr. Richard Verrone
-ttu_483_person_1	Master Sergeant Larry Gilreath
-ttu_483_person_2	Sergeant Gilreath
-ttu_483_person_3	Hal Moore
-ttu_483_person_4	President Johnson
-ttu_483_person_5	General Moore
-ttu_483_person_6	Lieutenant Devney
-ttu_483_person_7	Lieutenant Devney
-ttu_483_person_8	Devney
-ttu_483_person_9	John Herren
-ttu_483_person_10	John Herren
-ttu_483_person_11	Captain John
-ttu_483_person_12	Captain John
-ttu_483_person_13	Colonel Moore
-ttu_483_person_14	Colonel Moore
-ttu_483_person_15	Sergeant Major Plumley
-ttu_483_person_16	John Atkins
-ttu_483_person_17	Ron Bear
-ttu_483_person_18	General Colonel Moore
-ttu_483_person_19	General Moore
-ttu_483_person_20	General
-ttu_483_person_21	General
-ttu_483_person_22	Colonel An
-ttu_483_person_23	General Moore
-ttu_483_person_24	General
-ttu_483_person_25	Colonel An
-ttu_483_person_26	Henry Herrick
-ttu_483_person_27	Henry Herrick
-ttu_483_person_28	Carl Palmer
-ttu_483_person_29	Sergeant Palmer
-ttu_483_person_30	Carl
-ttu_483_person_31	Lieutenant Herrick
-ttu_483_person_32	Sergeant Ernie Savage
-ttu_483_person_33	Sergeant Hurdle
-ttu_483_person_34	Colonel Moore
-ttu_483_person_35	Captain Herren
-ttu_483_person_36	John Herren
-ttu_483_person_37	Sergeant Gilreath
-ttu_483_person_38	Captain John
-ttu_483_person_39	Sergeant Savage
-ttu_483_person_40	Colonel Moore
-ttu_483_person_41	Colonel Earnie
-ttu_483_person_42	Savage
-ttu_483_person_43	Colonel Ernie
-ttu_483_person_44	Sergeant
-ttu_483_person_45	Ernie Savage
-ttu_483_person_46	Herren
-ttu_483_person_47	Joel Sugdinis
-ttu_483_person_48	John Herren
-ttu_483_person_49	Herren
-ttu_483_person_50	Colonel Moore
-ttu_483_person_51	Colonel Moore
-ttu_483_person_52	Sergeant Palmer
-ttu_483_person_53	Sergeant Palmer
-ttu_483_person_54	Palmer
-ttu_483_person_55	Serg
-ttu_483_person_56	Sergeant Palmer
-ttu_483_person_57	Palmer
-ttu_483_person_58	Herrick
-ttu_483_person_59	Palmer
-ttu_483_person_60	Palmer
-ttu_483_person_61	John
-ttu_483_person_62	Sergeant Gilreath
-ttu_483_person_63	Savage
-ttu_483_person_64	Carl Palmer
-ttu_483_person_65	Oliver Stone
-ttu_483_person_66	Henry Herrick
-ttu_483_person_67	John Herren
-ttu_483_person_68	Lieutenant Devney
-ttu_483_person_69	Lieutenant Deal
-ttu_483_person_70	Herrick
-ttu_483_person_71	Sergeant Palmer
-ttu_483_person_72	Tony Nadal
-ttu_483_person_73	Deal
-ttu_483_person_74	Curry
-ttu_483_person_75	Chief Curry
-ttu_483_person_76	Colonel Moore
-ttu_483_person_77	Plumley
-ttu_483_person_78	Sergeant Hull
-ttu_483_person_79	Sergeant Curry
-ttu_483_person_80	Sergeant Meyer
-ttu_483_person_81	colonel
-ttu_483_person_82	colonel
-ttu_483_person_83	colonel
-ttu_483_person_84	Sergeant Hull
-ttu_483_person_85	Curry
-ttu_483_person_86	Sergeant Major Plumley
-ttu_483_person_87	Lieutenant Colonel Hal Moore
-ttu_483_person_88	Colonel Moore
-ttu_483_person_89	Rucker
-ttu_483_person_90	Colonel Moore
-ttu_483_person_91	Sergeant Gilreath
-ttu_483_person_92	Moore
-ttu_483_person_93	Sergeant
-ttu_483_person_94	Colonel Moore
-ttu_483_person_95	Joe Galloway
-ttu_483_person_96	Sergeant Gilreath
-ttu_483_person_97	Bruce Crandall
-ttu_483_person_98	sergeant
+id	persName	QID	dvp_id
+ttu_483_person_0	Richard Verrone	Q111653126	
+ttu_483_person_1	Larry Gilreath	Q111805405	
+ttu_483_person_2	Larry Gilreath	Q111805405	
+ttu_483_person_3	Hal Moore	Q430209	
+ttu_483_person_4	Lyndon B. Johnson	Q9640	
+ttu_483_person_5	Hal Moore	Q430209	
+ttu_483_person_6	Al Devney	Q111811708	
+ttu_483_person_7	Al Devney	Q111811708	
+ttu_483_person_8	Al Devney	Q111811708	
+ttu_483_person_9	John D. Herren	Q111678638	
+ttu_483_person_10	John D. Herren	Q111678638	
+ttu_483_person_11	John D. Herren	Q111678638	
+ttu_483_person_12	John D. Herren	Q111678638	
+ttu_483_person_13	Hal Moore	Q430209	
+ttu_483_person_14	Hal Moore	Q430209	
+ttu_483_person_15	Basil L. Plumley	Q2535583	
+ttu_483_person_16	John Atkins		ttu_0125
+ttu_483_person_17	Ron Bear		ttu_0126
+ttu_483_person_18	Hal Moore	Q430209	
+ttu_483_person_19	Hal Moore	Q430209	
+ttu_483_person_20	Hal Moore	Q430209	
+ttu_483_person_21	Hal Moore	Q430209	
+ttu_483_person_22	Colonel An	Q3365133	
+ttu_483_person_23	Hal Moore	Q430209	
+ttu_483_person_24	Hal Moore	Q430209	
+ttu_483_person_25	Colonel An	Q3365133	
+ttu_483_person_26	Henry Herrick	Q111443617	
+ttu_483_person_27	Henry Herrick	Q111443617	
+ttu_483_person_28	Carl Palmer	Q111810570	
+ttu_483_person_29	Carl Palmer	Q111810570	
+ttu_483_person_30	Carl Palmer	Q111810570	
+ttu_483_person_31	Henry Herrick	Q111443617	
+ttu_483_person_32	Ernie Savage	Q111811563	
+ttu_483_person_33	Sergeant Paul Hurdle	Q111811586	
+ttu_483_person_34	Hal Moore	Q430209	
+ttu_483_person_35	John D. Herren	Q111678638	
+ttu_483_person_36	John D. Herren	Q111678638	
+ttu_483_person_37	Larry Gilreath	Q111805405	
+ttu_483_person_38	John D. Herren	Q111678638	
+ttu_483_person_39	Ernie Savage	Q111811563	
+ttu_483_person_40	Hal Moore	Q430209	
+ttu_483_person_41	Ernie Savage	Q111811563	
+ttu_483_person_42	Ernie Savage	Q111811563	
+ttu_483_person_43	Ernie Savage	Q111811563	
+ttu_483_person_44	Larry Gilreath	Q111805405	
+ttu_483_person_45	Ernie Savage	Q111811563	
+ttu_483_person_46	John D. Herren	Q111678638	
+ttu_483_person_47	Joel Sugdinis	Q111443804	
+ttu_483_person_48	John D. Herren	Q111678638	
+ttu_483_person_49	John D. Herren	Q111678638	
+ttu_483_person_50	Hal Moore	Q430209	
+ttu_483_person_51	Hal Moore	Q430209	
+ttu_483_person_52	Carl Palmer	Q111810570	
+ttu_483_person_53	Carl Palmer	Q111810570	
+ttu_483_person_54	Carl Palmer	Q111810570	
+ttu_483_person_55	Larry Gilreath	Q111805405	
+ttu_483_person_56	Carl Palmer	Q111810570	
+ttu_483_person_57	Carl Palmer	Q111810570	
+ttu_483_person_58	Henry Herrick	Q111443617	
+ttu_483_person_59	Carl Palmer	Q111810570	
+ttu_483_person_60	Carl Palmer	Q111810570	
+ttu_483_person_61	John D. Herren	Q111678638	
+ttu_483_person_62	Larry Gilreath	Q111805405	
+ttu_483_person_63	Ernie Savage	Q111811563	
+ttu_483_person_64	Carl Palmer	Q111810570	
+ttu_483_person_65	Oliver Stone	Q179497	
+ttu_483_person_66	Henry Herrick	Q111443617	
+ttu_483_person_67	John D. Herren	Q111678638	
+ttu_483_person_68	Al Devney	Q111811708	
+ttu_483_person_69	Dennis Deal	Q111811683	
+ttu_483_person_70	Henry Herrick	Q111443617	
+ttu_483_person_71	Carl Palmer	Q111810570	
+ttu_483_person_72	Ramon Antonio Nadal	Q111442803	
+ttu_483_person_73	Dennis Deal	Q111811683	
+ttu_483_person_74	Wilbur Curry	Q111811687	
+ttu_483_person_75	Wilbur Curry	Q111811687	
+ttu_483_person_76	Hal Moore	Q430209	
+ttu_483_person_77	Basil L. Plumley	Q2535583	
+ttu_483_person_78	James Hull	Q111836327	
+ttu_483_person_79	Wilbur Curry	Q111811687	
+ttu_483_person_80	Edward C. Meyer	Q5342154	
+ttu_483_person_81	Hal Moore	Q430209	
+ttu_483_person_82	Hal Moore	Q430209	
+ttu_483_person_83	Hal Moore	Q430209	
+ttu_483_person_84	James Hull	Q111836327	
+ttu_483_person_85	Wilbur Curry	Q111811687	
+ttu_483_person_86	Basil L. Plumley	Q2535583	
+ttu_483_person_87	Hal Moore	Q430209	
+ttu_483_person_88	Hal Moore	Q430209	
+ttu_483_person_89	Rucker		ttu_0127
+ttu_483_person_90	Hal Moore	Q430209	
+ttu_483_person_91	Larry Gilreath	Q111805405	
+ttu_483_person_92	Hal Moore	Q430209	
+ttu_483_person_93	Larry Gilreath	Q111805405	
+ttu_483_person_94	Hal Moore	Q430209	
+ttu_483_person_95	Joseph L. Galloway	Q3185182	
+ttu_483_person_96	Larry Gilreath	Q111805405	
+ttu_483_person_97	Bruce Perry Crandall	Q3431327	
+ttu_483_person_98	Larry Gilreath	Q111805405	
