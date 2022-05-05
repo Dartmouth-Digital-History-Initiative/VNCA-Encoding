@@ -1,5 +1,5 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_482">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,6 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">ttu_482</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
@@ -24,9 +25,9 @@
           <respStmt>
             <persName>Mark Steven Varela</persName>
             <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
-            <resp ref="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0482/OH0482.pdf">Transcriber</resp>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0482/OH0482.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -58,52 +59,52 @@
   </teiHeader>
   <text>
     <body>
-      <u who="VERRONE">This is <persName>Richard Verrone</persName>, I am conducting a video oral history interview with <persName>Ray Lefebvre</persName>, now a retired Lieutenant Colonel. Today is <date when="2005-11-11">November 11th, 2005</date>, Veteran’s Day. We are in <placeName>Washington, D.C</placeName>. at the <placeName>Hilton Crystal City</placeName> for the 40th anniversary reunion of the <name type="event">Ia Drang-Pleiku Campaigns</name>. It is eight o’clock in the morning, or just after. Colonel <persName>Lefebvre</persName>, let me start by asking you about before you went over to <placeName>Vietnam</placeName> and this is going to be your second tour as I understand, in <date when="1965">1965</date>. Could you briefly comment on what you had learned before and what you are taking with you now in <date>1965</date>.</u>
-      <u who="LEFEBVRE">Okay. I had gone to <orgName>the Army Language School</orgName> in <placeName>Monterey, California</placeName> in <date when="1961">1961</date>. So I was a Vietnamese linguist and when I got finished with that school, I went to <placeName>Okinawa</placeName> and we didn’t have a lot of military in <placeName>Vietnam</placeName>, but I spent most of my time that I was in <placeName>Okinawa</placeName>, in <placeName>Vietnam</placeName>. Working on various projects with other agencies of the <placeName>US</placeName> government and probably the biggest thing I got out of that, we had to study the history. While we’re studying the language, you study the history, the culture of <placeName>Vietnam</placeName>. I really grew to admire and respect the Vietnamese people. The main thing that I got out of all this was that they were very nationalistic. They’re history, they had fought the Chinese and defeated the Chinese. They had fought the French, defeated the French. When the Japanese came in <name type="event">World War II</name> to occupy <placeName>Vietnam</placeName>, the Japanese thought they could do it with a moderate division of troops and it took six or seven Japanese divisions just to handle the Vietnamese. So they’re very nationalist, they didn’t want anybody to bother or to take over their country so to speak. That’s how they viewed us. That’s when I used to—most of my research was, because of the language capabilities, I did a lot of the—we monitored radio <placeName>Hanoi</placeName>. We got a lot of North Vietnamese propaganda, that sort of thing. Try to found out what they were thinking, what they were doing. Got involved in a lot of things like that.</u>
-      <u who="VERRONE">Before you go into the <name type="event">Ia Drang</name> and before you’re involved with that, you had a history of the country?</u>
+      <u who="VERRONE">This is <persName ref="#ttu_482_person_0">Richard Verrone</persName>, I am conducting a video oral history interview with <persName ref="#ttu_482_person_1">Ray Lefebvre</persName>, now a retired Lieutenant Colonel. Today is <date when="2005-11-11">November 11th, 2005</date>, Veteran’s Day. We are in <placeName ref="#ttu_482_place_0">Washington, D.C</placeName>. at the <placeName ref="#ttu_482_place_1">Hilton Crystal City</placeName> for the 40th anniversary reunion of the <name type="event" ref="#ttu_482_event_0">Ia Drang-Pleiku Campaigns</name>. It is eight o’clock in the morning, or just after. Colonel <persName ref="#ttu_482_person_2">Lefebvre</persName>, let me start by asking you about before you went over to <placeName ref="#ttu_482_place_2">Vietnam</placeName> and this is going to be your second tour as I understand, in <date when="1965">1965</date>. Could you briefly comment on what you had learned before and what you are taking with you now in <date>1965</date>.</u>
+      <u who="LEFEBVRE">Okay. I had gone to <orgName ref="#ttu_482_org_0">the Army Language School</orgName> in <placeName ref="#ttu_482_place_3">Monterey, California</placeName> in <date when="1961">1961</date>. So I was a Vietnamese linguist and when I got finished with that school, I went to <placeName ref="#ttu_482_place_4">Okinawa</placeName> and we didn’t have a lot of military in <placeName ref="#ttu_482_place_5">Vietnam</placeName>, but I spent most of my time that I was in <placeName ref="#ttu_482_place_6">Okinawa</placeName>, in <placeName ref="#ttu_482_place_7">Vietnam</placeName>. Working on various projects with other agencies of the <placeName ref="#ttu_482_place_8">US</placeName> government and probably the biggest thing I got out of that, we had to study the history. While we’re studying the language, you study the history, the culture of <placeName ref="#ttu_482_place_9">Vietnam</placeName>. I really grew to admire and respect the Vietnamese people. The main thing that I got out of all this was that they were very nationalistic. They’re history, they had fought the Chinese and defeated the Chinese. They had fought the French, defeated the French. When the Japanese came in <name type="event" ref="#ttu_482_event_1">World War II</name> to occupy <placeName ref="#ttu_482_place_10">Vietnam</placeName>, the Japanese thought they could do it with a moderate division of troops and it took six or seven Japanese divisions just to handle the Vietnamese. So they’re very nationalist, they didn’t want anybody to bother or to take over their country so to speak. That’s how they viewed us. That’s when I used to—most of my research was, because of the language capabilities, I did a lot of the—we monitored radio <placeName ref="#ttu_482_place_11">Hanoi</placeName>. We got a lot of North Vietnamese propaganda, that sort of thing. Try to found out what they were thinking, what they were doing. Got involved in a lot of things like that.</u>
+      <u who="VERRONE">Before you go into the <name type="event" ref="#ttu_482_event_2">Ia Drang</name> and before you’re involved with that, you had a history of the country?</u>
       <u who="LEFEBVRE">Yeah.</u>
-      <u who="VERRONE">You understood this. How did that change, or how was your perspective maybe different than those others coming into <placeName>X-Ray</placeName> and <placeName>Albany</placeName> in <date when="1965">1965</date>?</u>
-      <u who="LEFEBVRE">I think the big difference might have been—I don’t have any empirical data, just a personal feeling. Those of us that had been there before, we had other people in our unit, like <persName>Tony Nadal</persName> had been there before, we had other people that had been in <placeName>Vietnam</placeName>. They knew that when we actually got into any type of combat, we were going to be up against a pretty tough enemy. Mainly based on, again my opinion, based on their feelings of they look upon the <orgName>Americas</orgName> as invaders into their country and based on their past experience, they were going to do everything they could to keep us from taking over their country. That’s how they viewed us. They didn’t view us as being there to help the South Vietnamese. So I was prepared for it. I knew it was going to be tough. I didn’t think I would be in and out that quickly, but I was ready for that. I just knew it was going to be a tough battle, a tough time.</u>
-      <u who="VERRONE">Do you think that then Lieutenant<persName> Colonel Moore</persName> and others and <persName>Matt Dillon</persName> and <persName>Tim Brown</persName>, did they understand that? Did they grasp what they were coming into in that sense? A historical sense?</u>
-      <u who="LEFEBVRE">I don’t know, I think <persName>Colonel Moore</persName> might have. Based on some conversations I had with him later, I have the feeling, he pretty well he understood that because he had studied them when they were fighting the French. He knew about the battles with the French. Maybe not about the battles with the Japanese, he may not have known the other history, but he knew what the French had gone up against. So I think he had it pretty good. The rest of him, I don’t know. I can't really speak to that, but if they didn’t, it wouldn’t surprise me because I don’t think we ever adequately prepare ourselves to go to another country for war or whatever reason. I think <persName>Colonel Moore</persName> did.</u>
-      <u who="VERRONE">Tell me a little bit more about <persName>Colonel Moor</persName>e, then <persName>Colonel Moore</persName>. What was he like?</u>
-      <u who="LEFEBVRE">Probably one of the most—I guess the best way to explain what he showed me, when we came back from our first operation, which was a place called <placeName>Happy Valley</placeName> and we had a little bit of a gunfire, but it was really, it was a good initiation into what combat might be like. I had just been named to company commander, I didn’t know Colonel Moore real well because I joined the unit so late. I didn’t really know him, I hadn’t trained like the rest of the people had for all those months. But he came back and did two things that really impressed me. From this operation, the first thing, one of the things that he did, he came back and got all the troops in a little place back there in<placeName> An Khe</placeName>, back at the <placeName>Golf Course.</placeName> He had some maps, the S3 had put some maps up and he explained to his men what had happened, what was going on. He would say things like, “Yeah, <persName>Ray</persName> remember when you had your machine gun was here and I came by? Let me tell what was there, let me tell you why we did that.” He made them feel like they were really part of the battle. An intimate close part of whatever we did because he knew what every one of them had done and where they were and why they were there in that position and what we were doing as far as the maneuver and that sort of thing. He didn’t have any of the officers there. It was just him, the sergeant major and the troops. That really impressed me. You could tell by talking to the guys afterward that they really appreciated that and they liked that. They felt more—I think you know what I'm trying to say—</u>
+      <u who="VERRONE">You understood this. How did that change, or how was your perspective maybe different than those others coming into <placeName ref="#ttu_482_place_12">X-Ray</placeName> and <placeName ref="#ttu_482_place_13">Albany</placeName> in <date when="1965">1965</date>?</u>
+      <u who="LEFEBVRE">I think the big difference might have been—I don’t have any empirical data, just a personal feeling. Those of us that had been there before, we had other people in our unit, like <persName ref="#ttu_482_person_3">Tony Nadal</persName> had been there before, we had other people that had been in <placeName ref="#ttu_482_place_14">Vietnam</placeName>. They knew that when we actually got into any type of combat, we were going to be up against a pretty tough enemy. Mainly based on, again my opinion, based on their feelings of they look upon the <orgName ref="#ttu_482_org_1">Americas</orgName> as invaders into their country and based on their past experience, they were going to do everything they could to keep us from taking over their country. That’s how they viewed us. They didn’t view us as being there to help the South Vietnamese. So I was prepared for it. I knew it was going to be tough. I didn’t think I would be in and out that quickly, but I was ready for that. I just knew it was going to be a tough battle, a tough time.</u>
+      <u who="VERRONE">Do you think that then Lieutenant<persName ref="#ttu_482_person_4"> Colonel Moore</persName> and others and <persName ref="#ttu_482_person_5">Matt Dillon</persName> and <persName ref="#ttu_482_person_6">Tim Brown</persName>, did they understand that? Did they grasp what they were coming into in that sense? A historical sense?</u>
+      <u who="LEFEBVRE">I don’t know, I think <persName ref="#ttu_482_person_7">Colonel Moore</persName> might have. Based on some conversations I had with him later, I have the feeling, he pretty well he understood that because he had studied them when they were fighting the French. He knew about the battles with the French. Maybe not about the battles with the Japanese, he may not have known the other history, but he knew what the French had gone up against. So I think he had it pretty good. The rest of him, I don’t know. I can't really speak to that, but if they didn’t, it wouldn’t surprise me because I don’t think we ever adequately prepare ourselves to go to another country for war or whatever reason. I think <persName ref="#ttu_482_person_8">Colonel Moore</persName> did.</u>
+      <u who="VERRONE">Tell me a little bit more about <persName ref="#ttu_482_person_9">Colonel Moor</persName>e, then <persName ref="#ttu_482_person_10">Colonel Moore</persName>. What was he like?</u>
+      <u who="LEFEBVRE">Probably one of the most—I guess the best way to explain what he showed me, when we came back from our first operation, which was a place called <placeName ref="#ttu_482_place_15">Happy Valley</placeName> and we had a little bit of a gunfire, but it was really, it was a good initiation into what combat might be like. I had just been named to company commander, I didn’t know Colonel Moore real well because I joined the unit so late. I didn’t really know him, I hadn’t trained like the rest of the people had for all those months. But he came back and did two things that really impressed me. From this operation, the first thing, one of the things that he did, he came back and got all the troops in a little place back there in<placeName ref="#ttu_482_place_16"> An Khe</placeName>, back at the <placeName ref="#ttu_482_place_17">Golf Course.</placeName> He had some maps, the S3 had put some maps up and he explained to his men what had happened, what was going on. He would say things like, “Yeah, <persName ref="#ttu_482_person_11">Ray</persName> remember when you had your machine gun was here and I came by? Let me tell what was there, let me tell you why we did that.” He made them feel like they were really part of the battle. An intimate close part of whatever we did because he knew what every one of them had done and where they were and why they were there in that position and what we were doing as far as the maneuver and that sort of thing. He didn’t have any of the officers there. It was just him, the sergeant major and the troops. That really impressed me. You could tell by talking to the guys afterward that they really appreciated that and they liked that. They felt more—I think you know what I'm trying to say—</u>
       <u who="VERRONE">They were all connected in a more personal intimate way.</u>
-      <u who="LEFEBVRE">Yeah, then he took the officers, his company commanders. Then he said—I don’t know if this was same day or day later, but then he said, “Okay, I want to talk to my commanders.” He didn’t have any staff there, he didn’t have S4 or S2 any of those. He wanted to talk to his commanders, which were five company commanders. He kind of did the same in a way, we kind of reviewed everything and that sort of thing, I like that. As an infantry captain, just out of the advanced class, and I'm kind of digressing here a little bit. When I went into the <orgName>Cav</orgName>, they wanted to put me up in the G5, which is <orgName>Civil Affairs and Psychological Operations</orgName>, that sort of thing. Mainly because of the language or else in G2. It made sense, I probably would’ve tried to get me up there too. I told them, in so many words a captain can tell somebody, that I didn’t want to go up there. I was a captain of the infantry, I just got out of the advanced class, my job was to lead troops and that’s what I wanted to be, a commander. There were no jobs open, he said, “Well, we don’t have any jobs open for commanders, they are all filled!” I said, “Well you must have something.” “No, there’s nothing available. We have one job down with Colonel Moore down in his battalion. Is an assistant—” What they called an S3 air. “That’s the only job we have open and you outrank <persName>Matt Dillion</persName>, you know the S3 by one day.” I said, “That’s fine, I’ll take that. If <persName>Colonel</persName> Moore wants me, I’ll take that job.” “Well, get out and talk to him.” So I went in and reported to <persName>Colonel Moore</persName> and we talked for a few minutes and he gave me the job. I told him I wanted to be a commander and he said, “Well, I don’t have a company, I don’t have that now.” I said, “Well, you will. It’ll come open, we’re going to war. Something will happen and I just want to be there, I wanted the dozen.” So anyway, after they came over, he came down and told me I was going to be the company commander of <orgName>Delta Company</orgName>. That’s what I wanted. But anyway, when he called in all the commanders, I thought it was like him talking to our troops, it was a good feeling, you know. There’s our battalion commander who wanted to get his commanders together and talk about this, this little <placeName>Happy Valley</placeName> operation. So that was the main thing I think that—there was a lot of things afterward. I'm talking about after I got wounded and left, there was a lot of things that happened afterward that further enforced my feelings of <persName>Colonel Moore.</persName> Lot of things.</u>
+      <u who="LEFEBVRE">Yeah, then he took the officers, his company commanders. Then he said—I don’t know if this was same day or day later, but then he said, “Okay, I want to talk to my commanders.” He didn’t have any staff there, he didn’t have S4 or S2 any of those. He wanted to talk to his commanders, which were five company commanders. He kind of did the same in a way, we kind of reviewed everything and that sort of thing, I like that. As an infantry captain, just out of the advanced class, and I'm kind of digressing here a little bit. When I went into the <orgName ref="#ttu_482_org_2">Cav</orgName>, they wanted to put me up in the G5, which is <orgName ref="#ttu_482_org_3">Civil Affairs and Psychological Operations</orgName>, that sort of thing. Mainly because of the language or else in G2. It made sense, I probably would’ve tried to get me up there too. I told them, in so many words a captain can tell somebody, that I didn’t want to go up there. I was a captain of the infantry, I just got out of the advanced class, my job was to lead troops and that’s what I wanted to be, a commander. There were no jobs open, he said, “Well, we don’t have any jobs open for commanders, they are all filled!” I said, “Well you must have something.” “No, there’s nothing available. We have one job down with Colonel Moore down in his battalion. Is an assistant—” What they called an S3 air. “That’s the only job we have open and you outrank <persName ref="#ttu_482_person_12">Matt Dillion</persName>, you know the S3 by one day.” I said, “That’s fine, I’ll take that. If <persName ref="#ttu_482_person_13">Colonel</persName> Moore wants me, I’ll take that job.” “Well, get out and talk to him.” So I went in and reported to <persName ref="#ttu_482_person_14">Colonel Moore</persName> and we talked for a few minutes and he gave me the job. I told him I wanted to be a commander and he said, “Well, I don’t have a company, I don’t have that now.” I said, “Well, you will. It’ll come open, we’re going to war. Something will happen and I just want to be there, I wanted the dozen.” So anyway, after they came over, he came down and told me I was going to be the company commander of <orgName ref="#ttu_482_org_4">Delta Company</orgName>. That’s what I wanted. But anyway, when he called in all the commanders, I thought it was like him talking to our troops, it was a good feeling, you know. There’s our battalion commander who wanted to get his commanders together and talk about this, this little <placeName ref="#ttu_482_place_18">Happy Valley</placeName> operation. So that was the main thing I think that—there was a lot of things afterward. I'm talking about after I got wounded and left, there was a lot of things that happened afterward that further enforced my feelings of <persName ref="#ttu_482_person_15">Colonel Moore.</persName> Lot of things.</u>
       <u who="VERRONE">Do you want to talk about those?</u>
-      <u who="LEFEBVRE">Yeah. He never did forget his men. As far as the enlisted guys and the officers. He was always- as long as you were still in the military, he was concerned about you, what you were doing. He called you, I don’t know how he had time to do this, he was busy man, he rose pretty rapidly through the ranks and he had some very good jobs. But he always, “Okay <persName>Ray</persName>, here’s what you need to do now” type of things. I keep telling him and he never could understand this. I said, “<persName>General Moore</persName>, I'm only going to stay twenty years in the army. My plan is that I want to do some other things.” I was younger then and when I got up to twenty, I said, “Man, I need to stay.” Start to make money and I got kids going to college, but I ended up getting out. But he always did that, it wasn’t just me, it was everybody. I’ve heard the NCOs (Non-Commissioned Officer) talk about that too, how he kept tabs of them and wanted to make sure things were going. He never forgot the people that served with him. I remember we were down—this was after I retired and when they were thinking about the book and I didn’t know they were thinking about it. I was working for private industry and <persName>Bob Edwards</persName> was down at <placeName>Fort Benning</placeName>, he was a Colonel at <placeName>Fort Benning</placeName> then. I happened to be in the <placeName>Columbus, Georgia</placeName> area so they wanted to know if I could come over and <persName>General Moore</persName> was down there then and he was going to start—he was thinking about the book there. That’s the first thing he said when he told us, him and <persName>Galloway</persName> were going to put a book together, you know. The only reason he said he was going to write it was, he said, “I never want my guys to be forgotten. They’re never going to be forgotten.” That’s why there’s so many names in there. It’s almost tough to read sometimes, isn’t it?</u>
+      <u who="LEFEBVRE">Yeah. He never did forget his men. As far as the enlisted guys and the officers. He was always- as long as you were still in the military, he was concerned about you, what you were doing. He called you, I don’t know how he had time to do this, he was busy man, he rose pretty rapidly through the ranks and he had some very good jobs. But he always, “Okay <persName ref="#ttu_482_person_16">Ray</persName>, here’s what you need to do now” type of things. I keep telling him and he never could understand this. I said, “<persName ref="#ttu_482_person_17">General Moore</persName>, I'm only going to stay twenty years in the army. My plan is that I want to do some other things.” I was younger then and when I got up to twenty, I said, “Man, I need to stay.” Start to make money and I got kids going to college, but I ended up getting out. But he always did that, it wasn’t just me, it was everybody. I’ve heard the NCOs (Non-Commissioned Officer) talk about that too, how he kept tabs of them and wanted to make sure things were going. He never forgot the people that served with him. I remember we were down—this was after I retired and when they were thinking about the book and I didn’t know they were thinking about it. I was working for private industry and <persName ref="#ttu_482_person_18">Bob Edwards</persName> was down at <placeName ref="#ttu_482_place_19">Fort Benning</placeName>, he was a Colonel at <placeName ref="#ttu_482_place_20">Fort Benning</placeName> then. I happened to be in the <placeName ref="#ttu_482_place_21">Columbus, Georgia</placeName> area so they wanted to know if I could come over and <persName ref="#ttu_482_person_19">General Moore</persName> was down there then and he was going to start—he was thinking about the book there. That’s the first thing he said when he told us, him and <persName ref="#ttu_482_person_20">Galloway</persName> were going to put a book together, you know. The only reason he said he was going to write it was, he said, “I never want my guys to be forgotten. They’re never going to be forgotten.” That’s why there’s so many names in there. It’s almost tough to read sometimes, isn’t it?</u>
       <u who="VERRONE">Yes, yes.</u>
       <u who="LEFEBVRE">That’s why he did it, he wanted those names in that book because he knew it would be for posterity, it’d be there forever. That shows the kind of guy he is. The other thing and this they told me I could say something off the record.</u>
       <u who="VERRONE">Today, this morning? </u>
       <u who="LEFEBVRE">Yeah.</u>
       <u who="VERRONE">Absolutely. (Editor’s note: Audio cuts and resumes)</u>
-      <u who="LEFEBVRE">I was in the hospital at <placeName>Fort Benning</placeName>, this was in—well in ’68 maybe or ’60, no, <date when="1967">’67</date>. But I was in the hospital and they would not discharge me from the hospital because of the injures I had. I ended up—I told the hospital commander, “If I'm going to be out here all the time, then I want to work! I want a job, I want to do something.” So we had a lot of <placeName>Vietnam</placeName> veterans returning who were wounded and so forth. They put me in charge, I became kind of a super—I was a captain, I was kind of their company commander. Most of them were enlisted guys, young lieutenants. I was put in charge of taking care as far as finding things to do, making sure the ward’s decoration, you know this sort of thing. I really liked it. I said, “Wow, maybe if I can’t get back to the infantry, I might be a medical service corps type of person.” They came down, <persName>General Heaton</persName>, who was the Surgeon General of the <orgName>Army</orgName> came down. They asked me if I briefed <persName>General Heaton</persName> on what we’d been doing, so I said “Sure.” He asked me afterwards, <persName>Heaton</persName> said, “How would you like to transfer from the <orgName>infantry</orgName> to the<orgName> medical service corps</orgName>? We need people like you.” (Chuckles) I said, “What does that mean?” “Well, we’ll send you out to <orgName>Baylor University</orgName> and we’ll get you a master’s degree in hospital administration. Then you’ll go and become a medical service corps guy and do hospital administration type work.” So I went to talk to my wife about it. I was concerned that I would never get back with the <orgName>infantry</orgName> because of the injures that I had. We were about ready to do it. Well, <persName>General Moore</persName> came down, he was the brigadier general then. He came down to <placeName>Fort Benning</placeName> and he was going to visit. Next thing I know, I got the word that he was going to meet an escort officer so they called up, I was at the hospital they said, “Okay, <persName>General Moore</persName> is coming in and he asked that you be his escort officer for his little visit here.” I said, “That’s fine.” So he came down and I told him about this medical service corps thing. Well, he talked me out of it.</u>
+      <u who="LEFEBVRE">I was in the hospital at <placeName ref="#ttu_482_place_22">Fort Benning</placeName>, this was in—well in ’68 maybe or ’60, no, <date when="1967">’67</date>. But I was in the hospital and they would not discharge me from the hospital because of the injures I had. I ended up—I told the hospital commander, “If I'm going to be out here all the time, then I want to work! I want a job, I want to do something.” So we had a lot of <placeName ref="#ttu_482_place_23">Vietnam</placeName> veterans returning who were wounded and so forth. They put me in charge, I became kind of a super—I was a captain, I was kind of their company commander. Most of them were enlisted guys, young lieutenants. I was put in charge of taking care as far as finding things to do, making sure the ward’s decoration, you know this sort of thing. I really liked it. I said, “Wow, maybe if I can’t get back to the infantry, I might be a medical service corps type of person.” They came down, <persName ref="#ttu_482_person_21">General Heaton</persName>, who was the Surgeon General of the <orgName ref="#ttu_482_org_5">Army</orgName> came down. They asked me if I briefed <persName ref="#ttu_482_person_22">General Heaton</persName> on what we’d been doing, so I said “Sure.” He asked me afterwards, <persName ref="#ttu_482_person_23">Heaton</persName> said, “How would you like to transfer from the <orgName ref="#ttu_482_org_6">infantry</orgName> to the<orgName ref="#ttu_482_org_7"> medical service corps</orgName>? We need people like you.” (Chuckles) I said, “What does that mean?” “Well, we’ll send you out to <orgName ref="#ttu_482_org_8">Baylor University</orgName> and we’ll get you a master’s degree in hospital administration. Then you’ll go and become a medical service corps guy and do hospital administration type work.” So I went to talk to my wife about it. I was concerned that I would never get back with the <orgName ref="#ttu_482_org_9">infantry</orgName> because of the injures that I had. We were about ready to do it. Well, <persName ref="#ttu_482_person_24">General Moore</persName> came down, he was the brigadier general then. He came down to <placeName ref="#ttu_482_place_24">Fort Benning</placeName> and he was going to visit. Next thing I know, I got the word that he was going to meet an escort officer so they called up, I was at the hospital they said, “Okay, <persName ref="#ttu_482_person_25">General Moore</persName> is coming in and he asked that you be his escort officer for his little visit here.” I said, “That’s fine.” So he came down and I told him about this medical service corps thing. Well, he talked me out of it.</u>
       <u who="VERRONE">What were his reasons?</u>
-      <u who="LEFEBVRE">He just thought I was an infantryman. Stay in the <orgName>infantry</orgName>. He said, “I’ll do everything I can to make sure you get infantry jobs.” I said, “I’m still getting out in twenty years.” I had about almost ten years then, in fact I did have ten. But he said, “I’ll make sure. I’ll try to do everything I can to get you infantry type jobs because I think you can do it.” I said “Well, okay. I’ll stay infantry.” But then that same thing, we went out to the cemetery at <placeName>Fort Benning</placeName>. Where many of the guys from the <orgName>1st of the 7th</orgName> who were killed in the <orgName>Ia Drang</orgName> were buried. We went out there, me and him. He walked around there, to each grave site and paused, he mumbled to himself, talk to himself. He wasn’t talking to me, I was just kind of in the background there. He turned around to me and said, “This is where I want to be buried, right here with my boys. Back here with the men.” I guess he is, his wife is down there. I imagine that’s where he’ll go. That’s the kind of guy he is. That’s his—you know. He hasn’t changed any. (Chuckles) I mean as far as personality, he hasn’t changed any.</u>
-      <u who="VERRONE">Let’s talk about <placeName>X-Ray</placeName> and your time there.</u>
+      <u who="LEFEBVRE">He just thought I was an infantryman. Stay in the <orgName ref="#ttu_482_org_10">infantry</orgName>. He said, “I’ll do everything I can to make sure you get infantry jobs.” I said, “I’m still getting out in twenty years.” I had about almost ten years then, in fact I did have ten. But he said, “I’ll make sure. I’ll try to do everything I can to get you infantry type jobs because I think you can do it.” I said “Well, okay. I’ll stay infantry.” But then that same thing, we went out to the cemetery at <placeName ref="#ttu_482_place_25">Fort Benning</placeName>. Where many of the guys from the <orgName ref="#ttu_482_org_11">1st of the 7th</orgName> who were killed in the <orgName ref="#ttu_482_org_12">Ia Drang</orgName> were buried. We went out there, me and him. He walked around there, to each grave site and paused, he mumbled to himself, talk to himself. He wasn’t talking to me, I was just kind of in the background there. He turned around to me and said, “This is where I want to be buried, right here with my boys. Back here with the men.” I guess he is, his wife is down there. I imagine that’s where he’ll go. That’s the kind of guy he is. That’s his—you know. He hasn’t changed any. (Chuckles) I mean as far as personality, he hasn’t changed any.</u>
+      <u who="VERRONE">Let’s talk about <placeName ref="#ttu_482_place_26">X-Ray</placeName> and your time there.</u>
       <u who="LEFEBVRE">That won’t take long (Laughs), as you know.</u>
-      <u who="VERRONE">A lot happened there very briefly there for you, but a lot happened that changed your life. Talk about coming in with <orgName>Delta Company</orgName>, you came in I believe on the fifth lift, about 2:30 with <persName>Crandall</persName>.</u>
+      <u who="VERRONE">A lot happened there very briefly there for you, but a lot happened that changed your life. Talk about coming in with <orgName ref="#ttu_482_org_13">Delta Company</orgName>, you came in I believe on the fifth lift, about 2:30 with <persName ref="#ttu_482_person_26">Crandall</persName>.</u>
       <u who="LEFEBVRE">Last lift. Right.</u>
       <u who="VERRONE">Tell me about the flight in, what you knew and what you heard and then what it looked like coming in. </u>
-      <u who="LEFEBVRE">Okay, we were about—if I remember correctly, it was about an eleven minute flight from where we left to go into <placeName>X-Ray</placeName>. I was sitting in the helicopter flying that direction and <persName>Crandall</persName> was up there, I can’t remember who the co-pilot was. My RTO, radio telephone operator was sitting there. <persName>Raul Taboada</persName> , one of my lieutenants was there. I want to digress to mention <persName>Taboada</persName> for just a minute.</u>
+      <u who="LEFEBVRE">Okay, we were about—if I remember correctly, it was about an eleven minute flight from where we left to go into <placeName ref="#ttu_482_place_27">X-Ray</placeName>. I was sitting in the helicopter flying that direction and <persName ref="#ttu_482_person_27">Crandall</persName> was up there, I can’t remember who the co-pilot was. My RTO, radio telephone operator was sitting there. <persName ref="#ttu_482_person_28">Raul Taboada</persName> , one of my lieutenants was there. I want to digress to mention <persName ref="#ttu_482_person_29">Taboada</persName> for just a minute.</u>
       <u who="VERRONE">Yeah, I have him down. I want you to talk about him if you could, please.</u>
-      <u who="LEFEBVRE">Okay, well when he first reported into our company, he was going to be one of my platoon leaders in <orgName>Delta Company</orgName>. He came down and his English—I don’t know if he talks or not, his English is pretty bad, he’d just came out of <name type="event">Bay of Pigs</name> and all this kind of stuff. His English—I still have a difficult time really understanding. He’s a great guy, I remember interviewing him and the only thing I can remember specifically, I’m talking to him when he came down, reported in. He said, “I want to kill communist.” (<persName>Laughs</persName>) I said, “Well, this might be the place.” Or something.</u>
+      <u who="LEFEBVRE">Okay, well when he first reported into our company, he was going to be one of my platoon leaders in <orgName ref="#ttu_482_org_14">Delta Company</orgName>. He came down and his English—I don’t know if he talks or not, his English is pretty bad, he’d just came out of <name type="event" ref="#ttu_482_event_3">Bay of Pigs</name> and all this kind of stuff. His English—I still have a difficult time really understanding. He’s a great guy, I remember interviewing him and the only thing I can remember specifically, I’m talking to him when he came down, reported in. He said, “I want to kill communist.” (<persName ref="#ttu_482_person_30">Laughs</persName>) I said, “Well, this might be the place.” Or something.</u>
       <u who="VERRONE">That’s perfect.</u>
-      <u who="LEFEBVRE">Anyway, when we went in, I had the radio up to my ear and I am listening to what’s going on and where the command’s at. You can hear the excitement and the shooting and the talk that was going on and it was just—I can’t think of anything specific but I remember <persName>Crandall</persName> turning around, I remember this like it happened <date>yesterday</date>. Giving this look like, “Oh, shit.” So we knew it was bad.</u>
+      <u who="LEFEBVRE">Anyway, when we went in, I had the radio up to my ear and I am listening to what’s going on and where the command’s at. You can hear the excitement and the shooting and the talk that was going on and it was just—I can’t think of anything specific but I remember <persName ref="#ttu_482_person_31">Crandall</persName> turning around, I remember this like it happened <date>yesterday</date>. Giving this look like, “Oh, shit.” So we knew it was bad.</u>
       <u who="VERRONE">He was listening to the same thing?</u>
       <u who="LEFEBVRE">Probably. I imagine he’s talking to Moore. I imagine he is because he’s telling him. So when we got ready to land we were taking a lot of fire. The mountain was off to our left, we were taking a lot of fire and it was coming in, bullets whizzing by it seemed like and one of them hit a bullet. I think the same one, I remember I felt a crease going across the back of my neck, we had our seatbelt hooked up and I had just kind of did like this.(Editor’s Note: Interviewee gestures to interviewer)Because he wasn’t going to land, he was just going to hover. He couldn’t set it down. I kind of leaned over and unhook the seatbelt then I felt a crease, a bullet go across back here and I remember turning as if to watch it, watch the bullet and that was the one that hit my radio telephone operator and he just slumped over and he hadn’t even unhooked his belt yet.</u>
       <u who="VERRONE">This is happening so fast, what do you do with that? One minute he’s there, you’re counting on him and you’re thinking about, and the next minute he’s gone. What happens in that kind of situation?</u>
-      <u who="LEFEBVRE">What happened to me was, I knew that the few guys that I would have in that helicopter and I didn’t know how many it would be or anything, I was in the front first. I knew that we had to get there and help our unit. I wasn’t sure exactly how that was going to be, but I knew that’s what we were going to do. The few guys that I had. Fortunately, we got out the right side of the helicopter, I tried to get a radio but I couldn’t get it. I'm not sure why I headed in the direction I did with the few guys I had. I’m not sure why. I kept thinking that <orgName>General Moore</orgName> might’ve sent something to me, but I don’t know. I don’t want to—I want to believe that he told me where to go and what to do, but I don’t think I would be accurate by saying that.</u>
+      <u who="LEFEBVRE">What happened to me was, I knew that the few guys that I would have in that helicopter and I didn’t know how many it would be or anything, I was in the front first. I knew that we had to get there and help our unit. I wasn’t sure exactly how that was going to be, but I knew that’s what we were going to do. The few guys that I had. Fortunately, we got out the right side of the helicopter, I tried to get a radio but I couldn’t get it. I'm not sure why I headed in the direction I did with the few guys I had. I’m not sure why. I kept thinking that <orgName ref="#ttu_482_org_15">General Moore</orgName> might’ve sent something to me, but I don’t know. I don’t want to—I want to believe that he told me where to go and what to do, but I don’t think I would be accurate by saying that.</u>
       <u who="VERRONE">Well, all accounts are that did not happen, that you went to the perfect place.</u>
-      <u who="LEFEBVRE">Yeah! It ended up in the right place for the battalion. Wrong place for <persName>Ray</persName> maybe, but I ended up in the right place. As soon as we got up there, it was only seventy-five yards or so. I only had three or four guys with me. <placeName>Taboada</placeName> was there and his radio telephone operator.</u>
-      <u who="VERRONE">This is on <persName>Nadal</persName>’s left flank.</u>
+      <u who="LEFEBVRE">Yeah! It ended up in the right place for the battalion. Wrong place for <persName ref="#ttu_482_person_32">Ray</persName> maybe, but I ended up in the right place. As soon as we got up there, it was only seventy-five yards or so. I only had three or four guys with me. <placeName ref="#ttu_482_place_28">Taboada</placeName> was there and his radio telephone operator.</u>
+      <u who="VERRONE">This is on <persName ref="#ttu_482_person_33">Nadal</persName>’s left flank.</u>
       <u who="LEFEBVRE">I didn’t know it at the time.</u>
       <u who="VERRONE">What is it looking like as you’re coming up to this position? What’s happening? Are the bullets coming by? Can you see the enemy or elephant grass too high?</u>
       <u who="LEFEBVRE">Yeah, on the way up, I couldn’t see them. I don’t remember seeing them, I just know there was a lot of firing going on. We came to a spot and again, why we stopped there the so-called, “Dry creek bed” thing it seemed like the spot to be, there was a little spot on the ground. So I hid, I hid in that area and got down there and had my M16 out, this sort of thing. Almost immediately—I remember this, almost immediately there are some enemy. Thirty, twenty-five, thirty yards away coming into this—what was later I found out an opening between the two companies and maybe got into the battalion. I don’t know if I commented, I don’t think it’s in the book. But I remember thinking at the time a real hasty thought that they didn’t seem, the enemy, they didn’t seem to know what they were doing.</u>
       <u who="VERRONE">You could sense this somehow?</u>
       <u who="LEFEBVRE">Yeah! I remember telling people afterwards like somebody, like they were on drugs, you know. They were uniformed and everything, but they didn’t seem like they were in control or maybe they were wondering, “We made it this far.” I don’t know what went on in their mind, but we took them under fire.</u>
       <u who="VERRONE">This is really close. I mean they’re right there.</u>
-      <u who="LEFEBVRE">Yeah. It’s there. I actually, you know, all the people that been to <placeName>Vietnam</placeName>—most people have never seen the enemy, right?</u>
+      <u who="LEFEBVRE">Yeah. It’s there. I actually, you know, all the people that been to <placeName ref="#ttu_482_place_29">Vietnam</placeName>—most people have never seen the enemy, right?</u>
       <u who="VERRONE">Right.</u>
       <u who="LEFEBVRE">Well, I saw them.</u>
       <u who="VERRONE">Almost immediately. Are you wearing reduced rank or are you wearing your captain’s insignia?</u>
@@ -113,8 +114,8 @@
       <u who="VERRONE">So they knew?</u>
       <u who="LEFEBVRE">Well they probably did. I had a couple of grenades, we carry a couple of those and I remember throwing those and shooting an M16. I remember—I think I remember hitting people, I mean it’s hard to miss somebody so close.</u>
       <u who="VERRONE">Do you remember if you were on full automatic or were you on single?</u>
-      <u who="LEFEBVRE">I don’t remember, but I don’t think so, I don’t know. It was—but then it stopped, then they stopped. So I don’t know what happened to them, I'm sure we didn’t kill them all. I don’t know what happened. I know we did some and I say we because there was another rifleman or somebody over here to my right, I don’t think he was in my company. Probably part of <persName>John Herren’s</persName> company, I don’t know. To the right and <persName>Taboada</persName> was over here on this side and he got wounded.</u>
-      <u who="VERRONE"><persName>Taboada</persName> got wounded in the helicopter ride, he was shot in the hand, is that correct?</u>
+      <u who="LEFEBVRE">I don’t remember, but I don’t think so, I don’t know. It was—but then it stopped, then they stopped. So I don’t know what happened to them, I'm sure we didn’t kill them all. I don’t know what happened. I know we did some and I say we because there was another rifleman or somebody over here to my right, I don’t think he was in my company. Probably part of <persName ref="#ttu_482_person_34">John Herren’s</persName> company, I don’t know. To the right and <persName ref="#ttu_482_person_35">Taboada</persName> was over here on this side and he got wounded.</u>
+      <u who="VERRONE"><persName ref="#ttu_482_person_36">Taboada</persName> got wounded in the helicopter ride, he was shot in the hand, is that correct?</u>
       <u who="LEFEBVRE">Pretty early, yeah. I remember hollering to him that I needed his radio, I needed his RTO. Send your RTO up to me, I think his name was Dugas. I said, “Send him up there to me.” He didn’t make it up there to me, he got shot—(Laughs) I said, “Get Dugas—” I think he’s was Dugas, “Get your RTO over here to me!” I don’t know if this was before, it might’ve been after we were shooting at people I don’t remember now. I said, “Get Dugas over here, I need the radio. I got to get a hold of the battalion, tell them what’s going on.” So I don’t even know how far they were, but I know it was off to the left and Dugas says, with all the shooting going on I remember him saying, “How am I going to get over there?” I said, “Remember what you did in basic training, called the ‘low crawl’?” He finally made it over to me, I got the radio then. It was right soon, everything happened so suddenly, it was right soon—right after that, that’s when I realized that I got shot. I didn’t realize how bad the injury was until I begin to see the blood, you know because it was a major artery got severed right here.</u>
       <u who="VERRONE">You got shot just above the elbow?</u>
       <u who="LEFEBVRE">No, it went behind it. It went in back there.</u>
@@ -125,57 +126,433 @@
       <u who="VERRONE">Your heart. Are you right-handed? Were you right-handed?</u>
       <u who="LEFEBVRE">I was then. Can we take a break?</u>
       <u who="VERRONE">Absolutely we can. (Editor’s Note: Audio picks back up)</u>
-      <u who="VERRONE">Please continue. Let me ask you something. What did it sound like? Do you remember what it sounded like when you left <persName>Crandall</persName>’s chopper and you come up and immediately hear the enemy. Do you remember the sounds and the smells of these minutes?</u>
+      <u who="VERRONE">Please continue. Let me ask you something. What did it sound like? Do you remember what it sounded like when you left <persName ref="#ttu_482_person_37">Crandall</persName>’s chopper and you come up and immediately hear the enemy. Do you remember the sounds and the smells of these minutes?</u>
       <u who="LEFEBVRE">I remember the sounds. I don’t remember anything else except the sounds. It was just noisy, I guess it’s the best way to put it. There was—I think by that time artillery was coming in, you could hear the artillery rounds hitting and just the weapons. The machine guns, it seemed like everybody had machine guns, it seemed like. Thank god for that too. That’s all I remember, just how noisy it was.</u>
       <u who="VERRONE">And you were able to function in this noise? Did you—</u>
-      <u who="LEFEBVRE">Yeah. I didn’t have much functioning to do. I mean, as far as commanding, I was almost an individual type thing. I mean, I could do that. I had to react, I had to do something. I didn’t have any troops hardly. I got a hold of <persName>Gonzalez</persName> finally, <persName>Sergeant Gonzalez</persName>, I got him on the radio. This was after I was wounded.</u>
+      <u who="LEFEBVRE">Yeah. I didn’t have much functioning to do. I mean, as far as commanding, I was almost an individual type thing. I mean, I could do that. I had to react, I had to do something. I didn’t have any troops hardly. I got a hold of <persName ref="#ttu_482_person_38">Gonzalez</persName> finally, <persName ref="#ttu_482_person_39">Sergeant Gonzalez</persName>, I got him on the radio. This was after I was wounded.</u>
       <u who="VERRONE">And you still don’t know how bad it is? Are you getting an idea of—</u>
       <u who="LEFEBVRE">Oh yes, yes.</u>
       <u who="VERRONE">Because you’re losing a lot of blood at this point.</u>
-      <u who="LEFEBVRE">Yes. What happened was I was starting to give myself a tourniquet. <persName>John Herren</persName>, Captain <persName>Herren</persName> happened to come. He noticed that—he must’ve been pretty close, but he came over. I was trying to get myself with a belt a tourniquet. He ended up getting it on there for me, but it still didn’t stop the flow of blood. I remember kind of propping myself up against a tree. When I first realized that things were pretty bad was all of the sudden—because there’s still fighting going on, then I can’t hear anything. There’s times when I don’t hear any firing. I tell people the best way I can equate it to, and I see one of our guys who was over there, I’d see him raise up and be like those slow motion things in the movie, that’s what it looked like he was doing. (Interviewee makes slow shooting noises)</u>
+      <u who="LEFEBVRE">Yes. What happened was I was starting to give myself a tourniquet. <persName ref="#ttu_482_person_40">John Herren</persName>, Captain <persName ref="#ttu_482_person_41">Herren</persName> happened to come. He noticed that—he must’ve been pretty close, but he came over. I was trying to get myself with a belt a tourniquet. He ended up getting it on there for me, but it still didn’t stop the flow of blood. I remember kind of propping myself up against a tree. When I first realized that things were pretty bad was all of the sudden—because there’s still fighting going on, then I can’t hear anything. There’s times when I don’t hear any firing. I tell people the best way I can equate it to, and I see one of our guys who was over there, I’d see him raise up and be like those slow motion things in the movie, that’s what it looked like he was doing. (Interviewee makes slow shooting noises)</u>
       <u who="VERRONE">But you couldn’t hear quite—</u>
       <u who="LEFEBVRE">No, everything came to be slow. The couple of times I saw him and even then I saw a couple of the enemy. Everything seemed to be in slow motion. I guess, I don’t know why that happened. I don’t know, but I remember that very distinctly.</u>
       <u who="VERRONE">You’re losing blood, you’re dying is what’s happening.Blood’s flowing out of your body.</u>
       <u who="LEFEBVRE">One time what I did was—I felt good because that was Sunday, right?</u>
       <u who="VERRONE">Yes, that’s Sunday.</u>
-      <u who="LEFEBVRE">We went to mass. <persName>General Moore</persName> is Catholic, so am I. We’d gone to mass, I had gone to communion. I remember sitting there thinking, “Well, the last thing I did before I came to this battle was to go to communion.”</u>
+      <u who="LEFEBVRE">We went to mass. <persName ref="#ttu_482_person_42">General Moore</persName> is Catholic, so am I. We’d gone to mass, I had gone to communion. I remember sitting there thinking, “Well, the last thing I did before I came to this battle was to go to communion.”</u>
       <u who="VERRONE">That crossed your mind while leaning against the tree?</u>
-      <u who="LEFEBVRE">Oh, yeah. I remember <persName>Dugas</persName> was up there and he asked me, “What are we going to do now?” I said, “I don’t about you, but I'm praying.” I might’ve not said it that, you know but—</u>
+      <u who="LEFEBVRE">Oh, yeah. I remember <persName ref="#ttu_482_person_43">Dugas</persName> was up there and he asked me, “What are we going to do now?” I said, “I don’t about you, but I'm praying.” I might’ve not said it that, you know but—</u>
       <u who="VERRONE">Right. But let me ask you, do you remember getting hit? Or was it just—</u>
       <u who="LEFEBVRE">Yeah, I remember getting hit.</u>
       <u who="VERRONE">What did it feel like?</u>
       <u who="LEFEBVRE">It didn’t hurt. That was the surprising thing, I looked down there—I remember looking down there and it was so terrible looking. It was all open and it looked bad. It just looked terrible. It never did hurt really, it wasn’t pain that I can remember, no.</u>
       <u who="VERRONE">So you’re against this tree and how long were you there before you were taken back to the battalion medical station?</u>
-      <u who="LEFEBVRE">I don’t know, I don’t know. But I did a couple of other things. I remember sitting there and I had just received some mail from my wife. One thing they teach you is never bring anything into combat that the enemy might capture and use against you. Well, I broke that rule because I had some pictures. I remember taking out the pictures of my kids because she had sent out some pictures and they were pretty small. I remember holding them, I guess in this hand. I remember taking them out of my pack, my pack was sitting right there and looking at them and just then almost some wind blew—I don’t know what happened, but it blew the pictures away. I remember thinking, “Oh god.” Then I remember (Chuckles), this is so corny but I remember doing this, or saying this, or thinking this. I said, “I'm going to leave some of my blood in <placeName>Vietnam</placeName> on this damn battlefield.” Like you do in the movies.</u>
+      <u who="LEFEBVRE">I don’t know, I don’t know. But I did a couple of other things. I remember sitting there and I had just received some mail from my wife. One thing they teach you is never bring anything into combat that the enemy might capture and use against you. Well, I broke that rule because I had some pictures. I remember taking out the pictures of my kids because she had sent out some pictures and they were pretty small. I remember holding them, I guess in this hand. I remember taking them out of my pack, my pack was sitting right there and looking at them and just then almost some wind blew—I don’t know what happened, but it blew the pictures away. I remember thinking, “Oh god.” Then I remember (Chuckles), this is so corny but I remember doing this, or saying this, or thinking this. I said, “I'm going to leave some of my blood in <placeName ref="#ttu_482_place_30">Vietnam</placeName> on this damn battlefield.” Like you do in the movies.</u>
       <u who="VERRONE">Did you—</u>
       <u who="LEFEBVRE">Then I kept passing out. I go in and out.</u>
       <u who="VERRONE">When you thought that about the blood, were you bitter? Were you proud or what?</u>
-      <u who="LEFEBVRE">No. I felt good about the way I reacted. I remember thinking that well, in so many words I thought about—I did what I think should’ve been done. There’s a lot of other things that I might’ve done or might not have done, that sort of thing and I tried to get my troops up there, I tried to do what a commander is supposed to do, and when the time comes, when I had to fight, I did it. I felt good about that because I believed in what we were doing in <placeName>Vietnam</placeName>. I believe that. So that made it easier to go there and do this thing. For all the guys that were killed in the battle and stuff, and afterwards I feel like so many of them, I feel like they died for a good cause. Even though we might of—another talk type thing, we might’ve done it differently type thing. But I believed in what we did.</u>
+      <u who="LEFEBVRE">No. I felt good about the way I reacted. I remember thinking that well, in so many words I thought about—I did what I think should’ve been done. There’s a lot of other things that I might’ve done or might not have done, that sort of thing and I tried to get my troops up there, I tried to do what a commander is supposed to do, and when the time comes, when I had to fight, I did it. I felt good about that because I believed in what we were doing in <placeName ref="#ttu_482_place_31">Vietnam</placeName>. I believe that. So that made it easier to go there and do this thing. For all the guys that were killed in the battle and stuff, and afterwards I feel like so many of them, I feel like they died for a good cause. Even though we might of—another talk type thing, we might’ve done it differently type thing. But I believed in what we did.</u>
       <u who="VERRONE">So what were your memories as you’re fading in and out? And you’re getting ready to be evacuated at some point. </u>
-      <u who="LEFEBVRE">Well I don’t remember being evacuated. I don’t remember coming, I think I remember being thrown in the poncho thing, I think I remember that. And being carried over, I do remember being carried over and I don’t remember really being thrown on the helicopter, but I remember <persName>Metsker</persName>. I didn’t know it was <persName>Metsker</persName> at the time, I found out later it was him. I didn’t know it at the time, he’d already been wounded I guess, but I'm pretty sure I hear him say, this person say, “I'm hit.” I found out later he had got shot about that time and ended up killing him, I guess. I guess I know, but I don’t remember being thrown in a helicopter. I don’t remember anything else.</u>
+      <u who="LEFEBVRE">Well I don’t remember being evacuated. I don’t remember coming, I think I remember being thrown in the poncho thing, I think I remember that. And being carried over, I do remember being carried over and I don’t remember really being thrown on the helicopter, but I remember <persName ref="#ttu_482_person_44">Metsker</persName>. I didn’t know it was <persName ref="#ttu_482_person_45">Metsker</persName> at the time, I found out later it was him. I didn’t know it at the time, he’d already been wounded I guess, but I'm pretty sure I hear him say, this person say, “I'm hit.” I found out later he had got shot about that time and ended up killing him, I guess. I guess I know, but I don’t remember being thrown in a helicopter. I don’t remember anything else.</u>
       <u who="VERRONE">This was your silver star action?</u>
       <u who="LEFEBVRE">Yeah. </u>
       <u who="VERRONE">When did you realize that you had played such a vital role? I mean you had saved—you practically saved the battalion there with that maneuver.</u>
-      <u who="LEFEBVRE">Well, that’s what they said. I don’t know if I ever found that out. I found it out, but I never—I don’t know. I just never thought about it. I'm just glad I was there and I'm glad it all happened that way. <persName>Colonel Moore</persName> he seems to think that.</u>
+      <u who="LEFEBVRE">Well, that’s what they said. I don’t know if I ever found that out. I found it out, but I never—I don’t know. I just never thought about it. I'm just glad I was there and I'm glad it all happened that way. <persName ref="#ttu_482_person_46">Colonel Moore</persName> he seems to think that.</u>
       <u who="VERRONE">You were in the hospital for quite a while, recovering from this.</u>
       <u who="LEFEBVRE">Yes. Mainly because they had all these operations to do. They wouldn’t let me out like I said. If I’d been a civilian I’d been ambulatory. You know, come in for the operation, go back to work. But they wouldn’t let me out, it was a long time.</u>
       <u who="VERRONE">Did you want to find out what had happened to your troopers? When did you realize thinking, “I want to know how the battle went. I need to know what happened”?</u>
-      <u who="LEFEBVRE">Well, I found out a lot because you see, some of them came back—were already there wounded, I learned a lot about the battle from that. Every time <persName>Colonel Moore</persName>, I went over to him he would tell me more. So I was pretty familiar with what happened and I had a copy of the after action report. The classified confidential copy that everybody got. I got a copy of that and got that pretty early. So I don’t even know how he gave it to me, but I got that real early. I'm talking about when I was still in the hospital. I was very familiar you know with what was going on, I knew what had happened. The only thing that was tough for me was that I didn’t know my troops very well because I joined them so late. The way <orgName>Delta Company</orgName> was organized, the mortars were off with other companies. So there was actually <orgName>Delta Company</orgName> guys and those couple of guys that were killed, but they were mortarmen but they probably felt more like <orgName>Bravo</orgName> or <persName>Charlie Company</persName> guys because they supported them, they were with them all the time. My RTO, <persName>Nicholas</persName>—that was his first time he had been my RTO. We were training him and that was his first operation he went on.</u>
+      <u who="LEFEBVRE">Well, I found out a lot because you see, some of them came back—were already there wounded, I learned a lot about the battle from that. Every time <persName ref="#ttu_482_person_47">Colonel Moore</persName>, I went over to him he would tell me more. So I was pretty familiar with what happened and I had a copy of the after action report. The classified confidential copy that everybody got. I got a copy of that and got that pretty early. So I don’t even know how he gave it to me, but I got that real early. I'm talking about when I was still in the hospital. I was very familiar you know with what was going on, I knew what had happened. The only thing that was tough for me was that I didn’t know my troops very well because I joined them so late. The way <orgName ref="#ttu_482_org_16">Delta Company</orgName> was organized, the mortars were off with other companies. So there was actually <orgName ref="#ttu_482_org_17">Delta Company</orgName> guys and those couple of guys that were killed, but they were mortarmen but they probably felt more like <orgName ref="#ttu_482_org_18">Bravo</orgName> or <persName ref="#ttu_482_person_48">Charlie Company</persName> guys because they supported them, they were with them all the time. My RTO, <persName ref="#ttu_482_person_49">Nicholas</persName>—that was his first time he had been my RTO. We were training him and that was his first operation he went on.</u>
       <u who="VERRONE">How well did you know him?</u>
       <u who="LEFEBVRE">Pretty well. Not real well, but I knew the other two better. A guy named Robles and Stevenson, I knew them better because they were with me on other operations. We have an RTO for operations and an RTO for administration. I knew them better.</u>
-      <u who="VERRONE">So this is <persName>Nicholas</persName>’s first action?</u>
-      <u who="LEFEBVRE">Yeah. We had taken him to training because Stevenson was due out, he was supposed to been out 1st November, middle of November. So we were training <persName>Nicholas</persName> to take Stevenson’s place.</u>
-      <u who="VERRONE">In the interest of time, tell me what it’s been like since the <name type="event">Ia Drang</name>. It’s forty years almost to the day. What’s it been like for you? Especially with the book and the movie?</u>
-      <u who="LEFEBVRE">Oh, dear. It’s opened up things and I keep thinking some of those guys spent that whole day there, the whole <date>three days</date> there. Some of them fought and some of them died. I was there for fifteen minutes or whatever the hell it was. It’s so humbling. I get letters from people that read book and they want to talk to you. The first time I didn’t know what to say. I was in <placeName>Athens, Georgia</placeName>, I was working, I was an area sales manager. I went to the bookstore when the book came out. I was standing down there looking at the book. They had two copies. There was a young lady standing right next to me about thirty-two,thirty-three years old. I was looking at it and she was looking at it too. She said, “Do you know anything about this book?” I didn’t know what to say. I thought, do I say, “Yeah, I'm in it.” Or do I say—what do you say? I said, “Who are you buying the book for?” Well her brother was a captain out of <placeName>Foot Hood,</placeName> with the <orgName>Cav</orgName> I guess, and she thought that would be a good book for him. I said, “I think he’ll really enjoy it.” I said, “He’ll really enjoy that book if he’s a <orgName>Cav</orgName> guy.” “How do you know?” She kept probing me. I'm thinking “What am I going to say?” I still didn’t know what to say, how to handle it. I said, “Let me show you.” I opened the book and I opened it to the picture. I said, “That’s me and that’s my family.” She says, “Can I have your autography?” I didn’t even know what to write. But anyway, I got thinking later on that people would read about it in my little town and you know, paper’s want interviews. I thought “God. I was only there—” I think I might’ve felt that I wish I could’ve stayed longer.</u>
+      <u who="VERRONE">So this is <persName ref="#ttu_482_person_50">Nicholas</persName>’s first action?</u>
+      <u who="LEFEBVRE">Yeah. We had taken him to training because Stevenson was due out, he was supposed to been out 1st November, middle of November. So we were training <persName ref="#ttu_482_person_51">Nicholas</persName> to take Stevenson’s place.</u>
+      <u who="VERRONE">In the interest of time, tell me what it’s been like since the <name type="event" ref="#ttu_482_event_4">Ia Drang</name>. It’s forty years almost to the day. What’s it been like for you? Especially with the book and the movie?</u>
+      <u who="LEFEBVRE">Oh, dear. It’s opened up things and I keep thinking some of those guys spent that whole day there, the whole <date>three days</date> there. Some of them fought and some of them died. I was there for fifteen minutes or whatever the hell it was. It’s so humbling. I get letters from people that read book and they want to talk to you. The first time I didn’t know what to say. I was in <placeName ref="#ttu_482_place_32">Athens, Georgia</placeName>, I was working, I was an area sales manager. I went to the bookstore when the book came out. I was standing down there looking at the book. They had two copies. There was a young lady standing right next to me about thirty-two,thirty-three years old. I was looking at it and she was looking at it too. She said, “Do you know anything about this book?” I didn’t know what to say. I thought, do I say, “Yeah, I'm in it.” Or do I say—what do you say? I said, “Who are you buying the book for?” Well her brother was a captain out of <placeName ref="#ttu_482_place_33">Foot Hood,</placeName> with the <orgName ref="#ttu_482_org_19">Cav</orgName> I guess, and she thought that would be a good book for him. I said, “I think he’ll really enjoy it.” I said, “He’ll really enjoy that book if he’s a <orgName ref="#ttu_482_org_20">Cav</orgName> guy.” “How do you know?” She kept probing me. I'm thinking “What am I going to say?” I still didn’t know what to say, how to handle it. I said, “Let me show you.” I opened the book and I opened it to the picture. I said, “That’s me and that’s my family.” She says, “Can I have your autography?” I didn’t even know what to write. But anyway, I got thinking later on that people would read about it in my little town and you know, paper’s want interviews. I thought “God. I was only there—” I think I might’ve felt that I wish I could’ve stayed longer.</u>
       <u who="VERRONE"> Is there a degree, a degree of guilt?</u>
       <u who="LEFEBVRE">No, no guilt. Hell, I didn’t shoot me. (Chuckles) No, I don’t have any guilt. I just felt bad, I wanted to be there while we fought that battle.</u>
       <u who="VERRONE">But you played your part.</u>
-      <u who="LEFEBVRE">Well, I know that, I know and I feel good about that. I remember people—now I get invited to schools and talk and stuff like that, but I got a lot more experience in this battle. I briefed <persName>Westmoreland</persName>, I briefed <persName>McNamara</persName>. I told them things that they didn’t pay any attention to. That’s the part that pisses me off more than anything else. <persName>McNamara</persName>, he goes back to <placeName>Washington</placeName>, I thought he’d been to a different country. But anyway, they would—a couple of guys, I remember in the schools, a couple of guys who say, “Gosh, you sure weren’t there for long.” These were high school guys. I said, “Would you like it better if I got killed?” I said, “Would that make you more happy?” (Chuckles) I don’t dwell on it too much. You can ask Larry, he comes out with me and he says, “God, I find out different things every time I listen to you talk.” But I felt good about what we had done in <placeName>Vietnam</placeName>. I was in favor of it. I loved the Vietnamese people. I like what I did, I like what our troops did and from that time past, from <date when="1965">’65</date> on, I don’t pay any attention to that part. I mean, I pay attention but it’s not—it’s a different situation, different things going on. When I come back, I don’t go to many reunions, this is only the second one I’ve been to at <placeName>Washington</placeName>. I'm not a reunion type guy and I think maybe one reason is, I never come up to this one, I was here in <date when="1962">’92</date> when they had the book and I came to this because of its importance, forty years and some of these people I’ll never see again. We’re all getting older now. I go to the <orgName>1st battalion</orgName>, I go to some of theirs you know because I'm closer to our battalion than I am to our whole outfit. I don’t know, maybe one of it is—and nobody has made me feel this way, none of the guys, none of the troops, nobody has made me feel this, but in the back of my mind I felt like well, I never did know them because I joined so late. I never got to know them real well and the few operations we went on, I left so early in the battle, it was gone. Maybe subconsciously thinking, “Well I really don’t belong with them or something.” All these guys they walk around and you see all these people that fought there and did these things and you know they were young PFCs (Private First Class) and stuff. I don’t know— sometimes I wonder if think that or not, I don’t know. I shouldn’t, but I'm glad that you’re doing this. I believe in this oral history stuff. One of these people, years from will have a chance to look at it.</u>
-      <u who="VERRONE">What do you want those people to know about this time period, <date when="1965">1965</date> in the <placeName>valley</placeName>?</u>
-      <u who="LEFEBVRE">That we had a bunch of people there, some of us were career guys, some of us were drafted, but every one of us did what we were supposed to do and we did it well. If you ask some of these people, they’ll say, “I don’t think I was fighting for the <placeName>US</placeName>, but I was fighting for the guy that was next to me.” And that sort of thing and that’s true. But I feel proud of what we did. I don’t have any regrets whatsoever. Even when I think go back and study it, most of the guys who are in it I'm sure probably feel the same way. They got a lot of different stories, you’ve listened to a lot of people talk about it I'm sure and you hear a lot of other things too maybe. But I think most of them at least in <date when="1965">’65</date> comes at a different time. When you go from ’<date when="1965">65</date> to ’<date when="1970">70</date>, that’s a different group.</u>
+      <u who="LEFEBVRE">Well, I know that, I know and I feel good about that. I remember people—now I get invited to schools and talk and stuff like that, but I got a lot more experience in this battle. I briefed <persName ref="#ttu_482_person_52">Westmoreland</persName>, I briefed <persName ref="#ttu_482_person_53">McNamara</persName>. I told them things that they didn’t pay any attention to. That’s the part that pisses me off more than anything else. <persName ref="#ttu_482_person_54">McNamara</persName>, he goes back to <placeName ref="#ttu_482_place_34">Washington</placeName>, I thought he’d been to a different country. But anyway, they would—a couple of guys, I remember in the schools, a couple of guys who say, “Gosh, you sure weren’t there for long.” These were high school guys. I said, “Would you like it better if I got killed?” I said, “Would that make you more happy?” (Chuckles) I don’t dwell on it too much. You can ask Larry, he comes out with me and he says, “God, I find out different things every time I listen to you talk.” But I felt good about what we had done in <placeName ref="#ttu_482_place_35">Vietnam</placeName>. I was in favor of it. I loved the Vietnamese people. I like what I did, I like what our troops did and from that time past, from <date when="1965">’65</date> on, I don’t pay any attention to that part. I mean, I pay attention but it’s not—it’s a different situation, different things going on. When I come back, I don’t go to many reunions, this is only the second one I’ve been to at <placeName ref="#ttu_482_place_36">Washington</placeName>. I'm not a reunion type guy and I think maybe one reason is, I never come up to this one, I was here in <date when="1962">’92</date> when they had the book and I came to this because of its importance, forty years and some of these people I’ll never see again. We’re all getting older now. I go to the <orgName ref="#ttu_482_org_21">1st battalion</orgName>, I go to some of theirs you know because I'm closer to our battalion than I am to our whole outfit. I don’t know, maybe one of it is—and nobody has made me feel this way, none of the guys, none of the troops, nobody has made me feel this, but in the back of my mind I felt like well, I never did know them because I joined so late. I never got to know them real well and the few operations we went on, I left so early in the battle, it was gone. Maybe subconsciously thinking, “Well I really don’t belong with them or something.” All these guys they walk around and you see all these people that fought there and did these things and you know they were young PFCs (Private First Class) and stuff. I don’t know— sometimes I wonder if think that or not, I don’t know. I shouldn’t, but I'm glad that you’re doing this. I believe in this oral history stuff. One of these people, years from will have a chance to look at it.</u>
+      <u who="VERRONE">What do you want those people to know about this time period, <date when="1965">1965</date> in the <placeName ref="#ttu_482_place_37">valley</placeName>?</u>
+      <u who="LEFEBVRE">That we had a bunch of people there, some of us were career guys, some of us were drafted, but every one of us did what we were supposed to do and we did it well. If you ask some of these people, they’ll say, “I don’t think I was fighting for the <placeName ref="#ttu_482_place_38">US</placeName>, but I was fighting for the guy that was next to me.” And that sort of thing and that’s true. But I feel proud of what we did. I don’t have any regrets whatsoever. Even when I think go back and study it, most of the guys who are in it I'm sure probably feel the same way. They got a lot of different stories, you’ve listened to a lot of people talk about it I'm sure and you hear a lot of other things too maybe. But I think most of them at least in <date when="1965">’65</date> comes at a different time. When you go from ’<date when="1965">65</date> to ’<date when="1970">70</date>, that’s a different group.</u>
       <u who="VERRONE">Yes, it is. </u>
       <u who="LEFEBVRE">Different things going on in our country. It’s just so many—it’s just different. I feel proud of what I did, I feel proud of my guys and the people I served with. When it comes to things like and I see them, even though I didn’t get to know them real well, I just look at them in awe. What they did when they were twenty-two years old or twenty-one. You know? Even though some are about half nuts. (Chuckles) I don’t mean in a sense from the battlefield.</u>
-      <u who="VERRONE">Yes, sir. Well, we need to stop the interview now. Thank you, Colonel <persName>Lefebvre</persName>.  (End of interview.)</u>
+      <u who="VERRONE">Yes, sir. Well, we need to stop the interview now. Thank you, Colonel <persName ref="#ttu_482_person_55">Lefebvre</persName>.  (End of interview.)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_482_place_0">
+        <placeName>Washington, D.C</placeName>
+      </place>
+      <place xml:id="ttu_482_place_1">
+        <placeName>Hilton Crystal City</placeName>
+      </place>
+      <place xml:id="ttu_482_place_2">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_3">
+        <placeName>Monterey, California</placeName>
+      </place>
+      <place xml:id="ttu_482_place_4">
+        <placeName>Okinawa</placeName>
+      </place>
+      <place xml:id="ttu_482_place_5">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_6">
+        <placeName>Okinawa</placeName>
+      </place>
+      <place xml:id="ttu_482_place_7">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_8">
+        <placeName>US</placeName>
+      </place>
+      <place xml:id="ttu_482_place_9">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_10">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_11">
+        <placeName>Hanoi</placeName>
+      </place>
+      <place xml:id="ttu_482_place_12">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_482_place_13">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_482_place_14">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_15">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_482_place_16">
+        <placeName> An Khe</placeName>
+      </place>
+      <place xml:id="ttu_482_place_17">
+        <placeName>Golf Course.</placeName>
+      </place>
+      <place xml:id="ttu_482_place_18">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_482_place_19">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_482_place_20">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_482_place_21">
+        <placeName>Columbus, Georgia</placeName>
+      </place>
+      <place xml:id="ttu_482_place_22">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_482_place_23">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_24">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_482_place_25">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_482_place_26">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_482_place_27">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_482_place_28">
+        <placeName>Taboada</placeName>
+      </place>
+      <place xml:id="ttu_482_place_29">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_30">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_31">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_32">
+        <placeName>Athens, Georgia</placeName>
+      </place>
+      <place xml:id="ttu_482_place_33">
+        <placeName>Foot Hood,</placeName>
+      </place>
+      <place xml:id="ttu_482_place_34">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="ttu_482_place_35">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_482_place_36">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="ttu_482_place_37">
+        <placeName>valley</placeName>
+      </place>
+      <place xml:id="ttu_482_place_38">
+        <placeName>US</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_482_event_0">
+        <desc>Ia Drang-Pleiku Campaigns</desc>
+      </event>
+      <event xml:id="ttu_482_event_1">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="ttu_482_event_2">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_482_event_3">
+        <desc>Bay of Pigs</desc>
+      </event>
+      <event xml:id="ttu_482_event_4">
+        <desc>Ia Drang</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_482_person_0">
+        <persName>Richard Verrone</persName>
+      </person>
+      <person xml:id="ttu_482_person_1">
+        <persName>Ray Lefebvre</persName>
+      </person>
+      <person xml:id="ttu_482_person_2">
+        <persName>Lefebvre</persName>
+      </person>
+      <person xml:id="ttu_482_person_3">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="ttu_482_person_4">
+        <persName> Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_5">
+        <persName>Matt Dillon</persName>
+      </person>
+      <person xml:id="ttu_482_person_6">
+        <persName>Tim Brown</persName>
+      </person>
+      <person xml:id="ttu_482_person_7">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_8">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_9">
+        <persName>Colonel Moor</persName>
+      </person>
+      <person xml:id="ttu_482_person_10">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_11">
+        <persName>Ray</persName>
+      </person>
+      <person xml:id="ttu_482_person_12">
+        <persName>Matt Dillion</persName>
+      </person>
+      <person xml:id="ttu_482_person_13">
+        <persName>Colonel</persName>
+      </person>
+      <person xml:id="ttu_482_person_14">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_15">
+        <persName>Colonel Moore.</persName>
+      </person>
+      <person xml:id="ttu_482_person_16">
+        <persName>Ray</persName>
+      </person>
+      <person xml:id="ttu_482_person_17">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_18">
+        <persName>Bob Edwards</persName>
+      </person>
+      <person xml:id="ttu_482_person_19">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_20">
+        <persName>Galloway</persName>
+      </person>
+      <person xml:id="ttu_482_person_21">
+        <persName>General Heaton</persName>
+      </person>
+      <person xml:id="ttu_482_person_22">
+        <persName>General Heaton</persName>
+      </person>
+      <person xml:id="ttu_482_person_23">
+        <persName>Heaton</persName>
+      </person>
+      <person xml:id="ttu_482_person_24">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_25">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_26">
+        <persName>Crandall</persName>
+      </person>
+      <person xml:id="ttu_482_person_27">
+        <persName>Crandall</persName>
+      </person>
+      <person xml:id="ttu_482_person_28">
+        <persName>Raul Taboada</persName>
+      </person>
+      <person xml:id="ttu_482_person_29">
+        <persName>Taboada</persName>
+      </person>
+      <person xml:id="ttu_482_person_30">
+        <persName>Laughs</persName>
+      </person>
+      <person xml:id="ttu_482_person_31">
+        <persName>Crandall</persName>
+      </person>
+      <person xml:id="ttu_482_person_32">
+        <persName>Ray</persName>
+      </person>
+      <person xml:id="ttu_482_person_33">
+        <persName>Nadal</persName>
+      </person>
+      <person xml:id="ttu_482_person_34">
+        <persName>John Herren’s</persName>
+      </person>
+      <person xml:id="ttu_482_person_35">
+        <persName>Taboada</persName>
+      </person>
+      <person xml:id="ttu_482_person_36">
+        <persName>Taboada</persName>
+      </person>
+      <person xml:id="ttu_482_person_37">
+        <persName>Crandall</persName>
+      </person>
+      <person xml:id="ttu_482_person_38">
+        <persName>Gonzalez</persName>
+      </person>
+      <person xml:id="ttu_482_person_39">
+        <persName>Sergeant Gonzalez</persName>
+      </person>
+      <person xml:id="ttu_482_person_40">
+        <persName>John Herren</persName>
+      </person>
+      <person xml:id="ttu_482_person_41">
+        <persName>Herren</persName>
+      </person>
+      <person xml:id="ttu_482_person_42">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_43">
+        <persName>Dugas</persName>
+      </person>
+      <person xml:id="ttu_482_person_44">
+        <persName>Metsker</persName>
+      </person>
+      <person xml:id="ttu_482_person_45">
+        <persName>Metsker</persName>
+      </person>
+      <person xml:id="ttu_482_person_46">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_47">
+        <persName>Colonel Moore</persName>
+      </person>
+      <person xml:id="ttu_482_person_48">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="ttu_482_person_49">
+        <persName>Nicholas</persName>
+      </person>
+      <person xml:id="ttu_482_person_50">
+        <persName>Nicholas</persName>
+      </person>
+      <person xml:id="ttu_482_person_51">
+        <persName>Nicholas</persName>
+      </person>
+      <person xml:id="ttu_482_person_52">
+        <persName>Westmoreland</persName>
+      </person>
+      <person xml:id="ttu_482_person_53">
+        <persName>McNamara</persName>
+      </person>
+      <person xml:id="ttu_482_person_54">
+        <persName>McNamara</persName>
+      </person>
+      <person xml:id="ttu_482_person_55">
+        <persName>Lefebvre</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_482_org_0">
+        <orgName>the Army Language School</orgName>
+      </org>
+      <org xml:id="ttu_482_org_1">
+        <orgName>Americas</orgName>
+      </org>
+      <org xml:id="ttu_482_org_2">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_482_org_3">
+        <orgName>Civil Affairs and Psychological Operations</orgName>
+      </org>
+      <org xml:id="ttu_482_org_4">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_482_org_5">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="ttu_482_org_6">
+        <orgName>infantry</orgName>
+      </org>
+      <org xml:id="ttu_482_org_7">
+        <orgName> medical service corps</orgName>
+      </org>
+      <org xml:id="ttu_482_org_8">
+        <orgName>Baylor University</orgName>
+      </org>
+      <org xml:id="ttu_482_org_9">
+        <orgName>infantry</orgName>
+      </org>
+      <org xml:id="ttu_482_org_10">
+        <orgName>infantry</orgName>
+      </org>
+      <org xml:id="ttu_482_org_11">
+        <orgName>1st of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_482_org_12">
+        <orgName>Ia Drang</orgName>
+      </org>
+      <org xml:id="ttu_482_org_13">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_482_org_14">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_482_org_15">
+        <orgName>General Moore</orgName>
+      </org>
+      <org xml:id="ttu_482_org_16">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_482_org_17">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_482_org_18">
+        <orgName>Bravo</orgName>
+      </org>
+      <org xml:id="ttu_482_org_19">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_482_org_20">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_482_org_21">
+        <orgName>1st battalion</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
