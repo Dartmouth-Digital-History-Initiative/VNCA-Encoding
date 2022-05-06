@@ -1,17 +1,17 @@
-id	orgName
-ttu_487_org_0	1st Cav division
-ttu_487_org_1	Columbus Ledger-Inquirer
-ttu_487_org_2	1st Cav
-ttu_487_org_3	11th Air Assault Division
-ttu_487_org_4	marine
-ttu_487_org_5	1st Cav
-ttu_487_org_6	Cav
-ttu_487_org_7	Cav
-ttu_487_org_8	Newsweek
-ttu_487_org_9	1st Cav
-ttu_487_org_10	1st of the 9th
-ttu_487_org_11	11th Air Assault Division
-ttu_487_org_12	1st Cav
-ttu_487_org_13	marine
-ttu_487_org_14	101st airborne
-ttu_487_org_15	Columbus paper
+id	orgName	QID	ttu_id
+ttu_487_org_0	1st Cavalry Division	Q2338	
+ttu_487_org_1	Ledger-Enquirer	Q6512650	
+ttu_487_org_2	1st Cavalry Division	Q2338	
+ttu_487_org_3	11th Airborne Division	Q169980	
+ttu_487_org_4	United States Marine Corps	Q11218	
+ttu_487_org_5	1st Cavalry Division	Q2338	
+ttu_487_org_6	1st Cavalry Division	Q2338	
+ttu_487_org_7	1st Cavalry Division	Q2338	
+ttu_487_org_8	Newsweek	Q188413	
+ttu_487_org_9	1st Cavalry Division	Q2338	
+ttu_487_org_10	1st Squadron, 9th Cavalry Regiment	Q111844723	
+ttu_487_org_11	11th Airborne Division	Q169980	
+ttu_487_org_12	1st Cavalry Division	Q2338	
+ttu_487_org_13	United States Marine Corps	Q11218	
+ttu_487_org_14	101st Airborne Division	Q165256	
+ttu_487_org_15	Ledger-Enquirer	Q6512650	
