@@ -1,50 +1,50 @@
-id	placeName
-ttu_484_place_0	Washington D.C.
-ttu_484_place_1	Crystal City Hilton Hotel
-ttu_484_place_2	Fort Benning
-ttu_484_place_3	Falcon
-ttu_484_place_4	Plei Me Special Forces camp
-ttu_484_place_5	X-Ray
-ttu_484_place_6	Falcon
-ttu_484_place_7	X-Ray
-ttu_484_place_8	Falcon
-ttu_484_place_9	Falcon
-ttu_484_place_10	X-Ray
-ttu_484_place_11	Falcon
-ttu_484_place_12	Falcon
-ttu_484_place_13	Falcon
-ttu_484_place_14	X-Ray
-ttu_484_place_15	Falcon
-ttu_484_place_16	Vietnam
-ttu_484_place_17	Fort Benning
-ttu_484_place_18	Plei Djereng
-ttu_484_place_19	Falcon
-ttu_484_place_20	X-Ray
-ttu_484_place_21	Korea
-ttu_484_place_22	X-Ray
-ttu_484_place_23	Fort Benning
-ttu_484_place_24	Benning
-ttu_484_place_25	Vietnam
-ttu_484_place_26	Delta
-ttu_484_place_27	X-Ray
-ttu_484_place_28	Vietnam
-ttu_484_place_29	Hollywood
-ttu_484_place_30	Washington
-ttu_484_place_31	Falcon
-ttu_484_place_32	Pleiku
-ttu_484_place_33	Falcon
-ttu_484_place_34	Pleiku
-ttu_484_place_35	Pleiku
-ttu_484_place_36	Vietnam
-ttu_484_place_37	States
-ttu_484_place_38	San Francisco
-ttu_484_place_39	Fort Lewis
-ttu_484_place_40	Washington
-ttu_484_place_41	Valley
-ttu_484_place_42	Benning
-ttu_484_place_43	X-Ray
-ttu_484_place_44	X-Ray
-ttu_484_place_45	Fort Benning
-ttu_484_place_46	Benning
-ttu_484_place_47	Vietnam
-ttu_484_place_48	Vietnam
+id	placeName	QID	ttu_id	coordinate location
+ttu_484_place_0	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_484_place_1	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
+ttu_484_place_2	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_484_place_3	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_4	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_484_place_5	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_6	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_7	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_8	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_9	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_10	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_11	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_12	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_13	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_14	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_15	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_16	Vietnam	Q881		16,108
+ttu_484_place_17	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_484_place_18	Plei Djereng Camp	Q18589104		13.970166583958457, 107.64195708465581
+ttu_484_place_19	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_20	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_21	South Korea	Q884		36,128
+ttu_484_place_22	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_23	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_484_place_24	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_484_place_25	Vietnam	Q881		16,108
+ttu_484_place_26	Mekong Delta	Q1052867		10.009,105.824
+ttu_484_place_27	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_28	Vietnam	Q881		16,108
+ttu_484_place_29	Hollywood	Q34006		34.098333333333336,-118.32666666666667
+ttu_484_place_30	Washington	Q1223		47.5,-120.5
+ttu_484_place_31	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_32	Pleiku	Q30599		13.971519,108.014673
+ttu_484_place_33	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_484_place_34	Pleiku	Q30599		13.971519,108.014673
+ttu_484_place_35	Pleiku	Q30599		13.971519,108.014673
+ttu_484_place_36	Vietnam	Q881		16,108
+ttu_484_place_37	United States of America	Q30		39.828175,-98.5795
+ttu_484_place_38	San Francisco	Q62		37.7775,-122.41638888888889
+ttu_484_place_39	Fort Lewis	Q3505731		47.080654,-122.5812758
+ttu_484_place_40	Washington	Q1223		47.5,-120.5
+ttu_484_place_41	Valley			
+ttu_484_place_42	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_484_place_43	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_44	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_484_place_45	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_484_place_46	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_484_place_47	Vietnam	Q881		16,108
+ttu_484_place_48	Vietnam	Q881		16,108
