@@ -1,57 +1,57 @@
-id	persName
-ttu_482_person_0	Richard Verrone
-ttu_482_person_1	Ray Lefebvre
-ttu_482_person_2	Lefebvre
-ttu_482_person_3	Tony Nadal
-ttu_482_person_4	 Colonel Moore
-ttu_482_person_5	Matt Dillon
-ttu_482_person_6	Tim Brown
-ttu_482_person_7	Colonel Moore
-ttu_482_person_8	Colonel Moore
-ttu_482_person_9	Colonel Moor
-ttu_482_person_10	Colonel Moore
-ttu_482_person_11	Ray
-ttu_482_person_12	Matt Dillion
-ttu_482_person_13	Colonel
-ttu_482_person_14	Colonel Moore
-ttu_482_person_15	Colonel Moore.
-ttu_482_person_16	Ray
-ttu_482_person_17	General Moore
-ttu_482_person_18	Bob Edwards
-ttu_482_person_19	General Moore
-ttu_482_person_20	Galloway
-ttu_482_person_21	General Heaton
-ttu_482_person_22	General Heaton
-ttu_482_person_23	Heaton
-ttu_482_person_24	General Moore
-ttu_482_person_25	General Moore
-ttu_482_person_26	Crandall
-ttu_482_person_27	Crandall
-ttu_482_person_28	Raul Taboada
-ttu_482_person_29	Taboada
-ttu_482_person_30	Laughs
-ttu_482_person_31	Crandall
-ttu_482_person_32	Ray
-ttu_482_person_33	Nadal
-ttu_482_person_34	John Herren’s
-ttu_482_person_35	Taboada
-ttu_482_person_36	Taboada
-ttu_482_person_37	Crandall
-ttu_482_person_38	Gonzalez
-ttu_482_person_39	Sergeant Gonzalez
-ttu_482_person_40	John Herren
-ttu_482_person_41	Herren
-ttu_482_person_42	General Moore
-ttu_482_person_43	Dugas
-ttu_482_person_44	Metsker
-ttu_482_person_45	Metsker
-ttu_482_person_46	Colonel Moore
-ttu_482_person_47	Colonel Moore
-ttu_482_person_48	Charlie Company
-ttu_482_person_49	Nicholas
-ttu_482_person_50	Nicholas
-ttu_482_person_51	Nicholas
-ttu_482_person_52	Westmoreland
-ttu_482_person_53	McNamara
-ttu_482_person_54	McNamara
-ttu_482_person_55	Lefebvre
+id	persName	QID	ttu_id
+ttu_482_person_0	Richard Verrone	Q111653126	
+ttu_482_person_1	"Capt. Louis R. ""Ray"" LeFebvre"	Q111908628	
+ttu_482_person_2	"Capt. Louis R. ""Ray"" LeFebvre"	Q111908628	
+ttu_482_person_3	Ramon Antonio Nadal	Q111442803	
+ttu_482_person_4	Hal Moore	Q430209	
+ttu_482_person_5	Gregory P. Dillon	Q111442679	
+ttu_482_person_6	Thomas W. Brown	Q111630856	
+ttu_482_person_7	Hal Moore	Q430209	
+ttu_482_person_8	Hal Moore	Q430209	
+ttu_482_person_9	Hal Moore	Q430209	
+ttu_482_person_10	Hal Moore	Q430209	
+ttu_482_person_11	"Capt. Louis R. ""Ray"" LeFebvre"	Q111908628	
+ttu_482_person_12	Gregory P. Dillon	Q111442679	
+ttu_482_person_13	Hal Moore	Q430209	
+ttu_482_person_14	Hal Moore	Q430209	
+ttu_482_person_15	Hal Moore	Q430209	
+ttu_482_person_16	"Capt. Louis R. ""Ray"" LeFebvre"	Q111908628	
+ttu_482_person_17	Hal Moore	Q430209	
+ttu_482_person_18	Robert H. Edwards	Q111008041	
+ttu_482_person_19	Hal Moore	Q430209	
+ttu_482_person_20	Joseph L. Galloway	Q3185182	
+ttu_482_person_21	Leonard Heaton	Q111908620	
+ttu_482_person_22	Leonard Heaton	Q111908620	
+ttu_482_person_23	Leonard Heaton	Q111908620	
+ttu_482_person_24	Hal Moore	Q430209	
+ttu_482_person_25	Hal Moore	Q430209	
+ttu_482_person_26	Bruce Perry Crandall	Q3431327	
+ttu_482_person_27	Bruce Perry Crandall	Q3431327	
+ttu_482_person_28	Raul Taboada	Q111678306	
+ttu_482_person_29	Raul Taboada	Q111678306	
+ttu_482_person_30	Laughs		
+ttu_482_person_31	Bruce Perry Crandall	Q3431327	
+ttu_482_person_32	"Capt. Louis R. ""Ray"" LeFebvre"	Q111908628	
+ttu_482_person_33	Ramon Antonio Nadal	Q111442803	
+ttu_482_person_34	John D. Herren	Q111678638	
+ttu_482_person_35	Raul Taboada	Q111678306	
+ttu_482_person_36	Raul Taboada	Q111678306	
+ttu_482_person_37	Bruce Perry Crandall	Q3431327	
+ttu_482_person_38	Alfredo Cantu Gonzalez	Q4723728	
+ttu_482_person_39	Alfredo Cantu Gonzalez	Q4723728	
+ttu_482_person_40	John D. Herren	Q111678638	
+ttu_482_person_41	John D. Herren	Q111678638	
+ttu_482_person_42	Hal Moore	Q430209	
+ttu_482_person_43	Dugas		
+ttu_482_person_44	Thomas Metsker	Q111908651	
+ttu_482_person_45	Thomas Metsker	Q111908651	
+ttu_482_person_46	Hal Moore	Q430209	
+ttu_482_person_47	Hal Moore	Q430209	
+ttu_482_person_48	Charlie Company		
+ttu_482_person_49	Nicholas		
+ttu_482_person_50	Nicholas		
+ttu_482_person_51	Nicholas		
+ttu_482_person_52	William Westmoreland	Q298793	
+ttu_482_person_53	Robert McNamara	Q191999	
+ttu_482_person_54	Robert McNamara	Q191999	
+ttu_482_person_55	"Capt. Louis R. ""Ray"" LeFebvre"	Q111908628	

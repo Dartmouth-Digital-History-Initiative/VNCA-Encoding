@@ -1,23 +1,23 @@
-id	orgName
-ttu_482_org_0	the Army Language School
-ttu_482_org_1	Americas
-ttu_482_org_2	Cav
-ttu_482_org_3	Civil Affairs and Psychological Operations
-ttu_482_org_4	Delta Company
-ttu_482_org_5	Army
-ttu_482_org_6	infantry
-ttu_482_org_7	 medical service corps
-ttu_482_org_8	Baylor University
-ttu_482_org_9	infantry
-ttu_482_org_10	infantry
-ttu_482_org_11	1st of the 7th
-ttu_482_org_12	Ia Drang
-ttu_482_org_13	Delta Company
-ttu_482_org_14	Delta Company
-ttu_482_org_15	General Moore
-ttu_482_org_16	Delta Company
-ttu_482_org_17	Delta Company
-ttu_482_org_18	Bravo
-ttu_482_org_19	Cav
-ttu_482_org_20	Cav
-ttu_482_org_21	1st battalion
+id	orgName	QID	ttu_id
+ttu_482_org_0	Defense Language Institute	Q1102209	
+ttu_482_org_1	United States Armed Forces	Q11211	
+ttu_482_org_2	1st Cavalry Division	Q2338	
+ttu_482_org_3	United States Army Civil Affairs and Psychological Operations Command (Airborne)	Q7889465	
+ttu_482_org_4	Company D, 229th Aviation Battalion	Q110954816	
+ttu_482_org_5	United States Army	Q9212	
+ttu_482_org_6	infantry		
+ttu_482_org_7	Army Medical Department	Q4794178	
+ttu_482_org_8	Baylor University	Q812573	
+ttu_482_org_9	infantry		
+ttu_482_org_10	infantry		
+ttu_482_org_11	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_482_org_12	Ia Drang		
+ttu_482_org_13	Company D, 229th Aviation Battalion	Q110954816	
+ttu_482_org_14	Company D, 229th Aviation Battalion	Q110954816	
+ttu_482_org_15	General Moore		
+ttu_482_org_16	Company D, 229th Aviation Battalion	Q110954816	
+ttu_482_org_17	Company D, 229th Aviation Battalion	Q110954816	
+ttu_482_org_18	Company B, 229th Aviation Battalion	Q110624755	
+ttu_482_org_19	1st Cavalry Division	Q2338	
+ttu_482_org_20	1st Cavalry Division	Q2338	
+ttu_482_org_21	1st Battalion, 7th Cavalry Regiment	Q110641589	

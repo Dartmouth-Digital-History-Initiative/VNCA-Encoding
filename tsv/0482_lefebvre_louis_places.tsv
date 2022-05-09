@@ -1,40 +1,40 @@
-id	placeName
-ttu_482_place_0	Washington, D.C
-ttu_482_place_1	Hilton Crystal City
-ttu_482_place_2	Vietnam
-ttu_482_place_3	Monterey, California
-ttu_482_place_4	Okinawa
-ttu_482_place_5	Vietnam
-ttu_482_place_6	Okinawa
-ttu_482_place_7	Vietnam
-ttu_482_place_8	US
-ttu_482_place_9	Vietnam
-ttu_482_place_10	Vietnam
-ttu_482_place_11	Hanoi
-ttu_482_place_12	X-Ray
-ttu_482_place_13	Albany
-ttu_482_place_14	Vietnam
-ttu_482_place_15	Happy Valley
-ttu_482_place_16	 An Khe
-ttu_482_place_17	Golf Course.
-ttu_482_place_18	Happy Valley
-ttu_482_place_19	Fort Benning
-ttu_482_place_20	Fort Benning
-ttu_482_place_21	Columbus, Georgia
-ttu_482_place_22	Fort Benning
-ttu_482_place_23	Vietnam
-ttu_482_place_24	Fort Benning
-ttu_482_place_25	Fort Benning
-ttu_482_place_26	X-Ray
-ttu_482_place_27	X-Ray
-ttu_482_place_28	Taboada
-ttu_482_place_29	Vietnam
-ttu_482_place_30	Vietnam
-ttu_482_place_31	Vietnam
-ttu_482_place_32	Athens, Georgia
-ttu_482_place_33	Foot Hood,
-ttu_482_place_34	Washington
-ttu_482_place_35	Vietnam
-ttu_482_place_36	Washington
-ttu_482_place_37	valley
-ttu_482_place_38	US
+id	placeName	QID	ttu_id	coordinate location
+ttu_482_place_0	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_482_place_1	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
+ttu_482_place_2	Vietnam	Q881		16,108
+ttu_482_place_3	Monterey	Q487315		36.60024,-121.89468
+ttu_482_place_4	Okinawa	Q328615		26.334166666667,127.80555555556
+ttu_482_place_5	Vietnam	Q881		16,108
+ttu_482_place_6	Okinawa	Q328615		26.334166666667,127.80555555556
+ttu_482_place_7	Vietnam	Q881		16,108
+ttu_482_place_8	United States of America	Q30		39.828175,-98.5795
+ttu_482_place_9	Vietnam	Q881		16,108
+ttu_482_place_10	Vietnam	Q881		16,108
+ttu_482_place_11	Hanoi	Q1858		21.0245,105.84117
+ttu_482_place_12	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_482_place_13	LZ Albany	Q110624853		13.59528,107.71528
+ttu_482_place_14	Vietnam	Q881		16,108
+ttu_482_place_15	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_482_place_16	An Khê	Q15179893		13.9530664,108.6569463
+ttu_482_place_17	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_482_place_18	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_482_place_19	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_482_place_20	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_482_place_21	Columbus	Q239870		32.492222222222,-84.940277777778
+ttu_482_place_22	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_482_place_23	Vietnam	Q881		16,108
+ttu_482_place_24	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_482_place_25	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_482_place_26	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_482_place_27	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_482_place_28	Taboada			
+ttu_482_place_29	Vietnam	Q881		16,108
+ttu_482_place_30	Vietnam	Q881		16,108
+ttu_482_place_31	Vietnam	Q881		16,108
+ttu_482_place_32	Athens	Q203263		33.955277777778,-83.383055555556
+ttu_482_place_33	Fort Hood	Q783854		31.1344744,-97.7797191
+ttu_482_place_34	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_482_place_35	Vietnam	Q881		16,108
+ttu_482_place_36	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_482_place_37	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_482_place_38	United States of America	Q30		39.828175,-98.5795
