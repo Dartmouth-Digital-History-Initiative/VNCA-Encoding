@@ -1,7 +1,7 @@
-id	name
-ttu_485_event_0	Ia Drang
-ttu_485_event_1	X-Ray
-ttu_485_event_2	X-Ray
-ttu_485_event_3	Albany
-ttu_485_event_4	Vietnam
-ttu_485_event_5	Albany Movement
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_485_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_485_event_1	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_485_event_2	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_485_event_3	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_485_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_485_event_5	Albany Movement	Q4572457		1961-11-10T19:00:00Z	1962-06-30T20:00:00Z	
