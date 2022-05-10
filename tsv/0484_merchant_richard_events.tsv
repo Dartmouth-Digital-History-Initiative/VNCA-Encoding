@@ -1,8 +1,8 @@
-id	name
-ttu_484_event_0	Ia Drang-Pleiku campaign
-ttu_484_event_1	X-Ray
-ttu_484_event_2	X-Ray
-ttu_484_event_3	X-Ray
-ttu_484_event_4	X-Ray
-ttu_484_event_5	World War I
-ttu_484_event_6	World War II
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_484_event_0	Pleiku Campaign	Q24189107		1965-10-23T00:00:00Z	1965-11-26T00:00:00Z	
+ttu_484_event_1	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_484_event_2	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_484_event_3	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_484_event_4	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_484_event_5	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+ttu_484_event_6	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
