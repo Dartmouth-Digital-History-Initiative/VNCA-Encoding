@@ -2,6 +2,8 @@ import csv
 import sys
 import xml.etree.ElementTree as ET
 from io import StringIO
+from pathlib import Path
+
 
 # Function which takes the tsv and xml files and 
 # Uses tsv data to add ttu_ids to the standoff markup 
@@ -45,7 +47,7 @@ def ttu_updates(tsv, xml, namespaces):
             id = ET.SubElement(person,'ns0:idno')
             id.text = proj_ids[ttuId]
             id.set('type', 'project')
-            #ET.indent(id)
+            ET.indent(id)
            
 # Takes an xml document formatted as a string and returns it's namespaces
 def get_namespaces(xml_string):
@@ -96,4 +98,8 @@ if __name__ == "__main__":
         text_file = open(output, "w")
         text_file.write(txt)
         text_file.close()
+        
+        p = Path(output)
+        p.rename(p.with_suffix('.xml'))
+        
 
