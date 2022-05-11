@@ -1,45 +1,45 @@
-id	placeName
-ttu_485_place_0	Crystal City Hilton
-ttu_485_place_1	Washington, D.C.
-ttu_485_place_2	Fort Benning
-ttu_485_place_3	Vietnam
-ttu_485_place_4	Fort Campbell
-ttu_485_place_5	Pleiku
-ttu_485_place_6	An Khe
-ttu_485_place_7	Highway 14
-ttu_485_place_8	An Khe
-ttu_485_place_9	Highway 1
-ttu_485_place_10	Bong Son
-ttu_485_place_11	Detroit
-ttu_485_place_12	Fort Benning
-ttu_485_place_13	Pleiku
-ttu_485_place_14	Valley
-ttu_485_place_15	An Khe
-ttu_485_place_16	An Khe
-ttu_485_place_17	Plei Me
-ttu_485_place_18	Plei Me
-ttu_485_place_19	Valley
-ttu_485_place_20	Ia Drang Valley
-ttu_485_place_21	France
-ttu_485_place_22	Fort Benning
-ttu_485_place_23	Vietnam
-ttu_485_place_24	Benning
-ttu_485_place_25	X-Ray
-ttu_485_place_26	Vietnam
-ttu_485_place_27	Fort Benning
-ttu_485_place_28	Fort Benning
-ttu_485_place_29	Columbus
-ttu_485_place_30	Albany, Georgia
-ttu_485_place_31	Dawson, Georgia
-ttu_485_place_32	Chicago
-ttu_485_place_33	Chu Pong Massif
-ttu_485_place_34	Vietnam
-ttu_485_place_35	Vietnam
-ttu_485_place_36	Fort Campbell
-ttu_485_place_37	Fort Campbell
-ttu_485_place_38	Pleiku
-ttu_485_place_39	United States
-ttu_485_place_40	Albany, Georgia
-ttu_485_place_41	Georgia
-ttu_485_place_42	South Carolina
-ttu_485_place_43	Vietnam
+id	placeName	QID	ttu_id	coordinate location
+ttu_485_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
+ttu_485_place_1	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_485_place_2	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_485_place_3	Vietnam	Q881		16,108
+ttu_485_place_4	Fort Campbell	Q1385040		36.65,-87.4667
+ttu_485_place_5	Pleiku	Q30599		13.971519,108.014673
+ttu_485_place_6	An Khê	Q15179893		13.9530664,108.6569463
+ttu_485_place_7	National Route 14	Q2027241		14.122645211216424,107.95017136839695
+ttu_485_place_8	An Khê	Q15179893		13.9530664,108.6569463
+ttu_485_place_9	National Route 1	Q1372266		15.098604,108.817229
+ttu_485_place_10	Bồng Sơn	Q2276503		14.43333333,109.01666667
+ttu_485_place_11	Detroit	Q12439		42.331666666667,-83.0475
+ttu_485_place_12	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_485_place_13	Pleiku	Q30599		13.971519,108.014673
+ttu_485_place_14	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_485_place_15	An Khê	Q15179893		13.9530664,108.6569463
+ttu_485_place_16	An Khê	Q15179893		13.9530664,108.6569463
+ttu_485_place_17	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_485_place_18	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_485_place_19	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_485_place_20	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_485_place_21	France	Q142		47,2
+ttu_485_place_22	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_485_place_23	Vietnam	Q881		16,108
+ttu_485_place_24	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_485_place_25	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_485_place_26	Vietnam	Q881		16,108
+ttu_485_place_27	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_485_place_28	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_485_place_29	Columbus	Q239870		32.492222222222,-84.940277777778
+ttu_485_place_30	Albany	Q285599		31.582222222222,-84.165555555556
+ttu_485_place_31	Dawson	Q1028058		31.7739,-84.4408
+ttu_485_place_32	Chicago	Q1297		41.85003,-87.65005
+ttu_485_place_33	Chu Pong Massif	Q65040315		13.57286132548346,107.66598001153218
+ttu_485_place_34	Vietnam	Q881		16,108
+ttu_485_place_35	Vietnam	Q881		16,108
+ttu_485_place_36	Fort Campbell	Q1385040		36.65,-87.4667
+ttu_485_place_37	Fort Campbell	Q1385040		36.65,-87.4667
+ttu_485_place_38	Pleiku	Q30599		13.971519,108.014673
+ttu_485_place_39	United States of America	Q30		39.828175,-98.5795
+ttu_485_place_40	Albany	Q285599		31.582222222222,-84.165555555556
+ttu_485_place_41	Georgia	Q1428		33,-83.5
+ttu_485_place_42	South Carolina	Q1456		34,-81
+ttu_485_place_43	Vietnam	Q881		16,108

@@ -1,47 +1,47 @@
-id	orgName
-ttu_484_org_0	1st Cav Division
-ttu_484_org_1	B Company
-ttu_484_org_2	B Company
-ttu_484_org_3	B Company
-ttu_484_org_4	A Company
-ttu_484_org_5	PAVN, People’s Army of North Vietnam
-ttu_484_org_6	C Company
-ttu_484_org_7	2nd of the 5th
-ttu_484_org_8	Air Force
-ttu_484_org_9	Air Force
-ttu_484_org_10	Air Force
-ttu_484_org_11	2nd of the 7th
-ttu_484_org_12	B Company
-ttu_484_org_13	Army
-ttu_484_org_14	1st Cav
-ttu_484_org_15	D Company
-ttu_484_org_16	1st Cav
-ttu_484_org_17	11th Air Assault
-ttu_484_org_18	B Company
-ttu_484_org_19	B Company
-ttu_484_org_20	B Company
-ttu_484_org_21	B Company
-ttu_484_org_22	C Company
-ttu_484_org_23	C Company
-ttu_484_org_24	C Company
-ttu_484_org_25	9th Infantry Division
-ttu_484_org_26	University of Colorado
-ttu_484_org_27	1st of the 7th
-ttu_484_org_28	1st Battalion 7th Cavalry
-ttu_484_org_29	Paramount
-ttu_484_org_30	1st of the 7th
-ttu_484_org_31	IBM
-ttu_484_org_32	1st Squad
-ttu_484_org_33	1st Squad
-ttu_484_org_34	B Company
-ttu_484_org_35	2nd Battalion, 23rd Infantry
-ttu_484_org_36	2nd Battalion, 23rd Infantry
-ttu_484_org_37	Army
-ttu_484_org_38	Army
-ttu_484_org_39	23rd Infantry
-ttu_484_org_40	1st Cav
-ttu_484_org_41	C Company’s
-ttu_484_org_42	7th Cavalry
-ttu_484_org_43	7th
-ttu_484_org_44	7th Cavalry Regiment
-ttu_484_org_45	7th Calvary
+id	orgName	QID	ttu_id
+ttu_484_org_0	1st Cavalry Division	Q2338	
+ttu_484_org_1	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_2	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_3	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_4	A Company, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_484_org_5	People's Army of Vietnam	Q3936506	
+ttu_484_org_6	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_484_org_7	2nd Battalion, 5th Cavalry Regiment	Q110641607	
+ttu_484_org_8	United States Air Force	Q11223	
+ttu_484_org_9	United States Air Force	Q11223	
+ttu_484_org_10	United States Air Force	Q11223	
+ttu_484_org_11	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_484_org_12	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_13	United States Army	Q9212	
+ttu_484_org_14	1st Cavalry Division	Q2338	
+ttu_484_org_15	Company D, 1st Battalion, 7th Cavalry Regiment	Q110745368	
+ttu_484_org_16	1st Cavalry Division	Q2338	
+ttu_484_org_17	11th Airborne Division	Q169980	
+ttu_484_org_18	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_19	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_20	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_21	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_22	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_484_org_23	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_484_org_24	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_484_org_25	9th Infantry Division	Q2715566	
+ttu_484_org_26	University of Colorado	Q1206658	
+ttu_484_org_27	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_484_org_28	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_484_org_29	Paramount Pictures	Q159846	
+ttu_484_org_30	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_484_org_31	IBM	Q37156	
+ttu_484_org_32	1st Squad		
+ttu_484_org_33	1st Squad		
+ttu_484_org_34	Company B, 1st Battalion, 7th Cavalry Regiment	Q110874665	
+ttu_484_org_35	2nd Battalion, 23rd Infantry Regiment	Q110707169	
+ttu_484_org_36	2nd Battalion, 23rd Infantry Regiment	Q110707169	
+ttu_484_org_37	United States Army	Q9212	
+ttu_484_org_38	United States Army	Q9212	
+ttu_484_org_39	23rd Infantry Regiment	Q4631646	
+ttu_484_org_40	1st Cavalry Division	Q2338	
+ttu_484_org_41	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_484_org_42	7th Cavalry Regiment	Q269574	
+ttu_484_org_43	7th Cavalry Regiment	Q269574	
+ttu_484_org_44	7th Cavalry Regiment	Q269574	
+ttu_484_org_45	7th Cavalry Regiment	Q269574	

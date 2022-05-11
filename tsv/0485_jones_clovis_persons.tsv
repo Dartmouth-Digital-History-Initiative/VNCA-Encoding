@@ -1,44 +1,44 @@
-id	persName
-ttu_485_person_0	Dr. Richard Verrone
-ttu_485_person_1	Major Clovis Jones
-ttu_485_person_2	Major Jones
-ttu_485_person_3	Major Jones
-ttu_485_person_4	Sergeant Major Herbert P. McCullough
-ttu_485_person_5	Sergeant Major McCullough
-ttu_485_person_6	Jones
-ttu_485_person_7	Joe Galloway
-ttu_485_person_8	General Moore
-ttu_485_person_9	Jones
-ttu_485_person_10	Colonel Danielson
-ttu_485_person_11	Ted Danielson
-ttu_485_person_12	Mr. Harrison
-ttu_485_person_13	General Custard
-ttu_485_person_14	Hal Moore
-ttu_485_person_15	Custard
-ttu_485_person_16	Hal Moore
-ttu_485_person_17	General Moore
-ttu_485_person_18	Mr. Galloway
-ttu_485_person_19	John Del Vecchio
-ttu_485_person_20	A.A. Brill
-ttu_485_person_21	James Hutchinson
-ttu_485_person_22	Sam Bess
-ttu_485_person_23	Sam
-ttu_485_person_24	Galloway
-ttu_485_person_25	Moore
-ttu_485_person_26	Roger Bean
-ttu_485_person_27	Colonel Mortel
-ttu_485_person_28	Sergeant Major McCullough
-ttu_485_person_29	Colonel Mortel
-ttu_485_person_30	Joe
-ttu_485_person_31	Joe
-ttu_485_person_32	Earl Waters
-ttu_485_person_33	Villagomez
-ttu_485_person_34	Perry Tillman
-ttu_485_person_35	Harry Truman
-ttu_485_person_36	Colin Powell
-ttu_485_person_37	Dr. King
-ttu_485_person_38	Richard Harris
-ttu_485_person_39	Richard
-ttu_485_person_40	Ted Danielson
-ttu_485_person_41	General Moore
-ttu_485_person_42	Major Jones
+id	persName	QID	ttu_id
+ttu_485_person_0	Richard Verrone	Q111653126	
+ttu_485_person_1	Major Clovis Jones	Q111846312	
+ttu_485_person_2	Major Clovis Jones	Q111846312	
+ttu_485_person_3	Major Clovis Jones	Q111846312	
+ttu_485_person_4	Sergeant Major Herbert P. McCullough		ttu_0168
+ttu_485_person_5	Sergeant Major McCullough		ttu_0168
+ttu_485_person_6	Major Clovis Jones	Q111846312	
+ttu_485_person_7	Joseph L. Galloway	Q3185182	
+ttu_485_person_8	Hal Moore	Q430209	
+ttu_485_person_9	Major Clovis Jones	Q111846312	
+ttu_485_person_10	Theodore Danielsen	Q111678017	
+ttu_485_person_11	Theodore Danielsen	Q111678017	
+ttu_485_person_12	Mr. Harrison		ttu_0164
+ttu_485_person_13	George Armstrong Custer	Q188205	
+ttu_485_person_14	Hal Moore	Q430209	
+ttu_485_person_15	George Armstrong Custer	Q188205	
+ttu_485_person_16	Hal Moore	Q430209	
+ttu_485_person_17	Hal Moore	Q430209	
+ttu_485_person_18	Joseph L. Galloway	Q3185182	
+ttu_485_person_19	John M. Del Vecchio	Q106171188	
+ttu_485_person_20	Abraham Brill	Q78992	
+ttu_485_person_21	James Hutchinson		ttu_0169
+ttu_485_person_22	Sergeant Sam Bess	Q111846097	
+ttu_485_person_23	Sergeant Sam Bess	Q111846097	
+ttu_485_person_24	Joseph L. Galloway	Q3185182	
+ttu_485_person_25	Hal Moore	Q430209	
+ttu_485_person_26	Roger K. Bean	Q110647803	
+ttu_485_person_27	Hal Moore	Q430209	
+ttu_485_person_28	Sergeant Major McCullough		ttu_0168
+ttu_485_person_29	Hal Moore	Q430209	
+ttu_485_person_30	Joseph L. Galloway	Q3185182	
+ttu_485_person_31	Joseph L. Galloway	Q3185182	
+ttu_485_person_32	Earl Watters	Q111846194	
+ttu_485_person_33	Villagomez		ttu_0170
+ttu_485_person_34	Perry Tillman		ttu_0171
+ttu_485_person_35	Harry S Truman	Q11613	
+ttu_485_person_36	Colin Powell	Q150851	
+ttu_485_person_37	Martin Luther King Jr.	Q8027	
+ttu_485_person_38	Richard Harris		ttu_0165
+ttu_485_person_39	Richard		ttu_0165
+ttu_485_person_40	Theodore Danielsen	Q111678017	
+ttu_485_person_41	Hal Moore	Q430209	
+ttu_485_person_42	Major Clovis Jones	Q111846312	
