@@ -48,7 +48,7 @@ def ttu_updates(tsv, xml, namespaces):
             id = ET.SubElement(person,'ns0:idno')
             id.text = proj_ids[ttuId]
             id.set('type', 'project')
-            ET.indent(id)
+            #ET.indent(id)
            
 # Takes an xml document formatted as a string and returns it's namespaces
 def get_namespaces(xml_string):
