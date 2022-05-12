@@ -10,15 +10,15 @@
           <orgName>Sam Johnson Vietnam Center and Archive</orgName>
         </authority>
         <date>
-          <!--  Date of publication, e.g. for citation purposes  -->
+          
         </date>
         <idno type="DDHI">ttu_457</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
           <recording xml:id="primary_recording" type="video" dur-iso="00:46:09">
-            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0457/OH0457.mp4" mimeType="video/mp4"/>
+            
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0457/OH0457.mp4" mimeType="video/mp4" />
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
@@ -46,14 +46,14 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="MILAM"/>
-        <person xml:id="WHITESCABER"/>
-        <person xml:id="KOMICH"/>
+        <person xml:id="MILAM" />
+        <person xml:id="WHITESCABER" />
+        <person xml:id="KOMICH" />
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso="2005-11-10"/>
-          <locale/>
+          <date when-iso="2005-11-10" />
+          <locale />
         </setting>
       </settingDesc>
     </profileDesc>
@@ -1024,7 +1024,7 @@
     <listPerson>
       <person xml:id="ttu_457_person_0">
         <persName>Jay Weston David Whitescaber</persName>
-      </person>
+      <idno type="project">ttu_0015</idno></person>
       <person xml:id="ttu_457_person_1">
         <persName>Ron Milam</persName>
         <idno type="WD">Q110624764</idno>
@@ -1063,7 +1063,7 @@
       </person>
       <person xml:id="ttu_457_person_10">
         <persName>Chuck May</persName>
-      </person>
+      <idno type="project">ttu_0017</idno></person>
       <person xml:id="ttu_457_person_11">
         <persName>Hal Moore</persName>
         <idno type="WD">Q430209</idno>
@@ -1130,7 +1130,7 @@
       </person>
       <person xml:id="ttu_457_person_27">
         <persName>Major Brandt</persName>
-      </person>
+      <idno type="project">ttu_0021</idno></person>
       <person xml:id="ttu_457_person_28">
         <persName>Dallas Harper</persName>
         <idno type="WD">Q111653174</idno>
