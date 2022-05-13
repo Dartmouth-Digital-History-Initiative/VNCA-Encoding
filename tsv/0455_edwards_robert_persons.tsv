@@ -1,5 +1,5 @@
 id	persName	QID	ttu_id
-ttu_455_person_0	Dr. Richard Verrone		ttu_0040
+ttu_455_person_0	Dr. Richard Verrone	Q111653126	
 ttu_455_person_1	Robert H. Bob Edwards	Q111077430	
 ttu_455_person_2	Bob	Q111077430	
 ttu_455_person_3	Bob	Q111077430	
@@ -7,7 +7,7 @@ ttu_455_person_4	Colonel Edwards	Q111077430
 ttu_455_person_5	Bob	Q111077430	
 ttu_455_person_6	General Moore	Q430209	
 ttu_455_person_7	Kelly Hill		
-ttu_455_person_8	Lieutenant Colonel—for the life of me I can’t remember of his first name, Conger		ttu_0041
+ttu_455_person_8	Lieutenant Colonel Conger	Q111724958	
 ttu_455_person_9	Lieutenant Colonel Moore	 Q430209	
 ttu_455_person_10	Moore	Q430209	
 ttu_455_person_11	Moore	Q430209	
@@ -16,103 +16,103 @@ ttu_455_person_13	Colonel Moore	Q430209
 ttu_455_person_14	Colonel Moore	Q430209	
 ttu_455_person_15	Colonel Moore	Q430209	
 ttu_455_person_16	Captain Little Schooling		
-ttu_455_person_17	Mac McCall		ttu_0042
+ttu_455_person_17	Mac McCall	Q111443591	
 ttu_455_person_18	Moore	Q430209	
-ttu_455_person_19	Ray Lefebvre		ttu_0046
+ttu_455_person_19	Ray Lefebvre	Q111908628	
 ttu_455_person_20	Colonel Moore	Q430209	
 ttu_455_person_21	Colonel Moore	Q430209	
-ttu_455_person_22	Jack Geoghegan		ttu_0043
-ttu_455_person_23	Bill Franklin		ttu_0038
-ttu_455_person_24	Neil Kroger		ttu_0049
-ttu_455_person_25	Jack Geoghegan		ttu_0043
-ttu_455_person_26	Jack		ttu_0043
-ttu_455_person_27	Jack Geoghegan		ttu_0043
-ttu_455_person_28	Neil Kroger		ttu_0049
-ttu_455_person_29	Bill Franklin		ttu_0038
-ttu_455_person_30	Jack		ttu_0043
-ttu_455_person_31	Kroger		ttu_0049
-ttu_455_person_32	Bill Franklin		ttu_0038
+ttu_455_person_22	Jack Geoghegan	Q6235071	
+ttu_455_person_23	Bill Franklin	Q111669228	
+ttu_455_person_24	Neil Kroger	Q111653506	
+ttu_455_person_25	Jack Geoghegan	Q6235071	
+ttu_455_person_26	Jack	Q6235071	
+ttu_455_person_27	Jack Geoghegan	Q6235071	
+ttu_455_person_28	Neil Kroger	Q111653506	
+ttu_455_person_29	Bill Franklin	Q111669228	
+ttu_455_person_30	Jack	Q6235071	
+ttu_455_person_31	Kroger	Q111653506	
+ttu_455_person_32	Bill Franklin	Q111669228	
 ttu_455_person_33	General Moore	Q430209	
 ttu_455_person_34	General Moore	Q430209	
 ttu_455_person_35	Colonel Moore	Q430209	
-ttu_455_person_36	Matt Dillon		ttu_0050
+ttu_455_person_36	Matt Dillon	Q111442679	
 ttu_455_person_37	Jolly Rodger		
-ttu_455_person_38	Sergeant Major Plumley		ttu_0039
-ttu_455_person_39	Major		
-ttu_455_person_40	Plumley		ttu_0039
+ttu_455_person_38	Sergeant Major Plumley	Q2535583	
+ttu_455_person_39	the Sergeant Major	Q2535583	
+ttu_455_person_40	Plumley	Q2535583	
 ttu_455_person_41	Colonel Moore	Q430209	
-ttu_455_person_42	Sergeant Matos		ttu_0048
+ttu_455_person_42	Sergeant Matos		
 ttu_455_person_43	Moore	Q430209	
-ttu_455_person_44	Bob		ttu_0037
-ttu_455_person_45	John		ttu_0045
-ttu_455_person_46	Tony		ttu_0047
-ttu_455_person_47	Henry Herrick		ttu_0044
-ttu_455_person_48	Herrick		ttu_0044
-ttu_455_person_49	John Herren		ttu_0045
+ttu_455_person_44	Bob	Q111077430	
+ttu_455_person_45	John	Q111678638	
+ttu_455_person_46	Tony	Q111442803	
+ttu_455_person_47	Henry Herrick	Q111443617	
+ttu_455_person_48	Herrick	Q111443617	
+ttu_455_person_49	John Herren	Q111678638	
 ttu_455_person_50	Colonel Moore	 Q430209	
-ttu_455_person_51	Herrick		ttu_0044
+ttu_455_person_51	Herrick	Q111443617	
 ttu_455_person_52	Joseph L. Galloway	Q3185182	
-ttu_455_person_53	Moore		ttu_0036
+ttu_455_person_53	Moore	Q430209	
 ttu_455_person_54	Joseph L. Galloway	Q3185182	
 ttu_455_person_55	Joe	Q3185182	
 ttu_455_person_56	Colonel Moore	 Q430209	
 ttu_455_person_57	Colonel Moore	 Q430209	
 ttu_455_person_58	Joe	Q3185182	
 ttu_455_person_59	Joe	Q3185182	
-ttu_455_person_60	Matt Dillon		ttu_0050
-ttu_455_person_61	Tony Nadal		ttu_0058
-ttu_455_person_62	Franklin		ttu_0043
-ttu_455_person_63	Kroger		ttu_0049
-ttu_455_person_64	Geoghegan		ttu_0043
+ttu_455_person_60	Matt Dillon	Q111442679	
+ttu_455_person_61	Tony Nadal	Q111442803	
+ttu_455_person_62	Franklin	Q111669228	
+ttu_455_person_63	Kroger	Q111653506	
+ttu_455_person_64	Geoghegan	Q6235071	
 ttu_455_person_65	Hal Moore	 Q430209	
 ttu_455_person_66	Colonel Moore	 Q430209	
-ttu_455_person_67	Jim Lane		ttu_0059
-ttu_455_person_68	Bill Franklin		ttu_0038
-ttu_455_person_69	Neil		ttu_0049
-ttu_455_person_70	Jack		ttu_0043
-ttu_455_person_71	Sergeant Hofstetter		ttu_0058
+ttu_455_person_67	Jim Lane	Q111653576	
+ttu_455_person_68	Bill Franklin	Q111669228	
+ttu_455_person_69	Neil	Q111653506	
+ttu_455_person_70	Jack	Q6235071	
+ttu_455_person_71	Sergeant Hostuttler	Q111988556	
 ttu_455_person_72	Colonel Moore	 Q430209	
-ttu_455_person_73	Matt Dillon		ttu_0050
-ttu_455_person_74	Ernie Polone		ttu_0035
-ttu_455_person_75	Castleberry		ttu_0062
-ttu_455_person_76	Buster Brown		ttu_0063
-ttu_455_person_77	Joe Marm		ttu_0056
-ttu_455_person_78	Crandall		ttu_0061
-ttu_455_person_79	Bill Franklin		ttu_0038
-ttu_455_person_80	Bruce Crandall		ttu_0061
-ttu_455_person_81	Ed Freeman		ttu_0064
-ttu_455_person_82	Franklin		ttu_0038
+ttu_455_person_73	Matt Dillon	Q111442679	
+ttu_455_person_74	Ernie Polone	Q111653497	
+ttu_455_person_75	Castleberry	Q111669469	
+ttu_455_person_76	Buster Brown	Q111804954	
+ttu_455_person_77	Joe Marm	Q7965296	
+ttu_455_person_78	Crandall	Q3431327	
+ttu_455_person_79	Bill Franklin	Q111669228	
+ttu_455_person_80	Bruce Crandall	Q3431327	
+ttu_455_person_81	Ed Freeman	Q5334823	
+ttu_455_person_82	Franklin	Q111669228	
 ttu_455_person_83	Colonel Moore	 Q430209	
-ttu_455_person_84	Jack		ttu_0043
-ttu_455_person_85	Neil		ttu_0049
+ttu_455_person_84	Jack	Q6235071	
+ttu_455_person_85	Neil	Q111653506	
 ttu_455_person_86	Joe	Q3185182	
 ttu_455_person_87	Colonel Moore	 Q430209	
-ttu_455_person_88	Ray Lefebvre		ttu_0046
-ttu_455_person_89	Ray		ttu_0046
-ttu_455_person_90	Ray		ttu_0046
-ttu_455_person_91	Ray		ttu_0046
-ttu_455_person_92	Had Ray		ttu_0046
+ttu_455_person_88	Ray Lefebvre	Q111908628	
+ttu_455_person_89	Ray	Q111908628	
+ttu_455_person_90	Ray	Q111908628	
+ttu_455_person_91	Ray	Q111908628	
+ttu_455_person_92	Ray	Q111908628	
 ttu_455_person_93	Julie		ttu_0065
-ttu_455_person_94	Hal		ttu_0036
-ttu_455_person_95	Ray		ttu_0046
+ttu_455_person_94	Hal	 Q430209	
+ttu_455_person_95	Ray	Q111908628	
 ttu_455_person_96	Joe	Q3185182	
 ttu_455_person_97	General Moore	 Q430209	
 ttu_455_person_98	John Smith		
-ttu_455_person_99	Randall Wallace		ttu_0053
-ttu_455_person_100	Wallace		ttu_0053
-ttu_455_person_101	Gibson		ttu_0577
+ttu_455_person_99	Randall Wallace	Q1339625	
+ttu_455_person_100	Wallace	Q1339625	
+ttu_455_person_101	Gibson	Q42229	
 ttu_455_person_102	Barry Pepper	Q315604	
-ttu_455_person_103	Randall Wallace		ttu_0037
-ttu_455_person_104	Platoon Sergeant Jameson		ttu_0054
-ttu_455_person_105	Ernie Polone		ttu_0035
-ttu_455_person_106	Barbara Geoghegan		ttu_0053
+ttu_455_person_103	Randall Wallace	Q1339625	
+ttu_455_person_104	Platoon Sergeant Jemison	Q111988670	
+ttu_455_person_105	Ernie Polone	Q111653497	
+ttu_455_person_106	Barbara Geoghegan	Q111653150	
 ttu_455_person_107	Claudia Polone		ttu_0052
-ttu_455_person_108	Neil Kroger		ttu_0049
+ttu_455_person_108	Neil Kroger	Q111653506	
 ttu_455_person_109	Jeff		ttu_0066
-ttu_455_person_110	Kroger		ttu_0049
-ttu_455_person_111	Barbara Geoghegan		ttu_0053
-ttu_455_person_112	Barbara		ttu_0053
-ttu_455_person_113	Jack		ttu_0043
-ttu_455_person_114	Jack		ttu_0043
-ttu_455_person_115	Neil Kroger		ttu_0049
+ttu_455_person_110	Kroger	Q111653506	
+ttu_455_person_111	Barbara Geoghegan	Q111653150	
+ttu_455_person_112	Barbara	Q111653150	
+ttu_455_person_113	Jack	Q6235071	
+ttu_455_person_114	Jack	Q6235071	
+ttu_455_person_115	Neil Kroger	Q111653506	
 ttu_455_person_116	Bob	Q111077430	
