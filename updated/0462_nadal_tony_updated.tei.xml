@@ -1,0 +1,1380 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_462">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Ramon Antonio Nadal</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">ttu_462</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="video" dur-iso="01:00:58">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0462/OH0462.mp4" mimeType="video/mp4"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0462/OH0462.pdf</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="NADAL"/>
+        <person xml:id="MILAM"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2005-11-10"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="MILAM"><orgName ref="#ttu_462_org_0">Texas Tech University</orgName> and <orgName ref="#ttu_462_org_1">the Vietnam Center</orgName>. Today I am interviewing <persName ref="#ttu_462_person_0">Tony Nadal</persName>. <persName ref="#ttu_462_person_1">Tony</persName>, I would like to start with you just kind of identifying for us what your responsibilities were, your MOS (Military Occupational Specialty Code),<date when="1965-11-14"> November 14th, 1965</date>.</u>
+      <u who="NADAL"> I was the captain commander of <orgName ref="#ttu_462_org_3">Company A, 1st Battalion 7th Cavalry</orgName>.</u>
+      <u who="MILAM">Knowing that’s what you’re going to be doing, leading a company into the <placeName ref="#ttu_462_place_0">Ia Drang Valley</placeName> on <date when="1965-11-14">November 14th</date>, let’s back up a little bit. Let’s go back to when you first joined the <orgName ref="#ttu_462_org_103">1st Air Cav</orgName>. What <date>month</date> and year did you join?</u>
+      <u who="NADAL">I joined in <date when="1965-08">August of ’65</date>. I had been in graduate school in <placeName ref="#ttu_462_place_1">Oklahoma</placeName> studying—wait a minute, let me back up, that was wrong. I had just finished the armor career course. I’m an infantry officer but I had been sent to the armor career course. I had gone to finish that course, had gone to <placeName ref="#ttu_462_place_2">Fort Benning</placeName> for pathfinder school and then was home for thirty day leave in <placeName ref="#ttu_462_place_3">Oklahoma</placeName>, on orders to <placeName ref="#ttu_462_place_4">Korea</placeName>, to command a rifle company in <placeName ref="#ttu_462_place_5">Korea</placeName>. I had been to <placeName ref="#ttu_462_place_6">Vietnam</placeName>, prior to the career course as a special forces and  attachment commander and was very interested in going back to <placeName ref="#ttu_462_place_7">Vietnam</placeName>, and if there was a war going on, I’d rather command my company during the wartime than in <placeName ref="#ttu_462_place_8">Korea</placeName>. After many calls to <placeName ref="#ttu_462_place_9">Fort Benning</placeName>—I mean, after many calls to the personnel office of the army, to try to get my assignment change, one day I got an unexpected phone call, about four in the morning and said, “Report to <placeName ref="#ttu_462_place_10">Fort Benning</placeName> in three days.” The reason was <persName ref="#ttu_462_person_2">President Johnson</persName> had decided to send <orgName ref="#ttu_462_org_4">the 1st Cav</orgName> to <placeName ref="#ttu_462_place_11">Vietnam</placeName> and they were in the process of building up the unit. So here they had a guy that wanted to go and on orders to somewhere else and they changed my orders and sent me to the <orgName ref="#ttu_462_org_5">1st Cav</orgName>. When I reported to <placeName ref="#ttu_462_place_12">Fort Benning</placeName>, within that probate two-week period, there was something like, two-three-four thousand officers reporting in at the same time, to fill the division to the full company of officers.</u>
+      <u who="MILAM">So you volunteered in the strictest sense of the words for this particular, or for <placeName ref="#ttu_462_place_13">Vietnam</placeName> for a troop command.</u>
+      <u who="NADAL">That’s true.</u>
+      <u who="MILAM">You were in 18th? <orgName ref="#ttu_462_org_7">Special forces</orgName>, what year?</u>
+      <u who="NADAL"><date when="1963">’63</date>, <date when="1964">’64</date>.</u>
+      <u who="MILAM">So you were there during the advisory effort, you saw the changeover to a <placeName ref="#ttu_462_place_14">US</placeName> ground troop operation. In between, you were in graduate school?</u>
+      <u who="NADAL">No, I was the armored officer career course. I went to grad school after I came back from this assignment from the <orgName ref="#ttu_462_org_8">cav</orgName>.</u>
+      <u who="MILAM">You were <orgName ref="#ttu_462_org_9">class of ‘58?</orgName></u>
+      <u who="NADAL"><orgName ref="#ttu_462_org_10">Class of ’58</orgName>, <orgName ref="#ttu_462_org_11">West Point</orgName>.</u>
+      <u who="MILAM">Now, so the <orgName ref="#ttu_462_org_12">1st Air Cav</orgName> had been formed up for about eighteen months before that. Had been undergoing training as an air cav unit, you didn’t participate in that training at <placeName ref="#ttu_462_place_15">Benning</placeName>. You just got on the boat with them?</u>
+      <u who="NADAL">That’s correct.</u>
+      <u who="MILAM">When did you get your assignment as CO (Commanding Officer) of <orgName ref="#ttu_462_org_13">Alpha Company</orgName>?</u>
+      <u who="NADAL">That’s an interesting story. When I reported into <placeName ref="#ttu_462_place_16">Fort Benning</placeName>, they had a gymnasium. They had this big desk set up and the G1 section was assigning officers. You know, they had a chart and said, “Okay, you go there, you go here.” And putting names in. I said, “Well, I want to command a rifle company.” They said, “Well, we don’t have one right now, we’re going to make you the signal officer of the <orgName ref="#ttu_462_org_14">first brigade</orgName>.” I said, “I really don’t want to be a signal officer. You can do a lot of things with it, but not a signal officer.” So I went—they said, “Report to the 1st brigade in a couple of days.” Or something. Basically, I went AWOL and went looking for a job. I had a friend who was in the <orgName ref="#ttu_462_org_15">1st of 7th Cav</orgName>, <persName ref="#ttu_462_person_3">John Herren</persName>, who commanded <orgName ref="#ttu_462_org_16">B Company</orgName>. So I went down there and went to see the brigade commander of the <orgName ref="#ttu_462_org_17">third brigade</orgName>. I said, “I want to command a rifle company. I’ve been to <placeName ref="#ttu_462_place_17">Vietnam</placeName>, I have experience in combat, I’ve led patrols and that sort-of thing, I’ve done all sorts of things. Ambushes, counter-ambushes, etc. So I like to command a rifle company.” The brigade commander was named <persName ref="#ttu_462_person_4">Tim Brown</persName>. He said, “Well, this is very unusual to someone to knock on my door looking for a job. What did the G1 section say?” I said, “I don’t know, I’m here sir, they sent me off to the <orgName ref="#ttu_462_org_19">1st brigade</orgName>.” He said, “Why don’t pyou go see <persName ref="#ttu_462_person_5">Hal Moore</persName>?” So, I went down to see <persName ref="#ttu_462_person_6">Colonel Moore</persName>. The same conversion, “Why are you here? What about the G1 section?” I said, “Well, I don’t want to go become a signal officer.” He says, “Let me call <persName ref="#ttu_462_person_7">Colonel Brown</persName>.” So he calls <persName ref="#ttu_462_person_8">Colonel Brown</persName>, <persName ref="#ttu_462_person_9">Colonel Brown</persName> called the G1 and they said, “Oh, that’s where he is.” And they said, “Okay, you can have him.” Initially, I was the S2 of the battalion.</u>
+      <u who="MILAM">So <persName ref="#ttu_462_person_10">Colonel Moore</persName> at the time brought you in as the S2, the intelligence officer of the <orgName ref="#ttu_462_org_22">1st of the 7th</orgName>?</u>
+      <u who="NADAL">Right. I did that for a couple of months and—</u>
+      <u who="MILAM">So you did that fora couple of months, meaning you did that when you first went to <placeName ref="#ttu_462_place_18">Vietnam</placeName>?</u>
+      <u who="NADAL">Right. Then there was <orgName ref="#ttu_462_org_23">A Company</orgName> that was commanded by a first lieutenant. Then there was an instant where- and I have been battering <persName ref="#ttu_462_person_11">Colonel Moore</persName> about it, “Sir, I really want a company.” He said, “You’ll get your chance, you’ll get your chance.” There was an instance where a company lost a solider through drowning. <orgName ref="#ttu_462_org_24">A Company</orgName> did. <persName ref="#ttu_462_person_12">Colonel Moore</persName>, I think made the decision. I was a senior, but I was also a lot more experienced at the time than that young lieutenant. So he gave me command of <orgName ref="#ttu_462_org_25">A Company</orgName>.</u>
+      <u who="MILAM">In your battalion, in the <orgName ref="#ttu_462_org_26">1st of the 7th</orgName>, were you the only <placeName ref="#ttu_462_place_19">Vietnam</placeName> combat experienced company commander?</u>
+      <u who="NADAL">Yes. Company commander.</u>
+      <u who="MILAM">There wouldn’t be any platoon leaders that were?</u>
+      <u who="NADAL">No.</u>
+      <u who="MILAM">We had <persName ref="#ttu_462_person_13">Plumley</persName> and <persName ref="#ttu_462_person_14">Moore</persName> that were <name type="event" ref="#ttu_462_event_1">World War II</name> and <name type="event" ref="#ttu_462_event_2">Korea</name> experienced but they—</u>
+      <u who="NADAL">Let me back up and say that <persName ref="#ttu_462_person_15">Ray Lefebvre</persName>, who commanded <orgName ref="#ttu_462_org_27">D Company</orgName>, had been an advisor. But I don’t remember if he joined us before we went to <placeName ref="#ttu_462_place_20">Vietnam</placeName> or after we got there. Once we got to <placeName ref="#ttu_462_place_21">Vietnam</placeName>, there was an infusion program where they took some officers out of the cav and brought in officers who’d been advisors. I don’t know whether <persName ref="#ttu_462_person_16">Ray</persName> came in that group or he went with us.</u>
+      <u who="MILAM">I see. </u>
+      <u who="NADAL">I’d like to correct something early and this is a point I want to make. My tour with the <orgName ref="#ttu_462_org_28">special forces</orgName> was not what you would call the advisory tour. I command the camp up in the northeast—northwest section of <placeName ref="#ttu_462_place_22">South Vietnam</placeName>, just south of <placeName ref="#ttu_462_place_23">A Sầu Valley</placeName>. There was very little advising done. There was a Vietnamese counterpart, but he didn’t do anything. Basically, I was a camp commander, I ran it. I lead the patrols, I paid the soldiers, I organized the camp defenses, I did everything up there.</u>
+      <u who="MILAM">Were they Vietnamese or Montagnard’s?</u>
+      <u who="NADAL">They were Vietnamese soldiers in the main part and there was Vietnamese advisors, the Vietnamese special forces team were all Vietnamese. In the camp, we had a platoon of Chinese that were called NUS and that’s a very interesting story by the way but doesn’t fit in with this.</u>
+      <u who="MILAM">But you had experienced combat in a jungle environment, so your advisory role was what you were listed as, America’s role at that time was an advisory effort.</u>
+      <u who="NADAL">Yeah, true.</u>
+      <u who="MILAM">Okay so, let’s talk about this. You went over as the S2. The battalion S2.</u>
+      <u who="NADAL">Right.</u>
+      <u who="MILAM">And you get into country and you set up your base at <placeName ref="#ttu_462_place_24">An Khe</placeName>. Tell me a little bit about that S2 role because that’s a little bit interesting to me that you preceded your command with that. For example, what was the intelligence?</u>
+      <u who="NADAL">Well, see that—having been a special forces commander and running that camp, I had been intimately involved in trying to set up intelligence networks. There was a village right below my camp. Part of mission, way up near the ocean border and miles from any support of anyone, was defending this little village. So I was involved much more actively than a typical battalion officer is in developing intelligence. When I became S2 of the battalion, I started to look around <placeName ref="#ttu_462_place_25">An Khe</placeName> and I contacted the <orgName ref="#ttu_462_org_29">special forces</orgName> people, there was a <orgName ref="#ttu_462_org_30">special forces</orgName> camp by <placeName ref="#ttu_462_place_26">An Khe</placeName>. I said, “Okay, now how am I going, what’s my network going to be?” Well, the army I think the G2 division people were all surprised you know, “What the hell is this captain doing trying to set up intelligence?” As a battalion S2, my job was to, in their view, receive intelligence from higher and then develop intelligence, pretty much battlefield intelligence. You get into a fight, you capture people, but the issue of locating units and trying to find what the enemy is up to and so worth, that was viewed outside my purview. <persName ref="#ttu_462_person_17">Hal Moore</persName> thought I was—I think he liked what I was trying to do. But he thought it was somewhat unusual.</u>
+      <u who="MILAM">How about you’re counterparts in S2s of the other battalions and the brigade? Were they fine with it?</u>
+      <u who="NADAL">They were very much doing the traditional thing.</u>
+      <u who="MILAM">Okay. So you’re kind of doing your own thing if you will, trying to, based on your <orgName ref="#ttu_462_org_31">special forces’</orgName> experience and why not because everyone else is new in-country too. All these <orgName ref="#ttu_462_org_32">American</orgName> units are enlisted to come in, their S2 are brand new at this too. You’re trying to put together an intelligence network. Did you know anything about the <orgName ref="#ttu_462_org_33">PAVN</orgName> (People’s Army of Vietnam) movement into the valley?</u>
+      <u who="NADAL">No. That was long ways away from <placeName ref="#ttu_462_place_27">An Khe</placeName>. We had no idea that was going on.</u>
+      <u who="MILAM">Way west of you?</u>
+      <u who="NADAL">Yeah. Our first awareness of anything happening out in the <placeName ref="#ttu_462_place_28">Pleiku-Ia Drang</placeName> area was when we started hearing about this special forces camp at <placeName ref="#ttu_462_place_29">Plei Me</placeName>, <persName ref="#ttu_462_person_18">Charlie Beckwith</persName>’s camp.</u>
+      <u who="MILAM">When did you get command of the <orgName ref="#ttu_462_org_34">Alpha Company</orgName>?</u>
+      <u who="NADAL">August.</u>
+      <u who="MILAM">You got command in August?</u>
+      <u who="NADAL">Yeah, I forget the exact date.</u>
+      <u who="MILAM">So it was a little bit later in August then, because you got there—</u>
+      <u who="NADAL">Oh, excuse me, no. We got there in August. I probably got command the end of September. Something like that.</u>
+      <u who="MILAM">September. So you had about six weeks with your <orgName ref="#ttu_462_org_35">Alpha Company</orgName> before you went into <name type="event" ref="#ttu_462_event_3">X-Ray</name>.</u>
+      <u who="NADAL">The first combat operation I lead was called “<name type="event" ref="#ttu_462_event_4">Silver Bayonet</name>”. It was really the first major combat operation the battalion was involved in. It was a big air assault down to a valley between <placeName ref="#ttu_462_place_30">An Khe</placeName> and <placeName ref="#ttu_462_place_31">Qui Nhon</placeName>, down the flats. We went there because it was really kind of a warmup operation.</u>
+      <u who="MILAM">You didn’t at that time know what was coming. At the time that you went into “<name type="event" ref="#ttu_462_event_5">Operation Silver Bayonet</name>”, it was a battalion sized operation?</u>
+      <u who="NADAL">No, it was bigger than that. It was several battalions.</u>
+      <u who="MILAM">Several battalions? Okay. Enemy contact?</u>
+      <u who="NADAL">Very light. I think my rifle company killed the first <orgName ref="#ttu_462_org_36">Viet Cong</orgName> killed by the <orgName ref="#ttu_462_org_37">3rd Brigade</orgName> in a night ambush.</u>
+      <u who="MILAM">So the enemy, was essentially, <orgName ref="#ttu_462_org_38">VC (Viet Cong)</orgName> and there was no evidence of any <orgName ref="#ttu_462_org_39">pNVA (North Vietnamese Army)</orgName>  activity on “<name type="event" ref="#ttu_462_event_20">Silver Bayonet</name>”?</u>
+      <u who="NADAL">Not that early on.</u>
+      <u who="MILAM">You get about six weeks then, it sounds to me like, including an operation like “<name type="event" ref="#ttu_462_event_21">Silver Bayonet</name>” with your company, with your <orgName ref="#ttu_462_org_42">Alpha Company</orgName>. Was your <orgName ref="#ttu_462_org_43">Alpha Company</orgName> up to TOE (Table of Organization and Equipment)?</u>
+      <u who="NADAL">No.</u>
+      <u who="MILAM">What percent would you say?</u>
+      <u who="NADAL">Probably seventy-five to eighty percent because couple of things happened. We took with us any solider who had, I think it was, two months left in the army was directed to go to <placeName ref="#ttu_462_place_32">Vietnam</placeName>. So, we carried with us a whole bunch of soldiers that we knew that we were going to rotate back home shortly after we got there. The other thing that happened was- not only to us, but the whole division, we got hit by a type malaria called “Falciparum Malaria”, which the <placeName ref="#ttu_462_place_33">US</placeName> medical, the <orgName ref="#ttu_462_org_44">Army Medical Corps</orgName> was unprepared for. I think there was intelligence failure of the <orgName ref="#ttu_462_org_45">Medical Corps</orgName>, medical intelligence. The anti-malaria tablet they gave us, which was primaquine, was ineffective against this type of malaria. It was very, very violent and very serious. This went to the brain and one of the first causalities of this was my forward observer. Young man that eventually died next to me in <placeName ref="#ttu_462_place_34">Bong Son</placeName>, but he was evacuated all the way back to <placeName ref="#ttu_462_place_35">Hawaii</placeName>. Temperatures above a hundred-and-four and it was bad, bad, bad.</u>
+      <u who="MILAM">I see. Then he came back from that and he was killed in <placeName ref="#ttu_462_place_36">Bong Son</placeName>?</u>
+      <u who="NADAL">Yeah.</u>
+      <u who="MILAM">What about your leadership? Were you up to speed, up to TOE with your leaders?</u>
+      <u who="NADAL">I had three good young lieutenants, all of them were ranger and airborne qualified. One of the great virtues of the <orgName ref="#ttu_462_org_46">1st of the 7th</orgName>, was the leadership they had. In my army career, I had never been in a battalion that had as good leadership throughout the battalion as we did in the <orgName ref="#ttu_462_org_47">1st of the 7th</orgName>. It started with <persName ref="#ttu_462_person_19">General Hal Moore</persName>, who was a superb army officer. The company commanders <persName ref="#ttu_462_person_20">John Herren</persName>, a <orgName ref="#ttu_462_org_48">West Point</orgName> classman, again ranger airborne. <persName ref="#ttu_462_person_21">Bob Edwards</persName>, highly qualified. They’ve—</u>
+      <u who="MILAM">These were your peers at the company level?</u>
+      <u who="NADAL">My peers. The battalion S3 was a guy named <persName ref="#ttu_462_person_22">Greg Dillon</persName>, retired as a colonel, he’s probably the best S3 I’ve ever seen. Very calm, very good natured, very competent person which allowed—his competence allowed <persName ref="#ttu_462_person_23">Hal Moore</persName> to spend a lot more time on the ground, leading soldiers and worrying about soldiers, and not worrying about communications with headquarters or developing battle plans because between <persName ref="#ttu_462_person_24">Greg</persName> and <persName ref="#ttu_462_person_25">Hal</persName>, there was a great deal of mutual confidence and they work very well together. Most of my NCOs (Non-commissioned Officer) or many of my NCOs were in the upper ranks. The platoon sergeant and some of the sergeant first classes were <name type="event" ref="#ttu_462_event_6">Korean War</name> veterans.</u>
+      <u who="MILAM"><name type="event" ref="#ttu_462_event_7">Korean War</name>? Okay. So, they were older? In their mid-thirties and that kind of thing?</u>
+      <u who="NADAL">Right. That’s right. </u>
+      <u who="MILAM">Had been involved in ground combat in <name type="event" ref="#ttu_462_event_8">Korea</name>?</u>
+      <u who="NADAL">Right, in <name type="event" ref="#ttu_462_event_9">Korea</name>. Lot of CIBs (Combat Infantryman Badges) in the—when you lined up for a parade, they were these guys with stripes. A lot of senior stripes, there’s CIBs and Korean ribbons and all that.</u>
+      <u who="MILAM">Now did you make an effort in putting your unit together, once you got it in <date>September</date> to make sure that you had senior NCO Korean combat veterans and platoons where you had first lieutenant or second lieutenants? I can’t remember now, first lieutenants?</u>
+      <u who="NADAL">Second lieutenants.</u>
+      <u who="MILAM">Second lieutenants because later in the war it becomes a one-year you’re a first lieutenant but back in the early days I believe it was eighteen months or something and it wasn’t automatic. So you had second lieutenants, but did you make an effort to bring in the senior NCOs into those particular—to make sure you had it lined up that way?</u>
+      <u who="NADAL">No, because I think when I reflect on it, they all were. I mean, all my platoon sergeants and the first sergeant were <name type="event" ref="#ttu_462_event_10">Korean War</name> veterans. Several of the squad leaders were also. I had a first lieutenant company exec, <persName ref="#ttu_462_person_26">George Jennings</persName> who was a good guy.</u>
+      <u who="MILAM">Of the—you had three rifle platoons and a weapons platoon?</u>
+      <u who="NADAL">Right.</u>
+      <u who="MILAM">Of the four platoon leaders, second lieutenants, do you remember the commissioning sources of those four?</u>
+      <u who="NADAL">All of my lieutenants were commissioned through <orgName ref="#ttu_462_org_49">OCS (Officer Candidate School)</orgName>. But the three platoon leaders, rifle platoon leaders were college graduates.</u>
+      <u who="MILAM">But all <orgName ref="#ttu_462_org_50">OCS</orgName>, so that means <orgName ref="#ttu_462_org_51">OCS</orgName> but college graduates?</u>
+      <u who="NADAL">Right.</u>
+      <u who="MILAM">So that means they had gone to universities that either didn’t have <orgName ref="#ttu_462_org_52">ROTC</orgName> (Reserve Officer Training Corps) programs or they elected to not be in <orgName ref="#ttu_462_org_53">ROTC</orgName>.</u>
+      <u who="NADAL">Right.</u>
+      <u who="MILAM">They had all been commissioned through the infantry—<orgName ref="#ttu_462_org_54">US Army Infantry School</orgName> at <placeName ref="#ttu_462_place_37">Fort Benning</placeName> and <orgName ref="#ttu_462_org_55">OCS</orgName>?</u>
+      <u who="NADAL">That’s right.</u>
+      <u who="MILAM">That’s interesting, interesting. Can you tell me, without thinking too hard about it, through the other companies in the battalion, was that typical? Leadership wise? Commission Wise?</u>
+      <u who="NADAL">We had—the platoon leaders throughout the battalion came out of primarily one class of the <orgName ref="#ttu_462_org_56">OCS</orgName> at <placeName ref="#ttu_462_place_38">Fort Benning</placeName>, one or two classes and these guys had been together through <orgName ref="#ttu_462_org_57">OCS</orgName> as a group. I think because they fill up the cav all at once, they took— “Okay, all of you kids graduating today, you go to the <orgName ref="#ttu_462_org_58">1st Cav</orgName>.” So, we got a whole bunch of guys. But many of them- I can’t think of one who’s not a college graduate.</u>
+      <u who="MILAM">Well, forgive me for dwelling on that, but I’m a graduate of the infantry school as myself, so it’s an interest to me and there’s been a lot of studies done about that, some of which are mine so that’s why I'm asking these questions.</u>
+      <u who="NADAL">I had a chance recently to speak, one of my lieutenants <persName ref="#ttu_462_person_27">Joe Marm</persName>, won the Medal of Honor. He invited me to speak to a reunion of a <orgName ref="#ttu_462_org_59">OCS</orgName> class and it was great for me because I was able to say, “I have admired you all and many of you have seen in perilous conditions and leading sergeant in combat. I have a great deal of affection for all of you.” And I do, because I knew many of those young men under the stress of battle.</u>
+      <u who="MILAM">Interesting. So you got you <orgName ref="#ttu_462_org_60">OCS</orgName> trained. <name type="event" ref="#ttu_462_event_11">Korean War</name> veterans NCOs. You got six weeks to getting to know your troops including <name type="event" ref="#ttu_462_event_12">Operation “Silver Bayonet”</name>, which was probably exactly what you needed in a sense that the troops feared when they’re out there but the amount of activity was low. Then you’re back in base camp and you get word that there’s another operation. You’re going to move to <placeName ref="#ttu_462_place_39">Pleiku</placeName> to stage for that?</u>
+      <u who="NADAL">Yeah. Let me say something about my assumption in command. The troops knew—one of the things I did before we got to <placeName ref="#ttu_462_place_40">Vietnam</placeName>, when I joined the <orgName ref="#ttu_462_org_61">battalion</orgName>, <persName ref="#ttu_462_person_28">Hal Moore</persName> knew my background in <orgName ref="#ttu_462_org_62">special forces</orgName> and all this. I had been an avid reader of counter-insurgency operations books and whatever, I read a lot. I brought this footlocker full of book with me when I joined the <orgName ref="#ttu_462_org_63">battalion</orgName>. So he had me give classes at <placeName ref="#ttu_462_place_41">Benning</placeName> on counter-ambush drills and lot of things we had to learn in special forces and also through my reading. There was a good little book the British put out, called the Small Wars Manual and it was much better than anything <orgName ref="#ttu_462_org_64">the US Army</orgName> had about counterinsurgency.</u>
+      <u who="MILAM">Was it relaying experiences?</u>
+      <u who="NADAL">Yeah, from relaying experiences. I had a copy of that, so I taught a lot of classes. So he troops in the <orgName ref="#ttu_462_org_65">battalion</orgName> knew me, they knew my background and whatever. When I joined the company, what I’m told by the soldiers, I’ve been told this for forty years now, it was a great deal of relief and enthusiasm for my arrival because they said—they felt we’re not getting an experienced guy, with experience here and combat experience or whatever, which I thought was better for them.</u>
+      <u who="MILAM">Sure, absolutely. Let’s talk about <date when="1965-11-13">November 13th</date>.</u>
+      <u who="NADAL">Okay.</u>
+      <u who="MILAM"><date when="1965-11-13">The day before you assault into X-Ray</date>. What was involved that day, in terms of your role?</u>
+      <u who="NADAL">Can I backup for a couple of days?</u>
+      <u who="MILAM">Sure.</u>
+      <u who="NADAL">We went to <placeName ref="#ttu_462_place_42">Pleiku</placeName>. You have to remember <placeName ref="#ttu_462_place_43">Plei Me</placeName> has been under siege, the cav went up there with artillery primarily and ARA (Aerial Rocket Artillery) and supported the battle. <orgName ref="#ttu_462_org_67">The 1st Brigade</orgName> went in and looked for the enemy, didn’t really find them but they found some, the <orgName ref="#ttu_462_org_68">9th Cav</orgName>, the Air Cav squadron, found a hospital and they’re going to fight one night a very tough fight. The picture to us was, “The enemy is here, we haven’t found them in numbers, but we’ve had one big tough company-sized fight, and they found a hospital and all this other kind of stuff.” <orgName ref="#ttu_462_org_69">1st Brigade</orgName> was there for about two weeks after <name type="event" ref="#ttu_462_event_13">Plei Me</name> and then they brought us in. They said “Okay, you’re going to go look in this area.” Well, they put us in that area, we broke down by companies. This was not near <placeName ref="#ttu_462_place_44">LZ (Landing Zone) X-Ray</placeName>. This was east of <placeName ref="#ttu_462_place_45">LZ X-Ray</placeName>. We spent about ten days doing small unit platoon size patrols over this big area looking for the enemy. Did not find them. We were due to be pulled out. Two days hence to be replaced by <orgName ref="#ttu_462_org_70">2nd Brigade</orgName>. On the twelfth, <persName ref="#ttu_462_person_29">Hal Moore</persName> calls us together and says “Okay, we have a new mission. The <orgName ref="#ttu_462_org_71">brigade</orgName> has some intelligence that there is an enemy force somewhere.” He drew a goose egg on the map. Right at the base of <placeName ref="#ttu_462_place_46">Chu Pong Mountain</placeName>. Our mission is to go there and see what’s there. That was about the degree of intelligence we had.</u>
+      <u who="MILAM">I see.</u>
+      <u who="NADAL">“We believe there’s an enemy base camp, but we don’t know how many, anything. You guys going to go there to see what’s there.” We 				were all spread out. On the twelfth we’re all spread out in platoonsized locations. The air assault on the fourteen was difficult because there weren’t many helicopters and got to make a lot of trips to pick up this group here, this group over here, and this group over here.</u>
+      <u who="MILAM">So you didn’t stage from one central location?</u>
+      <u who="NADAL">No.</u>
+      <u who="MILAM">Your choppers had to go out and get you. Give me an example with your company. Let’s talk about <orgName ref="#ttu_462_org_72">Alpha company</orgName>, where were you?</u>
+      <u who="NADAL">I was, I guess, about twenty minutes flying time East of <placeName ref="#ttu_462_place_47">LZ X-Ray</placeName>, twenty, thirty minutes of flying time, I think. I was with a platoon and with company headquarters of the, I think the 1st Platoon and the weapons platoon were together. So they picked me up, there were eight helicopters as I recall.</u>
+      <u who="MILAM">On the first lift in?</u>
+      <u who="NADAL">No, the first lift in was <orgName ref="#ttu_462_org_73">B Company</orgName>.</u>
+      <u who="MILAM">Okay, <orgName ref="#ttu_462_org_74">B Company</orgName> went in first. So you’re going to be second lift in?</u>
+      <u who="NADAL">I’m going to be second lift in. After they put <orgName ref="#ttu_462_org_75">B Company</orgName>, they came to get me. I went in with that platoon. Choppers went back and picked up the second platoon and went back for the third platoon.</u>
+      <u who="MILAM">You ultimately had your three platoons, but they were coming from different places. You were with 1st Platoon?</u>
+      <u who="NADAL">1st Platoon.</u>
+      <u who="MILAM">You were with 1st Platoon. As I understand the battle, the first few lifts in receive no fire. But about lifts three and four, they start getting fire. Where were you guys? Were you in the three and four? Or were you—</u>
+      <u who="NADAL">When I landed, I sensed no fire. I immediately reported to <persName ref="#ttu_462_person_30">Hal Moore</persName>, who told me, “<orgName ref="#ttu_462_org_76">B Company</orgName> in engaged. You get your company and join them with a left flank.” So the 1st platoon landed and I led them over to where <orgName ref="#ttu_462_org_77">B Company</orgName> flank was. I went back to wait for the 2nd and 3rd Platoon to come in. I had to place them when they arrive. By then, at that time, I could hear bullets. I got gunshots and few bullets whizzing by.</u>
+      <u who="MILAM">So <persName ref="#ttu_462_person_31">Moore</persName> put you on the left flank of <orgName ref="#ttu_462_org_78">B Company</orgName>, anticipating a flanking movement.</u>
+      <u who="NADAL">See, the mission was—when we landed, the mission was going to be <orgName ref="#ttu_462_org_79">B Company</orgName> initially holding the landing zone, that they we’re going out in one direction. Then, my company would land, and we would go in a different direction, and then, <orgName ref="#ttu_462_org_80">C Company</orgName> would land, and they would hold the landing zone. But when the fighting started, <persName ref="#ttu_462_person_32">Moore</persName> said to me, “Okay, you’re going to secure the landing zone and I'm going to have <orgName ref="#ttu_462_org_81">B Company</orgName> move to the west.” where the famous creek bed ran, on the western edge of the <placeName ref="#ttu_462_place_48">LZ</placeName>. He said, he told <persName ref="#ttu_462_person_33">John Herren</persName>, “You go west and explore what’s out there.” I send my platoon to the left of B company and they got in a fight pretty quickly, the moment they got there.</u>
+      <u who="MILAM">How difficult was it to get your—you’re in charge of all three of these platoons, did you have four platoons now? What did you do with the weapons platoon?</u>
+      <u who="NADAL">They had taken the weapons platoon, which by that time they had become quite small because the 81 mortar, which was too heavy to carry into the jungle. Each company had to come down to—evolved to carrying one mortar, 181, and fire direction center crew for that one mortar and a couple of additional guys to hold the ammo. The weapons platoons had probably been halved in size and the troops had been used as replacement infantrymen.</u>
+      <u who="MILAM">Organizationally, as you think about it, you were thinking about three platoons. That was your responsibility.</u>
+      <u who="NADAL">They had taken all those small weapon platoons and put them together at the landing zone, to operate sort of as a weapons company kind of thing.</u>
+      <u who="MILAM">I understand. So now you’ve got responsibility for three rifle platoons, most of whom, except for your <name type="event" ref="#ttu_462_event_14">Korea</name> experienced MCOs and yourself, had never been in combat, never had a shot fired.</u>
+      <u who="NADAL">Right.</u>
+      <u who="MILAM">You hit the <placeName ref="#ttu_462_place_49">LZ</placeName>, you start taking fire shortly thereafter. How difficult was it for you to pull those platoons into their positions?</u>
+      <u who="NADAL">Not difficult. They landed, I met the lieutenants and said, “Okay you link up with so and so. First platoon over there.” This is a small landing zone. We were going from where the helicopters landed to the creek bed. Wasn’t more than 150 yards at most, 100 yards. I started in the right direction and wait for the next one to come in.</u>
+      <u who="MILAM">Tell me about the first—your observations of the first reactions of your troops to enemy fire.</u>
+      <u who="NADAL">Hit the ground and started firings sort of wildly in the direction of the enemy. Let me give you a sequence of events of what happened. 1st Platoon lands and goes over to the left. The 2nd Platoon lands, goes between the 1st Platoon and <orgName ref="#ttu_462_org_82">B Company</orgName>. The 3rd Platoon lands, and <orgName ref="#ttu_462_org_83">B Company</orgName> has sort of moved out, so the 3rd Platoon lands and becomes my right-flank platoon. Actually, I got the 3rd Platoon in place, I hear intense enemy fire coming from the 1st Platoon area because the creek bed came down right into where the 1st Platoon was and there were in an L shape position, open flank over here because <orgName ref="#ttu_462_org_84">C Company</orgName> hadn’t arrived yet and the enemies was coming out of creek bed. They get into a heavy fire fight but I'm not hearing much on the radios, about what’s happening. So my radar operators and I, and the FOs (Forward Observers), we go across the <placeName ref="#ttu_462_place_50">landing zone</placeName> and I'm looking for the platoon leaders. The <placeName ref="#ttu_462_place_51">landing zone</placeName> is grassy. There is grass about this high (Editor’s note: Interviewee shows height using his arms) which is a key factor in this fight for the next three days because when someone goes to ground, you can’t see them. We couldn’t see the enemy and they couldn’t see us if we we’re laying down in this grass. As I'm moving over there, I sort of stumble up on the Platoon Sergeant, <persName ref="#ttu_462_person_34">Sergeant Nathan</persName>. I said, “Where’s <persName ref="#ttu_462_person_35">Lieutenant Taft</persName>?” He said, “<persName ref="#ttu_462_person_36">Lieutenant Taft</persName> is dead.” I said, “Well, where is he?”</u>
+      <u who="MILAM">Which platoon was he?</u>
+      <u who="NADAL">He was 1st Platoon—excuse me, 3rd Platoon. I said, “Well, where is he?” He said, “He’s in the creek bed.” They had pulled back from the creek bed due to the enemy fire. As the book points out, one of my machine gunners went back, had a lot to do with holding that sector by staying in the fight even after his—he was assistant machine gunner and his machine gunner was shot in the head. Bill reaches over puts the guy’s brains back in his head and the guy survived. One of the things that I believe in, one of the things <persName ref="#ttu_462_person_38">Hal Moore</persName> believes in, one of the things I told my soldiers all the time was “We’re not going to leave any one of you behind.” I went forward to the creek bed; my radio operator and I went forward to bring back <persName ref="#ttu_462_person_39">Lieutenant Taft</persName>. He was still in the creek bed; they were throwing grenades at me. They were little, tiny potato mashers sort of grenades like the <orgName ref="#ttu_462_org_85">Germans</orgName> had in <name type="event" ref="#ttu_462_event_15">World War II</name>, with a little tiny hat like that. When I was in the creek bed, I see them going off on the edge of the creek bed. When I was there, I found another solider. <persName ref="#ttu_462_person_40">Taft</persName> was dead, but there was another solider there who was shot in the gut, who also got left behind. I did this backwards, but I should’ve brought the other solider back first, but I brought Taft back and then <persName ref="#ttu_462_person_41">Sergeant Gillam</persName>, my radio operator, and I went back and brought the other solider back.</u>
+      <u who="MILAM">You say you should’ve brought him back because—</u>
+      <u who="NADAL">One was dead, and one was alive.</u>
+      <u who="MILAM">In reading then <persName ref="#ttu_462_person_42">Colonel Moore</persName>’s after action report, he talks about—not this specific instance, but he talks about that issue of the dead holding up the living from being able to, not exactly operate, but I think it’s more of what you described to me that decision that has to be made on—</u>
+      <u who="NADAL">One of the lessons learned by all of us, and I made a point of telling everyone that was, when soldiers—when you have a very cohesive unit, and this is something we really haven’t mentioned, I joined the company late but the battalion has been through those eighteen months of training and those platoon sergeants had been through it. Not the lieutenants but many of the other officers, the battalion staff. These guys really—there were much like the units we sent to <placeName ref="#ttu_462_place_52">Iraq</placeName> today. They trained together and we went to war together, we didn’t have individual rotation thing, which was a disaster for <orgName ref="#ttu_462_org_86">the US Army</orgName> after that. These sergeants knew their soldiers, they knew their soldier’s families. What happened in the battlefield was that the sergeant felt responsible for that solider. In that instance of a sergeant—later on in the afternoon when I led the assault, the soldiers were all lying in the grass, the battle is going on and I see the sergeant start out for a solider that has been hit, and I tell him, “<persName ref="#ttu_462_person_43">Sergeant Floyd</persName>, don’t do that! You’re going to get shot!” He looked at me, sort of disregarded me and went out to rescue his solider and effectively got shot. He died there. After that battle, I used to tell my guys, “If someone is killed or if somebody is shot, your first responsibility is to shoot the son of a bitch that shot him. Because if you go after him right then, the guy that shot him is going to shoot you.” That’s a tough lesson to learn. Medics, who as a group, are probably as heroic a group as anyone in uniform, lose a lot of lives going after a wounded solider. But you know, you think the logic of it, someone just shot someone right there and until you get him, he’s going to do it again.</u>
+      <u who="MILAM">Yeah, I can see where that difficulty. The unit cohesion thing has been studied now, ever since that war and it has its positives and negatives, but overall, it’s a positive. </u>
+      <u who="NADAL">Oh, a huge positive! I mean—</u>
+      <u who="MILAM">Because the units that came in after that, that went to replacements, suffered so much because nobody cared about anybody else, they were all in it themselves. That’s a blanket statement and I shouldn’t make it that way, but you and I know both know what we’re talking about here.</u>
+      <u who="NADAL">Yeah. I don’t even know my background beyond this thing, but I’ve spent the major portion of my career, when I was not commanding, I was studying leadership or teaching leadership or revising army leadership. The issues of cohesion and how you lead soldiers and all that is close and dear to my heart.</u>
+      <u who="MILAM">You’re a psychologist too, right?</u>
+      <u who="NADAL">Right. I lectured at <orgName ref="#ttu_462_org_104">West Point</orgName>, lectured at <orgName ref="#ttu_462_org_87">the Army War College</orgName>, I have in the past, anyway. Everything from <orgName ref="#ttu_462_org_88">ROTC</orgName> to battalions, to infantry battalions. In <placeName ref="#ttu_462_place_54">Germany</placeName>, I have this presentation I give which is called, “Leadership in Combat and Small Unit Operations” because I talk about rifle companies and the experience of a solider when he first goes into combat and the psychology of being in combat. What do they expect from the leader and how does the leader respond and all that.</u>
+      <u who="MILAM">Let’s talk a little bit about when <persName ref="#ttu_462_person_44">Taft</persName> goes down. The leadership of that platoon falls to the platoon sergeant.</u>
+      <u who="NADAL"><persName ref="#ttu_462_person_45">Sergeant Nathan</persName>.</u>
+      <u who="MILAM">Was it evident to you that that worked the way it’s supposed to, that it’s the next man takes over?</u>
+      <u who="NADAL">Yeah, yeah, I did. I lost all three platoon leaders that day. Only one killed, but two were wounded and I lost my forward observer, we’ll get to it later. There wasn’t a discernable change, that I could tell. However, it’s important for people to understand that as a company commander, I was so busy that I wasn’t observing a hell of a lot of what the enemy was coming from, where the artillery was landing, what I was supposed to do with maintaining contact with <orgName ref="#ttu_462_org_89">B Company</orgName>, all that. I’ve often said it is easier to become a company commander than it is to be a PFC (Private First Class) because the company commander is so involved, so mentally occupied, that in my case I can honestly say that I did not feel much fear. The reason for it is that I didn’t have space in my head for it.</u>
+      <u who="MILAM">Too much on your mind?</u>
+      <u who="NADAL">Too much on my mind. The solider sitting there, laying on the grass, waiting for someone to tell him what to do.</u>
+      <u who="MILAM">They also know that when we looked back on the war now, company commanders, captains at least as a rank, suffered the greatest percentage of casualties as a percentage of how many were there of any other rank.</u>
+      <u who="NADAL">I didn’t know that.</u>
+      <u who="MILAM">Now, you can take into account that there were some that were killed in choppers crashing and everything else, but company commanders suffered as a percentage greater than any other rank.</u>
+      <u who="NADAL">I can see that because you’re trying to move around. You’re going to check your platoon here and there. Everyone else is hunkered down and the company commander that is doing his job is getting around.</u>
+      <u who="MILAM">It was a company war; it was a company-sized unit war more so than it was a battalion or brigade, as it was in <name type="event" ref="#ttu_462_event_16">World War II</name>. You’ve lost all three of your platoon leaders over a two-day period?</u>
+      <u who="NADAL">Yeah.</u>
+      <u who="MILAM">One killed, two wounded I believe?</u>
+      <u who="NADAL">Actually, in the first afternoon. I don’t know how you want to do the interview—</u>
+      <u who="MILAM">No, you go right ahead.</u>
+      <u who="NADAL">We land, the platoons are engaged. <orgName ref="#ttu_462_org_90">B Company</orgName> has moved forward to start carrying out their mission and so I have—the 3rd Platoon is here, the 2nd Platoon and the 1st Platoon. The enemy is coming out of this creek bed. This platoon, the 1st platoon holds that juncture right there, and so the enemy turns and starts running right in front of my 2nd and 3rd platoon, partially in front of <orgName ref="#ttu_462_org_91">B Company</orgName>. For a period of about an hour, we kill a lot of them. It’s like they were disoriented as to where the enemy fire was coming from or something because they keep coming down the mountain and sort of in front of these two platoons and the platoons do a lot of damage to the enemy. At that point, there’s not many casualties. The casualties are primarily in the left flank, 3rd platoon.</u>
+      <u who="MILAM">Could you tell by the wounds of your three platoon leaders, as to whether they had been targeted?</u>
+      <u who="NADAL">I never saw them. They were hit and they were sent back to the battalion aid station.</u>
+      <u who="MILAM">Before you had a chance. The reason I ask is, again in reading the Colonel’s after action report, he talks about seeing a lot of men who appeared to have been targeted in the sense of, and I think he was talking about NCOs the stripes on the sleeves, the bright yellow stripes as opposed to the camo which they put later on, and I wondered if there was any evidence in your company.</u>
+      <u who="NADAL">I think what happened, and to some degree was my mistake, I had given the lieutenants a pep talk before the battle and I said, “You know, your job is to lead. My job is to lead.” I think the lieutenants got shot because they were up front. You know, <persName ref="#ttu_462_person_46">Joe Marm</persName> got shot winning a Medal of Honor charging across an open field. I think the same thing happened to the other two. I think <persName ref="#ttu_462_person_47">Lieutenant Taft</persName> got shot because he was in the front of his platoon.</u>
+      <u who="MILAM">All three of the platoon leaders had trained at <placeName ref="#ttu_462_place_55">Benning</placeName>?</u>
+      <u who="NADAL">Right.</u>
+      <u who="MILAM">So you were the only one of the officers that was sort of new to it. Whatever they did, they also did it because they have learned it in training?</u>
+      <u who="NADAL">Sure. Yeah.</u>
+      <u who="MILAM">It makes sense to me just observing it. Let’s talk a little bit about—you’ve lost all of your leaders, now you have—you’re going to be on the ground for two more days at <placeName ref="#ttu_462_place_56">X-Ray</placeName> correct? The extraction from <placeName ref="#ttu_462_place_57">X-Ray</placeName>, after its all over, did that go as planned so to speak? Were you extracted in an orderly manner? Because you had essentially won the battle. Is that correct?</u>
+      <u who="NADAL">Yeah. With that—brought us on Chinooks, CH-47s and we landed back at <placeName ref="#ttu_462_place_58">Pleiku</placeName>.</u>
+      <u who="MILAM">What percentage of your troops were killed or wounded? Thinking this only in military effectiveness point of view.</u>
+      <u who="NADAL">Well, eighteen killed and twenty-seven wounded out of about seventy-six, I think.</u>
+      <u who="MILAM">So over fifty percent killed or wounded. Did you stand down? Did your unit stand down then? Your company?</u>
+      <u who="NADAL">Not immediately, we went back to <placeName ref="#ttu_462_place_59">Pleiku</placeName> and then we were put in a defense position guarding an airfield and a brigade headquarters. A few days later we went back to <placeName ref="#ttu_462_place_60">An Khe</placeName> and stood down for a just a short time. Never let infantry stand down for very long.</u>
+      <u who="MILAM">Let me ask you a couple of equipment questions. The M16 was being tested for the first time in sustain combat. How did it perform in your units?</u>
+      <u who="NADAL">One of the things I insisted on was that the soldiers cleaned their rifle every day. I had—I knew what the problem with the M16 was. I was carving deposits in the—I forget the technical name now, but the little tube that comes from the bolt. It would get carboned up and then when the bolt came forward, it would jam. My requirement through the chain of command was we cleaned the rifles every day and cleaned that thing out. I do not recall that we had people complaining about the rifle jamming. It may have happened to some, but it didn’t become—</u>
+      <u who="MILAM">It was not an issue in the battle?</u>
+      <u who="NADAL">I’m not aware of it, if it was.</u>
+      <u who="MILAM">How about—this was also one of the first times that we got to think about what I like to call, “Platoon artillery” or the organic artillery of a M79. Did your grenadiers—</u>
+      <u who="NADAL">Wonderful weapon.</u>
+      <u who="MILAM">Wonderful Weapon?</u>
+      <u who="NADAL">That’s right.</u>
+      <u who="MILAM">Shooting it into the trees because there were <orgName ref="#ttu_462_org_92">NVA</orgName> in the trees?</u>
+      <u who="NADAL">Yup.</u>
+      <u who="MILAM">How about the confidence of the grenadier with that weapon? Did you feel that they knew what to do with it and that they liked carrying </u>
+      <u who="NADAL">It wasn’t an issue because we hadn’t experienced any heavy combat before. I think they were confident with it, everyone liked to see that little thing, you could watch it out there and go boom! Explode and make a big noise. We all liked it; I think they liked it. I think as war evolved, a lot of them wanted to carry a M16 also because of the rain. Eventually, the army came up with the M16 combination.</u>
+      <u who="MILAM">Well, they also came up with, essentially, a shot gun shell for that first round, if you were on patrol. So you had a little more—you could defend yourself at least on that first shot. What about your cruiser, what about the M60?</u>
+      <u who="NADAL">It worked fine. I mean, we didn’t have—again, I’m not aware of any grievances with the M60 machine guns.</u>
+      <u who="MILAM">The LAWs (Light Anti-Tank Weapon)? We were testing those for one of the first times too.</u>
+      <u who="NADAL">Yeah, we carried a couple per platoon and <persName ref="#ttu_462_person_48">Joe Marm</persName>, that was the way he started his charge across the open clearing to get a machine behind an ant hill, he shot a LAW into the anthill. It worked. As far as I know that was the only—there just wasn’t a target for LAWs.</u>
+      <u who="MILAM">I ask these questions about weapons because you guys were the laboratory for—</u>
+      <u who="NADAL">Later on, the <orgName ref="#ttu_462_org_93">Marines</orgName> used to bitch like hell about the M16. My response was that’s because they don’t clean their rifles, because we didn’t have a lot of problems with them. We had problems with other things, like medevac and so forth. The biggest problem I had in the battlefield was that before the major assault—in that afternoon, when <persName ref="#ttu_462_person_49">Hal Moore</persName> told <orgName ref="#ttu_462_org_94">B Company</orgName> and I to go get that lost platoon, I could not get artillery fire to fire prep for me because at the time, we only had one artillery fire control net. Only one FO from the various companies could be directing artillery at one time. <orgName ref="#ttu_462_org_95">B Company</orgName> had a very good FO, raiding that early. Whenever it came time for us to assault, I couldn’t get through to get a prep-fire. So I used my mortars and they didn’t have much ammunition. They ran out of ammo very rapidly, so my biggest problem was that.</u>
+      <u who="MILAM">You were trying to bring in 105s?</u>
+      <u who="NADAL">105s.</u>
+      <u who="MILAM">How difficult was it to identify your own positions when you were calling ARA?</u>
+      <u who="NADAL">We just used red smoke.</u>
+      <u who="MILAM">You used smoke. So your troops were carrying smoke grenades that you just get on the radio and say identify and you let them—then you had an aerial FO?</u>
+      <u who="NADAL">We had an <orgName ref="#ttu_462_org_97">Air Force</orgName> vac on the ground but also, there were <orgName ref="#ttu_462_org_98">Air Force</orgName> vacs in the air. We had for the army helicopters, it was just radio contact with the choppers, with the flight leaders.</u>
+      <u who="MILAM">Well, <persName ref="#ttu_462_person_50">Tony</persName> I’m out of time.</u>
+      <u who="NADAL">That’s a shame, because I haven’t gotten to tell you what I think.</u>
+      <u who="MILAM">Tell me what you think, here’s what I’d like to say about this interview. First of all, <orgName ref="#ttu_462_org_99">Texas Tech University</orgName>, as you know, is the largest archive in the world on <name type="event" ref="#ttu_462_event_17">the Vietnam War</name>. We do these very long, extensive interviews with people and I would love to have your interview, that we can put on the record. I don’t care if takes sixteen hours, and we’ve got some of those. But it’s very important to us because you’re such a pivotal person in this battle and with your men, and I would do anything that we can to either get you out there to <placeName ref="#ttu_462_place_61">Lubbock</placeName>, to do it in person with one of our oral historians or we can do it telephonically, whatever. But your interview is one that we would very much would like to have as part of it and I know there’s so much more to say.</u>
+      <u who="NADAL">Yeah, I’d like to do that, and I would be willing to go out to <placeName ref="#ttu_462_place_62">Lubbock</placeName> to do it because I have a lot to say about the issue of a soldier’s response and there’s a lot of leadership lessons I learned in that battlefield. Things for young lieutenants that they need to know, which the army never taught me. It’s funny but I’ve learned so much. I left there and went to graduate school. I was so disappointed after graduate school, taking a lot of social-psych courses, about the stuff in the textbooks that the solider psychologists were using. It came from army experiences about behavior and stress and all this.</u>
+      <u who="MILAM">Right.</u>
+      <u who="NADAL">When I came out of <placeName ref="#ttu_462_place_63">Vietnam</placeName>, I thought I had this covered wisdom, you know, about battle and soldiers and everything, most of it was in those books. But no one had ever steered me in that direction. I think and still as far as I know, in army—</u>
+      <u who="MILAM">I know <orgName ref="#ttu_462_org_100">West Point</orgName> made an effort during that time to start teaching the humanities, start teaching some things that were not just engineering.</u>
+      <u who="NADAL">Well no, I taught there, I taught in that department. The department of behavioral sciences and leadership. When I came—when I finished graduate school, that’s where I went for three years. To teach up there. Again, I’ve a lot of time to think and study, and I must’ve read more about small unit combat in the last thirty years than any other human being. I like to think that I have stuff stored in my head that is useful. Plus, experiences of <name type="event" ref="#ttu_462_event_19">LZ X-Ray</name> that we haven’t even started to cover yet.</u>
+      <u who="MILAM">Well, that’s for sure and I want to do that. In addition, I also teach military history and <name type="event" ref="#ttu_462_event_18">the Vietnam War</name> at <orgName ref="#ttu_462_org_102">Texas Tech University</orgName>, so if we get you out there for an interview, I’ll get you in on the a lecture circuit and we’ll get you into my classroom.</u>
+      <u who="NADAL">I would love to do that.</u>
+      <u who="MILAM">You’re a person that we need to tap those resources because this is such a pivotal part of this battle and I don’t know if anyone had more a pivotal part than you did in it. I would like to go on and on and on. In fact, I'm not a professional oral historian, I'm a professor but at the same time, I may ask for this interview myself so we can continue again—</u>
+      <u who="NADAL">I’d like to do it.</u>
+      <u who="MILAM">Thank you very much for your time, I enjoyed it and we appreciate everything that you said.(End of Interview.)</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_462_place_0">
+        <placeName>Ia Drang Valley</placeName>
+        <location>
+          <geo>13.583333333333 107.71666666667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
+      </place>
+      <place xml:id="ttu_462_place_1">
+        <placeName>Oklahoma</placeName>
+        <location>
+          <geo>35.5 -98</geo>
+        </location>
+        <idno type="WD">Q1649</idno>
+      </place>
+      <place xml:id="ttu_462_place_2">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_3">
+        <placeName>Oklahoma</placeName>
+        <location>
+          <geo>35.5 -98</geo>
+        </location>
+        <idno type="WD">Q1649</idno>
+      </place>
+      <place xml:id="ttu_462_place_4">
+        <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
+      </place>
+      <place xml:id="ttu_462_place_5">
+        <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
+      </place>
+      <place xml:id="ttu_462_place_6">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_7">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_8">
+        <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
+      </place>
+      <place xml:id="ttu_462_place_9">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_10">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_11">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_12">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_13">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_14">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_462_place_15">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_16">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_17">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_18">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_19">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_20">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_21">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_22">
+        <placeName>South Vietnam</placeName>
+        <location>
+          <geo>10.776944 106.695278</geo>
+        </location>
+        <idno type="WD">Q180573</idno>
+      </place>
+      <place xml:id="ttu_462_place_23">
+        <placeName>A Shau Valley</placeName>
+        <location>
+          <geo>16.259305555556 107.2125</geo>
+        </location>
+        <idno type="WD">Q4073426</idno>
+      </place>
+      <place xml:id="ttu_462_place_24">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
+      </place>
+      <place xml:id="ttu_462_place_25">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
+      </place>
+      <place xml:id="ttu_462_place_26">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
+      </place>
+      <place xml:id="ttu_462_place_27">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
+      </place>
+      <place xml:id="ttu_462_place_28">
+        <placeName>Pleiku-Ia Drang area</placeName>
+        <location>
+          <geo>13.583333 107.716667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
+      </place>
+      <place xml:id="ttu_462_place_29">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_462_place_30">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
+      </place>
+      <place xml:id="ttu_462_place_31">
+        <placeName>Qui Nhơn</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_462_place_32">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_33">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_462_place_34">
+        <placeName>Bồng Sơn</placeName>
+        <location>
+          <geo>14.43333333 109.01666667</geo>
+        </location>
+        <idno type="WD">Q2276503</idno>
+      </place>
+      <place xml:id="ttu_462_place_35">
+        <placeName>Hawaii</placeName>
+        <location>
+          <geo>21.3075 -157.8575</geo>
+        </location>
+        <idno type="WD">Q782</idno>
+      </place>
+      <place xml:id="ttu_462_place_36">
+        <placeName>Bồng Sơn</placeName>
+        <location>
+          <geo>14.43333333 109.01666667</geo>
+        </location>
+        <idno type="WD">Q2276503</idno>
+      </place>
+      <place xml:id="ttu_462_place_37">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_38">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_39">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_462_place_40">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_462_place_41">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_42">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_462_place_43">
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
+      </place>
+      <place xml:id="ttu_462_place_44">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_45">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_46">
+        <placeName>Chư Pong</placeName>
+        <location>
+          <geo>13.572861  107.665980</geo>
+        </location>
+        <idno type="WD">Q65040315</idno>
+      </place>
+      <place xml:id="ttu_462_place_47">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_48">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_49">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_50">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_51">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_52">
+        <placeName>Iraq</placeName>
+        <location>
+          <geo>33 43</geo>
+        </location>
+        <idno type="WD">Q796</idno>
+      </place>
+      <place xml:id="ttu_462_place_54">
+        <placeName>Germany</placeName>
+        <location>
+          <geo>51 10</geo>
+        </location>
+        <idno type="WD">Q183</idno>
+      </place>
+      <place xml:id="ttu_462_place_55">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_462_place_56">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_57">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_462_place_58">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_462_place_59">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_462_place_60">
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
+      </place>
+      <place xml:id="ttu_462_place_61">
+        <placeName>Lubbock</placeName>
+        <location>
+          <geo>33.566666666667 -101.88333333333</geo>
+        </location>
+        <idno type="WD">Q49273</idno>
+      </place>
+      <place xml:id="ttu_462_place_62">
+        <placeName>Lubbock</placeName>
+        <location>
+          <geo>33.566666666667 -101.88333333333</geo>
+        </location>
+        <idno type="WD">Q49273</idno>
+      </place>
+      <place xml:id="ttu_462_place_63">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_462_event_1" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="ttu_462_event_2" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_3" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_462_event_4" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign/Silver Bayonet</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_462_event_5" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_462_event_6" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_7" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_8" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_9" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_10" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_11" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_12" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_462_event_13" from-iso="1965-10-19T00:00:00Z" to-iso="1965-10-25T00:00:00Z">
+        <desc>Siege of Plei Me</desc>
+        <idno type="WD">Q7510313</idno>
+      </event>
+      <event xml:id="ttu_462_event_14" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_15" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="ttu_462_event_16" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="ttu_462_event_17" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_462_event_18" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_462_event_19" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_462_event_20" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign/Silver Bayonet</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_462_event_21" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign/Silver Bayonet</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_462_person_0">
+        <persName>Tony Nadal</persName>
+        <idno type="WD">Q111442803</idno>
+      </person>
+      <person xml:id="ttu_462_person_1">
+        <persName>Tony</persName>
+        <idno type="WD">Q111442803</idno>
+      </person>
+      <person xml:id="ttu_462_person_2">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="ttu_462_person_3">
+        <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
+      </person>
+      <person xml:id="ttu_462_person_4">
+        <persName>Tim Brown</persName>
+        <idno type="WD">Q111630856</idno>
+      </person>
+      <person xml:id="ttu_462_person_5">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_6">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_7">
+        <persName>Colonel Brown</persName>
+        <idno type="WD">Q111630856</idno>
+      </person>
+      <person xml:id="ttu_462_person_8">
+        <persName>Colonel Brown</persName>
+        <idno type="WD">Q111630856</idno>
+      </person>
+      <person xml:id="ttu_462_person_9">
+        <persName>Colonel Brown</persName>
+        <idno type="WD">Q111630856</idno>
+      </person>
+      <person xml:id="ttu_462_person_10">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_11">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_12">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_13">
+        <persName>Basil L. Plumley</persName>
+        <idno type="WD">Q2535583</idno>
+      </person>
+      <person xml:id="ttu_462_person_14">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_15">
+        <persName>Ray Lefebvre</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_462_person_16">
+        <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_462_person_17">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_18">
+        <persName>Charles Alvin Beckwith</persName>
+        <idno type="WD">Q912227</idno>
+      </person>
+      <person xml:id="ttu_462_person_19">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_20">
+        <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
+      </person>
+      <person xml:id="ttu_462_person_21">
+        <persName>Bob Edwards</persName>
+        <idno type="WD">Q111008041</idno>
+      </person>
+      <person xml:id="ttu_462_person_22">
+        <persName>Greg Dillon</persName>
+        <idno type="WD">Q111442679</idno>
+      </person>
+      <person xml:id="ttu_462_person_23">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_24">
+        <persName>Greg</persName>
+        <idno type="WD">Q111442679</idno>
+      </person>
+      <person xml:id="ttu_462_person_25">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_26">
+        <persName>George Jennings</persName>
+        <idno type="WD">Q111658932</idno>
+      </person>
+      <person xml:id="ttu_462_person_27">
+        <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
+      </person>
+      <person xml:id="ttu_462_person_28">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_29">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_30">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_31">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_32">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_33">
+        <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
+      </person>
+      <person xml:id="ttu_462_person_34">
+        <persName>Sergeant Nathan</persName>
+        <idno type="WD">Q111634099</idno>
+      </person>
+      <person xml:id="ttu_462_person_35">
+        <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
+      </person>
+      <person xml:id="ttu_462_person_36">
+        <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
+      </person>
+      <person xml:id="ttu_462_person_38">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_39">
+        <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
+      </person>
+      <person xml:id="ttu_462_person_40">
+        <persName>Taft</persName>
+        <idno type="WD">Q111658827</idno>
+      </person>
+      <person xml:id="ttu_462_person_41">
+        <persName>Sergeant Gillam</persName>
+       <idno type="project">ttu_0087</idno>
+      </person>
+      <person xml:id="ttu_462_person_42">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_43">
+        <persName>Sergeant Floyd</persName>
+        <idno type="WD">Q111658855</idno>
+      </person>
+      <person xml:id="ttu_462_person_44">
+        <persName>Taft</persName>
+        <idno type="WD">Q111658827</idno>
+      </person>
+      <person xml:id="ttu_462_person_45">
+        <persName>Sergeant Nathan</persName>
+        <idno type="WD">Q111634099</idno>
+      </person>
+      <person xml:id="ttu_462_person_46">
+        <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
+      </person>
+      <person xml:id="ttu_462_person_47">
+        <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
+      </person>
+      <person xml:id="ttu_462_person_48">
+        <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
+      </person>
+      <person xml:id="ttu_462_person_49">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_462_person_50">
+        <persName>Tony</persName>
+        <idno type="WD">Q111442803</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_462_org_0">
+        <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
+      </org>
+      <org xml:id="ttu_462_org_1">
+        <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        <idno type="WD">Q7928492</idno>
+      </org>
+      <org xml:id="ttu_462_org_3">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_4">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_462_org_5">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_462_org_7">
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
+      </org>
+      <org xml:id="ttu_462_org_8">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_462_org_9">
+        <orgName>class of ‘58?</orgName>
+      </org>
+      <org xml:id="ttu_462_org_10">
+        <orgName>Class of ’58</orgName>
+      </org>
+      <org xml:id="ttu_462_org_11">
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
+      </org>
+      <org xml:id="ttu_462_org_12">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_462_org_13">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_14">
+        <orgName>1st Air Cavalry Brigade, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4596090</idno>
+      </org>
+      <org xml:id="ttu_462_org_15">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_16">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_17">
+        <orgName>3rd Brigade Combat Team, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4636701</idno>
+      </org>
+      <org xml:id="ttu_462_org_19">
+        <orgName>1st Air Cavalry Brigade, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4596090</idno>
+      </org>
+      <org xml:id="ttu_462_org_22">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_23">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_24">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_25">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_26">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_27">
+        <orgName>D Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110745368</idno>
+      </org>
+      <org xml:id="ttu_462_org_28">
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
+      </org>
+      <org xml:id="ttu_462_org_29">
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
+      </org>
+      <org xml:id="ttu_462_org_30">
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
+      </org>
+      <org xml:id="ttu_462_org_31">
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
+      </org>
+      <org xml:id="ttu_462_org_32">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_462_org_33">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_462_org_34">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_35">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_36">
+        <orgName>Viet Cong</orgName>
+        <idno type="WD">Q10810255</idno>
+      </org>
+      <org xml:id="ttu_462_org_37">
+        <orgName>3rd Brigade Combat Team, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4636701</idno>
+      </org>
+      <org xml:id="ttu_462_org_38">
+        <orgName>Viet Cong</orgName>
+        <idno type="WD">Q10810255</idno>
+      </org>
+      <org xml:id="ttu_462_org_39">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_462_org_42">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_43">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_44">
+        <orgName>Army Medical Corps</orgName>
+        <idno type="WD">Q6806312</idno>
+      </org>
+      <org xml:id="ttu_462_org_45">
+        <orgName>medical corps</orgName>
+        <idno type="WD">Q6806312</idno>
+      </org>
+      <org xml:id="ttu_462_org_46">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_47">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_48">
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
+      </org>
+      <org xml:id="ttu_462_org_49">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_50">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_51">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_52">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="ttu_462_org_53">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="ttu_462_org_54">
+        <orgName>United States Army Infantry School</orgName>
+        <idno type="WD">Q4361925</idno>
+      </org>
+      <org xml:id="ttu_462_org_55">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_56">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_57">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_58">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_462_org_59">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_60">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_462_org_61">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_62">
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
+      </org>
+      <org xml:id="ttu_462_org_63">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_64">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_462_org_65">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_67">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_462_org_68">
+        <orgName>1st Squadron, 9th Cavalry Regiment</orgName>
+        <idno type="WD">Q111844723</idno>
+      </org>
+      <org xml:id="ttu_462_org_69">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_70">
+        <orgName>2nd Brigade Combat Team, 1st Infantry Division</orgName>
+        <idno type="WD">Q4633604</idno>
+      </org>
+      <org xml:id="ttu_462_org_71">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_462_org_72">
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
+      </org>
+      <org xml:id="ttu_462_org_73">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_74">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_75">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_76">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_77">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_78">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_79">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_80">
+        <orgName>Company C 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745354</idno>
+      </org>
+      <org xml:id="ttu_462_org_81">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_82">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_83">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_84">
+        <orgName>Company C 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745354</idno>
+      </org>
+      <org xml:id="ttu_462_org_85">
+        <orgName>Wehrmacht</orgName>
+        <idno type="WD">Q128781</idno>
+      </org>
+      <org xml:id="ttu_462_org_86">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_462_org_87">
+        <orgName>United States Army War College</orgName>
+        <idno type="WD">Q635078</idno>
+      </org>
+      <org xml:id="ttu_462_org_88">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="ttu_462_org_89">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_90">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_91">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_92">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_462_org_93">
+        <orgName>United States Marine Corps</orgName>
+        <idno type="WD">Q11218</idno>
+      </org>
+      <org xml:id="ttu_462_org_94">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_95">
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
+      </org>
+      <org xml:id="ttu_462_org_97">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="ttu_462_org_98">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="ttu_462_org_99">
+        <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
+      </org>
+      <org xml:id="ttu_462_org_100">
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
+      </org>
+      <org xml:id="ttu_462_org_102">
+        <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
+      </org>
+      <org xml:id="ttu_462_org_103">
+        <orgName>1st Air Cavalry Brigade, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4596090</idno>
+      </org>
+      <org xml:id="ttu_462_org_104">
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
