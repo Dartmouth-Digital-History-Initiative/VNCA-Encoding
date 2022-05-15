@@ -7,7 +7,7 @@
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Sam Johnson Vietnam Center and Archive</orgName>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -24,7 +24,7 @@
         <bibl xml:id="primary_transcription">
           <respStmt>
             <persName>Mark Steven Varela</persName>
-            <orgName>Sam Johnson Vietnam Center and Archive</orgName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
           <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0462/OH0462.pdf</ref>
@@ -33,7 +33,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Oral History Project of the Sam Johnson Vietnam Center and Archive</p>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -61,7 +61,7 @@
     <body>
       <u who="MILAM"><orgName ref="#ttu_462_org_0">Texas Tech University</orgName> and <orgName ref="#ttu_462_org_1">the Vietnam Center</orgName>. Today I am interviewing <persName ref="#ttu_462_person_0">Tony Nadal</persName>. <persName ref="#ttu_462_person_1">Tony</persName>, I would like to start with you just kind of identifying for us what your responsibilities were, your MOS (Military Occupational Specialty Code),<date when="1965-11-14"> November 14th, 1965</date>.</u>
       <u who="NADAL"> I was the captain commander of <orgName ref="#ttu_462_org_3">Company A, 1st Battalion 7th Cavalry</orgName>.</u>
-      <u who="MILAM">Knowing that’s what you’re going to be doing, leading a company into the <placeName ref="#ttu_462_place_0">Ia Drang Valley</placeName> on <date when="1965-11-14">November 14th</date>, let’s back up a little bit. Let’s go back to when you first joined the 1st <name type="event" ref="#ttu_462_event_0">Air Cav</name>. What <date>month</date> and year did you join?</u>
+      <u who="MILAM">Knowing that’s what you’re going to be doing, leading a company into the <placeName ref="#ttu_462_place_0">Ia Drang Valley</placeName> on <date when="1965-11-14">November 14th</date>, let’s back up a little bit. Let’s go back to when you first joined the <orgName ref="#ttu_462_org_103">1st Air Cav</orgName>. What <date>month</date> and year did you join?</u>
       <u who="NADAL">I joined in <date when="1965-08">August of ’65</date>. I had been in graduate school in <placeName ref="#ttu_462_place_1">Oklahoma</placeName> studying—wait a minute, let me back up, that was wrong. I had just finished the armor career course. I’m an infantry officer but I had been sent to the armor career course. I had gone to finish that course, had gone to <placeName ref="#ttu_462_place_2">Fort Benning</placeName> for pathfinder school and then was home for thirty day leave in <placeName ref="#ttu_462_place_3">Oklahoma</placeName>, on orders to <placeName ref="#ttu_462_place_4">Korea</placeName>, to command a rifle company in <placeName ref="#ttu_462_place_5">Korea</placeName>. I had been to <placeName ref="#ttu_462_place_6">Vietnam</placeName>, prior to the career course as a special forces and  attachment commander and was very interested in going back to <placeName ref="#ttu_462_place_7">Vietnam</placeName>, and if there was a war going on, I’d rather command my company during the wartime than in <placeName ref="#ttu_462_place_8">Korea</placeName>. After many calls to <placeName ref="#ttu_462_place_9">Fort Benning</placeName>—I mean, after many calls to the personnel office of the army, to try to get my assignment change, one day I got an unexpected phone call, about four in the morning and said, “Report to <placeName ref="#ttu_462_place_10">Fort Benning</placeName> in three days.” The reason was <persName ref="#ttu_462_person_2">President Johnson</persName> had decided to send <orgName ref="#ttu_462_org_4">the 1st Cav</orgName> to <placeName ref="#ttu_462_place_11">Vietnam</placeName> and they were in the process of building up the unit. So here they had a guy that wanted to go and on orders to somewhere else and they changed my orders and sent me to the <orgName ref="#ttu_462_org_5">1st Cav</orgName>. When I reported to <placeName ref="#ttu_462_place_12">Fort Benning</placeName>, within that probate two-week period, there was something like, two-three-four thousand officers reporting in at the same time, to fill the division to the full company of officers.</u>
       <u who="MILAM">So you volunteered in the strictest sense of the words for this particular, or for <placeName ref="#ttu_462_place_13">Vietnam</placeName> for a troop command.</u>
       <u who="NADAL">That’s true.</u>
@@ -113,9 +113,9 @@
       <u who="NADAL">No, it was bigger than that. It was several battalions.</u>
       <u who="MILAM">Several battalions? Okay. Enemy contact?</u>
       <u who="NADAL">Very light. I think my rifle company killed the first <orgName ref="#ttu_462_org_36">Viet Cong</orgName> killed by the <orgName ref="#ttu_462_org_37">3rd Brigade</orgName> in a night ambush.</u>
-      <u who="MILAM">So the enemy, was essentially, <orgName ref="#ttu_462_org_38">VC (Viet Cong)</orgName> and there was no evidence of any <orgName ref="#ttu_462_org_39">NVA (North Vietnamese Army)</orgName>  activity on “<orgName ref="#ttu_462_org_40">Silver Bayonet</orgName>”?</u>
+      <u who="MILAM">So the enemy, was essentially, <orgName ref="#ttu_462_org_38">VC (Viet Cong)</orgName> and there was no evidence of any <orgName ref="#ttu_462_org_39">pNVA (North Vietnamese Army)</orgName>  activity on “<name type="event" ref="#ttu_462_event_20">Silver Bayonet</name>”?</u>
       <u who="NADAL">Not that early on.</u>
-      <u who="MILAM">You get about six weeks then, it sounds to me like, including an operation like “<orgName ref="#ttu_462_org_41">Silver Bayonet</orgName>” with your company, with your <orgName ref="#ttu_462_org_42">Alpha Company</orgName>. Was your <orgName ref="#ttu_462_org_43">Alpha Company</orgName> up to TOE (Table of Organization and Equipment)?</u>
+      <u who="MILAM">You get about six weeks then, it sounds to me like, including an operation like “<name type="event" ref="#ttu_462_event_21">Silver Bayonet</name>” with your company, with your <orgName ref="#ttu_462_org_42">Alpha Company</orgName>. Was your <orgName ref="#ttu_462_org_43">Alpha Company</orgName> up to TOE (Table of Organization and Equipment)?</u>
       <u who="NADAL">No.</u>
       <u who="MILAM">What percent would you say?</u>
       <u who="NADAL">Probably seventy-five to eighty percent because couple of things happened. We took with us any solider who had, I think it was, two months left in the army was directed to go to <placeName ref="#ttu_462_place_32">Vietnam</placeName>. So, we carried with us a whole bunch of soldiers that we knew that we were going to rotate back home shortly after we got there. The other thing that happened was- not only to us, but the whole division, we got hit by a type malaria called “Falciparum Malaria”, which the <placeName ref="#ttu_462_place_33">US</placeName> medical, the <orgName ref="#ttu_462_org_44">Army Medical Corps</orgName> was unprepared for. I think there was intelligence failure of the <orgName ref="#ttu_462_org_45">Medical Corps</orgName>, medical intelligence. The anti-malaria tablet they gave us, which was primaquine, was ineffective against this type of malaria. It was very, very violent and very serious. This went to the brain and one of the first causalities of this was my forward observer. Young man that eventually died next to me in <placeName ref="#ttu_462_place_34">Bong Son</placeName>, but he was evacuated all the way back to <placeName ref="#ttu_462_place_35">Hawaii</placeName>. Temperatures above a hundred-and-four and it was bad, bad, bad.</u>
@@ -184,7 +184,7 @@
       <u who="MILAM">Tell me about the first—your observations of the first reactions of your troops to enemy fire.</u>
       <u who="NADAL">Hit the ground and started firings sort of wildly in the direction of the enemy. Let me give you a sequence of events of what happened. 1st Platoon lands and goes over to the left. The 2nd Platoon lands, goes between the 1st Platoon and <orgName ref="#ttu_462_org_82">B Company</orgName>. The 3rd Platoon lands, and <orgName ref="#ttu_462_org_83">B Company</orgName> has sort of moved out, so the 3rd Platoon lands and becomes my right-flank platoon. Actually, I got the 3rd Platoon in place, I hear intense enemy fire coming from the 1st Platoon area because the creek bed came down right into where the 1st Platoon was and there were in an L shape position, open flank over here because <orgName ref="#ttu_462_org_84">C Company</orgName> hadn’t arrived yet and the enemies was coming out of creek bed. They get into a heavy fire fight but I'm not hearing much on the radios, about what’s happening. So my radar operators and I, and the FOs (Forward Observers), we go across the <placeName ref="#ttu_462_place_50">landing zone</placeName> and I'm looking for the platoon leaders. The <placeName ref="#ttu_462_place_51">landing zone</placeName> is grassy. There is grass about this high (Editor’s note: Interviewee shows height using his arms) which is a key factor in this fight for the next three days because when someone goes to ground, you can’t see them. We couldn’t see the enemy and they couldn’t see us if we we’re laying down in this grass. As I'm moving over there, I sort of stumble up on the Platoon Sergeant, <persName ref="#ttu_462_person_34">Sergeant Nathan</persName>. I said, “Where’s <persName ref="#ttu_462_person_35">Lieutenant Taft</persName>?” He said, “<persName ref="#ttu_462_person_36">Lieutenant Taft</persName> is dead.” I said, “Well, where is he?”</u>
       <u who="MILAM">Which platoon was he?</u>
-      <u who="NADAL">He was 1st Platoon—excuse me, 3rd Platoon. I said, “Well, where is he?” He said, “He’s in the creek bed.” They had pulled back from the creek bed due to the enemy fire. As the book points out, one of my machine gunners went back, had a lot to do with holding that sector by staying in the fight even after his—he was assistant machine gunner and his machine gunner was shot in the head. <persName ref="#ttu_462_person_37">Bill</persName> reaches over puts the guy’s brains back in his head and the guy survived. One of the things that I believe in, one of the things <persName ref="#ttu_462_person_38">Hal Moore</persName> believes in, one of the things I told my soldiers all the time was “We’re not going to leave any one of you behind.” I went forward to the creek bed; my radio operator and I went forward to bring back <persName ref="#ttu_462_person_39">Lieutenant Taft</persName>. He was still in the creek bed; they were throwing grenades at me. They were little, tiny potato mashers sort of grenades like the <orgName ref="#ttu_462_org_85">Germans</orgName> had in <name type="event" ref="#ttu_462_event_15">World War II</name>, with a little tiny hat like that. When I was in the creek bed, I see them going off on the edge of the creek bed. When I was there, I found another solider. <persName ref="#ttu_462_person_40">Taft</persName> was dead, but there was another solider there who was shot in the gut, who also got left behind. I did this backwards, but I should’ve brought the other solider back first, but I brought Taft back and then <persName ref="#ttu_462_person_41">Sergeant Gillam</persName>, my radio operator, and I went back and brought the other solider back.</u>
+      <u who="NADAL">He was 1st Platoon—excuse me, 3rd Platoon. I said, “Well, where is he?” He said, “He’s in the creek bed.” They had pulled back from the creek bed due to the enemy fire. As the book points out, one of my machine gunners went back, had a lot to do with holding that sector by staying in the fight even after his—he was assistant machine gunner and his machine gunner was shot in the head. Bill reaches over puts the guy’s brains back in his head and the guy survived. One of the things that I believe in, one of the things <persName ref="#ttu_462_person_38">Hal Moore</persName> believes in, one of the things I told my soldiers all the time was “We’re not going to leave any one of you behind.” I went forward to the creek bed; my radio operator and I went forward to bring back <persName ref="#ttu_462_person_39">Lieutenant Taft</persName>. He was still in the creek bed; they were throwing grenades at me. They were little, tiny potato mashers sort of grenades like the <orgName ref="#ttu_462_org_85">Germans</orgName> had in <name type="event" ref="#ttu_462_event_15">World War II</name>, with a little tiny hat like that. When I was in the creek bed, I see them going off on the edge of the creek bed. When I was there, I found another solider. <persName ref="#ttu_462_person_40">Taft</persName> was dead, but there was another solider there who was shot in the gut, who also got left behind. I did this backwards, but I should’ve brought the other solider back first, but I brought Taft back and then <persName ref="#ttu_462_person_41">Sergeant Gillam</persName>, my radio operator, and I went back and brought the other solider back.</u>
       <u who="MILAM">You say you should’ve brought him back because—</u>
       <u who="NADAL">One was dead, and one was alive.</u>
       <u who="MILAM">In reading then <persName ref="#ttu_462_person_42">Colonel Moore</persName>’s after action report, he talks about—not this specific instance, but he talks about that issue of the dead holding up the living from being able to, not exactly operate, but I think it’s more of what you described to me that decision that has to be made on—</u>
@@ -194,7 +194,7 @@
       <u who="MILAM">Because the units that came in after that, that went to replacements, suffered so much because nobody cared about anybody else, they were all in it themselves. That’s a blanket statement and I shouldn’t make it that way, but you and I know both know what we’re talking about here.</u>
       <u who="NADAL">Yeah. I don’t even know my background beyond this thing, but I’ve spent the major portion of my career, when I was not commanding, I was studying leadership or teaching leadership or revising army leadership. The issues of cohesion and how you lead soldiers and all that is close and dear to my heart.</u>
       <u who="MILAM">You’re a psychologist too, right?</u>
-      <u who="NADAL">Right. I lectured at <placeName ref="#ttu_462_place_53">West Point</placeName>, lectured at <orgName ref="#ttu_462_org_87">the Army War College</orgName>, I have in the past, anyway. Everything from <orgName ref="#ttu_462_org_88">ROTC</orgName> to battalions, to infantry battalions. In <placeName ref="#ttu_462_place_54">Germany</placeName>, I have this presentation I give which is called, “Leadership in Combat and Small Unit Operations” because I talk about rifle companies and the experience of a solider when he first goes into combat and the psychology of being in combat. What do they expect from the leader and how does the leader respond and all that.</u>
+      <u who="NADAL">Right. I lectured at <orgName ref="#ttu_462_org_104">West Point</orgName>, lectured at <orgName ref="#ttu_462_org_87">the Army War College</orgName>, I have in the past, anyway. Everything from <orgName ref="#ttu_462_org_88">ROTC</orgName> to battalions, to infantry battalions. In <placeName ref="#ttu_462_place_54">Germany</placeName>, I have this presentation I give which is called, “Leadership in Combat and Small Unit Operations” because I talk about rifle companies and the experience of a solider when he first goes into combat and the psychology of being in combat. What do they expect from the leader and how does the leader respond and all that.</u>
       <u who="MILAM">Let’s talk a little bit about when <persName ref="#ttu_462_person_44">Taft</persName> goes down. The leadership of that platoon falls to the platoon sergeant.</u>
       <u who="NADAL"><persName ref="#ttu_462_person_45">Sergeant Nathan</persName>.</u>
       <u who="MILAM">Was it evident to you that that worked the way it’s supposed to, that it’s the next man takes over?</u>
@@ -256,7 +256,7 @@
       <u who="MILAM">Right.</u>
       <u who="NADAL">When I came out of <placeName ref="#ttu_462_place_63">Vietnam</placeName>, I thought I had this covered wisdom, you know, about battle and soldiers and everything, most of it was in those books. But no one had ever steered me in that direction. I think and still as far as I know, in army—</u>
       <u who="MILAM">I know <orgName ref="#ttu_462_org_100">West Point</orgName> made an effort during that time to start teaching the humanities, start teaching some things that were not just engineering.</u>
-      <u who="NADAL">Well no, I taught there, I taught in that department. The department of behavioral sciences and leadership. When I came—when I finished graduate school, that’s where I went for three years. To teach up there. Again, I’ve a lot of time to think and study, and I must’ve read more about small unit combat in the last thirty years than any other human being. I like to think that I have stuff stored in my head that is useful. Plus, experiences of <orgName ref="#ttu_462_org_101">LZ X-Ray</orgName> that we haven’t even started to cover yet.</u>
+      <u who="NADAL">Well no, I taught there, I taught in that department. The department of behavioral sciences and leadership. When I came—when I finished graduate school, that’s where I went for three years. To teach up there. Again, I’ve a lot of time to think and study, and I must’ve read more about small unit combat in the last thirty years than any other human being. I like to think that I have stuff stored in my head that is useful. Plus, experiences of <name type="event" ref="#ttu_462_event_19">LZ X-Ray</name> that we haven’t even started to cover yet.</u>
       <u who="MILAM">Well, that’s for sure and I want to do that. In addition, I also teach military history and <name type="event" ref="#ttu_462_event_18">the Vietnam War</name> at <orgName ref="#ttu_462_org_102">Texas Tech University</orgName>, so if we get you out there for an interview, I’ll get you in on the a lecture circuit and we’ll get you into my classroom.</u>
       <u who="NADAL">I would love to do that.</u>
       <u who="MILAM">You’re a person that we need to tap those resources because this is such a pivotal part of this battle and I don’t know if anyone had more a pivotal part than you did in it. I would like to go on and on and on. In fact, I'm not a professional oral historian, I'm a professor but at the same time, I may ask for this interview myself so we can continue again—</u>
@@ -425,9 +425,6 @@
       <place xml:id="ttu_462_place_52">
         <placeName>Iraq</placeName>
       </place>
-      <place xml:id="ttu_462_place_53">
-        <placeName>West Point</placeName>
-      </place>
       <place xml:id="ttu_462_place_54">
         <placeName>Germany</placeName>
       </place>
@@ -460,9 +457,6 @@
       </place>
     </listPlace>
     <listEvent>
-      <event xml:id="ttu_462_event_0">
-        <desc>Air Cav</desc>
-      </event>
       <event xml:id="ttu_462_event_1">
         <desc>World War II</desc>
       </event>
@@ -516,6 +510,15 @@
       </event>
       <event xml:id="ttu_462_event_18">
         <desc>the Vietnam War</desc>
+      </event>
+      <event xml:id="ttu_462_event_19">
+        <desc>LZ X-Ray</desc>
+      </event>
+      <event xml:id="ttu_462_event_20">
+        <desc>Silver Bayonet</desc>
+      </event>
+      <event xml:id="ttu_462_event_21">
+        <desc>Silver Bayonet</desc>
       </event>
     </listEvent>
     <listPerson>
@@ -629,9 +632,6 @@
       </person>
       <person xml:id="ttu_462_person_36">
         <persName>Lieutenant Taft</persName>
-      </person>
-      <person xml:id="ttu_462_person_37">
-        <persName>Bill</persName>
       </person>
       <person xml:id="ttu_462_person_38">
         <persName>Hal Moore</persName>
@@ -778,12 +778,6 @@
       </org>
       <org xml:id="ttu_462_org_39">
         <orgName>NVA (North Vietnamese Army)</orgName>
-      </org>
-      <org xml:id="ttu_462_org_40">
-        <orgName>Silver Bayonet</orgName>
-      </org>
-      <org xml:id="ttu_462_org_41">
-        <orgName>Silver Bayonet</orgName>
       </org>
       <org xml:id="ttu_462_org_42">
         <orgName>Alpha Company</orgName>
@@ -956,11 +950,14 @@
       <org xml:id="ttu_462_org_100">
         <orgName>West Point</orgName>
       </org>
-      <org xml:id="ttu_462_org_101">
-        <orgName>LZ X-Ray</orgName>
-      </org>
       <org xml:id="ttu_462_org_102">
         <orgName>Texas Tech University</orgName>
+      </org>
+      <org xml:id="ttu_462_org_103">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="ttu_462_org_104">
+        <orgName>West Point</orgName>
       </org>
     </listOrg>
   </standOff>
