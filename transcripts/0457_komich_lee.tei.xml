@@ -7,7 +7,7 @@
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Sam Johnson Vietnam Center and Archive</orgName>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -24,7 +24,7 @@
         <bibl xml:id="primary_transcription">
           <respStmt>
             <persName>Mark Steven Varela</persName>
-            <orgName>Sam Johnson Vietnam Center and Archive</orgName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
           <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0457/OH0457.pdf</ref>
@@ -33,7 +33,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Oral History Project of the Sam Johnson Vietnam Center and Archive</p>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
