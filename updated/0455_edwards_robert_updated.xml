@@ -1,0 +1,1034 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_455">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Robert Edwards</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        </authority>
+        <date>
+          
+        </date>
+        <idno type="DDHI">ttu_455</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="video" dur-iso="00:50:51">
+            
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0455/OH0455.mp4" mimeType="video/mp4" />
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0455/OH0455.pdf</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="EDWARDS" />
+        <person xml:id="VERRONE" />
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2005-11-10" />
+          <locale />
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="VERRONE">This is <persName ref="#ttu_455_person_0">Dr. Richard Verrone</persName>, I’m conducting a video-oral history interview with Mr. <persName ref="#ttu_455_person_1">Robert H. Bob Edwards</persName>.</u>
+      <u who="EDWARDS">I prefer <persName ref="#ttu_455_person_2">Bob</persName>.</u>
+      <u who="VERRONE">Prefer <persName ref="#ttu_455_person_3">Bob</persName>. <persName ref="#ttu_455_person_4">Colonel Edwards</persName> and I are in <placeName ref="#ttu_455_place_0">Washington, D.C.</placeName>, at the <placeName ref="#ttu_455_place_1">Hilton Crystal City</placeName>. We’re here for the 40th Anniversary of <name type="event" ref="#ttu_455_event_0">Ia Drang-Pleiku</name> reunion. As well as the  <orgName ref="#ttu_455_org_0">1st Cav Division</orgName> reunion. Today is <date when="2005-11-10">November 10th, 2005</date>. <persName ref="#ttu_455_person_5">Bob</persName>, let’s start with a little bit about yourself.</u>
+      <u who="EDWARDS">How far back? (Chuckles)</u>
+      <u who="VERRONE">Well, since we’re time limited, tell me about the training for you personally. Becoming this officer, the company commander and working with <persName ref="#ttu_455_person_6">General Moore</persName> back in <placeName ref="#ttu_455_place_2">Benning</placeName> and training up in <placeName ref="#ttu_455_place_3">Vietnam</placeName>.</u>
+      <u who="EDWARDS">Okay. I got—I was commissioned out a <orgName ref="#ttu_455_org_1">ROTC</orgName> program in <date when="1960">1960</date>. Served a three-year tour in Europe. Got to <placeName ref="#ttu_455_place_4">Fort Benning</placeName> in <date when="1964-01">January of ’64</date>, as a promotable 1st Lieutenant. They put me in the brigade headquarters, assistant staff officer out on <placeName ref="#ttu_455_place_37">Kelly Hill</placeName>. About that time, the <orgName ref="#ttu_455_org_2">2nd battalion 23rd Infantry</orgName> was tapped to be loaned from the <orgName ref="#ttu_455_org_3">2nd Infantry Division</orgName> to the <orgName ref="#ttu_455_org_4">11th Air Assault Division</orgName> for the air assault air mobility testing. To do that, they needed soldiers and officers with retainability that weren’t going to be moved for a while. So the then commander of the battalion, <persName ref="#ttu_455_person_8">Lieutenant Colonel—for the life of me I can’t remember of his first name, Conger</persName>. Came by one day and said, “How would you like to command a rifle company?” I said, “Lead me to it.” So on <date when="1964-04">April of ’64</date>, I took command of <orgName ref="#ttu_455_org_5">C Company 2nd Battalion, 23rd Infantry</orgName>. I got promoted to captain in early <date when="1964-04">May</date>. Then in <date when="1964-06">June</date> or late June, early <date when="1964-07">July</date>, then <persName ref="#ttu_455_person_9">Lieutenant Colonel Moore</persName> arrived to take command of the battalion.</u>
+      <u who="VERRONE">What do you remember about <persName ref="#ttu_455_person_10">Moore</persName> these first few days and the mood he set?</u>
+      <u who="EDWARDS">(Chuckles) If you ask General <persName ref="#ttu_455_person_11">Moore</persName>, he’ll say, “Don’t let <persName ref="#ttu_455_person_12">Bob Edwards</persName> tell stories about me.” My first real impression of <persName ref="#ttu_455_person_13">Colonel Moore</persName>, let’s call him <persName ref="#ttu_455_person_14">Colonel Moore</persName> because that’s was what he was. We were having a, what they called a miniature review, a parade essentially without troops. Battalion commander, staff, color guard, guys on guidon bearers. We get out on the parade field, <persName ref="#ttu_455_person_15">Colonel Moore</persName> looks around and says, “Who is the senior company commander?” We had an aviator at the time serving the ground tour. I said, “I am.” He said, “Inspect the company commanders!” And four jaws went (Opens jaw to interviewer) like that (Laughs). That set the mood! He was absolutely no nonsense, but absolutely as fair as you can be. You always knew where you stood. We went from there; we went into the extensive air assault training program at <placeName ref="#ttu_455_place_5">Benning</placeName>. Culminated in the big air assault test in the <placeName ref="#ttu_455_place_6">Carolinas</placeName>, in the fall of <date when="1964">’64</date>. Ended up in <date when="1965">’65</date> and continued training and the rumors start floating around about being deployed and that sort of thing. And then we were deployed.</u>
+      <u who="VERRONE">What did you think about that? Is this what you wanted to get into this situation like that?</u>
+      <u who="EDWARDS">Oh absolutely! By the spring of <date when="1965">’65</date>, I’d commanded the company for almost a year! We had the same guys. The same officers, same sergeants, same soldiers.</u>
+      <u who="VERRONE">Very tight?</u>
+      <u who="EDWARDS">Oh yeah, the company was tight and the whole battalion was tight. I came out on orders to Captain Little Schooling, which was then called the Career Course, and they said, “You can stay with the company, or you can go to career course. We can’t tell you what’s going to happen, but those are your choices.” So I talked to the battalion exec then, <persName ref="#ttu_455_person_17">Mac McCall</persName>. He said, “I can’t tell you what’s going on, but you’re really ought to think about staying with the company. So I said yeah. I can always go to the career course; I want to stay with the company. The rest ends up in the book.</u>
+      <u who="VERRONE">Well, let’s cut to <date when="1965-11">November ’65</date>. You guys are over there, you’re ready to go. What did you understand, as one of <persName ref="#ttu_455_person_18">Moore</persName>’s company’s commanders, what did he demanded of you all in the field? What was it there that he wanted you to do?</u>
+      <u who="EDWARDS">Well, the first thing he wanted you to do, is if he called you on the radio, he didn’t want your radio operator answer, he wanted you to answer. But that wasn’t just in <placeName ref="#ttu_455_place_7">Vietnam</placeName>, that was from day one whenever we were in the field. But other than that, he would give you a mission and he wouldn’t tell you how to do it. He’d give you guidance and support and all that other good stuff, but he would not be real restrictive. He was just a super commander.</u>
+      <u who="VERRONE">Tell me about him at <placeName ref="#ttu_455_place_8">X-Ray</placeName>. What do you remember about <date when="1965-11-14">November 14th</date>, and getting in there? Because I know you came in and you were immediately deployed to a blocking position and you got your men set up, and within twenty minutes, the attack came and you all held off, how many? Hundreds? Of <orgName ref="#ttu_455_org_6">North Vietnamese</orgName> attackers? He tells you, “Here’s what you got to do, go!” </u>
+      <u who="EDWARDS">And that was it!</u>
+      <u who="VERRONE">He said this morning you jumped three feet into the air, running!</u>
+      <u who="EDWARDS">Well, that may be true.</u>
+      <u who="VERRONE">What did it actually look like when you came in? And tell me about that moment.</u>
+      <u who="EDWARDS"><orgName ref="#ttu_455_org_7">C company</orgName> was the third company in. By monitoring the battalion command, you knew that this was not an ordinary, calm place to be. You knew that the first two companies in were engaged. You knew or I knew that our mission was going to change and that wasn’t difficult to accept, because we had practiced that through all of our <placeName ref="#ttu_455_place_9">Benning</placeName> years. I remember—I distinctively remember seeing it as we came in on what the aviators would call “Short final, looking down at the <placeName ref="#ttu_455_place_10">landing zone</placeName>.” And there’s dust, and smoke and there’s a few explosions of probably RPGs (Rocket-Propelled Grenades) but maybe mortars. So it tends to get your adrenaline up. From that point on, as I'm quoted in the book, it was trained soldiers who were confident of their leaders. Responding without question and doing what they were told to do. That’s what enabled me with ninety percent of my company on that first lift. Take it in, get a quick order, go block and tell the platoon leaders, “You’re on the right, you’re in the center, and you’re in the left. Let’s set up a blocking position.”</u>
+      <u who="VERRONE">And you did it.</u>
+      <u who="EDWARDS">We did it and it really got noisy. I mean, <persName ref="#ttu_455_person_117">General Moore</persName> says that at some point, that he had never heard the volume of gunfire in two wars that he heard in <placeName ref="#ttu_455_place_11">X-Ray</placeName>. It was, it was just indescribable. It sounded like everybody that had a gun on both sides was firing.</u>
+      <u who="VERRONE">Is that when you went to the blocking position, and that’s how—</u>
+      <u who="EDWARDS">Yes.</u>
+      <u who="VERRONE">Tell me about that attack. What is a frontal assault? These wave attacks by the <orgName ref="#ttu_455_org_9">NVA (North Vietnamese Army)</orgName> pattern. What does that look like and feel like?</u>
+      <u who="EDWARDS">It’s very simply a bunch of guys deployed down on the ground and here comes a bunch of guys on the other side in different uniforms, running at you. We were just shooting as fast as we can. The amazing thing is, you have to give those guys credit, they didn’t have artillery backing them up. They didn’t have—if they were wounded, they had a very slim chance of being medevac or evac to any type of medical facility. But they attacked and kept attacking until finally we killed enough of them that they backed off late that afternoon.</u>
+      <u who="VERRONE">What did you do personally? Tell me you were controlling your platoons.</u>
+      <u who="EDWARDS">Right. Controlling the platoons. Very worried initially about my left flank because at first it was nobody over there. So when I was confident that the platoons were holding, I got up and around and I knew that <persName ref="#ttu_455_person_19">Ray Lefebvre</persName> had been wounded. He had turn control of <orgName ref="#ttu_455_org_10">Delta Company</orgName> over to the anti-tank platoon sergeant who was functioning as a rifle platoon. Found him, got <persName ref="#ttu_455_person_20">Colonel Moore</persName>’s permission to put them on my left flank. Although they weren’t attached to me, that gave us four platoons on the southern and southeastern side of the perimeter. Doing all that, I found out that the rifle company mortars, which were supposed to be upon landing consolidated with the <orgName ref="#ttu_455_org_33">Delta Company</orgName> mortars, nobody had taken charge of them so I got, again <persName ref="#ttu_455_person_21">Colonel Moore</persName>’s permission to put all the mortars under my mortars section sergeant’s control.</u>
+      <u who="VERRONE">How are you thinking? Are you thinking that this is the going to make the best blocking force, I got to secure my left flank? Is this all going through your mind?</u>
+      <u who="EDWARDS">Oh yeah.</u>
+      <u who="VERRONE">Are you like, “Okay, I got to get this guy, I got to go back and organize the mortars.”?</u>
+      <u who="EDWARDS">I wasn’t consciously thinking of that, it was something I discovered in moving around the battlefield and trying to, well making sure my platoons were doing alright. Then thinking of a little bit broader picture about, you know, I got an open left flank, what can we do to help that? I didn’t sit down and say, “Hmm, what should I do next to make this thing better?”</u>
+      <u who="VERRONE"><persName ref="#ttu_455_person_22">Jack Geoghegan</persName>’s platoon was there on your left flank, is that right? For <orgName ref="#ttu_455_org_11">Alpha Company</orgName> there? Is <orgName ref="#ttu_455_org_12">Alpha</orgName> on your left?</u>
+      <u who="EDWARDS"><orgName ref="#ttu_455_org_13">Alpha Company</orgName> as I faced out, was on my right. It was my 3rd Platoon with <persName ref="#ttu_455_person_23">Bill Franklin</persName> as platoon leader. The 1st Platoon in the center with <persName ref="#ttu_455_person_24">Neil Kroger</persName> and then <persName ref="#ttu_455_person_25">Jack Geoghegan</persName> in the 2nd Platoon on the left. Then nothing, until the <orgName ref="#ttu_455_org_14">Delta Company</orgName> and my tank were filled into <persName ref="#ttu_455_person_26">Jack</persName>’s left.</u>
+      <u who="VERRONE">Tell me about <persName ref="#ttu_455_person_27">Jack Geoghegan</persName> briefly.</u>
+      <u who="EDWARDS">A very talented, levelheaded, for a lack of a better word, cool guy. He was in control, he was always looking out for the troops, his platoon. They really respected and followed him. You couldn’t ask for a better officer. But that kind of description also applies to <persName ref="#ttu_455_person_28">Neil Kroger</persName> and <persName ref="#ttu_455_person_29">Bill Franklin</persName> and—</u>
+      <u who="VERRONE">I was going to ask you about them as well.</u>
+      <u who="EDWARDS">I was blessed with three great platoon leaders and all ironically from kind of different backgrounds. <persName ref="#ttu_455_person_30">Jack</persName> was a graduate of what is in <orgName ref="#ttu_455_org_15">Pennsylvania Military College</orgName>. He had kind of, almost from day one as a young college student had been immersed in the military. You know, <persName ref="#ttu_455_person_31">Kroger</persName> was an <orgName ref="#ttu_455_org_16">OCS (Officer Candidate School)</orgName> graduate but a super officer. <persName ref="#ttu_455_person_32">Bill Franklin</persName> had had some enlisted time, then went to <orgName ref="#ttu_455_org_17">OCS</orgName>, was a couple of years older than them, he was married, had one or two kids. But he was a solid guy too.</u>
+      <u who="VERRONE">Knowing this, you had three great lieutenants there. What does that do for a captain? In the heat of something like that.</u>
+      <u who="EDWARDS">Well you know you can count on these guys to do what they’re supposed to do. There was nobody out there that I had to worry about making a mistake. But that could be said about the platoon sergeants, the squad leaders, and the soldiers. The guys in that company, you can count on them to do what they were supposed to do and they demonstrated it.</u>
+      <u who="VERRONE">Moore described you all this morning as a “Tight family” that you can rely upon without question.</u>
+      <u who="EDWARDS">Absolutely. We had—most of us had been together from the spring of <date when="1964">’64</date>. Obviously, there was a few changes. But spending that much time together, and we spent probably more time on the field from, say <date when="1964-06">June of ’64</date> through <date when="1965-03">March of ’65</date> in any other unit. A lot of places, a lot of posts, periodically, units will be detailed to post support action details. The <orgName ref="#ttu_455_org_18">11th Air Assault Division</orgName> because the mission had been given to test the air mobility concept pulled none of those details. So our soldiers were always there and we were always training. I don’t know whether <persName ref="#ttu_455_person_33">General Moore</persName> told you, but for several months starting in <date when="1964-06">June</date> or <date when="1964-07">July of ’64</date>, until we went on the air assault tests, we would either walk or fly out into the training area every Monday morning. Come in either Wednesday night or Thursday morning. Clean up that day, have an inspection and on Saturday get the warning order and the order for the next week’s training exercise.</u>
+      <u who="VERRONE">It was constant?</u>
+      <u who="EDWARDS">It was constant.</u>
+      <u who="VERRONE">Talk about unit cohesion because this continues through the war.</u>
+      <u who="EDWARDS">It makes all the difference in the world. <persName ref="#ttu_455_person_34">General Moore</persName>’s description of family pretty well sums it up. You spend so much time with these guys, that they become part of your family. As such, you know their quirks, you recognize their voices on the radio, you know what their capable of doing. There are instances where frag orders would be issued by either <persName ref="#ttu_455_person_35">Colonel Moore</persName> or <persName ref="#ttu_455_person_36">Matt Dillon</persName> something to the effect of, “You remember how we did such and such operation out on the <placeName ref="#ttu_455_place_13">Upatoi Creek</placeName>? Well this time hotwire you do what fire chief did and fire chief you do what Jolly Rodger did.”</u>
+      <u who="VERRONE">It all comes together.</u>
+      <u who="EDWARDS">It all comes together because you remember who did what and when.</u>
+      <u who="VERRONE">Let me ask you about a few individuals and tell me how you remember them then. How you would describe them. <persName ref="#ttu_455_person_38">Sergeant Major Plumley</persName>.</u>
+      <u who="EDWARDS">The rock of the battalion. Nobody messed with the <persName ref="#ttu_455_person_39">Sergeant Major</persName>. The Company commanders could go to him with an NCO (Non-Commissioned Officer) problem and it wouldn’t go any further. But he would say, “Well you really ought to do is this and that or give him another chance or that’s it.” That’s another—we get back to the 11th and he didn’t post any post support details. Normally, the process of getting rid of a solider or sergeant in any unit is complicated as can be. In the 11th, it was if the company commander wanted you gone, you were gone that day.</u>
+      <u who="VERRONE">What was <persName ref="#ttu_455_person_40">Plumley</persName> like at <placeName ref="#ttu_455_place_14">X-Ray</placeName>? When you got there, and you were able to finally make some contact with him after that first action was over. What do you remember about him that day?</u>
+      <u who="EDWARDS">I frankly don’t have any specific recollections about dealing with the Sergeant Major and in fact, after my initial encounter on landing with <persName ref="#ttu_455_person_41">Colonel Moore</persName> when he said, “Go block.” And a couple of brief conversations about “Can I put the NI tank on my left?” and “Do you have any problem with me consolidating the mortars under Sergeant Matos?” I didn’t have any physical contact with <persName ref="#ttu_455_person_43">Moore</persName>. We would talk on the radio, “How you’re doing? What do you need?” But I was doing okay, and he didn’t need to give me anything. If I needed it, I’m sure I would’ve got. He had a lot of problems that he had to deal with. He had a platoon that’s isolated from his company. He’s got for a while, an exposed portion of his perimeter. He’s got a <placeName ref="#ttu_455_place_15">landing zone</placeName> that’s too hot to bring in anything for a while. So he didn’t need any more problems.</u>
+      <u who="VERRONE">How often would he check in with you on the radio? I mean was this, after that first blocking action went in, is this something like every twenty minutes, fifteen minutes, or every hour? Especially going into the evening.</u>
+      <u who="EDWARDS">I don’t think you can assign a time interval to it. He would check in and I think his philosophy was “If I don’t hear it from <persName ref="#ttu_455_person_44">Bob</persName> that he needs something, he’s doing alright.” And the same with <persName ref="#ttu_455_person_45">John</persName> and <persName ref="#ttu_455_person_46">Tony</persName>.</u>
+      <u who="VERRONE">Tell me about <persName ref="#ttu_455_person_47">Henry Herrick</persName>’s Platoon. What was the fallout? When you got there and found out what happened, I mean I guess you knew this before you arrived. You’re on the fourth flight in. Did you know about it before you got there?</u>
+      <u who="EDWARDS">I knew simply by monitoring the battalion command. I knew that—and I don’t think I knew that it was <persName ref="#ttu_455_person_48">Herrick</persName>’s Platoon. I knew that a <orgName ref="#ttu_455_org_19">B Company</orgName> Platoon was isolated. But frankly, I had some issues of my own that I was going to deal with. So it was <persName ref="#ttu_455_person_49">John Herren</persName>’s Platoon and he has to worry about that, and <persName ref="#ttu_455_person_50">Colonel Moore</persName> has to worry about it. But I couldn’t do anything to help them, so I better worry about my own guys.</u>
+      <u who="VERRONE">What—a lot has been said about that maneuver, chasing that far out. Obviously, it was a mistake in the circumstances, what were your thoughts that night? Did you—</u>
+      <u who="EDWARDS">Again, I was focused on what my guys were doing. Even now, years later you could go back and say, “Well you know, was it a mistake or not?” You got to realize that not only <persName ref="#ttu_455_person_51">Herrick</persName>’s decision to do what he did, but for example my decision not to dig in but to maintain a very quiet place. If I had—if he had the luxury of going back and redoing it, you would’ve done a lot of things differently. Mainly we wouldn’t have gone into <placeName ref="#ttu_455_place_16">X-Ray</placeName> at the first place, if we knew we were going to run into two regiments of <orgName ref="#ttu_455_org_20">NVA</orgName>. </u>
+      <u who="VERRONE">Right.</u>
+      <u who="EDWARDS">But on the battlefield, these decisions need to be made instantaneously. You don’t have the luxury to do a big analysis.</u>
+      <u who="VERRONE">Tell me about <persName ref="#ttu_455_person_52">Joe Galloway</persName>. He’s in a unique situation. This guy’s out there and he’s the only reporter out there that night. He’s got experience with you guys, he’s been out in the field with you marching, he’s got <persName ref="#ttu_455_person_53">Moore</persName>’s respect, from what both of them say. Tell me about <persName ref="#ttu_455_person_54">Galloway</persName> being out there on the night of the <date when="1965-11-14">14th</date>. You were wounded on the <date when="1965-11-15">15th</date>.</u>
+      <u who="EDWARDS">Well again, <persName ref="#ttu_455_person_55">Joe</persName> stayed with <persName ref="#ttu_455_person_56">Colonel Moore</persName> wherever <persName ref="#ttu_455_person_57">Colonel Moore</persName> was in the CP (Command Post) or wherever. I don’t recall ever talking directly with <persName ref="#ttu_455_person_58">Joe</persName> that night. It had to take—it had to take a lot of guts for a guy who didn’t have to be there. Whom had not sworn to obey the orders of the president and the officers appointed over him. He could have easily caught a helicopter out.</u>
+      <u who="VERRONE">Because he did not do that, has that separated him in your mind?</u>
+      <u who="EDWARDS">The only thing that sets <persName ref="#ttu_455_person_59">Joe</persName> apart from all the other officers and sergeants, and soldiers in the battalion to this day, is that he didn’t wear uniform. He is considered a member of the <orgName ref="#ttu_455_org_21">1st and the 7th</orgName>.</u>
+      <u who="VERRONE">Talk about the night of the <date when="1965-11-14">14th</date>. What do you remember?</u>
+      <u who="EDWARDS">Nobody got any sleep. Everybody was waiting for the proverbial next shoe to drop. There was some nervous firing at shadows going on. I don’t know whether <persName ref="#ttu_455_person_60">Matt Dillon</persName> has signed up for an interview,</u>
+      <u who="VERRONE">I talked to him this morning.</u>
+      <u who="EDWARDS">Okay, he may have told you the story about <persName ref="#ttu_455_person_61">Tony Nadal</persName>’s M79 grenade launcher, “If he fires once more, I’m coming there and sticking that thing in a place where it doesn’t belong.”</u>
+      <u who="VERRONE">Yes. He absolutely talked about that.</u>
+      <u who="EDWARDS">So those kinds of things characterized that whole night. They did some efforts—some illumination. The majority opinion was the illumination was hurting more than it was helping, so keep the illumination turned off.</u>
+      <u who="VERRONE">Why was that? Why did you all feel that way?</u>
+      <u who="EDWARDS">I don’t know. You’re there, you’re down in the ground and it’s nice and dark, and you’re kind of accustomed to it and then oh god! All of the sudden it’s light! Now that you think back, it was probably, “Okay! Either you keep it on constantly all the time” So we’re always dealing with this illumination situation or turn it off so were dealing with the dark situation. But don’t pop one, light up the area for a minute or two and it goes dark again.</u>
+      <u who="VERRONE">Keep it going or turn it off. Did you go around that night and talk to your troopers? What did you say to them?</u>
+      <u who="EDWARDS">You know, “How you doing? You guys did a hell of a job this afternoon. Keep it up.” You bond with them. You go out and make sure they know they ain’t out there alone. That somebody is considered about them and somebody is backing them up.</u>
+      <u who="VERRONE"><persName ref="#ttu_455_person_62">Franklin</persName>, <persName ref="#ttu_455_person_63">Kroger</persName>, and <persName ref="#ttu_455_person_64">Geoghegan</persName>. What did you say to them?</u>
+      <u who="EDWARDS">Same thing. At that point in time, the distinction between platoon leader, platoon sergeant, and solider kind of get blurred. They’re all out there doing what they’re trained to do.</u>
+      <u who="VERRONE">Morning of the <date when="1965-11-15">15th</date>. Rough morning.</u>
+      <u who="EDWARDS">Very interesting morning.</u>
+      <u who="VERRONE">This is, according to <persName ref="#ttu_455_person_65">Hal Moore</persName> this morning and other times he has discussed, this was perhaps the worse day of the three and the worst time of all times at <placeName ref="#ttu_455_place_17">X-Ray</placeName>.</u>
+      <u who="EDWARDS">That is probably—that is, without a doubt, when we came the closest to losing it.</u>
+      <u who="VERRONE">What happened over there? Where you were.</u>
+      <u who="EDWARDS">Well, dawn comes. <persName ref="#ttu_455_person_66">Colonel Moore</persName> gives the order to send out patrols. Forward of the perimeter, see what’s going on. I relay that order down, the platoon leader sends them out. Shortly thereafter, big volume of gunfire again. So it’s obvious that something has happened. I get on the radio and find that <persName ref="#ttu_455_person_67">Jim Lane</persName> of the attached B Company Platoon, he’s back and he’s okay. <persName ref="#ttu_455_person_68">Bill Franklin</persName>'s back and his guys are back, and their okay. But no answer from <persName ref="#ttu_455_person_69">Neil</persName> or <persName ref="#ttu_455_person_70">Jack</persName>. Gun fire all over the place. We get our artillery started. I look up and see within fifty-eight, a hundred yards or something, guys in uniforms other than GI (Government Issue) fatigues. <persName ref="#ttu_455_person_71">Sergeant Hofstetter</persName>, who is my commerce sergeant, acting as an RTO (Radio Telephone Operator) because of a shortage of people, stands up and takes a round right through the neck. Then there was no doubt that was a family. It went through, the blood spurted out, his eyes rolled back, and he went down. So he was gone like that. I stood up, saw two or three enemy soldiers within then hand grenade range. Elected to throw a hand grenade at them. Stood up, threw the grenade and as I let go of the grenade, I feel a tremendous slap on the back and the next thing I know, I’m down in the hole. Can’t move my left arm. Get on the radio, tell <persName ref="#ttu_455_person_72">Colonel Moore</persName>, “I’m hit.” Probably, in that transmission or the next one I say, “I think I'm in trouble up here, I need some help.” He says or <persName ref="#ttu_455_person_73">Matt Dillon</persName>, I can’t remember which one now, “I would like to but right now we don’t have much of a reserve. We don’t have any reserve. I can’t help you; you need to hang on.” So we did.</u>
+      <u who="VERRONE">When were you evacuated?</u>
+      <u who="EDWARDS">Sometime Monday morning. Say after ten or eleven o’clock. Things that they—as quick as the firing started, it just then kind of died away. Then it became safer folks to stand up and do things. But there for a while, the then four us, myself, <persName ref="#ttu_455_person_74">Ernie Polone</persName>, <persName ref="#ttu_455_person_75">Castleberry</persName>, the Artillery Liaison Sergeant and <persName ref="#ttu_455_person_76">Buster Brown</persName>, his RTO, we were down in the bottom of the hole and we literally, it’s like in a movie. We saw the bullets kicking up dirt on the top of the fox hole.</u>
+      <u who="VERRONE">What does it feel like to be shot? You said it’s a slap on the back?</u>
+      <u who="EDWARDS">Exactly, I have been asked this. I’ve been places with <persName ref="#ttu_455_person_77">Joe Marm</persName> and other guys and everybody just—It is like being hit with a either a rifle butt or baseball bat. It’s just a tremendous impact. You don’t feel any pain initially, you feel this impact and you’re just stunned.</u>
+      <u who="VERRONE">How much pain were you in after that wore off? This all happened and thee you’re down in the foxhole.</u>
+      <u who="EDWARDS">Well I really was not in that much pain. Couldn’t move my arm. Not sure if I could stand up, but the circumstances did not permit standing up anyway. I was obviously very worried about holding that position. I never lost conscious. So I couldn’t have been too much pain. </u>
+      <u who="VERRONE">Well, they describe you, by the time you got evacuated as “Very weak.” When you got the transfusion blood, you kind of popped back awake and you were able to talk about what happened. Were you evacuated at <placeName ref="#ttu_455_place_18">LZ (Landing Zone) Falcon</placeName> or back to <placeName ref="#ttu_455_place_19">Holloway</placeName>? Do you remember?</u>
+      <u who="EDWARDS">I think I went out on one of <persName ref="#ttu_455_person_78">Crandall</persName>’s lift birds. Along with <persName ref="#ttu_455_person_79">Bill Franklin</persName> and a lot of other wounded guys. I’m pretty sure that we went to <placeName ref="#ttu_455_place_20">Holloway</placeName>. I think the medical company was there. We went in Hueys and then we went in Chinooks to the hospital in <placeName ref="#ttu_455_place_21">Qui Nhon</placeName>. </u>
+      <u who="VERRONE">Tell me about—while we just mentioned that <persName ref="#ttu_455_person_80">Bruce Crandall</persName>, <persName ref="#ttu_455_person_81">Ed Freeman</persName>, tell me about the Huey pilots?</u>
+      <u who="EDWARDS">What can you say? They were our lifeline. They got us in. They were determined that they were going to get us out, and while we were there were going to keep us supplied with what we need, and they were going to haul out the wounded. You have to have—an infantry guy gets down on the ground and he can dig a hole, given the time and he can seek cover to some degree. The poor helicopter pilot, he flies into the <placeName ref="#ttu_455_place_22">landing zone</placeName> and he’s sitting in the left or right seat of that Huey with all the protection that plexiglass provides and he’s has to wait while either the troops get on or off or they kick out cases of ammo or whatever. You really got to be a cool guy to do that. Knowing that there are people out there that very much want to shoot you.</u>
+      <u who="VERRONE">How would you describe your enemy? The Cav soldiers and the <orgName ref="#ttu_455_org_22">Vietcong</orgName> were there.</u>
+      <u who="EDWARDS">Well, I talked about this earlier. They are out there on the end of the—how long their supply line and it’s coming by backpack or bicycle or something like that. They don’t have any fire support. If they get wounded, the best they can hope for is somebody is going to drag them back to some non-air conditioned, definitely unsanitary, maybe hole in the ground or hut. Whether they get any anesthesia or not for what the doctor or medic is going to do to them, who knows. So they were obviously well disciplined. They were well trained. They’re good shots. They were fighting for what they thought was right and we were fighting for what we thought was right. We had the advantage of knowing that if you get shot, there’s this whole medical chain there to take care of you. I went from a hole in the ground at ten-thirty, eleven o’clock in the morning to an air-conditioned tent- maybe a Quonset hut. With white sheets and tubes, and all this other stuff and late that night I was in an operating room.</u>
+      <u who="VERRONE">That’s incredible support.</u>
+      <u who="EDWARDS">Absolutely!</u>
+      <u who="VERRONE">When did you find out about your lieutenants and their status, and what had happened to them. Because <persName ref="#ttu_455_person_82">Franklin</persName> goes out with you, right? </u>
+      <u who="EDWARDS">Right. Probably while I was still in <placeName ref="#ttu_455_place_23">Qui Nhon</placeName>, somebody from the company came down and kind of broke the news of what had happened. </u>
+      <u who="VERRONE">How did you react to that?</u>
+      <u who="EDWARDS">I don’t think you can describe the reaction. You lose all these guys that had been part of your life for so long and you wonder how they didn’t make it, and I did. There is no way to describe it, it is a huge lost. Some folks deal with it better than others.</u>
+      <u who="VERRONE">How did you deal with it? You’re out of the fight here.</u>
+      <u who="EDWARDS">Well, I can distinctly remember leaving <placeName ref="#ttu_455_place_24">X-Ray</placeName>. Being thrown on a helicopter and telling <persName ref="#ttu_455_person_83">Colonel Moore</persName>, I was absolutely convinced that I was going to go back, they were going to slap a bandage on me and I was maybe going to spend a little time at the hospital, and I was coming back to the battalion. I said, “I won’t to save me a job!” Well, that obviously didn’t come to pass but you know you deal with it. You tell yourself, “This is what war is about.” And some guys make it, some don’t. You hope you did your best to ensure that as many as possible of your guys come back. The thing, as you reflect back on it over the years, while obviously I would’ve like to have done much better. I do know that the sacrifices of the guys from <persName ref="#ttu_455_person_84">Jack</persName>’s platoon and <persName ref="#ttu_455_person_85">Neil</persName>’s platoon, they kept the battalion from getting split in half.</u>
+      <u who="VERRONE">It’s your guys.</u>
+      <u who="EDWARDS">Exactly.</u>
+      <u who="VERRONE">What did you think about the book coming out and the popularity of it? And now it’s almost required reading across the country in military history courses and at the academies. Then the movie! How did this change your life? What did you think about the fact that—</u>
+      <u who="EDWARDS">Well, it has not changed my life. But the first thing about the book is, for the longest period of time, <persName ref="#ttu_455_person_86">Joe</persName> and <persName ref="#ttu_455_person_87">Colonel Moore</persName>, by then <persName ref="#ttu_455_person_118">General Moore</persName>, would say, “You know, we’re going to write this.” But it got to be a joke. Yeah, come on guys? When’s the book coming out? They interviewed <persName ref="#ttu_455_person_88">Ray Lefebvre</persName> and I in <date when="1981">’81</date>,  maybe <date when="1982">‘82</date> and when I was a Colonel at <placeName ref="#ttu_455_place_25">Fort Benning</placeName> and <persName ref="#ttu_455_person_89">Ray</persName> was still kind of recuperating—no, <persName ref="#ttu_455_person_90">Ray</persName> had retired by then, <persName ref="#ttu_455_person_91">Ray</persName> had a civilian job but he was close enough by. Had <persName ref="#ttu_455_person_92">Ray</persName> and his wife up to our quarters and <persName ref="#ttu_455_person_93">Julie</persName> and <persName ref="#ttu_455_person_94">Hal</persName> came over from <placeName ref="#ttu_455_place_26">Auburn</placeName>. We had dinner and he sat <persName ref="#ttu_455_person_95">Ray</persName> and I down. Plopped a tape recorder on the table and did what we’re doing now. Then we kind of knew this book thing this was serious. The book itself—people will come up to me and say, “Hey, I saw the movie!” And my first response is, “That’s great, but did you read the book?” Because I said, “The movie only tells the story of a few guys. There were four-hundred and fifty in there. Each of whom deserves special mention somewhere.” And <persName ref="#ttu_455_person_96">Joe</persName> and <persName ref="#ttu_455_person_97">General Moore</persName> now, they made a superhuman effort to talk, to find and talk to as many soldiers as they could and to tell their story, even if it was only one line about John Smith from Texarkana who was in the 2nd Platoon of Bravo company. The movie is a movie. It does a pretty job at telling the story. I guess <persName ref="#ttu_455_person_99">Randall Wallace</persName> will see this and I’ll be on his crap list. But there are somethings that are “Hollywooded” up. I understand that, my son makes films. You have to appeal to the audience. So the movie is pretty good, if you haven’t, you got to read the book.</u>
+      <u who="VERRONE">So the film and the notoriety of the film, working with <persName ref="#ttu_455_person_100">Wallace</persName> and <persName ref="#ttu_455_person_101">Gibson</persName> and <persName ref="#ttu_455_person_102">Barry Pepper</persName> and all of these people. Was that a good thing for this unit? Or let’s leave it in the book and move forward. How do you see that? </u>
+      <u who="EDWARDS">Oh, I think it was good.</u>
+      <u who="VERRONE">Given the history of <name type="event" ref="#ttu_455_event_2">Vietnam war</name> movies, that don’t really get things quite right according to a lot of veterans, they’re false things! Were you, “Wait a minute, this— you’re going to mess up what’s been done in this volume.”</u>
+      <u who="EDWARDS">No, <persName ref="#ttu_455_person_103">Randall Wallace</persName> was upfront before he even started the movie. He wrote everybody in the battalion that he had an address for. He said, “This is not going to be a documentary. I cannot tell everybody’s story. There will be some events that I have to—" I can’t remember the word he used, “But in order to portray them, I have to have them happen to somebody that maybe it didn’t happen to.” We all—and then there was a wavier release at the bottom, “Yeah, that’s fine, go ahead and do it.” That sort of thing. So it was no secret of what the movie was going to do.</u>
+      <u who="VERRONE">And you were all okay with that?</u>
+      <u who="EDWARDS">Yeah.</u>
+      <u who="VERRONE">Were you on set?</u>
+      <u who="EDWARDS">No. They didn’t need any more advisors down there. (Chuckles)</u>
+      <u who="VERRONE">I know they had quite a few. Well, this is the 40th anniversary of the battles. Forty years, almost exactly. What is it like looking back forty years, onto those days there on <placeName ref="#ttu_455_place_29">X-Ray</placeName>?</u>
+      <u who="EDWARDS">I’m not sure I have an answer. This is the 40th anniversary, but every Veterans’ Day weekend for how long has this group gotten together and honored those guys that didn’t make it back.</u>
+      <u who="VERRONE">Is that what you all are about? Is that what your prime focus is?</u>
+      <u who="EDWARDS">That’s what I think this is all about. The <orgName ref="#ttu_455_org_25">1st and the 7th</orgName>, this affair this weekend encompasses everybody that was involved in the <name type="event" ref="#ttu_455_event_1">Pleiku campaign</name>. Not just guys that were in <placeName ref="#ttu_455_place_30">Ia Drang</placeName> and or <placeName ref="#ttu_455_place_31">Albany</placeName>. The <orgName ref="#ttu_455_org_26">1st and 7th</orgName> has a members only reunion each year in April. While we do some memorializing and honoring there, that is more of a, “Let’s get together with some old friends and tell war stories and have a good time event” than this one. I see this one because of the location in <placeName ref="#ttu_455_place_32">Washington</placeName> and the <placeName ref="#ttu_455_place_33">Vietnam Memorial</placeName>, more as a way to honor not only those guys that were killed in the battle, but obviously over forty years you lose a lot of other guys through quote “natural causes”. So even the older—my 1st Sergeant is gone now. Surviving <persName ref="#ttu_455_person_104">Platoon Sergeant Jameson</persName> has passed away. Some of the younger soldiers, <persName ref="#ttu_455_person_105">Ernie Polone</persName>, my radio operator, died maybe five or six years ago now of a heart attack in <placeName ref="#ttu_455_place_34">Chicago</placeName>. So we’re honoring all those guys. Getting back to the focus of this and the <orgName ref="#ttu_455_org_27">1st and 7th</orgName>. You’ll find that this weekend, you’ll have a lot of the survivor families show up. <persName ref="#ttu_455_person_106">Barbara Geoghegan</persName> will be here, <persName ref="#ttu_455_person_107">Claudia Polone</persName>, <persName ref="#ttu_455_person_119">Ernie</persName>’s wife is coming in. <persName ref="#ttu_455_person_108">Neil Kroger</persName>’s brother, <persName ref="#ttu_455_person_109">Jeff</persName> with some other family members come into this one. While they are welcomed to our <orgName ref="#ttu_455_org_29">1st and 7th</orgName> only event, more of them tend to come to this one.</u>
+      <u who="VERRONE">What’s it like seeing the family members of <persName ref="#ttu_455_person_110">Kroger</persName> and these guys?</u>
+      <u who="EDWARDS">You’re glad to see them because they know we haven’t forgotten them. But what do you say to them?</u>
+      <u who="VERRONE">What do you say to <persName ref="#ttu_455_person_111">Barbara Geoghegan</persName>?</u>
+      <u who="EDWARDS">What do you say? <persName ref="#ttu_455_person_112">Barbara</persName> is a little easier because I have probably seen her on more occasions than some of the others. <orgName ref="#ttu_455_org_30">Widener College</orgName>, which <orgName ref="#ttu_455_org_31">Pennsylvania Military</orgName> became <orgName ref="#ttu_455_org_32">Widener</orgName> some years ago, they had an affair honoring <persName ref="#ttu_455_person_113">Jack</persName> a few years ago. What I’ve told them is, “The efforts and sacrifice of mainly those the platoon, <persName ref="#ttu_455_person_114">Jack</persName>, <persName ref="#ttu_455_person_115">Neil Kroger</persName>, their platoon sergeants, their squad leaders and soldiers that died. Their sacrifice prevented a much greater loss of life.” What else can you say?</u>
+      <u who="VERRONE">Okay, well, we are out of time here. Is there anything else you would like to say? Looking into the future, the people who are going to see you a hundred of years from now, talking about those days in <date when="1965-11">November ’65</date>. What do you want them to know about you?</u>
+      <u who="EDWARDS">Should’ve asked me that so I could think about that one ahead of time. What I want them to know is that these were very brave, young men. Who were given a job to do and they did it superbly. Unfortunately, a number of them did not survive to sit here forty years from now and tell the story. They weren’t sitting around the campfire debating about whether the <placeName ref="#ttu_455_place_35">United States</placeName> should be in <placeName ref="#ttu_455_place_36">Vietnam</placeName> or anything else. The officers took a commission, and the soldiers took an oath. They fulfilled the promises they made in that oath.</u>
+      <u who="VERRONE">Thank you very much <persName ref="#ttu_455_person_116">Bob</persName>.</u>
+      <u who="EDWARDS">Thank you!(End of interview)</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_455_place_0">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="ttu_455_place_1">
+        <placeName>Hilton Crystal City</placeName>
+        <location>
+          <geo>38.85273695571491 -77.0517220465822</geo>
+        </location>
+        <idno type="WD">Q110624980</idno>
+      </place>
+      <place xml:id="ttu_455_place_2">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_455_place_3">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_455_place_4">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_455_place_5">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_455_place_6">
+        <placeName>The Carolinas</placeName>
+        <location>
+          <geo>34.797 -79.683</geo>
+        </location>
+        <idno type="WD">Q2747220</idno>
+      </place>
+      <place xml:id="ttu_455_place_7">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_455_place_8">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_9">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_455_place_10">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_11">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_13">
+        <placeName>Upatoi Creek</placeName>
+        <location>
+          <geo>32.4029 -84.8889</geo>
+        </location>
+        <idno type="WD">Q7898186</idno>
+      </place>
+      <place xml:id="ttu_455_place_14">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_15">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_16">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_17">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_18">
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
+      </place>
+      <place xml:id="ttu_455_place_19">
+        <placeName>Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
+      </place>
+      <place xml:id="ttu_455_place_20">
+        <placeName>Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
+      </place>
+      <place xml:id="ttu_455_place_21">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_455_place_22">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_23">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_455_place_24">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_25">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_455_place_26">
+        <placeName>Auburn</placeName>
+        <location>
+          <geo>32.597684 -85.480823</geo>
+        </location>
+        <idno type="WD">Q79728</idno>
+      </place>
+      <place xml:id="ttu_455_place_29">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_455_place_30">
+        <placeName>Ia DrÄƒng</placeName>
+        <location>
+          <geo>13.583333  107.716667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
+      </place>
+      <place xml:id="ttu_455_place_31">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_455_place_32">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="ttu_455_place_33">
+        <placeName>Vietnam Veterans Memorial</placeName>
+        <location>
+          <geo>38.891111111111 -77.047777777778</geo>
+        </location>
+        <idno type="WD">Q713628</idno>
+      </place>
+      <place xml:id="ttu_455_place_34">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.881944444444 -87.627777777778</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="ttu_455_place_35">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_455_place_36">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_455_place_37">
+        <placeName>Kelley Hill</placeName>
+        <location>
+          <geo>32.38325815053565 -84.89875257096901</geo>
+        </location>
+        <idno type="WD">Q110888302</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_455_event_0" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_455_event_1" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_455_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_455_person_0">
+        <persName>Dr. Richard Verrone</persName>
+        <idno type="WD">Q111653126</idno>
+      </person>
+      <person xml:id="ttu_455_person_1">
+        <persName>Robert H. Bob Edwards</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_2">
+        <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_3">
+        <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_4">
+        <persName>Colonel Edwards</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_5">
+        <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_6">
+        <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_8">
+        <persName>Lieutenant Colonel Conger</persName>
+        <idno type="WD">Q111724958</idno>
+      </person>
+      <person xml:id="ttu_455_person_9">
+        <persName>Lieutenant Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_10">
+        <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_11">
+        <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_12">
+        <persName>Bob Edwards</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_13">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_14">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_15">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_17">
+        <persName>Mac McCall</persName>
+        <idno type="WD">Q111443591</idno>
+      </person>
+      <person xml:id="ttu_455_person_18">
+        <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_19">
+        <persName>Ray Lefebvre</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_455_person_20">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_21">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_22">
+        <persName>Jack Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_23">
+        <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
+      </person>
+      <person xml:id="ttu_455_person_24">
+        <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_25">
+        <persName>Jack Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_26">
+        <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_27">
+        <persName>Jack Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_28">
+        <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_29">
+        <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
+      </person>
+      <person xml:id="ttu_455_person_30">
+        <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_31">
+        <persName>Kroger</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_32">
+        <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
+      </person>
+      <person xml:id="ttu_455_person_33">
+        <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_34">
+        <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_35">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_36">
+        <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
+      </person>
+      <person xml:id="ttu_455_person_38">
+        <persName>Sergeant Major Plumley</persName>
+        <idno type="WD">Q2535583</idno>
+      </person>
+      <person xml:id="ttu_455_person_39">
+        <persName>the Sergeant Major</persName>
+        <idno type="WD">Q2535583</idno>
+      </person>
+      <person xml:id="ttu_455_person_40">
+        <persName>Plumley</persName>
+        <idno type="WD">Q2535583</idno>
+      </person>
+      <person xml:id="ttu_455_person_41">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_43">
+        <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_44">
+        <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_45">
+        <persName>John</persName>
+        <idno type="WD">Q111678638</idno>
+      </person>
+      <person xml:id="ttu_455_person_46">
+        <persName>Tony</persName>
+        <idno type="WD">Q111442803</idno>
+      </person>
+      <person xml:id="ttu_455_person_47">
+        <persName>Henry Herrick</persName>
+        <idno type="WD">Q111443617</idno>
+      </person>
+      <person xml:id="ttu_455_person_48">
+        <persName>Herrick</persName>
+        <idno type="WD">Q111443617</idno>
+      </person>
+      <person xml:id="ttu_455_person_49">
+        <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
+      </person>
+      <person xml:id="ttu_455_person_50">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_51">
+        <persName>Herrick</persName>
+        <idno type="WD">Q111443617</idno>
+      </person>
+      <person xml:id="ttu_455_person_52">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_455_person_53">
+        <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_54">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_455_person_55">
+        <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_455_person_56">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_57">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_58">
+        <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_455_person_59">
+        <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_455_person_60">
+        <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
+      </person>
+      <person xml:id="ttu_455_person_61">
+        <persName>Tony Nadal</persName>
+        <idno type="WD">Q111442803</idno>
+      </person>
+      <person xml:id="ttu_455_person_62">
+        <persName>Franklin</persName>
+        <idno type="WD">Q111669228</idno>
+      </person>
+      <person xml:id="ttu_455_person_63">
+        <persName>Kroger</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_64">
+        <persName>Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_65">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_66">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_67">
+        <persName>Jim Lane</persName>
+        <idno type="WD">Q111653576</idno>
+      </person>
+      <person xml:id="ttu_455_person_68">
+        <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
+      </person>
+      <person xml:id="ttu_455_person_69">
+        <persName>Neil</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_70">
+        <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_71">
+        <persName>Sergeant Hostuttler</persName>
+        <idno type="WD">Q111988556</idno>
+      </person>
+      <person xml:id="ttu_455_person_72">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_73">
+        <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
+      </person>
+      <person xml:id="ttu_455_person_74">
+        <persName>Ernie Polone</persName>
+        <idno type="WD">Q111653497</idno>
+      </person>
+      <person xml:id="ttu_455_person_75">
+        <persName>Castleberry</persName>
+        <idno type="WD">Q111669469</idno>
+      </person>
+      <person xml:id="ttu_455_person_76">
+        <persName>Buster Brown</persName>
+        <idno type="WD">Q111804954</idno>
+      </person>
+      <person xml:id="ttu_455_person_77">
+        <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
+      </person>
+      <person xml:id="ttu_455_person_78">
+        <persName>Crandall</persName>
+        <idno type="WD">Q3431327</idno>
+      </person>
+      <person xml:id="ttu_455_person_79">
+        <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
+      </person>
+      <person xml:id="ttu_455_person_80">
+        <persName>Bruce Crandall</persName>
+        <idno type="WD">Q3431327</idno>
+      </person>
+      <person xml:id="ttu_455_person_81">
+        <persName>Ed Freeman</persName>
+        <idno type="WD">Q5334823</idno>
+      </person>
+      <person xml:id="ttu_455_person_82">
+        <persName>Franklin</persName>
+        <idno type="WD">Q111669228</idno>
+      </person>
+      <person xml:id="ttu_455_person_83">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_84">
+        <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_85">
+        <persName>Neil</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_86">
+        <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_455_person_87">
+        <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_88">
+        <persName>Ray Lefebvre</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_455_person_89">
+        <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_455_person_90">
+        <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_455_person_91">
+        <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_455_person_92">
+        <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_455_person_93">
+        <persName>Julie</persName>
+      <idno type="project">ttu_0065</idno></person>
+      <person xml:id="ttu_455_person_94">
+        <persName>Hal</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_95">
+        <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
+      </person>
+      <person xml:id="ttu_455_person_96">
+        <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_455_person_97">
+        <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_99">
+        <persName>Randall Wallace</persName>
+        <idno type="WD">Q1339625</idno>
+      </person>
+      <person xml:id="ttu_455_person_100">
+        <persName>Wallace</persName>
+        <idno type="WD">Q1339625</idno>
+      </person>
+      <person xml:id="ttu_455_person_101">
+        <persName>Gibson</persName>
+        <idno type="WD">Q42229</idno>
+      </person>
+      <person xml:id="ttu_455_person_102">
+        <persName>Barry Pepper</persName>
+        <idno type="WD">Q315604</idno>
+      </person>
+      <person xml:id="ttu_455_person_103">
+        <persName>Randall Wallace</persName>
+        <idno type="WD">Q1339625</idno>
+      </person>
+      <person xml:id="ttu_455_person_104">
+        <persName>Platoon Sergeant Jemison</persName>
+        <idno type="WD">Q111988670</idno>
+      </person>
+      <person xml:id="ttu_455_person_105">
+        <persName>Ernie Polone</persName>
+        <idno type="WD">Q111653497</idno>
+      </person>
+      <person xml:id="ttu_455_person_106">
+        <persName>Barbara Geoghegan</persName>
+        <idno type="WD">Q111653150</idno>
+      </person>
+      <person xml:id="ttu_455_person_107">
+        <persName>Claudia Polone</persName>
+      <idno type="project">ttu_0052</idno></person>
+      <person xml:id="ttu_455_person_108">
+        <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_109">
+        <persName>Jeff</persName>
+      <idno type="project">ttu_0066</idno></person>
+      <person xml:id="ttu_455_person_110">
+        <persName>Kroger</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_111">
+        <persName>Barbara Geoghegan</persName>
+        <idno type="WD">Q111653150</idno>
+      </person>
+      <person xml:id="ttu_455_person_112">
+        <persName>Barbara</persName>
+        <idno type="WD">Q111653150</idno>
+      </person>
+      <person xml:id="ttu_455_person_113">
+        <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_114">
+        <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_455_person_115">
+        <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
+      </person>
+      <person xml:id="ttu_455_person_116">
+        <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
+      </person>
+      <person xml:id="ttu_455_person_117">
+        <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_455_person_118">
+        <persName>Ernie Polone</persName>
+        <idno type="WD">Q430209</idno>
+        <idno type="WD">Q111653497</idno>
+      </person>
+      <person xml:id="ttu_455_person_119">
+        <persName>Ernie</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_455_org_0">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_455_org_1">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="ttu_455_org_2">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_3">
+        <orgName>2nd Infantry Division</orgName>
+        <idno type="WD">Q210607</idno>
+      </org>
+      <org xml:id="ttu_455_org_4">
+        <orgName>11th Airborne Division</orgName>
+        <idno type="WD">Q169980</idno>
+      </org>
+      <org xml:id="ttu_455_org_5">
+        <orgName>Company C, 1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110745354</idno>
+      </org>
+      <org xml:id="ttu_455_org_6">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_455_org_7">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_9">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_455_org_10">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_11">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_12">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_13">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_14">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_15">
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
+      </org>
+      <org xml:id="ttu_455_org_16">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_455_org_17">
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
+      </org>
+      <org xml:id="ttu_455_org_18">
+        <orgName>11th Airborne Division</orgName>
+        <idno type="WD">Q169980</idno>
+      </org>
+      <org xml:id="ttu_455_org_19">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_20">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_455_org_21">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_22">
+        <orgName>People's Liberation Armed Forces</orgName>
+        <idno type="WD">Q10810255</idno>
+      </org>
+      <org xml:id="ttu_455_org_25">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_26">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_27">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_29">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_455_org_30">
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
+      </org>
+      <org xml:id="ttu_455_org_31">
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
+      </org>
+      <org xml:id="ttu_455_org_32">
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
+      </org>
+      <org xml:id="ttu_455_org_33">
+        <orgName>Company D, 1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110745368</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
