@@ -1,5 +1,5 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_490"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_490">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,37 +59,37 @@
   </teiHeader>
   <text>
     <body>
-      <u who="NAPOLI">[Editor’s Note: Audio cuts in] <date when="2005-11-12">12th of November 2005</date>. I’m <persName>Philip Napoli</persName> with <name>Dacen DeLaPaz</name> in the <placeName>Crystal City Hilton Hotel</placeName>. We are going to talk a little bit about your father and your life, the relationship between your father’s life, your life and this particular moment in history. So let’s start with an introduction to who you are today. Tell me a little bit about where you live, your age, and those kinds of things.</u>
-      <u who="DELAPAZ">I was going to save that for last, but this is a surprise, the rest of the story, but I'll tell you that. I’m a dentist. Product of the GI (Government Issued) Bill. Hard working, the GI Bill. I’ve lived in <placeName>Belton, Texas</placeName>, which is right near <placeName>Fort Hood</placeName>. So I see a lot of active duty dependents and families and even 1st Cav guys currently. It’s a really strange way how this small world comes together. <persName>Belton</persName> is a little quaint area. We live on a lake, beautiful life and beautiful home. Two children, <persName>Presley</persName>, I named after my father, his middle name. His name is <persName>Presley Hilario DeLaPaz</persName>. There’s more to the <persName>Presley</persName> story of course, named him after <persName>Elvis</persName>. My other son is <persName>Pierson</persName>. <persName>Presley</persName> is 11, <persName>Pierson</persName> is 4. <persName>Pierson</persName>’s got my grandmother’s first name. <persName>Pierson Rafael DeLaPaz</persName>. Two good boys, beautiful. Wife, <persName>Annette</persName>, nicknamed <persName>Nancy</persName>. She was a barber for twelve years and once we had our oldest son, she hasn’t worked. We have a great home, a great family. I work in a community with a lot of military dependents, so I see current veterans, you know <placeName>Iraq</placeName>. Actually, because you’re in a community like that and you’re naturally doing marketing, PR, type things, donations, charities, becoming entwined with <placeName>Fort Hood</placeName>. You know, as a donor to things it’s just a really strange deal how all this came about.</u>
+      <u who="NAPOLI">[Editor’s Note: Audio cuts in] <date when="2005-11-12">12th of November 2005</date>. I’m <persName ref="#ttu_490_person_0">Philip Napoli</persName> with <name>Dacen DeLaPaz</name> in the <placeName ref="#ttu_490_place_0">Crystal City Hilton Hotel</placeName>. We are going to talk a little bit about your father and your life, the relationship between your father’s life, your life and this particular moment in history. So let’s start with an introduction to who you are today. Tell me a little bit about where you live, your age, and those kinds of things.</u>
+      <u who="DELAPAZ">I was going to save that for last, but this is a surprise, the rest of the story, but I'll tell you that. I’m a dentist. Product of the GI (Government Issued) Bill. Hard working, the GI Bill. I’ve lived in <placeName ref="#ttu_490_place_1">Belton, Texas</placeName>, which is right near <placeName ref="#ttu_490_place_2">Fort Hood</placeName>. So I see a lot of active duty dependents and families and even 1st Cav guys currently. It’s a really strange way how this small world comes together. <persName ref="#ttu_490_person_1">Belton</persName> is a little quaint area. We live on a lake, beautiful life and beautiful home. Two children, <persName ref="#ttu_490_person_2">Presley</persName>, I named after my father, his middle name. His name is <persName ref="#ttu_490_person_3">Presley Hilario DeLaPaz</persName>. There’s more to the <persName ref="#ttu_490_person_4">Presley</persName> story of course, named him after <persName ref="#ttu_490_person_5">Elvis</persName>. My other son is <persName ref="#ttu_490_person_6">Pierson</persName>. <persName ref="#ttu_490_person_7">Presley</persName> is 11, <persName ref="#ttu_490_person_8">Pierson</persName> is 4. <persName ref="#ttu_490_person_9">Pierson</persName>’s got my grandmother’s first name. <persName ref="#ttu_490_person_10">Pierson Rafael DeLaPaz</persName>. Two good boys, beautiful. Wife, <persName ref="#ttu_490_person_11">Annette</persName>, nicknamed <persName ref="#ttu_490_person_12">Nancy</persName>. She was a barber for twelve years and once we had our oldest son, she hasn’t worked. We have a great home, a great family. I work in a community with a lot of military dependents, so I see current veterans, you know <placeName ref="#ttu_490_place_3">Iraq</placeName>. Actually, because you’re in a community like that and you’re naturally doing marketing, PR, type things, donations, charities, becoming entwined with <placeName ref="#ttu_490_place_4">Fort Hood</placeName>. You know, as a donor to things it’s just a really strange deal how all this came about.</u>
       <u who="NAPOLI">You feel very connected?</u>
       <u who="DELAPAZ">Pretty connected. Anyway, that’s kind of where we are now. But it’s probably a strange and winding road to how we got here.</u>
       <u who="NAPOLI">So how should we start?DP: I think probably what I wanted to give is a little perspective at four. I want to start in the beginning. At four years old, I tell people—kind of like maybe a highlight of a movie you see on a commercial. You glance over there and you get to see one little clip and you say—it goes into your mind in a second or maybe something you saw thirty years ago, forty years ago. You can only remember tiny little pieces. Well, as four you can remember like two little pieces. Sometimes it gets intwined with somebody telling you a story. You start to think, “Did I remember that or did they tell me that?” Or photos, not a lot of video back then, of course. You might see a photo and I think that’s easy to get into the memory as do I remember that? But I could tell you what I really believe I remembered. I remembered one time, this sounds strange, but my father drove a little milk truck. They grew up dairy farmers and the milk trucks in those days carried those big cans, not what we perceived as a milk truck. He came home one time from work before the military and he brought me some Vennie Weenies and I'm riding in this truck with him and this is a strange thing to remember, but at four years old I could remember eating these Vennie Weenies you know with dad. Then, I can remember the funeral, I can remember the taps. Twenty-one gun salute, seeing him in a casket. He was shot in the head. It was very well done, there was no wounds visible. He was hit by a sniper back then. My mother made me look at him. She told me that day, “You need to see your father.” That’s all I could remember at four, and really that’s it. Anyway, what happened over time, I used the GI Bill to go through college, worked my way through. Knew that I wanted to be a dentist. Part of the GI Bill is that they make you determine your major and if you change it, you have to pay the government back any courses that don’t apply. So it leaves you pretty determined and straight.</u>
       <u who="NAPOLI">You better pick right the first time. (Laughs)</u>
-      <u who="DELAPAZ">You better pick right and you better make good grades and you better move on. Anyway, I kind of thought I wanted to be a dentist the whole time, but I have a biology with a chemistry minor. I threw some interactions with some friends growing up. I thought I could always fall back to be a secret service agent, I used to stay very fit. I got through the process though as you can imagined. I attended North Texas State and then <orgName>Baylor College of Dentistry</orgName> in <placeName>Dallas</placeName>, graduated in <date when="1987">1987</date>. So as you know, as you’re going through all these degrees and hard work, it’s kind of really fast. Dental school seems like two years, but it’s four. Anyway, get out and start working in <placeName>Temple, Texas</placeName>, which is about 20 miles from <placeName>Foot Hood</placeName>. But I knew nothing about the <orgName>1st Cav</orgName>, I knew nothing about really any of the incidents surrounding dad. My mother remarried, so she didn’t talk much about dad. It’s just not a subject that you’re going to talk about with a new husband. I have two half brothers and sisters. Anyway, my grandmother and grandfather, my dad was the oldest son. It was just heartbreaking for him. My grandfather really had a difficult time with it, so they didn’t talk about it either. The only thing you had there was his old photo from past basic. So you had no history in other words. Well, so I'm going through life trying to get on myself, new dentist and all that. I worked for another doctor in <placeName>Temple</placeName>. Worked there for about two and a half years and this is where the story starts to come together. In <date when="1990">1990</date>, I went to work for the state prison system. One day I'm in the breakroom for a minute and I pick up this <orgName>US News &amp; World Report</orgName>. I glanced down there and see the dates on there. The one thing that I had from my dad, it’s really bad that your dad is this hatbox with a few things in it. I glanced through there at times and noticed the dates, I read all these things that it had in there. Most of them were who received commendations, an actual kill list, things like that. Anyway, but I noticed the date on that article about <placeName>Vietnam</placeName> was the same date. So I grab that <orgName>US News &amp; World Report</orgName>, took it home and stuck it away. Didn’t even read it, I don’t think, I might have glanced at it for a second. I noticed some names on there, names I thought I recognized from those lists. So anyway, I put it away and scurried on with life some more. About—it was <date when="1990">’90</date>, about <date when="1992">’92</date>, I opened a practice right in <placeName>Killeen</placeName>, which is where <placeName>Fort Hood</placeName> is. I was working and I went down and noticed these Cav guys, they were having a reunion right next door in my building, hundred yards. I said, “I’m just going over there and see what’s going on.” They allowed visitors, ten bucks and you can go in there and meet people. So I walked in there and if you haven’t meet <persName>Clinton Poley</persName>, you will, trust me. <persName>Clinton Poley</persName> is a farm boy. Talked to a tree, but he was in the <name type="event">Ia Drang Battle</name>. He’s in the book, he’s the guy with the big bandage wrapped around, looks like a big dental bandage. I just said, “Hey, my dad is—” He said, “Well, I don’t think I knew your dad, but we’ll find somebody.” These guys, <persName>Comer</persName> and <persName>Poley</persName> were the first guys there, I think they were from <orgName>2 of 7th</orgName>. They took me around, “You know? You know? You know?” Pretty soon I’m talking to people, I can’t remember who I first met. I'm not sure that day I even met anyone that really knew dad there. I did have some of his documents and knew he was <orgName>Delta Company</orgName>, <orgName>1 of 7th</orgName>. That was about <date when="1992">’92</date>, must’ve been <date when="1993">’93</date> because they have those reunions on odd years. Then one day, time goes by again and in <date when="1995">1995</date>, I got a phone call. It was some solider who knew my father. They said, “We are going to have a reunion thirty years in <placeName>Houston</placeName> and we want you to come, we’ve invited the rest.” My uncles and things in <placeName>Houston</placeName>. My dad grew up in the <placeName>Cypress Fairbanks</placeName> area of <placeName>Houston</placeName>. So we go down there and I met about thirty guys that went through all of basic with him. These are the guys that really knew him. So each one, a lot of them, probably twenty of them gave me just a little bit. I mean, it was thirty years since a lot of them seen one another. They were—I think some of them were overtaken with emotion not just by me, but by meeting one another again. Some of them, glad as can be of course. Some dealing with it difficult. I'm a little bit on that outside looking in when I'm around these guys. I see guys struggling and I see guys doing well. I see guys who I think when they meet one another and they meet me, they feel better. I can tell they feel better. Some struggle with obviously the deaths. I hope at times when I'm talking to them, and that’s why I said life’s been good to me, it lets them see the good that’s come. Because I know a lot of them probably think, “Well, he had some kids and oh man it was a tragedy.” I think if I give them something that’s what I hope to give them, that things are good. I think it does help some of them. You know, that little bit. Each little bit probably helps those guys a little bit more. Anyway, so that was <date when="1995">1995</date>, we got to meet all of these guys. I met a guy who was next to my father when he was shot and my father’s hit was by a sniper on <date when="1965-11-15">the 15th</date>. He was mortarman. The stories I get, again bits and pieces of each man tells you just a little bit. The story I get is that he had been through all this heated time through the night and this was a heated time until—I think the stories I’ve gotten and again their a little like a hodgepodge, decopodge , that’s the word I look for. They said it was a little bit of a lolled action. Again, they’re trying to help wounded and we got a little time in there and they warned us, “Snipers in these trees”, you know. Anyway, I met the guy, a man named <persName>David Nieves</persName>, told me he was next to my father. Matter of fact, seen this meeting and I'll probably been in seven, eight meetings with these guys. But this meeting is one of the first times I’ve met a guy named <persName>Sergeant Warren Adams</persName>, who was a <name type="event">World War II</name> vet, <name type="event">Korea</name>, <name type="event">Vietnam</name>. He was the main Sergeant there with my dad’s group. It enlightens you. <persName>Sergeant Niemeyer</persName> is the guy that kind of knew my father. It’s a bizarre long story. But let’s try to put it together. So that was in <date when="1995">’95</date>.</u>
+      <u who="DELAPAZ">You better pick right and you better make good grades and you better move on. Anyway, I kind of thought I wanted to be a dentist the whole time, but I have a biology with a chemistry minor. I threw some interactions with some friends growing up. I thought I could always fall back to be a secret service agent, I used to stay very fit. I got through the process though as you can imagined. I attended North Texas State and then <orgName ref="#ttu_490_org_0">Baylor College of Dentistry</orgName> in <placeName ref="#ttu_490_place_5">Dallas</placeName>, graduated in <date when="1987">1987</date>. So as you know, as you’re going through all these degrees and hard work, it’s kind of really fast. Dental school seems like two years, but it’s four. Anyway, get out and start working in <placeName ref="#ttu_490_place_6">Temple, Texas</placeName>, which is about 20 miles from <placeName ref="#ttu_490_place_7">Foot Hood</placeName>. But I knew nothing about the <orgName ref="#ttu_490_org_1">1st Cav</orgName>, I knew nothing about really any of the incidents surrounding dad. My mother remarried, so she didn’t talk much about dad. It’s just not a subject that you’re going to talk about with a new husband. I have two half brothers and sisters. Anyway, my grandmother and grandfather, my dad was the oldest son. It was just heartbreaking for him. My grandfather really had a difficult time with it, so they didn’t talk about it either. The only thing you had there was his old photo from past basic. So you had no history in other words. Well, so I'm going through life trying to get on myself, new dentist and all that. I worked for another doctor in <placeName ref="#ttu_490_place_8">Temple</placeName>. Worked there for about two and a half years and this is where the story starts to come together. In <date when="1990">1990</date>, I went to work for the state prison system. One day I'm in the breakroom for a minute and I pick up this <orgName ref="#ttu_490_org_2">US News &amp; World Report</orgName>. I glanced down there and see the dates on there. The one thing that I had from my dad, it’s really bad that your dad is this hatbox with a few things in it. I glanced through there at times and noticed the dates, I read all these things that it had in there. Most of them were who received commendations, an actual kill list, things like that. Anyway, but I noticed the date on that article about <placeName ref="#ttu_490_place_9">Vietnam</placeName> was the same date. So I grab that <orgName ref="#ttu_490_org_3">US News &amp; World Report</orgName>, took it home and stuck it away. Didn’t even read it, I don’t think, I might have glanced at it for a second. I noticed some names on there, names I thought I recognized from those lists. So anyway, I put it away and scurried on with life some more. About—it was <date when="1990">’90</date>, about <date when="1992">’92</date>, I opened a practice right in <placeName ref="#ttu_490_place_10">Killeen</placeName>, which is where <placeName ref="#ttu_490_place_11">Fort Hood</placeName> is. I was working and I went down and noticed these Cav guys, they were having a reunion right next door in my building, hundred yards. I said, “I’m just going over there and see what’s going on.” They allowed visitors, ten bucks and you can go in there and meet people. So I walked in there and if you haven’t meet <persName ref="#ttu_490_person_13">Clinton Poley</persName>, you will, trust me. <persName ref="#ttu_490_person_14">Clinton Poley</persName> is a farm boy. Talked to a tree, but he was in the <name type="event" ref="#ttu_490_event_0">Ia Drang Battle</name>. He’s in the book, he’s the guy with the big bandage wrapped around, looks like a big dental bandage. I just said, “Hey, my dad is—” He said, “Well, I don’t think I knew your dad, but we’ll find somebody.” These guys, <persName ref="#ttu_490_person_15">Comer</persName> and <persName ref="#ttu_490_person_16">Poley</persName> were the first guys there, I think they were from <orgName ref="#ttu_490_org_4">2 of 7th</orgName>. They took me around, “You know? You know? You know?” Pretty soon I’m talking to people, I can’t remember who I first met. I'm not sure that day I even met anyone that really knew dad there. I did have some of his documents and knew he was <orgName ref="#ttu_490_org_5">Delta Company</orgName>, <orgName ref="#ttu_490_org_6">1 of 7th</orgName>. That was about <date when="1992">’92</date>, must’ve been <date when="1993">’93</date> because they have those reunions on odd years. Then one day, time goes by again and in <date when="1995">1995</date>, I got a phone call. It was some solider who knew my father. They said, “We are going to have a reunion thirty years in <placeName ref="#ttu_490_place_12">Houston</placeName> and we want you to come, we’ve invited the rest.” My uncles and things in <placeName ref="#ttu_490_place_13">Houston</placeName>. My dad grew up in the <placeName ref="#ttu_490_place_14">Cypress Fairbanks</placeName> area of <placeName ref="#ttu_490_place_15">Houston</placeName>. So we go down there and I met about thirty guys that went through all of basic with him. These are the guys that really knew him. So each one, a lot of them, probably twenty of them gave me just a little bit. I mean, it was thirty years since a lot of them seen one another. They were—I think some of them were overtaken with emotion not just by me, but by meeting one another again. Some of them, glad as can be of course. Some dealing with it difficult. I'm a little bit on that outside looking in when I'm around these guys. I see guys struggling and I see guys doing well. I see guys who I think when they meet one another and they meet me, they feel better. I can tell they feel better. Some struggle with obviously the deaths. I hope at times when I'm talking to them, and that’s why I said life’s been good to me, it lets them see the good that’s come. Because I know a lot of them probably think, “Well, he had some kids and oh man it was a tragedy.” I think if I give them something that’s what I hope to give them, that things are good. I think it does help some of them. You know, that little bit. Each little bit probably helps those guys a little bit more. Anyway, so that was <date when="1995">1995</date>, we got to meet all of these guys. I met a guy who was next to my father when he was shot and my father’s hit was by a sniper on <date when="1965-11-15">the 15th</date>. He was mortarman. The stories I get, again bits and pieces of each man tells you just a little bit. The story I get is that he had been through all this heated time through the night and this was a heated time until—I think the stories I’ve gotten and again their a little like a hodgepodge, decopodge , that’s the word I look for. They said it was a little bit of a lolled action. Again, they’re trying to help wounded and we got a little time in there and they warned us, “Snipers in these trees”, you know. Anyway, I met the guy, a man named <persName ref="#ttu_490_person_17">David Nieves</persName>, told me he was next to my father. Matter of fact, seen this meeting and I'll probably been in seven, eight meetings with these guys. But this meeting is one of the first times I’ve met a guy named <persName ref="#ttu_490_person_18">Sergeant Warren Adams</persName>, who was a <name type="event" ref="#ttu_490_event_1">World War II</name> vet, <name type="event" ref="#ttu_490_event_2">Korea</name>, <name type="event" ref="#ttu_490_event_3">Vietnam</name>. He was the main Sergeant there with my dad’s group. It enlightens you. <persName ref="#ttu_490_person_19">Sergeant Niemeyer</persName> is the guy that kind of knew my father. It’s a bizarre long story. But let’s try to put it together. So that was in <date when="1995">’95</date>.</u>
       <u who="NAPOLI">You were hearing pieces of your dad’s story and what happened that afternoon is what I think you began to learn about that day in <date when="1995">’95</date>, right?</u>
-      <u who="DELAPAZ">Right. So that reunion occurred and it was some of the first things and again emotionally and for everyone. So then, time went by and I went to two more reunions in <placeName>Killeen</placeName>, which are odd years and all the <orgName>1st Cav</orgName> is there. Again, just kind of meet a new guy here and a new guy there. I brought up <persName>Sergeant Niemeyer</persName> because he was very important, he knew my father very well. He was one of his—and I don’t understand the whole basic training type deal, while they were in <placeName>Georgia</placeName>, <placeName>Fort Benning</placeName>. My Father was married, so a lot of the guys run off into the town and have fun. He said, “Your dad—", <persName>Sergeant Niemeyer</persName> lost his leg. I don’t know if you know, in the book he lost he leg, grenade. <persName>Sergeant Niemeyer</persName> told me that he would come over on the weekends and <persName>Niemeyer</persName> had this, sounded like a little farm pond and they’d fished and do stuff and he kind of took him under his wing in other words, took care of him. Each one of these guys tells me these stories and what’s really becoming more and more obvious is the role of genetics. Being a little bit of a scientist, studying science you just have to believe in some of these things other people find difficult. But the more they tell me, the more they are just describing me and my dad. I have to touch on the <persName>Presley</persName> thing. I kind of grew up, probably one of those kids that entertaining a little bit, sing around a lot. I probably did that at seven, not some later age. I’d do <persName>Elvis</persName> all the time, joking around. Anyway, one of the times I'm talking to these guys, they said, “Yeah, your dad used to do Elvis all the time! We’d go to these places, pick up something and started doing <persName>Elvis</persName>.” And my mother had never told me that. Obviously, she knew I did <persName>Elvis</persName> all the time and I thought, “Oh my god, that’s really bizarre!” Because I named my son <persName>Presley</persName> before I knew this story. He was born in <date when="1994">1994</date>. So <date when="1995">’95</date> is when I met those guys. I named him <persName>Presley</persName> after <persName>Elvis</persName>, so those things are funny. It sounds like he was—dad was a little bit of an energetic, wired up kind of guy and that’s definitely me. Little too much fun at times, but determined and anyway, it’s amazing the role of genetics. Now my son <persName>Presley</persName>, he plays violin and piano, he’s eleven. He sings a little bit already, he’ll have a little more musical talent though. My wife’s father played six instruments by ear. So we pushed him a little that way, but I don’t want to shove him that way. Anyway, I had to put that in there because I think it’s a good personal note.</u>
+      <u who="DELAPAZ">Right. So that reunion occurred and it was some of the first things and again emotionally and for everyone. So then, time went by and I went to two more reunions in <placeName ref="#ttu_490_place_16">Killeen</placeName>, which are odd years and all the <orgName ref="#ttu_490_org_7">1st Cav</orgName> is there. Again, just kind of meet a new guy here and a new guy there. I brought up <persName ref="#ttu_490_person_20">Sergeant Niemeyer</persName> because he was very important, he knew my father very well. He was one of his—and I don’t understand the whole basic training type deal, while they were in <placeName ref="#ttu_490_place_17">Georgia</placeName>, <placeName ref="#ttu_490_place_18">Fort Benning</placeName>. My Father was married, so a lot of the guys run off into the town and have fun. He said, “Your dad—", <persName ref="#ttu_490_person_21">Sergeant Niemeyer</persName> lost his leg. I don’t know if you know, in the book he lost he leg, grenade. <persName ref="#ttu_490_person_22">Sergeant Niemeyer</persName> told me that he would come over on the weekends and <persName ref="#ttu_490_person_23">Niemeyer</persName> had this, sounded like a little farm pond and they’d fished and do stuff and he kind of took him under his wing in other words, took care of him. Each one of these guys tells me these stories and what’s really becoming more and more obvious is the role of genetics. Being a little bit of a scientist, studying science you just have to believe in some of these things other people find difficult. But the more they tell me, the more they are just describing me and my dad. I have to touch on the <persName ref="#ttu_490_person_24">Presley</persName> thing. I kind of grew up, probably one of those kids that entertaining a little bit, sing around a lot. I probably did that at seven, not some later age. I’d do <persName ref="#ttu_490_person_25">Elvis</persName> all the time, joking around. Anyway, one of the times I'm talking to these guys, they said, “Yeah, your dad used to do Elvis all the time! We’d go to these places, pick up something and started doing <persName ref="#ttu_490_person_26">Elvis</persName>.” And my mother had never told me that. Obviously, she knew I did <persName ref="#ttu_490_person_27">Elvis</persName> all the time and I thought, “Oh my god, that’s really bizarre!” Because I named my son <persName ref="#ttu_490_person_28">Presley</persName> before I knew this story. He was born in <date when="1994">1994</date>. So <date when="1995">’95</date> is when I met those guys. I named him <persName ref="#ttu_490_person_29">Presley</persName> after <persName ref="#ttu_490_person_30">Elvis</persName>, so those things are funny. It sounds like he was—dad was a little bit of an energetic, wired up kind of guy and that’s definitely me. Little too much fun at times, but determined and anyway, it’s amazing the role of genetics. Now my son <persName ref="#ttu_490_person_31">Presley</persName>, he plays violin and piano, he’s eleven. He sings a little bit already, he’ll have a little more musical talent though. My wife’s father played six instruments by ear. So we pushed him a little that way, but I don’t want to shove him that way. Anyway, I had to put that in there because I think it’s a good personal note.</u>
       <u who="NAPOLI">Right.</u>
-      <u who="DELAPAZ">Let’s see, we get passed about <date when="1995">’95</date>, <date when="1996">’96</date>, <date when="1997">’97</date>. I meet some more of those guys and I came to <placeName>the wall</placeName> here in <date when="2003">2003</date>. Was that the 30th year anniversary of <placeName>the wall</placeName>?</u>
+      <u who="DELAPAZ">Let’s see, we get passed about <date when="1995">’95</date>, <date when="1996">’96</date>, <date when="1997">’97</date>. I meet some more of those guys and I came to <placeName ref="#ttu_490_place_19">the wall</placeName> here in <date when="2003">2003</date>. Was that the 30th year anniversary of <placeName ref="#ttu_490_place_20">the wall</placeName>?</u>
       <u who="NAPOLI"><date when="2002">2002</date> would be the 20th because it was <date when="1982">’82</date>.</u>
-      <u who="DELAPAZ">Yes, that’s when it was. So we came up here and I think that’s where I met <persName>Niemeyer</persName> actually, first time I came to <placeName>the wall</placeName>. By the time you go through dental school and you start children late, you see I'm forty-four at this point. I started children in the family late. You’re building a practice, you’re just doing so much. Obviously, school debt. People think you’re millionaire after dental school, (Chuckles) but anyway finally you get to take a day. Seriously, you cannot take extended days building a practice to come to <placeName>Washington D.C.</placeName> and see <placeName>the wall</placeName>! It’s the sad, sad truth. So that’s the first time I came to <placeName>the wall</placeName> and you know it’s one of those things. You saw me talking here and emotionally I don’t feel like I have these crisis moments, but obviously you go to <placeName>the wall</placeName>. </u>
+      <u who="DELAPAZ">Yes, that’s when it was. So we came up here and I think that’s where I met <persName ref="#ttu_490_person_32">Niemeyer</persName> actually, first time I came to <placeName ref="#ttu_490_place_21">the wall</placeName>. By the time you go through dental school and you start children late, you see I'm forty-four at this point. I started children in the family late. You’re building a practice, you’re just doing so much. Obviously, school debt. People think you’re millionaire after dental school, (Chuckles) but anyway finally you get to take a day. Seriously, you cannot take extended days building a practice to come to <placeName ref="#ttu_490_place_22">Washington D.C.</placeName> and see <placeName ref="#ttu_490_place_23">the wall</placeName>! It’s the sad, sad truth. So that’s the first time I came to <placeName ref="#ttu_490_place_24">the wall</placeName> and you know it’s one of those things. You saw me talking here and emotionally I don’t feel like I have these crisis moments, but obviously you go to <placeName ref="#ttu_490_place_25">the wall</placeName>. </u>
       <u who="NAPOLI">It’s pretty powerful.</u>
-      <u who="DELAPAZ">Anyway, got to go to <placeName>the wall</placeName> with a lot of the comrades. We read the names, I was actually a name reader. <persName>Jack Geoghegan</persName>’s wife read my father’s name. Actually, I think I had my father’s name and switched. She read <persName>Jack</persName>’s name, he’s very close on the list. I think she read my name. Anyway, I know I traded. They were going to let me read dad’s name, but I didn’t think I could do it. Obviously, I met her, she’s standing in line out in front of me and <placeName>the wall</placeName> for me it’s a little different I think. I'm just personally not one of those people—I almost don’t like <placeName>the wall</placeName> in a sense. It bothers me in some ways, I don’t know how to say it really. I like it and I don’t like it. It’s a love hate maybe.</u>
+      <u who="DELAPAZ">Anyway, got to go to <placeName ref="#ttu_490_place_26">the wall</placeName> with a lot of the comrades. We read the names, I was actually a name reader. <persName ref="#ttu_490_person_33">Jack Geoghegan</persName>’s wife read my father’s name. Actually, I think I had my father’s name and switched. She read <persName ref="#ttu_490_person_34">Jack</persName>’s name, he’s very close on the list. I think she read my name. Anyway, I know I traded. They were going to let me read dad’s name, but I didn’t think I could do it. Obviously, I met her, she’s standing in line out in front of me and <placeName ref="#ttu_490_place_27">the wall</placeName> for me it’s a little different I think. I'm just personally not one of those people—I almost don’t like <placeName ref="#ttu_490_place_28">the wall</placeName> in a sense. It bothers me in some ways, I don’t know how to say it really. I like it and I don’t like it. It’s a love hate maybe.</u>
       <u who="NAPOLI">Well, I think that’s perfectly understandable.</u>
-      <u who="DELAPAZ">So anyway, yesterday was a good day. I think that was one of the nicest presentations I’ve ever seen. I felt a lot of heart with the presenters yesterday. <persName>General Pace</persName> astonished with his career, in brief with what I saw. I think probably what happens is that initial wall is probably like your wedding day. It’s so emotional and caught up in the moment that it takes a while to digest all of that. Then so the second time, even though I had a moment there, you can just see the rest of it. It’s probably like a great athlete in a Super Bowl game. The first one, he probably has no idea what went on or a guy in the heat of a battle. He doesn’t realize at that moment what’s going on. At the end, he tries to reflect and put it all back together. I think that’s what happens when you go to <placeName>the wall</placeName> for the first time. There’s just so much going on, stimuli that it takes some time to put it all together. Subsequent visit, you can probably actually enjoy it a little bit more. These guys filled me in, all these meetings about the 11th Air Assault. I’m not a historian, but I can probably get closer to most people about the history of this battle. Trying to read the book comes from different viewpoints and it’s a little difficult to piece it all together. Then, the same thing I’ve said too, I think when you read a book you place the setting and you start to put that in your mind, everybody is different though. If I describe a town or a grassy knoll or whatever, everybody’s mental picture is what you can imagine. Until you start seeing some actual photos of the battle ground, that helps you again. All these guys are bringing the photos and even the names. As you got this guy’s name in your head for example, you say, “That guy was really close.” And then you finally get to meet him. It just helps put all those pictures together. So I think the whole thing for me is again kind of like—it’s probably like an editing room where they make movies. These clips are everywhere and they’re trying to piece them all together and put them into a sensible order. Anyway, in summary it’s coming together as far as the history. Knowing dad more because again really all I knew from my dad was what was in that hat box. That’s a little sad, but you know you got a purple heart and a bronze star and some data in there essentially. Now these guys fill in all these gaps and you start to get a whole person again, a whole story. Now, what I hope to contribute for those guys, for them is some peace in their minds at times. Let them see that somehow good has come from this conflict even. My father’s family was dirt poor family. My grandfather—this is interesting to me. When older folks you know, start telling the stories, people go, “They’re getting dementia.” And “They’re losing their minds.” But I think it could be a little more, I think it could be a little more that they aren’t losing their minds. They’re telling you the important things.</u>
+      <u who="DELAPAZ">So anyway, yesterday was a good day. I think that was one of the nicest presentations I’ve ever seen. I felt a lot of heart with the presenters yesterday. <persName ref="#ttu_490_person_35">General Pace</persName> astonished with his career, in brief with what I saw. I think probably what happens is that initial wall is probably like your wedding day. It’s so emotional and caught up in the moment that it takes a while to digest all of that. Then so the second time, even though I had a moment there, you can just see the rest of it. It’s probably like a great athlete in a Super Bowl game. The first one, he probably has no idea what went on or a guy in the heat of a battle. He doesn’t realize at that moment what’s going on. At the end, he tries to reflect and put it all back together. I think that’s what happens when you go to <placeName ref="#ttu_490_place_29">the wall</placeName> for the first time. There’s just so much going on, stimuli that it takes some time to put it all together. Subsequent visit, you can probably actually enjoy it a little bit more. These guys filled me in, all these meetings about the 11th Air Assault. I’m not a historian, but I can probably get closer to most people about the history of this battle. Trying to read the book comes from different viewpoints and it’s a little difficult to piece it all together. Then, the same thing I’ve said too, I think when you read a book you place the setting and you start to put that in your mind, everybody is different though. If I describe a town or a grassy knoll or whatever, everybody’s mental picture is what you can imagine. Until you start seeing some actual photos of the battle ground, that helps you again. All these guys are bringing the photos and even the names. As you got this guy’s name in your head for example, you say, “That guy was really close.” And then you finally get to meet him. It just helps put all those pictures together. So I think the whole thing for me is again kind of like—it’s probably like an editing room where they make movies. These clips are everywhere and they’re trying to piece them all together and put them into a sensible order. Anyway, in summary it’s coming together as far as the history. Knowing dad more because again really all I knew from my dad was what was in that hat box. That’s a little sad, but you know you got a purple heart and a bronze star and some data in there essentially. Now these guys fill in all these gaps and you start to get a whole person again, a whole story. Now, what I hope to contribute for those guys, for them is some peace in their minds at times. Let them see that somehow good has come from this conflict even. My father’s family was dirt poor family. My grandfather—this is interesting to me. When older folks you know, start telling the stories, people go, “They’re getting dementia.” And “They’re losing their minds.” But I think it could be a little more, I think it could be a little more that they aren’t losing their minds. They’re telling you the important things.</u>
       <u who="NAPOLI">If you’re listening. You got to listen hard.</u>
-      <u who="DELAPAZ">My grandfather told me that—to summarize it quickly, basically they came from <placeName>South Texas</placeName>. They are from <placeName>Falfurrias</placeName>, which is near <placeName>Refugio</placeName>. Near where <persName>Joe</persName>’s from, very close. He came to the <placeName> Houston Area</placeName>. He traded—my grandmother traded a little cooktop, a little two burner cooktop—these are poor Hispanic folk in south <placeName>Texas</placeName>,  for some car a brother had. I can imagine only, it was the 40s. They didn’t have enough gas even to get there. They found a lady on the side of the road. Her husband had run out of gas and baby or something. The bottom line is that dad had some water and a watermelon, gave them this. The husband had money and gave him enough gas to get to <placeName>Houston</placeName> and my grandfather told this story as he got old. Kind of the same story over and over.</u>
+      <u who="DELAPAZ">My grandfather told me that—to summarize it quickly, basically they came from <placeName ref="#ttu_490_place_30">South Texas</placeName>. They are from <placeName ref="#ttu_490_place_31">Falfurrias</placeName>, which is near <placeName ref="#ttu_490_place_32">Refugio</placeName>. Near where <persName ref="#ttu_490_person_36">Joe</persName>’s from, very close. He came to the <placeName ref="#ttu_490_place_33"> Houston Area</placeName>. He traded—my grandmother traded a little cooktop, a little two burner cooktop—these are poor Hispanic folk in south <placeName ref="#ttu_490_place_34">Texas</placeName>,  for some car a brother had. I can imagine only, it was the 40s. They didn’t have enough gas even to get there. They found a lady on the side of the road. Her husband had run out of gas and baby or something. The bottom line is that dad had some water and a watermelon, gave them this. The husband had money and gave him enough gas to get to <placeName ref="#ttu_490_place_35">Houston</placeName> and my grandfather told this story as he got old. Kind of the same story over and over.</u>
       <u who="NAPOLI">Mm-hmm.</u>
-      <u who="DELAPAZ">He had two cents when he got to <placeName>Houston</placeName>. My father was an only child at the time, fortunately. He milked cows for a gentleman. Kind of works, they had this tiny little house and milked cows. You milked cows seven days a week, twice a day. There’s no stopping. He got one milking off at Christmas. So my dad started working, I think about twelve, helping. I don't know if he quit school or not, I think he did to help. He was the oldest boy, they had eight children total. So he’s helping grandpa milk these cows and just get through this tough life, you know?</u>
+      <u who="DELAPAZ">He had two cents when he got to <placeName ref="#ttu_490_place_36">Houston</placeName>. My father was an only child at the time, fortunately. He milked cows for a gentleman. Kind of works, they had this tiny little house and milked cows. You milked cows seven days a week, twice a day. There’s no stopping. He got one milking off at Christmas. So my dad started working, I think about twelve, helping. I don't know if he quit school or not, I think he did to help. He was the oldest boy, they had eight children total. So he’s helping grandpa milk these cows and just get through this tough life, you know?</u>
       <u who="NAPOLI">I just want to get clear. Your dad—you figure your dad started working outside the house at age twelve? For cash?</u>
       <u who="DELAPAZ">No, just helping. I don't know, I don’t think he worked. I think he probably started working early, I don’t know the age. I think he might’ve—no, I don’t he worked for cash, no payment per se. I think that it was a role that he—maybe he stayed in school and did that, I don’t even know. I know that he did have to start working and helping, obviously. Running these cattle and doing stuff like that. They were so poor, but what I'm getting at is where they started. What I think is, if you want to call it a legacy—but his family’s future in other words was changed by this battle. If I were to grow up in that, who knows? I mean, obviously we can’t predict what would’ve happened. But the odds of him putting me through college. The odds of him probably getting the base education. Anyway, my mother remarried, but we get social security and you get the benefits that allow in other words, you to take that first step. I took some of those steps myself. But I had first few steps is what I'm saying, which probably would not have had. Now, becoming a dentist is so far from that beginning. I have dental school friends, the ones that really know me, you get those close friends. One’s a doctor and they tell me, “It’s unbelievably really where you came from and where you go.” But what I'm saying good about that is, now my son obviously, they might have the first three steps. They have such an advantage that I think that this battle in itself has changed possibly the entire family for years to come. Depending on how well I do raising them. I think you have to take that good and think about that. Those things, those weird things that happen for whatever reasons and unexplainable. That’s where we are with where we’re going.</u>
       <u who="NAPOLI">You father’s sacrifice was a gift?</u>
       <u who="DELAPAZ">That sounds crazy sometimes and I would not—you would never give that, you would never ask that obviously. It’s like, kill my child and let me win the lottery. No one would ever do that, but maybe somehow it was meant to be in other words. To get our family in the next phase of life. Anyway, I wanted to bring up—I lost it. I can’t remember, I can’t remember I what I was going to tell you.</u>
       <u who="NAPOLI">I apologize. Did you bring things you wanted to share?[Editor’s Note: The following segment consists of interviewee showing photos to the interviewer and camera]</u>
-      <u who="DELAPAZ">I brought a few photos that I thought maybe should become some kind of recorded history. A few things. It’s a tough picture, but I’ll try to get through it quickly. This photo is a duplicate, which is really odd in <date when="1960">1960</date>, whatever it is, three or so, probably. It’s a duplicate of what my father carried in <placeName>Vietnam</placeName>. The one that laminate and put in your wallet. I have the original laminate. I'm really washed out in the laminate because of wear and tear and water etcetera. But this is my sister, her name is Loretta. My sister has had some difficult times. Maybe some of this, I don’t know. We had some tough stepfathers, but she had some difficult times. She never really used her benefits as far as educational. Anyway, this is the photo my father carried through <placeName>Vietnam</placeName>. Maybe it’s not as significant. These are cute photos, this is good ole KP (Kitchen Police) duty. That’s <placeName>Fort Benning</placeName>.</u>
+      <u who="DELAPAZ">I brought a few photos that I thought maybe should become some kind of recorded history. A few things. It’s a tough picture, but I’ll try to get through it quickly. This photo is a duplicate, which is really odd in <date when="1960">1960</date>, whatever it is, three or so, probably. It’s a duplicate of what my father carried in <placeName ref="#ttu_490_place_37">Vietnam</placeName>. The one that laminate and put in your wallet. I have the original laminate. I'm really washed out in the laminate because of wear and tear and water etcetera. But this is my sister, her name is Loretta. My sister has had some difficult times. Maybe some of this, I don’t know. We had some tough stepfathers, but she had some difficult times. She never really used her benefits as far as educational. Anyway, this is the photo my father carried through <placeName ref="#ttu_490_place_38">Vietnam</placeName>. Maybe it’s not as significant. These are cute photos, this is good ole KP (Kitchen Police) duty. That’s <placeName ref="#ttu_490_place_39">Fort Benning</placeName>.</u>
       <u who="NAPOLI">Sure enough. Peeling potatoes.</u>
-      <u who="DELAPAZ">This is as classic of KP as you get, buddy. Peel some potatoes. These are some photos of these guys having fun. This is, I don’t you’ll be able to see this, but this is where they milked cows out there. This is my sister and my dad. Probably eighteen maybe. These are some friends of his that I haven’t actually located. Again, that’s difficult to see him at <placeName>Fort Benning</placeName>. I did want to show this to everybody because this is the kind of thing you get in the box in other words. This is your notification from <placeName>the White House</placeName>. I can remember, believe it or not the guys coming to my house. I was— maybe it’s boys, maybe it was youth, but I remember the soldiers coming. Probably youth to be honest with you. I remember soldiers coming to talk to my dad, the soldiers did come to my dad’s house. We lived in a rural area though, we weren’t on the base or anything. I do remember that, I do remember my mother crying and my sister crying, but I remember not crying. I had no idea what was going to be honest with you, I know that. But I could remember you know, kids try to comfort their mother. I can kind of remember that. But anyway, this is—I always love it because it says mastery on it. Then, you get a love-hate relationship with <persName>Lyndon Johnson</persName> but—</u>
+      <u who="DELAPAZ">This is as classic of KP as you get, buddy. Peel some potatoes. These are some photos of these guys having fun. This is, I don’t you’ll be able to see this, but this is where they milked cows out there. This is my sister and my dad. Probably eighteen maybe. These are some friends of his that I haven’t actually located. Again, that’s difficult to see him at <placeName ref="#ttu_490_place_40">Fort Benning</placeName>. I did want to show this to everybody because this is the kind of thing you get in the box in other words. This is your notification from <placeName ref="#ttu_490_place_41">the White House</placeName>. I can remember, believe it or not the guys coming to my house. I was— maybe it’s boys, maybe it was youth, but I remember the soldiers coming. Probably youth to be honest with you. I remember soldiers coming to talk to my dad, the soldiers did come to my dad’s house. We lived in a rural area though, we weren’t on the base or anything. I do remember that, I do remember my mother crying and my sister crying, but I remember not crying. I had no idea what was going to be honest with you, I know that. But I could remember you know, kids try to comfort their mother. I can kind of remember that. But anyway, this is—I always love it because it says mastery on it. Then, you get a love-hate relationship with <persName ref="#ttu_490_person_37">Lyndon Johnson</persName> but—</u>
       <u who="NAPOLI">Are you willing to read it? At least the first part?</u>
-      <u who="DELAPAZ">Okay. Let’s see. <date when="1965-12-23">December 23rd, 1965</date>. Dear <persName>Dacen</persName> and <persName>Loretta</persName>. It is with deep regret that I learned of the death of your father, Specialist 4 <persName>Hilario De La Paz Jr.</persName> <orgName>United States Army</orgName>, as a result of a wounds received due to hostile action while serving in <placeName>Vietnam</placeName>. From the time your father entered the military service to his most recent assignment, he exhibited the qualities of a fine soldier and preformed his duties in an outstanding manner. His exceptional soldierly qualities and unselfish devotion to duty earned from him the respect and esteemed of his comrades and the officers with whom he served. As you grow older, you’ll realize the full importance of the service your father gave to our country. We will take pride and comfort in the knowledge that his countrymen are deeply grateful. Praise contribution to the security of the nation, he has been awarded the Purple Heart for his valuate sacrifice in <placeName>Vietnam</placeName>. <persName>Mrs. Johnson</persName> joins me in extending our heartfelt sympathy to you in your tragic loss. Sincerely, <persName>Lyndon B. Johnson</persName>. Those letters are probably difficult to write as their to receive if you have anything in your soul, you know. So I can understand that. I'm sure I missed something I wanted to tell you guys and I wanted the soldiers to know. More than anything, I want the soldiers to know that we’re living a better life than we probably would have as a result of all of this and what I want them to know in their heart in other words is that some of the comrades that fell it’s not all horrible in other words, for their survivors and dependents and etc. Somehow in this tragic story they are good things that come of it. I hope that people get that. When I come to these- to be honest with you, now after I’ve come to eight of them or so, I hope I give more than I take. I do meet somebody now new, I do get new information and I hope that somebody else gets a little something in other words, an old soldier.</u>
+      <u who="DELAPAZ">Okay. Let’s see. <date when="1965-12-23">December 23rd, 1965</date>. Dear <persName ref="#ttu_490_person_38">Dacen</persName> and <persName ref="#ttu_490_person_39">Loretta</persName>. It is with deep regret that I learned of the death of your father, Specialist 4 <persName ref="#ttu_490_person_40">Hilario De La Paz Jr.</persName> <orgName ref="#ttu_490_org_8">United States Army</orgName>, as a result of a wounds received due to hostile action while serving in <placeName ref="#ttu_490_place_42">Vietnam</placeName>. From the time your father entered the military service to his most recent assignment, he exhibited the qualities of a fine soldier and preformed his duties in an outstanding manner. His exceptional soldierly qualities and unselfish devotion to duty earned from him the respect and esteemed of his comrades and the officers with whom he served. As you grow older, you’ll realize the full importance of the service your father gave to our country. We will take pride and comfort in the knowledge that his countrymen are deeply grateful. Praise contribution to the security of the nation, he has been awarded the Purple Heart for his valuate sacrifice in <placeName ref="#ttu_490_place_43">Vietnam</placeName>. <persName ref="#ttu_490_person_41">Mrs. Johnson</persName> joins me in extending our heartfelt sympathy to you in your tragic loss. Sincerely, <persName ref="#ttu_490_person_42">Lyndon B. Johnson</persName>. Those letters are probably difficult to write as their to receive if you have anything in your soul, you know. So I can understand that. I'm sure I missed something I wanted to tell you guys and I wanted the soldiers to know. More than anything, I want the soldiers to know that we’re living a better life than we probably would have as a result of all of this and what I want them to know in their heart in other words is that some of the comrades that fell it’s not all horrible in other words, for their survivors and dependents and etc. Somehow in this tragic story they are good things that come of it. I hope that people get that. When I come to these- to be honest with you, now after I’ve come to eight of them or so, I hope I give more than I take. I do meet somebody now new, I do get new information and I hope that somebody else gets a little something in other words, an old soldier.</u>
       <u who="NAPOLI">Do you have your history back?</u>
       <u who="DELAPAZ">My history?</u>
       <u who="NAPOLI">Yeah, your history. You came in and said you grew up without a history and you had to put it together yourself.</u>
@@ -101,15 +101,15 @@
       <u who="NAPOLI">Working like you do.</u>
       <u who="DELAPAZ">Well, especially young I’d sleep two hours, you know. You’ve been through enough school to know. I’d work waiting tables, you worked until two, then you clean up and I might go to bed at four and then I might need to study thirty minutes to an hour—I think I had to refresh something for a test the next day. It was crazy at times. We did that multiple—that wasn’t one event, in other words. I don’t think anybody becomes a doctor without some commitment. (Laughs)</u>
       <u who="NAPOLI">With some family commitment, with some debt!</u>
-      <u who="DELAPAZ">But anyways, the no sleep stuff is really strange and also when I go with these guys I'll just stay up half the night or whatever. It’s always been like that. I'm one of those guys that, these guys tell me—<persName>Sargent Niemeyer</persName> for example, knew dad well. Tells me about how he was. You hope that what you put together in your mind—the more they tell me though, I have to almost perceive him to be just like me, just a different version. That completes the history pretty much.</u>
+      <u who="DELAPAZ">But anyways, the no sleep stuff is really strange and also when I go with these guys I'll just stay up half the night or whatever. It’s always been like that. I'm one of those guys that, these guys tell me—<persName ref="#ttu_490_person_43">Sargent Niemeyer</persName> for example, knew dad well. Tells me about how he was. You hope that what you put together in your mind—the more they tell me though, I have to almost perceive him to be just like me, just a different version. That completes the history pretty much.</u>
       <u who="NAPOLI">It sure does.</u>
-      <u who="DELAPAZ">Probably most sons are like their dads. Not just through—this could get into huge debate, but not just through social economic arguments or etc. You’re going to be a lot like your genetics. I think any scientist could go there easily. Things can change though and I'm proof. I think that I have my history, I’d say that and my dad’s. I'm very content. The emotional part is just natural when you talk about these things. I don’t have any issues about that, I think now I'm just busy taking care of my family and coming to see these guys. Invite them to my house, they come to my house. I have a beautiful home and I try to really take care of them. When they come over, I just feed them and drink them and take good care of them. It’s always good. I met the general—this is a little significant, I met the general at one of those meetings at <placeName>Fort Hood</placeName>, probably around <date when="1993">‘93</date>. Anyway, he spoke—first of all, it was an amazing moment. I’d been going around there and of course everybody is with him and I'm not one of those people that really likes to break into anything, I wanted to wait for a time when he wasn’t bantered by everybody. So I finally got an opportunity and walked up to him and looked him in the eyes and he wasn’t a young man, but <persName>General Moore</persName> was still a strapping—you can tell he was a strapping gentleman. This is twelve years ago or more. He looked great and he looked stilled jaw still. He looked me in the eyes and I was wearing a little tag, I always put my dad’s name on there and I put <persName>Dr. D</persName> on there because my name is difficult. So I put <persName>Dr. D</persName> on there so these guys can get that real easy. So this guy is looking at me and the minute he fixed gaze, I could see his wheels turn and it’s like he’s reading that name going, “<persName>Hilario De La Paz</persName>” and that clock is going. I shook his hand and I couldn’t tell you exact words he said, but I can tell you if he didn’t really know dad, he chose the right words. I think he knows everybody, I do believe he knows everybody killed in action. It’s a little mind-boggling when you meet the son of someone killed in action. He talked to me a little bit and I think it’s amazing to me that one of the best parts of seeing this movie was when you go to some of the preface parts—anyway, they have a clip of there the immediate post conflict interviews and you would think, in other words some of this current day verbiage would be to support the book or movie. But if you really paid close attention to that post-conflict interview, he actually says, “I want people to know what my boys did today. I want them to know that they fought bravely”, etc. Right after the conflict, and this is actual footage. That really let me know that his heart is good. That’s really big for him. It’s amazing that after this huge conflict he says that. It’s not some presidential speech written for him by some guys and practiced.</u>
+      <u who="DELAPAZ">Probably most sons are like their dads. Not just through—this could get into huge debate, but not just through social economic arguments or etc. You’re going to be a lot like your genetics. I think any scientist could go there easily. Things can change though and I'm proof. I think that I have my history, I’d say that and my dad’s. I'm very content. The emotional part is just natural when you talk about these things. I don’t have any issues about that, I think now I'm just busy taking care of my family and coming to see these guys. Invite them to my house, they come to my house. I have a beautiful home and I try to really take care of them. When they come over, I just feed them and drink them and take good care of them. It’s always good. I met the general—this is a little significant, I met the general at one of those meetings at <placeName ref="#ttu_490_place_44">Fort Hood</placeName>, probably around <date when="1993">‘93</date>. Anyway, he spoke—first of all, it was an amazing moment. I’d been going around there and of course everybody is with him and I'm not one of those people that really likes to break into anything, I wanted to wait for a time when he wasn’t bantered by everybody. So I finally got an opportunity and walked up to him and looked him in the eyes and he wasn’t a young man, but <persName ref="#ttu_490_person_44">General Moore</persName> was still a strapping—you can tell he was a strapping gentleman. This is twelve years ago or more. He looked great and he looked stilled jaw still. He looked me in the eyes and I was wearing a little tag, I always put my dad’s name on there and I put <persName ref="#ttu_490_person_45">Dr. D</persName> on there because my name is difficult. So I put <persName ref="#ttu_490_person_46">Dr. D</persName> on there so these guys can get that real easy. So this guy is looking at me and the minute he fixed gaze, I could see his wheels turn and it’s like he’s reading that name going, “<persName ref="#ttu_490_person_47">Hilario De La Paz</persName>” and that clock is going. I shook his hand and I couldn’t tell you exact words he said, but I can tell you if he didn’t really know dad, he chose the right words. I think he knows everybody, I do believe he knows everybody killed in action. It’s a little mind-boggling when you meet the son of someone killed in action. He talked to me a little bit and I think it’s amazing to me that one of the best parts of seeing this movie was when you go to some of the preface parts—anyway, they have a clip of there the immediate post conflict interviews and you would think, in other words some of this current day verbiage would be to support the book or movie. But if you really paid close attention to that post-conflict interview, he actually says, “I want people to know what my boys did today. I want them to know that they fought bravely”, etc. Right after the conflict, and this is actual footage. That really let me know that his heart is good. That’s really big for him. It’s amazing that after this huge conflict he says that. It’s not some presidential speech written for him by some guys and practiced.</u>
       <u who="NAPOLI">It came from a human heart about an honest belief.</u>
-      <u who="DELAPAZ">That was amazing to me, that told me a lot. That one little thing told me a lot in my heart about <persName>Colonel General Moore</persName>. Anyway, one of the best parts of the movie, you have to jump to the preface part. Anyway, I think I’ve told you most of what is important.</u>
+      <u who="DELAPAZ">That was amazing to me, that told me a lot. That one little thing told me a lot in my heart about <persName ref="#ttu_490_person_48">Colonel General Moore</persName>. Anyway, one of the best parts of the movie, you have to jump to the preface part. Anyway, I think I’ve told you most of what is important.</u>
       <u who="NAPOLI">Good.</u>
       <u who="DELAPAZ">Everybody hopes that the sacrifice was made, that it was made for something good and the story is told, and I commend you guys for taking the time to do these things. I think it’s very important that these soldiers get their stories out. Someday, history will look back at these individuals because we do lose touch with the fact that these are individuals.</u>
       <u who="NAPOLI">Right.</u>
-      <u who="DELAPAZ">And these guys that did survive, I’ve meet enough of them to know. Believe me, some are very scarred by their experience and the guys they lost and coming home. I don't know if there’s a cure for those guys as far as how me make it up to them. There is no make it up to people forty years later, but I do believe our nation is trying. What’s good, I see these active duty guys now, I think our nation is doing a better job. I had patients, who’ve lost their husband in <placeName>Iraq</placeName> right now. Kids who’ve lost their fathers. It’s tough for those people. I just hope that they get through those times. As well as I have, hopefully they will. There’s nothing like seeing somebody who just lost their spouse or their father. Most of my patients, have actually done some newspaper stuff in town. Some know that my father was in this conflict, but most don’t. So when they come in and we know this, they’ve lost their husband, that’s hard for me. You’d like to—doctors don’t hug their patients.</u>
+      <u who="DELAPAZ">And these guys that did survive, I’ve meet enough of them to know. Believe me, some are very scarred by their experience and the guys they lost and coming home. I don't know if there’s a cure for those guys as far as how me make it up to them. There is no make it up to people forty years later, but I do believe our nation is trying. What’s good, I see these active duty guys now, I think our nation is doing a better job. I had patients, who’ve lost their husband in <placeName ref="#ttu_490_place_45">Iraq</placeName> right now. Kids who’ve lost their fathers. It’s tough for those people. I just hope that they get through those times. As well as I have, hopefully they will. There’s nothing like seeing somebody who just lost their spouse or their father. Most of my patients, have actually done some newspaper stuff in town. Some know that my father was in this conflict, but most don’t. So when they come in and we know this, they’ve lost their husband, that’s hard for me. You’d like to—doctors don’t hug their patients.</u>
       <u who="NAPOLI">No they don’t, yes that’s true! (Chuckles) </u>
       <u who="DELAPAZ">Too often.</u>
       <u who="NAPOLI">Should we stop?</u>
@@ -119,4 +119,338 @@
       <u who="NAPOLI">Thank you.(End of interview)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_490_place_0">
+        <placeName>Crystal City Hilton Hotel</placeName>
+      </place>
+      <place xml:id="ttu_490_place_1">
+        <placeName>Belton, Texas</placeName>
+      </place>
+      <place xml:id="ttu_490_place_2">
+        <placeName>Fort Hood</placeName>
+      </place>
+      <place xml:id="ttu_490_place_3">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="ttu_490_place_4">
+        <placeName>Fort Hood</placeName>
+      </place>
+      <place xml:id="ttu_490_place_5">
+        <placeName>Dallas</placeName>
+      </place>
+      <place xml:id="ttu_490_place_6">
+        <placeName>Temple, Texas</placeName>
+      </place>
+      <place xml:id="ttu_490_place_7">
+        <placeName>Foot Hood</placeName>
+      </place>
+      <place xml:id="ttu_490_place_8">
+        <placeName>Temple</placeName>
+      </place>
+      <place xml:id="ttu_490_place_9">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_490_place_10">
+        <placeName>Killeen</placeName>
+      </place>
+      <place xml:id="ttu_490_place_11">
+        <placeName>Fort Hood</placeName>
+      </place>
+      <place xml:id="ttu_490_place_12">
+        <placeName>Houston</placeName>
+      </place>
+      <place xml:id="ttu_490_place_13">
+        <placeName>Houston</placeName>
+      </place>
+      <place xml:id="ttu_490_place_14">
+        <placeName>Cypress Fairbanks</placeName>
+      </place>
+      <place xml:id="ttu_490_place_15">
+        <placeName>Houston</placeName>
+      </place>
+      <place xml:id="ttu_490_place_16">
+        <placeName>Killeen</placeName>
+      </place>
+      <place xml:id="ttu_490_place_17">
+        <placeName>Georgia</placeName>
+      </place>
+      <place xml:id="ttu_490_place_18">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_490_place_19">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_20">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_21">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_22">
+        <placeName>Washington D.C.</placeName>
+      </place>
+      <place xml:id="ttu_490_place_23">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_24">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_25">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_26">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_27">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_28">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_29">
+        <placeName>the wall</placeName>
+      </place>
+      <place xml:id="ttu_490_place_30">
+        <placeName>South Texas</placeName>
+      </place>
+      <place xml:id="ttu_490_place_31">
+        <placeName>Falfurrias</placeName>
+      </place>
+      <place xml:id="ttu_490_place_32">
+        <placeName>Refugio</placeName>
+      </place>
+      <place xml:id="ttu_490_place_33">
+        <placeName> Houston Area</placeName>
+      </place>
+      <place xml:id="ttu_490_place_34">
+        <placeName>Texas</placeName>
+      </place>
+      <place xml:id="ttu_490_place_35">
+        <placeName>Houston</placeName>
+      </place>
+      <place xml:id="ttu_490_place_36">
+        <placeName>Houston</placeName>
+      </place>
+      <place xml:id="ttu_490_place_37">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_490_place_38">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_490_place_39">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_490_place_40">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="ttu_490_place_41">
+        <placeName>the White House</placeName>
+      </place>
+      <place xml:id="ttu_490_place_42">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_490_place_43">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_490_place_44">
+        <placeName>Fort Hood</placeName>
+      </place>
+      <place xml:id="ttu_490_place_45">
+        <placeName>Iraq</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_490_event_0">
+        <desc>Ia Drang Battle</desc>
+      </event>
+      <event xml:id="ttu_490_event_1">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="ttu_490_event_2">
+        <desc>Korea</desc>
+      </event>
+      <event xml:id="ttu_490_event_3">
+        <desc>Vietnam</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_490_person_0">
+        <persName>Philip Napoli</persName>
+      </person>
+      <person xml:id="ttu_490_person_1">
+        <persName>Belton</persName>
+      </person>
+      <person xml:id="ttu_490_person_2">
+        <persName>Presley</persName>
+      </person>
+      <person xml:id="ttu_490_person_3">
+        <persName>Presley Hilario DeLaPaz</persName>
+      </person>
+      <person xml:id="ttu_490_person_4">
+        <persName>Presley</persName>
+      </person>
+      <person xml:id="ttu_490_person_5">
+        <persName>Elvis</persName>
+      </person>
+      <person xml:id="ttu_490_person_6">
+        <persName>Pierson</persName>
+      </person>
+      <person xml:id="ttu_490_person_7">
+        <persName>Presley</persName>
+      </person>
+      <person xml:id="ttu_490_person_8">
+        <persName>Pierson</persName>
+      </person>
+      <person xml:id="ttu_490_person_9">
+        <persName>Pierson</persName>
+      </person>
+      <person xml:id="ttu_490_person_10">
+        <persName>Pierson Rafael DeLaPaz</persName>
+      </person>
+      <person xml:id="ttu_490_person_11">
+        <persName>Annette</persName>
+      </person>
+      <person xml:id="ttu_490_person_12">
+        <persName>Nancy</persName>
+      </person>
+      <person xml:id="ttu_490_person_13">
+        <persName>Clinton Poley</persName>
+      </person>
+      <person xml:id="ttu_490_person_14">
+        <persName>Clinton Poley</persName>
+      </person>
+      <person xml:id="ttu_490_person_15">
+        <persName>Comer</persName>
+      </person>
+      <person xml:id="ttu_490_person_16">
+        <persName>Poley</persName>
+      </person>
+      <person xml:id="ttu_490_person_17">
+        <persName>David Nieves</persName>
+      </person>
+      <person xml:id="ttu_490_person_18">
+        <persName>Sergeant Warren Adams</persName>
+      </person>
+      <person xml:id="ttu_490_person_19">
+        <persName>Sergeant Niemeyer</persName>
+      </person>
+      <person xml:id="ttu_490_person_20">
+        <persName>Sergeant Niemeyer</persName>
+      </person>
+      <person xml:id="ttu_490_person_21">
+        <persName>Sergeant Niemeyer</persName>
+      </person>
+      <person xml:id="ttu_490_person_22">
+        <persName>Sergeant Niemeyer</persName>
+      </person>
+      <person xml:id="ttu_490_person_23">
+        <persName>Niemeyer</persName>
+      </person>
+      <person xml:id="ttu_490_person_24">
+        <persName>Presley</persName>
+      </person>
+      <person xml:id="ttu_490_person_25">
+        <persName>Elvis</persName>
+      </person>
+      <person xml:id="ttu_490_person_26">
+        <persName>Elvis</persName>
+      </person>
+      <person xml:id="ttu_490_person_27">
+        <persName>Elvis</persName>
+      </person>
+      <person xml:id="ttu_490_person_28">
+        <persName>Presley</persName>
+      </person>
+      <person xml:id="ttu_490_person_29">
+        <persName>Presley</persName>
+      </person>
+      <person xml:id="ttu_490_person_30">
+        <persName>Elvis</persName>
+      </person>
+      <person xml:id="ttu_490_person_31">
+        <persName>Presley</persName>
+      </person>
+      <person xml:id="ttu_490_person_32">
+        <persName>Niemeyer</persName>
+      </person>
+      <person xml:id="ttu_490_person_33">
+        <persName>Jack Geoghegan</persName>
+      </person>
+      <person xml:id="ttu_490_person_34">
+        <persName>Jack</persName>
+      </person>
+      <person xml:id="ttu_490_person_35">
+        <persName>General Pace</persName>
+      </person>
+      <person xml:id="ttu_490_person_36">
+        <persName>Joe</persName>
+      </person>
+      <person xml:id="ttu_490_person_37">
+        <persName>Lyndon Johnson</persName>
+      </person>
+      <person xml:id="ttu_490_person_38">
+        <persName>Dacen</persName>
+      </person>
+      <person xml:id="ttu_490_person_39">
+        <persName>Loretta</persName>
+      </person>
+      <person xml:id="ttu_490_person_40">
+        <persName>Hilario De La Paz Jr.</persName>
+      </person>
+      <person xml:id="ttu_490_person_41">
+        <persName>Mrs. Johnson</persName>
+      </person>
+      <person xml:id="ttu_490_person_42">
+        <persName>Lyndon B. Johnson</persName>
+      </person>
+      <person xml:id="ttu_490_person_43">
+        <persName>Sargent Niemeyer</persName>
+      </person>
+      <person xml:id="ttu_490_person_44">
+        <persName>General Moore</persName>
+      </person>
+      <person xml:id="ttu_490_person_45">
+        <persName>Dr. D</persName>
+      </person>
+      <person xml:id="ttu_490_person_46">
+        <persName>Dr. D</persName>
+      </person>
+      <person xml:id="ttu_490_person_47">
+        <persName>Hilario De La Paz</persName>
+      </person>
+      <person xml:id="ttu_490_person_48">
+        <persName>Colonel General Moore</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_490_org_0">
+        <orgName>Baylor College of Dentistry</orgName>
+      </org>
+      <org xml:id="ttu_490_org_1">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_490_org_2">
+        <orgName>US News &amp; World Report</orgName>
+      </org>
+      <org xml:id="ttu_490_org_3">
+        <orgName>US News &amp; World Report</orgName>
+      </org>
+      <org xml:id="ttu_490_org_4">
+        <orgName>2 of 7th</orgName>
+      </org>
+      <org xml:id="ttu_490_org_5">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="ttu_490_org_6">
+        <orgName>1 of 7th</orgName>
+      </org>
+      <org xml:id="ttu_490_org_7">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_490_org_8">
+        <orgName>United States Army</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
