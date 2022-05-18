@@ -268,432 +268,762 @@
     <listPlace>
       <place xml:id="ttu_462_place_0">
         <placeName>Ia Drang Valley</placeName>
+        <location>
+          <geo>13.583333333333 107.71666666667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
       </place>
       <place xml:id="ttu_462_place_1">
         <placeName>Oklahoma</placeName>
+        <location>
+          <geo>35.5 -98</geo>
+        </location>
+        <idno type="WD">Q1649</idno>
       </place>
       <place xml:id="ttu_462_place_2">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_3">
         <placeName>Oklahoma</placeName>
+        <location>
+          <geo>35.5 -98</geo>
+        </location>
+        <idno type="WD">Q1649</idno>
       </place>
       <place xml:id="ttu_462_place_4">
         <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
       </place>
       <place xml:id="ttu_462_place_5">
         <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
       </place>
       <place xml:id="ttu_462_place_6">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_7">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_8">
         <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
       </place>
       <place xml:id="ttu_462_place_9">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_10">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_11">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_12">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_13">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_14">
-        <placeName>US</placeName>
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
       </place>
       <place xml:id="ttu_462_place_15">
-        <placeName>Benning</placeName>
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_16">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_17">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_18">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_19">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_20">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_21">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_22">
         <placeName>South Vietnam</placeName>
+        <location>
+          <geo>10.776944 106.695278</geo>
+        </location>
+        <idno type="WD">Q180573</idno>
       </place>
       <place xml:id="ttu_462_place_23">
-        <placeName>A Sầu Valley</placeName>
+        <placeName>A Shau Valley</placeName>
+        <location>
+          <geo>16.259305555556 107.2125</geo>
+        </location>
+        <idno type="WD">Q4073426</idno>
       </place>
       <place xml:id="ttu_462_place_24">
-        <placeName>An Khe</placeName>
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
       </place>
       <place xml:id="ttu_462_place_25">
-        <placeName>An Khe</placeName>
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
       </place>
       <place xml:id="ttu_462_place_26">
-        <placeName>An Khe</placeName>
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
       </place>
       <place xml:id="ttu_462_place_27">
-        <placeName>An Khe</placeName>
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
       </place>
       <place xml:id="ttu_462_place_28">
-        <placeName>Pleiku-Ia Drang</placeName>
+        <placeName>Pleiku-Ia Drang area</placeName>
+        <location>
+          <geo>13.583333 107.716667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
       </place>
       <place xml:id="ttu_462_place_29">
-        <placeName>Plei Me</placeName>
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
       </place>
       <place xml:id="ttu_462_place_30">
-        <placeName>An Khe</placeName>
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
       </place>
       <place xml:id="ttu_462_place_31">
-        <placeName>Qui Nhon</placeName>
+        <placeName>Qui Nhơn</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
       </place>
       <place xml:id="ttu_462_place_32">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_33">
-        <placeName>US</placeName>
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
       </place>
       <place xml:id="ttu_462_place_34">
-        <placeName>Bong Son</placeName>
+        <placeName>Bồng Sơn</placeName>
+        <location>
+          <geo>14.43333333 109.01666667</geo>
+        </location>
+        <idno type="WD">Q2276503</idno>
       </place>
       <place xml:id="ttu_462_place_35">
         <placeName>Hawaii</placeName>
+        <location>
+          <geo>21.3075 -157.8575</geo>
+        </location>
+        <idno type="WD">Q782</idno>
       </place>
       <place xml:id="ttu_462_place_36">
-        <placeName>Bong Son</placeName>
+        <placeName>Bồng Sơn</placeName>
+        <location>
+          <geo>14.43333333 109.01666667</geo>
+        </location>
+        <idno type="WD">Q2276503</idno>
       </place>
       <place xml:id="ttu_462_place_37">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_38">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_39">
         <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
       </place>
       <place xml:id="ttu_462_place_40">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_462_place_41">
-        <placeName>Benning</placeName>
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_42">
         <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
       </place>
       <place xml:id="ttu_462_place_43">
-        <placeName>Plei Me</placeName>
+        <placeName>Plei Me camp</placeName>
+        <location>
+          <geo>13.6175 107.9175</geo>
+        </location>
+        <idno type="WD">Q110624862</idno>
       </place>
       <place xml:id="ttu_462_place_44">
-        <placeName>LZ (Landing Zone) X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_45">
         <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_46">
-        <placeName>Chu Pong Mountain</placeName>
+        <placeName>Chư Pong</placeName>
+        <location>
+          <geo>13.572861  107.665980</geo>
+        </location>
+        <idno type="WD">Q65040315</idno>
       </place>
       <place xml:id="ttu_462_place_47">
         <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_48">
-        <placeName>LZ</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_49">
-        <placeName>LZ</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_50">
-        <placeName>landing zone</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_51">
-        <placeName>landing zone</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_52">
         <placeName>Iraq</placeName>
+        <location>
+          <geo>33 43</geo>
+        </location>
+        <idno type="WD">Q796</idno>
       </place>
       <place xml:id="ttu_462_place_54">
         <placeName>Germany</placeName>
+        <location>
+          <geo>51 10</geo>
+        </location>
+        <idno type="WD">Q183</idno>
       </place>
       <place xml:id="ttu_462_place_55">
-        <placeName>Benning</placeName>
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_462_place_56">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_57">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_462_place_58">
         <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
       </place>
       <place xml:id="ttu_462_place_59">
         <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
       </place>
       <place xml:id="ttu_462_place_60">
-        <placeName>An Khe</placeName>
+        <placeName>An Khê</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q10733203</idno>
       </place>
       <place xml:id="ttu_462_place_61">
         <placeName>Lubbock</placeName>
+        <location>
+          <geo>33.566666666667 -101.88333333333</geo>
+        </location>
+        <idno type="WD">Q49273</idno>
       </place>
       <place xml:id="ttu_462_place_62">
         <placeName>Lubbock</placeName>
+        <location>
+          <geo>33.566666666667 -101.88333333333</geo>
+        </location>
+        <idno type="WD">Q49273</idno>
       </place>
       <place xml:id="ttu_462_place_63">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
     </listPlace>
     <listEvent>
-      <event xml:id="ttu_462_event_1">
+      <event xml:id="ttu_462_event_1" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
         <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
       </event>
-      <event xml:id="ttu_462_event_2">
-        <desc>Korea</desc>
-      </event>
-      <event xml:id="ttu_462_event_3">
-        <desc>X-Ray</desc>
-      </event>
-      <event xml:id="ttu_462_event_4">
-        <desc>Silver Bayonet</desc>
-      </event>
-      <event xml:id="ttu_462_event_5">
-        <desc>Operation Silver Bayonet</desc>
-      </event>
-      <event xml:id="ttu_462_event_6">
+      <event xml:id="ttu_462_event_2" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
         <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
       </event>
-      <event xml:id="ttu_462_event_7">
+      <event xml:id="ttu_462_event_3" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_462_event_4" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign/Silver Bayonet</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_462_event_5" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_462_event_6" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
         <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
       </event>
-      <event xml:id="ttu_462_event_8">
-        <desc>Korea</desc>
-      </event>
-      <event xml:id="ttu_462_event_9">
-        <desc>Korea</desc>
-      </event>
-      <event xml:id="ttu_462_event_10">
+      <event xml:id="ttu_462_event_7" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
         <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
       </event>
-      <event xml:id="ttu_462_event_11">
+      <event xml:id="ttu_462_event_8" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
         <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
       </event>
-      <event xml:id="ttu_462_event_12">
-        <desc>Operation “Silver Bayonet”</desc>
+      <event xml:id="ttu_462_event_9" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
       </event>
-      <event xml:id="ttu_462_event_13">
-        <desc>Plei Me</desc>
+      <event xml:id="ttu_462_event_10" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
       </event>
-      <event xml:id="ttu_462_event_14">
-        <desc>Korea</desc>
+      <event xml:id="ttu_462_event_11" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
       </event>
-      <event xml:id="ttu_462_event_15">
+      <event xml:id="ttu_462_event_12" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
+      </event>
+      <event xml:id="ttu_462_event_13" from-iso="1965-10-19T00:00:00Z" to-iso="1965-10-25T00:00:00Z">
+        <desc>Siege of Plei Me</desc>
+        <idno type="WD">Q7510313</idno>
+      </event>
+      <event xml:id="ttu_462_event_14" from-iso="1950-06-25T00:00:00Z" to-iso="1953-07-27T00:00:00Z">
+        <desc>Korean War</desc>
+        <idno type="WD">Q8663</idno>
+      </event>
+      <event xml:id="ttu_462_event_15" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
         <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
       </event>
-      <event xml:id="ttu_462_event_16">
+      <event xml:id="ttu_462_event_16" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
         <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
       </event>
-      <event xml:id="ttu_462_event_17">
-        <desc>the Vietnam War</desc>
+      <event xml:id="ttu_462_event_17" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
       </event>
-      <event xml:id="ttu_462_event_18">
-        <desc>the Vietnam War</desc>
+      <event xml:id="ttu_462_event_18" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
       </event>
-      <event xml:id="ttu_462_event_19">
-        <desc>LZ X-Ray</desc>
+      <event xml:id="ttu_462_event_19" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
       </event>
-      <event xml:id="ttu_462_event_20">
-        <desc>Silver Bayonet</desc>
+      <event xml:id="ttu_462_event_20" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign/Silver Bayonet</desc>
+        <idno type="WD">Q24189107</idno>
       </event>
-      <event xml:id="ttu_462_event_21">
-        <desc>Silver Bayonet</desc>
+      <event xml:id="ttu_462_event_21" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign/Silver Bayonet</desc>
+        <idno type="WD">Q24189107</idno>
       </event>
     </listEvent>
     <listPerson>
       <person xml:id="ttu_462_person_0">
         <persName>Tony Nadal</persName>
+        <idno type="WD">Q111442803</idno>
       </person>
       <person xml:id="ttu_462_person_1">
         <persName>Tony</persName>
+        <idno type="WD">Q111442803</idno>
       </person>
       <person xml:id="ttu_462_person_2">
-        <persName>President Johnson</persName>
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
       </person>
       <person xml:id="ttu_462_person_3">
         <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
       </person>
       <person xml:id="ttu_462_person_4">
         <persName>Tim Brown</persName>
+        <idno type="WD">Q111630856</idno>
       </person>
       <person xml:id="ttu_462_person_5">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_6">
-        <persName>Colonel Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_7">
         <persName>Colonel Brown</persName>
+        <idno type="WD">Q111630856</idno>
       </person>
       <person xml:id="ttu_462_person_8">
         <persName>Colonel Brown</persName>
+        <idno type="WD">Q111630856</idno>
       </person>
       <person xml:id="ttu_462_person_9">
         <persName>Colonel Brown</persName>
+        <idno type="WD">Q111630856</idno>
       </person>
       <person xml:id="ttu_462_person_10">
-        <persName>Colonel Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_11">
-        <persName>Colonel Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_12">
-        <persName>Colonel Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_13">
-        <persName>Plumley</persName>
+        <persName>Basil L. Plumley</persName>
+        <idno type="WD">Q2535583</idno>
       </person>
       <person xml:id="ttu_462_person_14">
-        <persName>Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_15">
         <persName>Ray Lefebvre</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_462_person_16">
         <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_462_person_17">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_18">
-        <persName>Charlie Beckwith</persName>
+        <persName>Charles Alvin Beckwith</persName>
+        <idno type="WD">Q912227</idno>
       </person>
       <person xml:id="ttu_462_person_19">
-        <persName>General Hal Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_20">
         <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
       </person>
       <person xml:id="ttu_462_person_21">
         <persName>Bob Edwards</persName>
+        <idno type="WD">Q111008041</idno>
       </person>
       <person xml:id="ttu_462_person_22">
         <persName>Greg Dillon</persName>
+        <idno type="WD">Q111442679</idno>
       </person>
       <person xml:id="ttu_462_person_23">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_24">
         <persName>Greg</persName>
+        <idno type="WD">Q111442679</idno>
       </person>
       <person xml:id="ttu_462_person_25">
-        <persName>Hal</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_26">
         <persName>George Jennings</persName>
+        <idno type="WD">Q111658932</idno>
       </person>
       <person xml:id="ttu_462_person_27">
         <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
       </person>
       <person xml:id="ttu_462_person_28">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_29">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_30">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_31">
-        <persName>Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_32">
-        <persName>Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_33">
         <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
       </person>
       <person xml:id="ttu_462_person_34">
         <persName>Sergeant Nathan</persName>
+        <idno type="WD">Q111634099</idno>
       </person>
       <person xml:id="ttu_462_person_35">
         <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
       </person>
       <person xml:id="ttu_462_person_36">
         <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
       </person>
       <person xml:id="ttu_462_person_38">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_39">
         <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
       </person>
       <person xml:id="ttu_462_person_40">
         <persName>Taft</persName>
+        <idno type="WD">Q111658827</idno>
       </person>
       <person xml:id="ttu_462_person_41">
         <persName>Sergeant Gillam</persName>
+       <idno type="project">ttu_0087</idno>
       </person>
       <person xml:id="ttu_462_person_42">
-        <persName>Colonel Moore</persName>
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_43">
         <persName>Sergeant Floyd</persName>
+        <idno type="WD">Q111658855</idno>
       </person>
       <person xml:id="ttu_462_person_44">
         <persName>Taft</persName>
+        <idno type="WD">Q111658827</idno>
       </person>
       <person xml:id="ttu_462_person_45">
         <persName>Sergeant Nathan</persName>
+        <idno type="WD">Q111634099</idno>
       </person>
       <person xml:id="ttu_462_person_46">
         <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
       </person>
       <person xml:id="ttu_462_person_47">
         <persName>Lieutenant Taft</persName>
+        <idno type="WD">Q111658827</idno>
       </person>
       <person xml:id="ttu_462_person_48">
         <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
       </person>
       <person xml:id="ttu_462_person_49">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_462_person_50">
         <persName>Tony</persName>
+        <idno type="WD">Q111442803</idno>
       </person>
     </listPerson>
     <listOrg>
       <org xml:id="ttu_462_org_0">
         <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
       </org>
       <org xml:id="ttu_462_org_1">
-        <orgName>the Vietnam Center</orgName>
+        <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        <idno type="WD">Q7928492</idno>
       </org>
       <org xml:id="ttu_462_org_3">
-        <orgName>Company A, 1st Battalion 7th Cavalry</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_4">
-        <orgName>the 1st Cav</orgName>
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
       </org>
       <org xml:id="ttu_462_org_5">
-        <orgName>1st Cav</orgName>
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
       </org>
       <org xml:id="ttu_462_org_7">
-        <orgName>Special forces</orgName>
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
       </org>
       <org xml:id="ttu_462_org_8">
-        <orgName>cav</orgName>
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
       </org>
       <org xml:id="ttu_462_org_9">
         <orgName>class of ‘58?</orgName>
@@ -702,262 +1032,348 @@
         <orgName>Class of ’58</orgName>
       </org>
       <org xml:id="ttu_462_org_11">
-        <orgName>West Point</orgName>
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
       </org>
       <org xml:id="ttu_462_org_12">
-        <orgName>1st Air Cav</orgName>
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
       </org>
       <org xml:id="ttu_462_org_13">
-        <orgName>Alpha Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_14">
-        <orgName>first brigade</orgName>
+        <orgName>1st Air Cavalry Brigade, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4596090</idno>
       </org>
       <org xml:id="ttu_462_org_15">
-        <orgName>1st of 7th Cav</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_16">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_17">
-        <orgName>third brigade</orgName>
+        <orgName>3rd Brigade Combat Team, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4636701</idno>
       </org>
       <org xml:id="ttu_462_org_19">
-        <orgName>1st brigade</orgName>
+        <orgName>1st Air Cavalry Brigade, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4596090</idno>
       </org>
       <org xml:id="ttu_462_org_22">
-        <orgName>1st of the 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_23">
-        <orgName>A Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_24">
-        <orgName>A Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_25">
-        <orgName>A Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_26">
-        <orgName>1st of the 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_27">
-        <orgName>D Company</orgName>
+        <orgName>D Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110745368</idno>
       </org>
       <org xml:id="ttu_462_org_28">
-        <orgName>special forces</orgName>
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
       </org>
       <org xml:id="ttu_462_org_29">
-        <orgName>special forces</orgName>
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
       </org>
       <org xml:id="ttu_462_org_30">
-        <orgName>special forces</orgName>
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
       </org>
       <org xml:id="ttu_462_org_31">
-        <orgName>special forces’</orgName>
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
       </org>
       <org xml:id="ttu_462_org_32">
-        <orgName>American</orgName>
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
       </org>
       <org xml:id="ttu_462_org_33">
-        <orgName>PAVN</orgName>
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
       </org>
       <org xml:id="ttu_462_org_34">
-        <orgName>Alpha Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_35">
-        <orgName>Alpha Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_36">
         <orgName>Viet Cong</orgName>
+        <idno type="WD">Q10810255</idno>
       </org>
       <org xml:id="ttu_462_org_37">
-        <orgName>3rd Brigade</orgName>
+        <orgName>3rd Brigade Combat Team, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4636701</idno>
       </org>
       <org xml:id="ttu_462_org_38">
-        <orgName>VC (Viet Cong)</orgName>
+        <orgName>Viet Cong</orgName>
+        <idno type="WD">Q10810255</idno>
       </org>
       <org xml:id="ttu_462_org_39">
-        <orgName>NVA (North Vietnamese Army)</orgName>
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
       </org>
       <org xml:id="ttu_462_org_42">
-        <orgName>Alpha Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_43">
-        <orgName>Alpha Company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_44">
         <orgName>Army Medical Corps</orgName>
+        <idno type="WD">Q6806312</idno>
       </org>
       <org xml:id="ttu_462_org_45">
-        <orgName>Medical Corps</orgName>
+        <orgName>medical corps</orgName>
+        <idno type="WD">Q6806312</idno>
       </org>
       <org xml:id="ttu_462_org_46">
-        <orgName>1st of the 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_47">
-        <orgName>1st of the 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_48">
-        <orgName>West Point</orgName>
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
       </org>
       <org xml:id="ttu_462_org_49">
-        <orgName>OCS (Officer Candidate School)</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_50">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_51">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_52">
-        <orgName>ROTC</orgName>
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
       </org>
       <org xml:id="ttu_462_org_53">
-        <orgName>ROTC</orgName>
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
       </org>
       <org xml:id="ttu_462_org_54">
-        <orgName>US Army Infantry School</orgName>
+        <orgName>United States Army Infantry School</orgName>
+        <idno type="WD">Q4361925</idno>
       </org>
       <org xml:id="ttu_462_org_55">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_56">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_57">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_58">
-        <orgName>1st Cav</orgName>
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
       </org>
       <org xml:id="ttu_462_org_59">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_60">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_462_org_61">
-        <orgName>battalion</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_62">
-        <orgName>special forces</orgName>
+        <orgName>United States Army Special Forces</orgName>
+        <idno type="WD">Q482421</idno>
       </org>
       <org xml:id="ttu_462_org_63">
-        <orgName>battalion</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_64">
-        <orgName>the US Army</orgName>
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
       </org>
       <org xml:id="ttu_462_org_65">
-        <orgName>battalion</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_67">
-        <orgName>The 1st Brigade</orgName>
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
       </org>
       <org xml:id="ttu_462_org_68">
-        <orgName>9th Cav</orgName>
+        <orgName>1st Squadron, 9th Cavalry Regiment</orgName>
+        <idno type="WD">Q111844723</idno>
       </org>
       <org xml:id="ttu_462_org_69">
-        <orgName>1st Brigade</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_70">
-        <orgName>2nd Brigade</orgName>
+        <orgName>2nd Brigade Combat Team, 1st Infantry Division</orgName>
+        <idno type="WD">Q4633604</idno>
       </org>
       <org xml:id="ttu_462_org_71">
-        <orgName>brigade</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_462_org_72">
-        <orgName>Alpha company</orgName>
+        <orgName>Company A 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745296</idno>
       </org>
       <org xml:id="ttu_462_org_73">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_74">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_75">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_76">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_77">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_78">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_79">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_80">
-        <orgName>C Company</orgName>
+        <orgName>Company C 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745354</idno>
       </org>
       <org xml:id="ttu_462_org_81">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_82">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_83">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_84">
-        <orgName>C Company</orgName>
+        <orgName>Company C 1st Battalion 7th Cavalry</orgName>
+        <idno type="WD">Q110745354</idno>
       </org>
       <org xml:id="ttu_462_org_85">
-        <orgName>Germans</orgName>
+        <orgName>Wehrmacht</orgName>
+        <idno type="WD">Q128781</idno>
       </org>
       <org xml:id="ttu_462_org_86">
-        <orgName>the US Army</orgName>
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
       </org>
       <org xml:id="ttu_462_org_87">
-        <orgName>the Army War College</orgName>
+        <orgName>United States Army War College</orgName>
+        <idno type="WD">Q635078</idno>
       </org>
       <org xml:id="ttu_462_org_88">
-        <orgName>ROTC</orgName>
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
       </org>
       <org xml:id="ttu_462_org_89">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_90">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_91">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_92">
-        <orgName>NVA</orgName>
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
       </org>
       <org xml:id="ttu_462_org_93">
-        <orgName>Marines</orgName>
+        <orgName>United States Marine Corps</orgName>
+        <idno type="WD">Q11218</idno>
       </org>
       <org xml:id="ttu_462_org_94">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_95">
-        <orgName>B Company</orgName>
+        <orgName>B Company, 1st Battalion, 7th Calvary Regiment</orgName>
+        <idno type="WD">Q110874665</idno>
       </org>
       <org xml:id="ttu_462_org_97">
-        <orgName>Air Force</orgName>
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
       </org>
       <org xml:id="ttu_462_org_98">
-        <orgName>Air Force</orgName>
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
       </org>
       <org xml:id="ttu_462_org_99">
         <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
       </org>
       <org xml:id="ttu_462_org_100">
-        <orgName>West Point</orgName>
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
       </org>
       <org xml:id="ttu_462_org_102">
         <orgName>Texas Tech University</orgName>
+        <idno type="WD">Q1423756</idno>
       </org>
       <org xml:id="ttu_462_org_103">
-        <orgName>1st Air Cav</orgName>
+        <orgName>1st Air Cavalry Brigade, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4596090</idno>
       </org>
       <org xml:id="ttu_462_org_104">
-        <orgName>West Point</orgName>
+        <orgName>United States Military Academy</orgName>
+        <idno type="WD">Q9219</idno>
       </org>
     </listOrg>
   </standOff>

@@ -10,15 +10,15 @@
           <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
         </authority>
         <date>
-          <!--  Date of publication, e.g. for citation purposes  -->
+          
         </date>
         <idno type="DDHI">ttu_455</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
           <recording xml:id="primary_recording" type="video" dur-iso="00:50:51">
-            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0455/OH0455.mp4" mimeType="video/mp4"/>
+            
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0455/OH0455.mp4" mimeType="video/mp4" />
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
@@ -46,13 +46,13 @@
         <language ident="en-us">English</language>
       </langUsage>
       <particDesc>
-        <person xml:id="EDWARDS"/>
-        <person xml:id="VERRONE"/>
+        <person xml:id="EDWARDS" />
+        <person xml:id="VERRONE" />
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso="2005-11-10"/>
-          <locale/>
+          <date when-iso="2005-11-10" />
+          <locale />
         </setting>
       </settingDesc>
     </profileDesc>
@@ -191,463 +191,718 @@
     <listPlace>
       <place xml:id="ttu_455_place_0">
         <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
       </place>
       <place xml:id="ttu_455_place_1">
         <placeName>Hilton Crystal City</placeName>
+        <location>
+          <geo>38.85273695571491 -77.0517220465822</geo>
+        </location>
+        <idno type="WD">Q110624980</idno>
       </place>
       <place xml:id="ttu_455_place_2">
-        <placeName>Benning</placeName>
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_455_place_3">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_455_place_4">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_455_place_5">
-        <placeName>Benning</placeName>
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_455_place_6">
-        <placeName>Carolinas</placeName>
+        <placeName>The Carolinas</placeName>
+        <location>
+          <geo>34.797 -79.683</geo>
+        </location>
+        <idno type="WD">Q2747220</idno>
       </place>
       <place xml:id="ttu_455_place_7">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_455_place_8">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_9">
-        <placeName>Benning</placeName>
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_455_place_10">
-        <placeName>landing zone</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_11">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_13">
         <placeName>Upatoi Creek</placeName>
+        <location>
+          <geo>32.4029 -84.8889</geo>
+        </location>
+        <idno type="WD">Q7898186</idno>
       </place>
       <place xml:id="ttu_455_place_14">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_15">
-        <placeName>landing zone</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_16">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_17">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_18">
-        <placeName>LZ (Landing Zone) Falcon</placeName>
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
       </place>
       <place xml:id="ttu_455_place_19">
         <placeName>Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
       </place>
       <place xml:id="ttu_455_place_20">
         <placeName>Holloway</placeName>
+        <location>
+          <geo>13.973  108.031</geo>
+        </location>
+        <idno type="WD">Q5027263</idno>
       </place>
       <place xml:id="ttu_455_place_21">
-        <placeName>Qui Nhon</placeName>
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
       </place>
       <place xml:id="ttu_455_place_22">
-        <placeName>landing zone</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_23">
-        <placeName>Qui Nhon</placeName>
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
       </place>
       <place xml:id="ttu_455_place_24">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_25">
         <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
       </place>
       <place xml:id="ttu_455_place_26">
         <placeName>Auburn</placeName>
+        <location>
+          <geo>32.597684 -85.480823</geo>
+        </location>
+        <idno type="WD">Q79728</idno>
       </place>
       <place xml:id="ttu_455_place_29">
-        <placeName>X-Ray</placeName>
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
       </place>
       <place xml:id="ttu_455_place_30">
-        <placeName>Ia Drang</placeName>
+        <placeName>Ia DrÄƒng</placeName>
+        <location>
+          <geo>13.583333  107.716667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
       </place>
       <place xml:id="ttu_455_place_31">
-        <placeName>Albany</placeName>
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
       </place>
       <place xml:id="ttu_455_place_32">
-        <placeName>Washington</placeName>
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
       </place>
       <place xml:id="ttu_455_place_33">
-        <placeName>Vietnam Memorial</placeName>
+        <placeName>Vietnam Veterans Memorial</placeName>
+        <location>
+          <geo>38.891111111111 -77.047777777778</geo>
+        </location>
+        <idno type="WD">Q713628</idno>
       </place>
       <place xml:id="ttu_455_place_34">
         <placeName>Chicago</placeName>
+        <location>
+          <geo>41.881944444444 -87.627777777778</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
       </place>
       <place xml:id="ttu_455_place_35">
-        <placeName>United States</placeName>
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
       </place>
       <place xml:id="ttu_455_place_36">
         <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
       </place>
       <place xml:id="ttu_455_place_37">
-        <placeName>Kelly Hill</placeName>
+        <placeName>Kelley Hill</placeName>
+        <location>
+          <geo>32.38325815053565 -84.89875257096901</geo>
+        </location>
+        <idno type="WD">Q110888302</idno>
       </place>
     </listPlace>
     <listEvent>
-      <event xml:id="ttu_455_event_0">
-        <desc>Ia Drang-Pleiku</desc>
+      <event xml:id="ttu_455_event_0" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
       </event>
-      <event xml:id="ttu_455_event_1">
-        <desc>Pleiku campaign</desc>
+      <event xml:id="ttu_455_event_1" from-iso="1965-10-23T00:00:00Z" to-iso="1965-11-26T00:00:00Z">
+        <desc>Pleiku Campaign</desc>
+        <idno type="WD">Q24189107</idno>
       </event>
-      <event xml:id="ttu_455_event_2">
-        <desc>Vietnam war</desc>
+      <event xml:id="ttu_455_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
       </event>
     </listEvent>
     <listPerson>
       <person xml:id="ttu_455_person_0">
         <persName>Dr. Richard Verrone</persName>
+        <idno type="WD">Q111653126</idno>
       </person>
       <person xml:id="ttu_455_person_1">
         <persName>Robert H. Bob Edwards</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_2">
         <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_3">
         <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_4">
         <persName>Colonel Edwards</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_5">
         <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_6">
         <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_8">
-        <persName>Lieutenant Colonel—for the life of me I can’t remember of his first name, Conger</persName>
+        <persName>Lieutenant Colonel Conger</persName>
+        <idno type="WD">Q111724958</idno>
       </person>
       <person xml:id="ttu_455_person_9">
         <persName>Lieutenant Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_10">
         <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_11">
         <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_12">
         <persName>Bob Edwards</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_13">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_14">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_15">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_17">
         <persName>Mac McCall</persName>
+        <idno type="WD">Q111443591</idno>
       </person>
       <person xml:id="ttu_455_person_18">
         <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_19">
         <persName>Ray Lefebvre</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_455_person_20">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_21">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_22">
         <persName>Jack Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_23">
         <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
       </person>
       <person xml:id="ttu_455_person_24">
         <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_25">
         <persName>Jack Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_26">
         <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_27">
         <persName>Jack Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_28">
         <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_29">
         <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
       </person>
       <person xml:id="ttu_455_person_30">
         <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_31">
         <persName>Kroger</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_32">
         <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
       </person>
       <person xml:id="ttu_455_person_33">
         <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_34">
         <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_35">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_36">
         <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
       </person>
       <person xml:id="ttu_455_person_38">
         <persName>Sergeant Major Plumley</persName>
+        <idno type="WD">Q2535583</idno>
       </person>
       <person xml:id="ttu_455_person_39">
-        <persName>Sargeant Major</persName>
+        <persName>the Sergeant Major</persName>
+        <idno type="WD">Q2535583</idno>
       </person>
       <person xml:id="ttu_455_person_40">
         <persName>Plumley</persName>
+        <idno type="WD">Q2535583</idno>
       </person>
       <person xml:id="ttu_455_person_41">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_43">
         <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_44">
         <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_45">
         <persName>John</persName>
+        <idno type="WD">Q111678638</idno>
       </person>
       <person xml:id="ttu_455_person_46">
         <persName>Tony</persName>
+        <idno type="WD">Q111442803</idno>
       </person>
       <person xml:id="ttu_455_person_47">
         <persName>Henry Herrick</persName>
+        <idno type="WD">Q111443617</idno>
       </person>
       <person xml:id="ttu_455_person_48">
         <persName>Herrick</persName>
+        <idno type="WD">Q111443617</idno>
       </person>
       <person xml:id="ttu_455_person_49">
         <persName>John Herren</persName>
+        <idno type="WD">Q111678638</idno>
       </person>
       <person xml:id="ttu_455_person_50">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_51">
         <persName>Herrick</persName>
+        <idno type="WD">Q111443617</idno>
       </person>
       <person xml:id="ttu_455_person_52">
-        <persName>Joe Galloway</persName>
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
       </person>
       <person xml:id="ttu_455_person_53">
         <persName>Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_54">
-        <persName>Galloway</persName>
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
       </person>
       <person xml:id="ttu_455_person_55">
         <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
       </person>
       <person xml:id="ttu_455_person_56">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_57">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_58">
         <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
       </person>
       <person xml:id="ttu_455_person_59">
         <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
       </person>
       <person xml:id="ttu_455_person_60">
         <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
       </person>
       <person xml:id="ttu_455_person_61">
         <persName>Tony Nadal</persName>
+        <idno type="WD">Q111442803</idno>
       </person>
       <person xml:id="ttu_455_person_62">
         <persName>Franklin</persName>
+        <idno type="WD">Q111669228</idno>
       </person>
       <person xml:id="ttu_455_person_63">
         <persName>Kroger</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_64">
         <persName>Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_65">
         <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_66">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_67">
         <persName>Jim Lane</persName>
+        <idno type="WD">Q111653576</idno>
       </person>
       <person xml:id="ttu_455_person_68">
         <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
       </person>
       <person xml:id="ttu_455_person_69">
         <persName>Neil</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_70">
         <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_71">
-        <persName>Sergeant Hofstetter</persName>
+        <persName>Sergeant Hostuttler</persName>
+        <idno type="WD">Q111988556</idno>
       </person>
       <person xml:id="ttu_455_person_72">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_73">
         <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
       </person>
       <person xml:id="ttu_455_person_74">
         <persName>Ernie Polone</persName>
+        <idno type="WD">Q111653497</idno>
       </person>
       <person xml:id="ttu_455_person_75">
         <persName>Castleberry</persName>
+        <idno type="WD">Q111669469</idno>
       </person>
       <person xml:id="ttu_455_person_76">
         <persName>Buster Brown</persName>
+        <idno type="WD">Q111804954</idno>
       </person>
       <person xml:id="ttu_455_person_77">
         <persName>Joe Marm</persName>
+        <idno type="WD">Q7965296</idno>
       </person>
       <person xml:id="ttu_455_person_78">
         <persName>Crandall</persName>
+        <idno type="WD">Q3431327</idno>
       </person>
       <person xml:id="ttu_455_person_79">
         <persName>Bill Franklin</persName>
+        <idno type="WD">Q111669228</idno>
       </person>
       <person xml:id="ttu_455_person_80">
         <persName>Bruce Crandall</persName>
+        <idno type="WD">Q3431327</idno>
       </person>
       <person xml:id="ttu_455_person_81">
         <persName>Ed Freeman</persName>
+        <idno type="WD">Q5334823</idno>
       </person>
       <person xml:id="ttu_455_person_82">
         <persName>Franklin</persName>
+        <idno type="WD">Q111669228</idno>
       </person>
       <person xml:id="ttu_455_person_83">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_84">
         <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_85">
         <persName>Neil</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_86">
         <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
       </person>
       <person xml:id="ttu_455_person_87">
         <persName>Colonel Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_88">
         <persName>Ray Lefebvre</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_455_person_89">
         <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_455_person_90">
         <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_455_person_91">
         <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_455_person_92">
         <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_455_person_93">
         <persName>Julie</persName>
-      </person>
+      <idno type="project">ttu_0065</idno></person>
       <person xml:id="ttu_455_person_94">
         <persName>Hal</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_95">
         <persName>Ray</persName>
+        <idno type="WD">Q111908628</idno>
       </person>
       <person xml:id="ttu_455_person_96">
         <persName>Joe</persName>
+        <idno type="WD">Q3185182</idno>
       </person>
       <person xml:id="ttu_455_person_97">
         <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_99">
         <persName>Randall Wallace</persName>
+        <idno type="WD">Q1339625</idno>
       </person>
       <person xml:id="ttu_455_person_100">
         <persName>Wallace</persName>
+        <idno type="WD">Q1339625</idno>
       </person>
       <person xml:id="ttu_455_person_101">
         <persName>Gibson</persName>
+        <idno type="WD">Q42229</idno>
       </person>
       <person xml:id="ttu_455_person_102">
         <persName>Barry Pepper</persName>
+        <idno type="WD">Q315604</idno>
       </person>
       <person xml:id="ttu_455_person_103">
         <persName>Randall Wallace</persName>
+        <idno type="WD">Q1339625</idno>
       </person>
       <person xml:id="ttu_455_person_104">
-        <persName>Platoon Sergeant Jameson</persName>
+        <persName>Platoon Sergeant Jemison</persName>
+        <idno type="WD">Q111988670</idno>
       </person>
       <person xml:id="ttu_455_person_105">
         <persName>Ernie Polone</persName>
+        <idno type="WD">Q111653497</idno>
       </person>
       <person xml:id="ttu_455_person_106">
         <persName>Barbara Geoghegan</persName>
+        <idno type="WD">Q111653150</idno>
       </person>
       <person xml:id="ttu_455_person_107">
         <persName>Claudia Polone</persName>
-      </person>
+      <idno type="project">ttu_0052</idno></person>
       <person xml:id="ttu_455_person_108">
         <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_109">
         <persName>Jeff</persName>
-      </person>
+      <idno type="project">ttu_0066</idno></person>
       <person xml:id="ttu_455_person_110">
         <persName>Kroger</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_111">
         <persName>Barbara Geoghegan</persName>
+        <idno type="WD">Q111653150</idno>
       </person>
       <person xml:id="ttu_455_person_112">
         <persName>Barbara</persName>
+        <idno type="WD">Q111653150</idno>
       </person>
       <person xml:id="ttu_455_person_113">
         <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_114">
         <persName>Jack</persName>
+        <idno type="WD">Q6235071</idno>
       </person>
       <person xml:id="ttu_455_person_115">
         <persName>Neil Kroger</persName>
+        <idno type="WD">Q111653506</idno>
       </person>
       <person xml:id="ttu_455_person_116">
         <persName>Bob</persName>
+        <idno type="WD">Q111077430</idno>
       </person>
       <person xml:id="ttu_455_person_117">
         <persName>General Moore</persName>
+        <idno type="WD">Q430209</idno>
       </person>
       <person xml:id="ttu_455_person_118">
-        <persName>General Moore</persName>
+        <persName>Ernie Polone</persName>
+        <idno type="WD">Q430209</idno>
+        <idno type="WD">Q111653497</idno>
       </person>
       <person xml:id="ttu_455_person_119">
         <persName>Ernie</persName>
@@ -655,94 +910,124 @@
     </listPerson>
     <listOrg>
       <org xml:id="ttu_455_org_0">
-        <orgName>1st Cav Division</orgName>
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
       </org>
       <org xml:id="ttu_455_org_1">
-        <orgName>ROTC</orgName>
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
       </org>
       <org xml:id="ttu_455_org_2">
-        <orgName>2nd battalion 23rd Infantry</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_3">
         <orgName>2nd Infantry Division</orgName>
+        <idno type="WD">Q210607</idno>
       </org>
       <org xml:id="ttu_455_org_4">
-        <orgName>11th Air Assault Division</orgName>
+        <orgName>11th Airborne Division</orgName>
+        <idno type="WD">Q169980</idno>
       </org>
       <org xml:id="ttu_455_org_5">
-        <orgName>C Company 2nd Battalion, 23rd Infantry</orgName>
+        <orgName>Company C, 1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110745354</idno>
       </org>
       <org xml:id="ttu_455_org_6">
-        <orgName>North Vietnamese</orgName>
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
       </org>
       <org xml:id="ttu_455_org_7">
-        <orgName>C company</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_9">
-        <orgName>NVA (North Vietnamese Army)</orgName>
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
       </org>
       <org xml:id="ttu_455_org_10">
-        <orgName>Delta Company</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_11">
-        <orgName>Alpha Company</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_12">
-        <orgName>Alpha</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_13">
-        <orgName>Alpha Company</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_14">
-        <orgName>Delta Company</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_15">
-        <orgName>Pennsylvania Military College</orgName>
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
       </org>
       <org xml:id="ttu_455_org_16">
-        <orgName>OCS (Officer Candidate School)</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_455_org_17">
-        <orgName>OCS</orgName>
+        <orgName>Officer Candidate School</orgName>
+        <idno type="WD">Q14319576</idno>
       </org>
       <org xml:id="ttu_455_org_18">
-        <orgName>11th Air Assault Division</orgName>
+        <orgName>11th Airborne Division</orgName>
+        <idno type="WD">Q169980</idno>
       </org>
       <org xml:id="ttu_455_org_19">
-        <orgName>B Company</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_20">
-        <orgName>NVA</orgName>
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
       </org>
       <org xml:id="ttu_455_org_21">
-        <orgName>1st and the 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_22">
-        <orgName>Vietcong</orgName>
+        <orgName>People's Liberation Armed Forces</orgName>
+        <idno type="WD">Q10810255</idno>
       </org>
       <org xml:id="ttu_455_org_25">
-        <orgName>1st and the 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_26">
-        <orgName>1st and 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_27">
-        <orgName>1st and 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_29">
-        <orgName>1st and 7th</orgName>
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
       </org>
       <org xml:id="ttu_455_org_30">
-        <orgName>Widener College</orgName>
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
       </org>
       <org xml:id="ttu_455_org_31">
-        <orgName>Pennsylvania Military</orgName>
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
       </org>
       <org xml:id="ttu_455_org_32">
-        <orgName>Widener</orgName>
+        <orgName>Widener University</orgName>
+        <idno type="WD">Q3443325</idno>
       </org>
       <org xml:id="ttu_455_org_33">
-        <orgName>Delta Company</orgName>
+        <orgName>Company D, 1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110745368</idno>
       </org>
     </listOrg>
   </standOff>
