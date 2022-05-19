@@ -59,40 +59,40 @@
   </teiHeader>
   <text>
     <body>
-      <u who="VERRONE">This is <persName>Dr. Richard Verrone</persName>, I am conducting a video oral history interview with <persName>Sergeant Frank Knowski</persName>. Today is <date when="2005-11-12">November 12th, 2005</date>. We are here commemorating the 40th anniversary of the <name type="event">battles of the Ia Drang Valley</name>, <name type="event">LZ (Landing Zone) X-Ray</name>, <name type="event">Falcon</name> and <name type="event">Albany</name>. <persName>Sergeant</persName>, I’d like for you to discuss a little bit about when you got into <placeName>X-Ray</placeName> and then you’re going to move out to <placeName>Albany</placeName>. You wanted to talk about—this interview in general, please.</u>
-      <u who="KNOWSKI">Right. First of all, I would like this dedicate this to <persName>Vincent Locatelli</persName>. As we knew him, his name was <persName>Loco</persName>. He was killed over there.</u>
-      <u who="VERRONE">Tell me a bit about <persName>Loco</persName>, was he—</u>
-      <u who="KNOWSKI"><persName>Loco</persName> came into our company probably a couple months before we deployed over to <placeName>Vietnam</placeName>. <persName>Loco</persName> was kind of young and I kind of took him under my wing. Me and him were very close.</u>
+      <u who="VERRONE">This is <persName ref="#ttu_498_person_0">Dr. Richard Verrone</persName>, I am conducting a video oral history interview with <persName ref="#ttu_498_person_1">Sergeant Frank Knowski</persName>. Today is <date when="2005-11-12">November 12th, 2005</date>. We are here commemorating the 40th anniversary of the <name type="event" ref="#ttu_498_event_0">battles of the Ia Drang Valley</name>, <name type="event" ref="#ttu_498_event_1">LZ (Landing Zone) X-Ray</name>, <name type="event" ref="#ttu_498_event_2">Falcon</name> and <name type="event" ref="#ttu_498_event_3">Albany</name>. <persName ref="#ttu_498_person_2">Sergeant</persName>, I’d like for you to discuss a little bit about when you got into <placeName ref="#ttu_498_place_0">X-Ray</placeName> and then you’re going to move out to <placeName ref="#ttu_498_place_1">Albany</placeName>. You wanted to talk about—this interview in general, please.</u>
+      <u who="KNOWSKI">Right. First of all, I would like this dedicate this to <persName ref="#ttu_498_person_3">Vincent Locatelli</persName>. As we knew him, his name was <persName ref="#ttu_498_person_4">Loco</persName>. He was killed over there.</u>
+      <u who="VERRONE">Tell me a bit about <persName ref="#ttu_498_person_5">Loco</persName>, was he—</u>
+      <u who="KNOWSKI"><persName ref="#ttu_498_person_6">Loco</persName> came into our company probably a couple months before we deployed over to <placeName ref="#ttu_498_place_2">Vietnam</placeName>. <persName ref="#ttu_498_person_7">Loco</persName> was kind of young and I kind of took him under my wing. Me and him were very close.</u>
       <u who="VERRONE">Was he a rifleman?</u>
       <u who="KNOWSKI">Yes.</u>
-      <u who="VERRONE">And you were <orgName>Alpha Company, 1st of the 5th</orgName>, in <persName>Captain Forrest</persName>’s company.</u>
+      <u who="VERRONE">And you were <orgName ref="#ttu_498_org_0">Alpha Company, 1st of the 5th</orgName>, in <persName ref="#ttu_498_person_8">Captain Forrest</persName>’s company.</u>
       <u who="KNOWSKI">Right. So I would like to dedicate this video to him.</u>
-      <u who="VERRONE">Yes, sir. It’s done. Tell me about that day, did you come into <placeName>X-Ray</placeName> on the <date when="1965-11-16">16th</date>?</u>
-      <u who="KNOWSKI">Yes, we did. We flew into there and we—I couldn’t have imagined the troopers that were there, when we relieved them, they were shell-shocked. You know, you couldn’t talk to them, they were just gazing. Once we went out to the battlefield to see if there was any <orgName>North Vietnamese</orgName> still alive, I could see why. To this day, I will never forget the smell of death. It was just rank because of the bodies decaying. And you become when you’re over there, you hate to say it, you become an animal. Because you just want to live. I come across this <orgName>North Vietnamese</orgName> dead solider and he had something in his hand. I took it out and picture of his wife or girlfriend. I stuck it in my belt fold.</u>
-      <u who="VERRONE">This was at <placeName>X-Ray</placeName> when you first got there?</u>
+      <u who="VERRONE">Yes, sir. It’s done. Tell me about that day, did you come into <placeName ref="#ttu_498_place_3">X-Ray</placeName> on the <date when="1965-11-16">16th</date>?</u>
+      <u who="KNOWSKI">Yes, we did. We flew into there and we—I couldn’t have imagined the troopers that were there, when we relieved them, they were shell-shocked. You know, you couldn’t talk to them, they were just gazing. Once we went out to the battlefield to see if there was any <orgName ref="#ttu_498_org_1">North Vietnamese</orgName> still alive, I could see why. To this day, I will never forget the smell of death. It was just rank because of the bodies decaying. And you become when you’re over there, you hate to say it, you become an animal. Because you just want to live. I come across this <orgName ref="#ttu_498_org_2">North Vietnamese</orgName> dead solider and he had something in his hand. I took it out and picture of his wife or girlfriend. I stuck it in my belt fold.</u>
+      <u who="VERRONE">This was at <placeName ref="#ttu_498_place_4">X-Ray</placeName> when you first got there?</u>
       <u who="KNOWSKI">Yeah, right. They had feelings too, you know. I carried that picture for many, many years. Nobody knows. Just to struck the healing process. So then that night we set up naturally and you know, back and forth the whole night with artillery coming in and firing weapons.</u>
       <u who="VERRONE">Was there any contact made there?</u>
-      <u who="KNOWSKI">We thought there was. One of the guys next me, I don't know if they got scared or what, but he threw a grenade right in front of me, in front of our foxhole, me and two other guys’ foxholes. Thank god it went over us, but the concussion just raddled our brains you know. We were up all night, everybody opened up, we fired all the claymores and everything, thinking we were being attacked. So next morning I don’t remember the time even, they decided to move us out to <placeName>Landing Zone Albany</placeName>. We were up all night naturally, tired. I couldn’t, to this day I still question why they walked us out instead of flew us out.</u>
+      <u who="KNOWSKI">We thought there was. One of the guys next me, I don't know if they got scared or what, but he threw a grenade right in front of me, in front of our foxhole, me and two other guys’ foxholes. Thank god it went over us, but the concussion just raddled our brains you know. We were up all night, everybody opened up, we fired all the claymores and everything, thinking we were being attacked. So next morning I don’t remember the time even, they decided to move us out to <placeName ref="#ttu_498_place_5">Landing Zone Albany</placeName>. We were up all night naturally, tired. I couldn’t, to this day I still question why they walked us out instead of flew us out.</u>
       <u who="VERRONE">Right, was there any question then? Do you remember people going, “Why are we walking?”</u>
       <u who="KNOWSKI">Oh yeah, “Why are we not flying out of here”, you know. And from what I can gather over the last few years at the reunions and that, was that the helicopters needed maintenance.</u>
       <u who="VERRONE">All of them? (Chuckles)</u>
       <u who="KNOWSKI">I don’t know if that’s true or false or whatever you know, but that was part of the reason why they walked us out.</u>
       <u who="VERRONE">Tell me about that day.</u>
-      <u who="KNOWSKI">We were very tired, all of us. We’d walk a little ways and then rest. We were coming in to this area and just hell broke loose. <persName>Loco</persName> was probably the first one killed, right in front of me.</u>
-      <u who="VERRONE">Is this after you all had stopped, <persName>Forrest</persName> is going forward? And did you help get everybody into a perimeter and set up?</u>
-      <u who="KNOWSKI">Yeah. What we did was, <persName>Loco</persName> and <persName>Loco</persName>’s point man that day and <persName>Lieutenant Hess</persName> was with him. The motor came in and it flew up right in front of us. Blew up right in front of us and all hell broke loose. We had mortars coming in, gunfire. You didn’t know whether to pray, shit, or go blind.</u>
-      <u who="VERRONE">Was <persName>Loco</persName> killed by the mortar?</u>
+      <u who="KNOWSKI">We were very tired, all of us. We’d walk a little ways and then rest. We were coming in to this area and just hell broke loose. <persName ref="#ttu_498_person_9">Loco</persName> was probably the first one killed, right in front of me.</u>
+      <u who="VERRONE">Is this after you all had stopped, <persName ref="#ttu_498_person_10">Forrest</persName> is going forward? And did you help get everybody into a perimeter and set up?</u>
+      <u who="KNOWSKI">Yeah. What we did was, <persName ref="#ttu_498_person_11">Loco</persName> and <persName ref="#ttu_498_person_12">Loco</persName>’s point man that day and <persName ref="#ttu_498_person_13">Lieutenant Hess</persName> was with him. The motor came in and it flew up right in front of us. Blew up right in front of us and all hell broke loose. We had mortars coming in, gunfire. You didn’t know whether to pray, shit, or go blind.</u>
+      <u who="VERRONE">Was <persName ref="#ttu_498_person_14">Loco</persName> killed by the mortar?</u>
       <u who="KNOWSKI">Yes, he was. Right off the bat.</u>
       <u who="VERRONE">Did you see this?</u>
       <u who="KNOWSKI">Yes, I did.</u>
       <u who="VERRONE">How do you—what do you do with that at that moment? I know you go into the survival mode as well and a protection of your buddies.</u>
       <u who="KNOWSKI">You’re trying to look out for people, you’re trying to but you can’t fire your weapons ahead because you don’t know where the people—only thing we could do is start firing at trees, because they’re up in trees, they’re all over. We finally got pulled back. Set up a perimeter. Finally got you know, where we could halfway organize.</u>
-      <u who="VERRONE">Is that when <persName>Forrest</persName> came back down and got everybody organized?</u>
-      <u who="KNOWSKI">Yeah, right. I was joking with an <orgName>Air Force</orgName> guy in there. A little bit ago. I said, “You know, I never was a fan of the <orgName>Air Force</orgName>, but after <name type="event">Albany</name>” I said, “You guys are the greatest.”</u>
+      <u who="VERRONE">Is that when <persName ref="#ttu_498_person_15">Forrest</persName> came back down and got everybody organized?</u>
+      <u who="KNOWSKI">Yeah, right. I was joking with an <orgName ref="#ttu_498_org_3">Air Force</orgName> guy in there. A little bit ago. I said, “You know, I never was a fan of the <orgName ref="#ttu_498_org_4">Air Force</orgName>, but after <name type="event" ref="#ttu_498_event_4">Albany</name>” I said, “You guys are the greatest.”</u>
       <u who="VERRONE">For coming in and supporting?</u>
       <u who="KNOWSKI">They came in and dropped napalm, they you know, they bombed all around us. So close, you can feel the heat. It was very—I knew what those guys went through after.</u>
       <u who="VERRONE">How did you make it through that? What happened to you?</u>
-      <u who="KNOWSKI">Well, we finally got everything halfway organized. Set up perimeters and kept trying to get the wounded back in and so that night we had a lot of flares dropping in and <persName>Captain Forrest</persName> got a call from, I guess they call it Ghost 4-6 or something, I'm not real positive. But there’s some guys out there, still outside the perimeter, trapped out there. <persName>Captain Forrest</persName> wanted to send some guys out there to get them. So we came down, and naturally we’re fighting all day and tired and I said—I told my buddy <persName>Rip</persName>, “Man, I don't know if we should go out to them. It’s going to be suicide.” <persName>Rip</persName> told me, he said, “<persName>Ski</persName>—” They called me <persName>Ski</persName> in those days, he said, “<persName>Ski</persName> if that was me out there, I’d want somebody coming after me.” I said, “You’re right <persName>Rip</persName>.” So we’re all—there’s probably, I’d say twenty to twenty-two of us with the Sergeant that night. Went out after him. Thank god it was night because I think the <orgName>North Vietnamese</orgName> were scared as we were, and they didn’t want to attack us and naturally we didn’t want to attack them. Because we wanted to go out and get them guys. So we picked up quite a few guys along the way. We finally got out to where these guys were and started going around seeing who all was seriously injured, who was able to walk and who was able to make it back. We only had a certain amount of stretchers between us. So we filled up the stretchers with the wounded, the worst, and told the rest if anybody could walk with us, they could come with us. We had guys crying, begging us to take them and we could only take so many. That was a really hard thing to leave them out there.</u>
+      <u who="KNOWSKI">Well, we finally got everything halfway organized. Set up perimeters and kept trying to get the wounded back in and so that night we had a lot of flares dropping in and <persName ref="#ttu_498_person_16">Captain Forrest</persName> got a call from, I guess they call it Ghost 4-6 or something, I'm not real positive. But there’s some guys out there, still outside the perimeter, trapped out there. <persName ref="#ttu_498_person_17">Captain Forrest</persName> wanted to send some guys out there to get them. So we came down, and naturally we’re fighting all day and tired and I said—I told my buddy <persName ref="#ttu_498_person_18">Rip</persName>, “Man, I don't know if we should go out to them. It’s going to be suicide.” <persName ref="#ttu_498_person_19">Rip</persName> told me, he said, “<persName ref="#ttu_498_person_20">Ski</persName>—” They called me <persName ref="#ttu_498_person_21">Ski</persName> in those days, he said, “<persName ref="#ttu_498_person_22">Ski</persName> if that was me out there, I’d want somebody coming after me.” I said, “You’re right <persName ref="#ttu_498_person_23">Rip</persName>.” So we’re all—there’s probably, I’d say twenty to twenty-two of us with the Sergeant that night. Went out after him. Thank god it was night because I think the <orgName ref="#ttu_498_org_5">North Vietnamese</orgName> were scared as we were, and they didn’t want to attack us and naturally we didn’t want to attack them. Because we wanted to go out and get them guys. So we picked up quite a few guys along the way. We finally got out to where these guys were and started going around seeing who all was seriously injured, who was able to walk and who was able to make it back. We only had a certain amount of stretchers between us. So we filled up the stretchers with the wounded, the worst, and told the rest if anybody could walk with us, they could come with us. We had guys crying, begging us to take them and we could only take so many. That was a really hard thing to leave them out there.</u>
       <u who="VERRONE">Did you say, “Listen, we’ll come back as soon as we can?”</u>
       <u who="KNOWSKI">Oh yeah, oh yeah. Sergeant said, “We’ll be back in the morning. We’ll be back for you.” Matter of fact, he left his medic out there. The medic was left out there. We get them all up and we got as many as we could coming back in. I don’t know to this day how many we brought back in, but it was around thirty or so. But they couldn’t walk.</u>
       <u who="VERRONE">Did you all ever get back out to those men whom you left? The ones that were more injured?</u>
@@ -103,22 +103,191 @@
       <u who="KNOWSKI">Yeah. Got back in, they finally—I finally flew out that afternoon. Got me out. They were trying to take the most wounded, the worst guys out first and I had the leg wounded, which I said, “Go ahead, go ahead.”</u>
       <u who="VERRONE">This is an intense twenty-four hours basically that you had.</u>
       <u who="KNOWSKI">Oh yes, yes.</u>
-      <u who="VERRONE">I can only assume that you lost others besides <persName>Loco</persName> that you knew and cared for. </u>
+      <u who="VERRONE">I can only assume that you lost others besides <persName ref="#ttu_498_person_24">Loco</persName> that you knew and cared for. </u>
       <u who="KNOWSKI">Oh yes. </u>
       <u who="VERRONE">How have you dealt with, first of all, the decision to walk? And then, how have you dealt with the loss of these men? I mean, you went on and finished your time.</u>
-      <u who="KNOWSKI">Well I got back and kind of went in denial. I got hired on with <orgName>IBM</orgName> probably a month after I got out of service. Tried starting over again.</u>
+      <u who="KNOWSKI">Well I got back and kind of went in denial. I got hired on with <orgName ref="#ttu_498_org_6">IBM</orgName> probably a month after I got out of service. Tried starting over again.</u>
       <u who="VERRONE">Is that what it was for you? You had to start over?</u>
       <u who="KNOWSKI">Yeah, pretty much. I met a lovely woman and we got married in <date when="1966-09">September of ’66</date>. She’s brought me through a lot of this. So we’ve—</u>
       <u who="VERRONE">Tell me about being in the reunions and have you been to those before this?</u>
-      <u who="KNOWSKI">I never used to go to them. I tried to keep them out of my mind, didn’t want the stuff coming back. But it used to always come back, you’d always dream about it, you always had feelings. First one I went to—we had one for our company in <placeName>St. Louis</placeName>. I think it was a fifteen year one or whatever. So we got to see a bunch of our guys that was in our company. It really helped. So then I came to one here in <placeName>D.C.</placeName> after that. So I’ve been to probably, counting this one, four reunions I think.</u>
-      <u who="VERRONE">How’s it been here forty years after the fact, at this reunion? Being with <persName>Captain Forrest</persName> and the rest of your guys, has the healing continued?</u>
-      <u who="KNOWSKI">Oh yes, very much so. You have—you continue to heal yourself. I'm getting better. It did bother me a long time. Used to get very depressed, drank too much at times. The only times I used to talk about <name type="event">Vietnam</name> was when I was drunk.</u>
-      <u who="VERRONE">Did you ever have the opportunity to meet <persName>Loco</persName>’s family for anything?</u>
-      <u who="KNOWSKI">No, that was something I really should’ve done. Matter of fact, I'm going to do that. I'm going to—his nephew set up a memorial for <persName>Loco</persName> and I tried to get a hold of him because when the memorial was set up, it was a couple of years after I found that out. Tried to get a hold of him and couldn’t get a hold of him. So I mailed this guy and he got me a phone number for his nephew. I don’t think his mother and dad is alive anymore. I did get his mother’s address and I used to travel to <placeName>San Jose, California</placeName> all the time and he lived in <placeName>San Mateo</placeName>, or she did. I never could bring myself to go talk to her.</u>
-      <u who="VERRONE">Looking into the future, how do you want people to know about that march in <placeName>Albany</placeName> and what happened? And what would you like them to remember about your men and your buddies.</u>
+      <u who="KNOWSKI">I never used to go to them. I tried to keep them out of my mind, didn’t want the stuff coming back. But it used to always come back, you’d always dream about it, you always had feelings. First one I went to—we had one for our company in <placeName ref="#ttu_498_place_6">St. Louis</placeName>. I think it was a fifteen year one or whatever. So we got to see a bunch of our guys that was in our company. It really helped. So then I came to one here in <placeName ref="#ttu_498_place_7">D.C.</placeName> after that. So I’ve been to probably, counting this one, four reunions I think.</u>
+      <u who="VERRONE">How’s it been here forty years after the fact, at this reunion? Being with <persName ref="#ttu_498_person_25">Captain Forrest</persName> and the rest of your guys, has the healing continued?</u>
+      <u who="KNOWSKI">Oh yes, very much so. You have—you continue to heal yourself. I'm getting better. It did bother me a long time. Used to get very depressed, drank too much at times. The only times I used to talk about <name type="event" ref="#ttu_498_event_5">Vietnam</name> was when I was drunk.</u>
+      <u who="VERRONE">Did you ever have the opportunity to meet <persName ref="#ttu_498_person_26">Loco</persName>’s family for anything?</u>
+      <u who="KNOWSKI">No, that was something I really should’ve done. Matter of fact, I'm going to do that. I'm going to—his nephew set up a memorial for <persName ref="#ttu_498_person_27">Loco</persName> and I tried to get a hold of him because when the memorial was set up, it was a couple of years after I found that out. Tried to get a hold of him and couldn’t get a hold of him. So I mailed this guy and he got me a phone number for his nephew. I don’t think his mother and dad is alive anymore. I did get his mother’s address and I used to travel to <placeName ref="#ttu_498_place_8">San Jose, California</placeName> all the time and he lived in <placeName ref="#ttu_498_place_9">San Mateo</placeName>, or she did. I never could bring myself to go talk to her.</u>
+      <u who="VERRONE">Looking into the future, how do you want people to know about that march in <placeName ref="#ttu_498_place_10">Albany</placeName> and what happened? And what would you like them to remember about your men and your buddies.</u>
       <u who="KNOWSKI">Well, one thing I would like to do is, we have so many fallen heroes over there. So I would like to say god bless them all. Because without them, I wouldn’t be here. It’s very—I just wish they could be with me. That’s all I can say. And I salute them, you know.</u>
-      <u who="VERRONE">Okay. Alright. Well, thank you very much <persName>Sergeant</persName> for sharing your feelings with us and your thoughts with us.</u>
+      <u who="VERRONE">Okay. Alright. Well, thank you very much <persName ref="#ttu_498_person_28">Sergeant</persName> for sharing your feelings with us and your thoughts with us.</u>
       <u who="KNOWSKI">Thank you.(End of interview)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_498_place_0">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_498_place_1">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_498_place_2">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_498_place_3">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_498_place_4">
+        <placeName>X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_498_place_5">
+        <placeName>Landing Zone Albany</placeName>
+      </place>
+      <place xml:id="ttu_498_place_6">
+        <placeName>St. Louis</placeName>
+      </place>
+      <place xml:id="ttu_498_place_7">
+        <placeName>D.C.</placeName>
+      </place>
+      <place xml:id="ttu_498_place_8">
+        <placeName>San Jose, California</placeName>
+      </place>
+      <place xml:id="ttu_498_place_9">
+        <placeName>San Mateo</placeName>
+      </place>
+      <place xml:id="ttu_498_place_10">
+        <placeName>Albany</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_498_event_0">
+        <desc>battles of the Ia Drang Valley</desc>
+      </event>
+      <event xml:id="ttu_498_event_1">
+        <desc>LZ (Landing Zone) X-Ray</desc>
+      </event>
+      <event xml:id="ttu_498_event_2">
+        <desc>Falcon</desc>
+      </event>
+      <event xml:id="ttu_498_event_3">
+        <desc>Albany</desc>
+      </event>
+      <event xml:id="ttu_498_event_4">
+        <desc>Albany</desc>
+      </event>
+      <event xml:id="ttu_498_event_5">
+        <desc>Vietnam</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_498_person_0">
+        <persName>Dr. Richard Verrone</persName>
+      </person>
+      <person xml:id="ttu_498_person_1">
+        <persName>Sergeant Frank Knowski</persName>
+      </person>
+      <person xml:id="ttu_498_person_2">
+        <persName>Sergeant</persName>
+      </person>
+      <person xml:id="ttu_498_person_3">
+        <persName>Vincent Locatelli</persName>
+      </person>
+      <person xml:id="ttu_498_person_4">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_5">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_6">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_7">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_8">
+        <persName>Captain Forrest</persName>
+      </person>
+      <person xml:id="ttu_498_person_9">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_10">
+        <persName>Forrest</persName>
+      </person>
+      <person xml:id="ttu_498_person_11">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_12">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_13">
+        <persName>Lieutenant Hess</persName>
+      </person>
+      <person xml:id="ttu_498_person_14">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_15">
+        <persName>Forrest</persName>
+      </person>
+      <person xml:id="ttu_498_person_16">
+        <persName>Captain Forrest</persName>
+      </person>
+      <person xml:id="ttu_498_person_17">
+        <persName>Captain Forrest</persName>
+      </person>
+      <person xml:id="ttu_498_person_18">
+        <persName>Rip</persName>
+      </person>
+      <person xml:id="ttu_498_person_19">
+        <persName>Rip</persName>
+      </person>
+      <person xml:id="ttu_498_person_20">
+        <persName>Ski</persName>
+      </person>
+      <person xml:id="ttu_498_person_21">
+        <persName>Ski</persName>
+      </person>
+      <person xml:id="ttu_498_person_22">
+        <persName>Ski</persName>
+      </person>
+      <person xml:id="ttu_498_person_23">
+        <persName>Rip</persName>
+      </person>
+      <person xml:id="ttu_498_person_24">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_25">
+        <persName>Captain Forrest</persName>
+      </person>
+      <person xml:id="ttu_498_person_26">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_27">
+        <persName>Loco</persName>
+      </person>
+      <person xml:id="ttu_498_person_28">
+        <persName>Sergeant</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_498_org_0">
+        <orgName>Alpha Company, 1st of the 5th</orgName>
+      </org>
+      <org xml:id="ttu_498_org_1">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_498_org_2">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_498_org_3">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_498_org_4">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="ttu_498_org_5">
+        <orgName>North Vietnamese</orgName>
+      </org>
+      <org xml:id="ttu_498_org_6">
+        <orgName>IBM</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
