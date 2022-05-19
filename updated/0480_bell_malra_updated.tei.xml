@@ -1,0 +1,1360 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_480">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Malra C. Bell</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        </authority>
+        <date>
+          
+        </date>
+        <idno type="DDHI">ttu_480</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="video" dur-iso="00:45:51">
+            
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0480/OH0480.mp4" mimeType="video/mp4" />
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Philip F. Napoli</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0480/OH0480.pdf</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="NAPOLI" />
+        <person xml:id="BELL" />
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2005-11-11" />
+          <locale />
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="NAPOLI">I am <persName ref="#ttu_480_person_0">Philip Napoli</persName>, today is <date when="2005-11-11">November 11th, 2005</date>. We are in a meeting room at the <placeName ref="#ttu_480_place_0">Crystal City Hilton Hotel</placeName> in <placeName ref="#ttu_480_place_1">Virginia</placeName> and we are going to talk a little bit about <name type="event" ref="#ttu_480_event_0">Vietnam</name>. The first thing to do is get introduced. So tell us a little bit about yourself, how old are you, where you live, that kind of stuff.</u>
+      <u who="BELL">Well, I'm 67 years old. I joined the military in <date when="1956-02">February 1956</date>. At that time, I lived in a little town called <placeName ref="#ttu_480_place_2">Carterville, Georgia</placeName>. I now reside about twenty miles away in a town called <placeName ref="#ttu_480_place_3">Rome, Georgia</placeName>. As time went on, I changed various military jobs , you know. As a private and I worked my way up to getting involved with the <orgName ref="#ttu_480_org_0">7th Cavalry</orgName> at <placeName ref="#ttu_480_place_4">Fort Benning</placeName> in <date when="1960">1960</date>—I came back from <placeName ref="#ttu_480_place_5">Germany</placeName> in <date when="1963">’63</date> and I stayed there with <orgName ref="#ttu_480_org_1">Charlie Company, 1st of the 9th Infantry</orgName>. I was <orgName ref="#ttu_480_org_2">2nd Infantry Division</orgName> and went to work one morning and the company commander says—I was a Buck Sergeant 5 fire team leader, when I take them, one of the guys says, “<persName ref="#ttu_480_person_1">Sergeant Bell</persName>, the company commander wants to see you.” I said, “Oh guess, anyhow.” Crossed over to the orderly room I went. He said, “<persName ref="#ttu_480_person_2">Bell</persName>, come on, me and you and the—” <persName ref="#ttu_480_person_3">Hank Thorpe</persName> was the XO, the executive officer. <persName ref="#ttu_480_person_4">Captain Cloudera</persName> was the company commander I’m talking about. So we had to go across the street because we are no longer <orgName ref="#ttu_480_org_3">Charlie Company 1st of the 9th</orgName>, we are now <orgName ref="#ttu_480_org_4">A Company 2nd of the 7th Cavalry, 1st Cav Division</orgName> (Laughs) “How the hell did we get in here?” It was bad. So that’s how I ended up and of course we got all of the stories, you know. “Hey, <orgName ref="#ttu_480_org_5">7th Cav</orgName> was <persName ref="#ttu_480_person_5">General Custard</persName>, you know. The last end. You guys are going to <placeName ref="#ttu_480_place_6">Vietnam</placeName> and you’re going to be heroes!” Can I tell a little story about my wife there at the time?</u>
+      <u who="NAPOLI">You can tell anything you want to tell, yes.</u>
+      <u who="BELL">I was 28 years old when I went to <placeName ref="#ttu_480_place_7">Vietnam</placeName> for my first tour. Anyhow, being that we were all <persName ref="#ttu_480_person_6">Custard’s</persName> going to be big warriors, none of us had any combat experience whatsoever. We had white t-shirts and white shorts.</u>
+      <u who="NAPOLI">Okay.</u>
+      <u who="NAPOLI">The <orgName ref="#ttu_480_org_6">Army</orgName> said ,“You’re going to have to dye those shorts and t-shirts green.” Well, at that time not many enlisted guys were married. So I had a fire team and my wife, she was seven months pregnant with our fourth child. I said, “You’re going to have to go buy some dye, the government said that ‘We don’t have any dye to give you to dye these, but you have to dye them!’ ” So I showed up in a couple of days with my dyed stuff. Here come two or three guys, “Could you get your wife to dye these for me?” I started out carrying a bag of white laundry home with me and my wife would stir on the pot, you know. We lived in a tiny apartment and we had three children and she was all swelled up with our fourth child. This went on for about a week. “I’m out of dye.” Well, the guys gave me some money to give to her to find some dye. She had to drive all over <placeName ref="#ttu_480_place_8">Columbus, Georgia</placeName> in an old rickety Ford station wagon. Finally, she had stirred it with big spoons, stirring this dye pot, you know. You had to heat it on the stove and it’s hot in the summertime. We didn’t have no air conditioning; we were too poor. She’s slaving on that thing and I came home, she said, “That’s absolutely it.” I came home, and I had a <persName ref="#ttu_480_person_7">Sergeant Eshbach</persName> that was my  E7 platoon sergeant. Him and <persName ref="#ttu_480_person_8">Johnson</persName>, <persName ref="#ttu_480_person_9">Ben Johnson</persName>. By the way, <persName ref="#ttu_480_person_10">Ben Johnson</persName> was the first killed in action from <orgName ref="#ttu_480_org_7">A Company, 2nd of the 7th</orgName> in <placeName ref="#ttu_480_place_9">Vietnam</placeName>. My wife, I had his laundry, <persName ref="#ttu_480_person_11">Ben Johnson</persName>, and <persName ref="#ttu_480_person_12">Sergeant Eshbach</persName>. <persName ref="#ttu_480_person_13">Eshbach</persName> got killed on the <date when="1966-01-25">25th of January</date>, but I’ll tell that little story in a minute. I walked in with that little thing and she said “Oh no. No more!” I said, “Please, dear.” She said, “Well, alright.” So I kind of walked out the door and the little screen door had screen front door, “That’s my platoon sergeant.” I heard a little mumble as I left, she said, “<persName ref="#ttu_480_person_14">Custard</persName>. The Indians didn’t kill him, his damn wife did.” (Laughs) So we made our way to—the <orgName ref="#ttu_480_org_8">2nd Infantry Division</orgName> I was assigned to, like I said <orgName ref="#ttu_480_org_9">C Company 1st of the 9th</orgName> at <placeName ref="#ttu_480_place_10">Sand Hill</placeName> and they took the colors of our <orgName ref="#ttu_480_org_10">2nd Division</orgName> and sent them to <placeName ref="#ttu_480_place_11">Korea</placeName> and brought the <orgName ref="#ttu_480_org_11">1st Cav Division</orgName> colors back and took the <orgName ref="#ttu_480_org_12">11th Air Assault</orgName> and some men from <orgName ref="#ttu_480_org_13">2nd Infantry Division</orgName> and formed up the <orgName ref="#ttu_480_org_14">1st Cav Division</orgName> all right there at <placeName ref="#ttu_480_place_12">Fort Benning</placeName> and we made our way by bus to <placeName ref="#ttu_480_place_13">Charleston, South Carolina</placeName>.</u>
+      <u who="NAPOLI">Before you go into <placeName ref="#ttu_480_place_14">Charleston</placeName>, can you tell me a little bit about the training you guys did together?</u>
+      <u who="BELL">Myself and my Company Commander <persName ref="#ttu_480_person_15">Cloudera</persName> and <persName ref="#ttu_480_person_16">Hank Thorp</persName>, <persName ref="#ttu_480_person_17">Lieutenant Thorp</persName>, that later became Company Commander of <orgName ref="#ttu_480_org_15">Delta Company, 2nd of the 7th</orgName>. We had trained previously as we were the aggressors for the <orgName ref="#ttu_480_org_16">11th Air Assault</orgName>. They had to go to the field and train in <placeName ref="#ttu_480_place_15">Fort Stewart, Georgia</placeName>, which is down by <placeName ref="#ttu_480_place_16">Savannah</placeName> and <placeName ref="#ttu_480_place_17">Hundred Airfield</placeName> and all that down there. We had trained by—we were actually Armored Personnel Care, APC’s Company. We had trained but we were used as the aggressors of against the <orgName ref="#ttu_480_org_17">11th Air Assault</orgName> which was the <orgName ref="#ttu_480_org_18">1st Cav</orgName>. We didn’t know this at the time, so all my training was with APCs until we got to call to go—we got very little actual, the <orgName ref="#ttu_480_org_19">2nd of the 7th</orgName> got very little airmobile training before we left to go over. Now, the <orgName ref="#ttu_480_org_20">1st of the 7th</orgName> which had <persName ref="#ttu_480_person_18">Hal Moore</persName>, <persName ref="#ttu_480_person_19">Colonel Hal Moore</persName>, they got extensive training. We got very little. So that’s why when they got to <placeName ref="#ttu_480_place_18">Vietnam</placeName>, that the <orgName ref="#ttu_480_org_21">1st of the 7th</orgName> was probably the most highly trained unit in the <orgName ref="#ttu_480_org_22">1st Cav Division</orgName> and therefore they got all the hard jobs. Like I said, back before, then we got on the buses and we went road to <placeName ref="#ttu_480_place_19">Columbus</placeName>. From <placeName ref="#ttu_480_place_20">Columbus</placeName> to the Port in <placeName ref="#ttu_480_place_21">Charleston, South Carolina</placeName>. It took us like thirty days to get over there on the <orgName ref="#ttu_480_org_23">USS Rose</orgName>, it was a troop transport ship backed in. Previously, I was well aware of the <orgName ref="#ttu_480_org_24">Rose</orgName>. I had ridden it to <placeName ref="#ttu_480_place_22">Germany</placeName> about three or four years before. The same <orgName ref="#ttu_480_org_25">ol’ rambling Rose</orgName> they called it. It was a <orgName ref="#ttu_480_org_26">USS Maurice Rose</orgName>. So we went to the <placeName ref="#ttu_480_place_23">Panama Canal</placeName>, up to <placeName ref="#ttu_480_place_24">Long Beach, California</placeName> and refueled. Took some food. Some of the people, as their enlistments were running out, some of them got off in <placeName ref="#ttu_480_place_25">Long Beach</placeName>. We went in— we didn’t go into <placeName ref="#ttu_480_place_26">Hawaii</placeName>. We stopped outside and they sent a boat out, we had a sick guy on there. I didn’t know him or get to know him, but we had the entire <orgName ref="#ttu_480_org_27">3rd Brigade of the 1st Cav</orgName> on this <orgName ref="#ttu_480_org_28">USS Rose</orgName>. When we got to <placeName ref="#ttu_480_place_27">Qui Nhon</placeName>, thankful they helicoptered us by Huey, helicoptered us, you know. We landed at <placeName ref="#ttu_480_place_28">An Khe</placeName> and we started clearing the <placeName ref="#ttu_480_place_29">Golf Course</placeName> and making fighting positions.</u>
+      <u who="NAPOLI">I want you to go a little slower for me. Can you tell me a little bit about that typhoon? The big storm?</u>
+      <u who="BELL">Oh yeah. What I remember most about the typhoon was, we were—I was a Buck Sergeant, I was in the hull of the ship, you know. If you were E6 and above, you were up there pretty nice, but if you were a Buck Sergeant or E4 you were down there. Anyhow, I think we were off in the <placeName ref="#ttu_480_place_30">Philippines</placeName> somewhere. When they started wiring, they had a big cable about twenty feet from the outside rails of the ship and there were some wires out there. But these big cables, they put two of them up and only had about this two feet of space out doors that we could come out of the basement, the hull of the ship to get in the air to keep the people—when the typhoon started hitting us, we didn’t know, “What the hell are you doing up here? We don’t have no place to go smoke or anything!” They had put this wire in so close that we had hardly any room and I'm talking about a whole brigade of soldiers on the ship!</u>
+      <u who="NAPOLI">It’s to keep you away from the rail, I take it.</u>
+      <u who="BELL">Yeah, to keep us from falling over. But you know, we’re standing there, shoulder to shoulder. You know trying to smoke a cigarette! (Laughs) The whole thing. Basically, I don’t know if a lot of the guys regurgitated and everything down there, it just smelled terrible. I practically lived out standing against the bulkhead on the outside. That’s the thing, the smell was just too great for us.</u>
+      <u who="NAPOLI">Sounds intense.</u>
+      <u who="BELL">But like I said, we got to—anything else.</u>
+      <u who="NAPOLI">I'm just curious about if there was anything funny that happened on that boat ride or anything other—anything else that was memorable except that big storm that you guys went all through or maybe even landing, or when you did arrive at <placeName ref="#ttu_480_place_31">Qui Nhon</placeName>.</u>
+      <u who="BELL">Oh, absolutely nothing was funny on the ship. We were just sardined in, too many people. When we got to <placeName ref="#ttu_480_place_32">Qui Nhon</placeName>, we did clown the cargo nets down the side into the landing crafts and we went in. Fortunately, didn’t get any foot wet or nothing. I was just, “Thank you”—that was it. (Chuckles) Then I thought to myself, well none of us knew where <placeName ref="#ttu_480_place_33">An Khe</placeName> was. I thought we were in <placeName ref="#ttu_480_place_34">An Khe</placeName> when we got there, but it was <placeName ref="#ttu_480_place_35">Qui Nhon</placeName> and they said, “We got to go over that mountain over there.” I said, “Oh lord, we’re going to have to walk over that damn mountain already.” But they used helicopters and they got us over to <placeName ref="#ttu_480_place_36">An Khe</placeName> without any incident I think. It was very bad when we got there. Somebody—of course we put out security, immediately. Formed a perimeter and started working on that, but then somebody had packed the ship wrong! We didn’t have anything to eat. We had arms and ammunitions but nothing to eat. No C-rations, no K—well, some still had some K-rations. Nothing to eat! I don’t know the mess sergeants was started getting old cans, if you could see it was made in <date when="1942">1942</date> of stuff and little sausages in it and all, but we didn’t have anything to eat because they packed the ship wrong. At least that’s what the mess sergeant told us. We had absolutely nothing to eat. So we were ill tempered too. But everything straighten up finally.</u>
+      <u who="NAPOLI">What do you remember about the terrain that you saw when you arrived? Was it strange? Was it beautiful? How did it strike you?</u>
+      <u who="BELL">Well, the heat was intense immediately. But we’d gotten climatized on the ship coming in, but it was hot and sweaty though. We stayed on deck, like I said, most of the time. So by the time we got there we were pretty well climatized, but the terrain to me was nice. It was North <placeName ref="#ttu_480_place_37">Georgia</placeName> where I was born, it was mountainy and had the trees and everything, but then we’d get further in and of course we had triple canopy jungle which we weren’t familiar with. I would love to go back for a trip. I would like to go back and visit the country again. It wasn’t strikingly bad to me at all. I was swimming in rivers and creeks all my life and crossing those creeks and rivers there didn’t bother us—me at all. I was quite content. When we got involved going into the <placeName ref="#ttu_480_place_38">Ia Drang Valley</placeName> now, the <orgName ref="#ttu_480_org_29">1st of the 7th Cavalry</orgName>, with <persName ref="#ttu_480_person_20">Colonel Moore</persName> at that time, he went in with his <orgName ref="#ttu_480_org_30">Battalion 1st of the 7th</orgName> and they called for reinforcements. So it was <orgName ref="#ttu_480_org_31">B Company 2nd Battalion</orgName>, my company in <orgName ref="#ttu_480_org_32">B Company</orgName>. They called for more reinforcements and they sent <orgName ref="#ttu_480_org_33">A Company</orgName> in, <orgName ref="#ttu_480_org_34">2nd of the 7th</orgName> on the morning of the <date when="1965-11-15">15th</date>. That’s when I went in. When we got there—this is what happened, we landed. My company commander was on the helicopter, <persName ref="#ttu_480_person_21">Captain Sugdinis</persName> with his little headquarters group. My platoon leader, <persName ref="#ttu_480_person_22">Lieutenant Sisson</persName> and myself, and <persName ref="#ttu_480_person_23">SFC (Sergeant First Class) Eshbach</persName> was the Platoon Sergeant and a radio operator and a couple of more, my fireteam. I had a fire team and we landed on this side. The rest of <orgName ref="#ttu_480_org_35">A Company</orgName> was landed on the opposite side of the LZ (Landing Zone). So <persName ref="#ttu_480_person_24">General Moore</persName> directed my Platoon Leader, <persName ref="#ttu_480_person_25">Lieutenant Sisson</persName>, “You guys head south and take that southern position that was held by—” I can’t pronounce the guy’s name. <persName ref="#ttu_480_person_26">Lieutenant Grogen</persName>?</u>
+      <u who="NAPOLI"><persName ref="#ttu_480_person_27">Geoghegan</persName>.</u>
+      <u who="BELL"><persName ref="#ttu_480_person_28">Lieutenant Geoghegan</persName>’s position. So we went down there and all of the <orgName ref="#ttu_480_org_36">A company</orgName>, the rest of them was pulled back into reserves. <persName ref="#ttu_480_person_29">General Moore</persName> immediately attached us to <orgName ref="#ttu_480_org_37">B Company, 2nd of the 7th</orgName> which was my sister company. <orgName ref="#ttu_480_org_38">A Company</orgName>, <orgName ref="#ttu_480_org_39">B Company</orgName>, sister company. So our job—immediately we got sniper fire but we started taking turns with the fire teams. Guarding the perimeter and kind of started digging in, but the job fell to us to move all of <persName ref="#ttu_480_person_30">Geoghegan</persName>’s dead back to the pickup point. Smelly, swelled up, they’ve been there. We’ve got there at nine o’clock in the morning, around  nine, there about. Bodies all over, we were picking them up, taking them back. We couldn’t take too long, we had to quit and another fire team take over, you know. It was a goring job, you know. Once we got them all stacked up, then we started stacking up the dead Vietnamese. We put them in piles. Like six foot long and six foot high and we used them for firing positions, but we were dug in real nice. My last position, I was tied in with <persName ref="#ttu_480_person_31">Lieutenant Rescorla</persName>’s platoon of <orgName ref="#ttu_480_org_40">B Company 2nd of the 7th</orgName>. I was on <orgName ref="#ttu_480_org_41">B Company</orgName>’s left flank as they were facing south, I was on their left and <persName ref="#ttu_480_person_32">Rescorla</persName>’s platoon was the most southern platoon. They tried to overrun us that night and everything. Some of them got real close, but you know we fought them off. Then, we had our fired weapons off come daylight.</u>
+      <u who="NAPOLI">Mad minute?</u>
+      <u who="BELL">No. Mad minute was after I was shot. The next morning, we started moving around and looking. There were live <orgName ref="#ttu_480_org_42">NVA (North Vietnamese Army)</orgName> over there and he fired at us and we shot him. we started moving around and I got up and a sniper shot me right here.(Editor’s Note: Interviewee shows where he was shot to the interviewer.)Came out of my back and if he was about this much of a better shot, I wouldn’t have been here. So they medevac’d me, flew me out, we came back to the aid station and they flew me to <placeName ref="#ttu_480_place_39">Qui Nhon</placeName>. <placeName ref="#ttu_480_place_40">Qui Nhon</placeName>, they operated me. But first off, <persName ref="#ttu_480_person_33">Michael Alfred</persName>, the medic that was our platoon medic, he bandaged me up and he’s still alive and he’ll be here tonight. We see each other every once and awhile we he can make it up here. So he’s still alive and really is a good guy. Anyhow, when they got me back to <placeName ref="#ttu_480_place_41">Qui Nhon</placeName>, <placeName ref="#ttu_480_place_42">Qui Nhon</placeName> to <placeName ref="#ttu_480_place_43">Clark Air Force base</placeName> in the <placeName ref="#ttu_480_place_44">Philippines</placeName>. At <placeName ref="#ttu_480_place_45">Clark Air Force Base</placeName>, when they flew us to <placeName ref="#ttu_480_place_46">Hawaii</placeName> from there, <persName ref="#ttu_480_person_34">Joe Marm</persName> had been put in for the Medal of Honor. He was on the litter next to me, on the plane flying to <placeName ref="#ttu_480_place_47">Travis</placeName>. We got back <placeName ref="#ttu_480_place_48">Travis</placeName> and they sent him somewhere, maybe to <placeName ref="#ttu_480_place_49">Scott Air Force Base</placeName>. All these places they’re operating on us you know, as we’re coming back. I got to <placeName ref="#ttu_480_place_50">Scott Air Force Base</placeName> then to <placeName ref="#ttu_480_place_51">Walter Reed</placeName>. There is something—I wanted to mention to you. Do you have a question for me?</u>
+      <u who="NAPOLI">I would like to slow it down a little bit and take you back to that morning. I know you got shot through the chest, did you stay conscious through that?</u>
+      <u who="BELL">Oh, yes! Yes. I lost a lot of blood but what had happened—it was a little hole here. No bigger than a finger but when it came out, it was the biggest glass here. It came out through the scapula they call it, back here.</u>
+      <u who="NAPOLI">Yes. The backbone.</u>
+      <u who="BELL">The backbone. The doctors—the bullet had put a small crease in the right top lobe of my lung. I didn’t know this but your left lung has got two little lobes with your heart tucked into there. Your right lung has got three little lobes in it. It deflated the top lube and they had to put a big ol’ needle in here and at night suck out air. (Laughs) Unbelievable. That was at <placeName ref="#ttu_480_place_52">Walter Reed</placeName>, ward 33 at the old hospital up there. Let me go back now, back to the valley. My platoon stayed in there another night. I got shot on the <date when="1965-11-16">16th</date>. Okay, that was the 3rd platoon of <orgName ref="#ttu_480_org_43">A Company 2nd of the 7th</orgName>. When <persName ref="#ttu_480_person_35">General Moore</persName> got ready to fly out, he took <orgName ref="#ttu_480_org_44">B Company 2nd of the 7th</orgName> out because thy had been fighting with him. They took the rest of my platoon out but the guys that had been shot like me, that was already evacuated, they all flew out with <persName ref="#ttu_480_person_36">General Moore</persName>—<persName ref="#ttu_480_person_37">Colonel Moore</persName>. Then, <orgName ref="#ttu_480_org_45">A Company</orgName> took the 1st, 2nd, and 4th Platoon on that walk to <placeName ref="#ttu_480_place_53">LZ Albany</placeName> and they got annihilated. Okay, but here’s my platoon sitting back over here, <orgName ref="#ttu_480_org_46">A Company</orgName> 3rd Platoon. Okay, <persName ref="#ttu_480_person_38">Sergeant Eshbach</persName>, all the guys that didn’t get shot—<persName ref="#ttu_480_person_39">Lieutenant Sisson</persName> got sick with Malaria. On the <date when="1966-01-25">25th of January</date>, they loaded the remainder of my platoon up on an airplane going to <placeName ref="#ttu_480_place_54">Bon Son</placeName> with the mortar platoon. The damn plane crashed and killed everybody else on that plane, including all my people. I have a paper here—(Editor’s Note: Interviewee takes out a piece of paper.)Shoot, I got it out for you. I keep so much stuff with me. So all of the guys that was in my platoon, that I knew real well, you know are now dead, except for the ones that were sick in the hospital with Malaria or got wounded.</u>
+      <u who="NAPOLI">For the sake of the camera, this is forty-three victims, members of the Cavalry Unit Jungle Hill Side, scene of worst disaster. Forty-seven Americans killed in a crash. This is an <orgName ref="#ttu_480_org_47">AP</orgName> story from—this article is undated, but you said it’s <date when="1966-01">January 1966</date>.</u>
+      <u who="BELL"><date when="1966-01-25">25th of January 1966</date> is when the crash. I think the plane was C-119, I’m not sure. <persName ref="#ttu_480_person_40">Alfred</persName>, my friend <persName ref="#ttu_480_person_41">Alfred</persName>, has got a picture of the plane. He was supposed to get on that plane, but they put him on another one.</u>
+      <u who="NAPOLI"><persName ref="#ttu_480_person_42">Dwayne Paulson</persName> also was supposed to get on the plane?</u>
+      <u who="BELL">No.</u>
+      <u who="NAPOLI">No? Different incident. </u>
+      <u who="BELL">Yes. I'm pretty sure. I wasn’t there. I was already back in <placeName ref="#ttu_480_place_55">Walter Reed</placeName> when that crash happened, but if I hadn’t gotten shot in <date when="1965-11-16">November</date>, I would’ve been on that plane and died on the <date when="1966-01-25">25th of January</date>. So I was fortunate not to have gotten killed twice. If not the sniper, the plane crash would’ve got me.</u>
+      <u who="NAPOLI">What kind of treatment did you get? Did you get good treatment?</u>
+      <u who="BELL">Oh great, the military gives the best treatment in the world. Even the <orgName ref="#ttu_480_org_48">VA (Veterans Affairs)</orgName>, I go to the <orgName ref="#ttu_480_org_49">VA</orgName>. I have no complaints about the government’s military treatment. My wife had a baby in <placeName ref="#ttu_480_place_56">Martin Army Hospital</placeName> when I was in <placeName ref="#ttu_480_place_57">Vietnam</placeName>. <persName ref="#ttu_480_person_58">Captain Sugdinis</persName>, my company commander called, I was on the bridge. This was prior to <name type="event" ref="#ttu_480_event_1">Ia Drang Valley</name>. I had secured a bridge one night, I had two men on one side, three men on the other side on the fire team. We were securing a bridge and he called me up and said, “<orgName ref="#ttu_480_org_50">Red Cross</orgName> just notified us that your wife had a little girl named <persName ref="#ttu_480_person_43">Dawn Rose Bell</persName> and she was born yesterday.” So that was really nice, she’s here like I said earlier.</u>
+      <u who="NAPOLI">That’s a good moment. How’s your health now?</u>
+      <u who="BELL">Well, real shortness of breath. But see, I stayed in the army. I was only a Buck Sergeant E5 then and I retired in <date when="1978">1978</date> from the <orgName ref="#ttu_480_org_51">Army</orgName>. I’ve had several operations and I have a leg that fell and broke two years ago and it won’t mend. It hasn’t mended yet. I was on a wheelchair for over a year. It slowly—they got me down on this brace here, I can walk with the cane and this brace. But I'm completely retired, so it doesn’t make any difference.</u>
+      <u who="NAPOLI">So what were you’re assignments after? It must’ve taken you a long time to get healed from the gunshot wound.</u>
+      <u who="BELL">Okay, after I got out of the hospital, they sent me back to <placeName ref="#ttu_480_place_59">Fort Benning</placeName> because that’s where my family was. I had a real good assignment. I made E6. I went to the Drill and Ceremony Committee and we talked to FM22-5, that’s Drill and Ceremony, to OCS (Officer Candidate School) candidates. E6 is the lowest rank, we had a master sergeant and E7s, SFCs, and some E6s and I was one of them. That’s what we did. In the day, we would go out and have a platoon of OCS—have a whole company come in and we would take a platoon each and we talked drill and ceremony to them so they know how to march and salute, things like that (Chuckles). It was really a plush job. Never got dirty or anything. We wore old pith helmets in the summer. You remember the jungle pith helmets?</u>
+      <u who="NAPOLI">I do.</u>
+      <u who="BELL">That’s what we wore out there teaching those guys in the summer. Well doing after that, I stayed there, I forgot how long and got on the E7 list and I got orders to <placeName ref="#ttu_480_place_60">Fairbanks, Alaska</placeName>. So I was back in the infantry up there. I think I was in <orgName ref="#ttu_480_org_52">C Company 1st of the 47th Infantry</orgName> up there and we had APCs (Armored Personnel Carriers), but I always—I was already familiar with them because I’d been in <orgName ref="#ttu_480_org_53">Charlie Company, 1st of the 9th</orgName>. So I stayed there one year to the day exactly. I’d gotten orders—I'm an E7. About a month later, I got orders back to <placeName ref="#ttu_480_place_61">Vietnam</placeName> and to the day, <date when="1969-02-22">February the 22nd</date> for example‚—it wasn’t <date when="1969-02">February</date>, I just don’t know the date. <date when="1969-02-22">February the 22nd of 1969</date>, we left <placeName ref="#ttu_480_place_62">Alaska</placeName> for one year and I had to go back to <placeName ref="#ttu_480_place_63">Vietnam</placeName>, so my wife—I had relatives in <placeName ref="#ttu_480_place_64">San Diego</placeName>, so we drove from <placeName ref="#ttu_480_place_65">Fairbanks</placeName> to <placeName ref="#ttu_480_place_66">San Diego</placeName> and we got her a house and then I went to the Senior NCO (Non-Commissioned Officer) Academy out in—by <placeName ref="#ttu_480_place_67">Manhattan, Kansas</placeName>. What’s that—<placeName ref="#ttu_480_place_68">Fort Riley</placeName>. I went to Senior NCO Academy and then I went back to <placeName ref="#ttu_480_place_69">Vietnam</placeName> for part of <date when="1969">’69</date> and part of <date when="1970">’70</date>, but at this time I was in the <placeName ref="#ttu_480_place_70">Mekong Delta</placeName>, <placeName ref="#ttu_480_place_71">IV Corps</placeName> and I was a MET (Military Engagement Team) team, mobile advisory team. It was a light infantry weapons advisor.</u>
+      <u who="NAPOLI">That’s decent duty too? Isn’t it?</u>
+      <u who="BELL">No. No. No.</u>
+      <u who="NAPOLI">That wasn’t decent duty.</u>
+      <u who="BELL">Absolutely not. Okay, a MET team, a mobile advisory team. This was the concept. You had a group of men, supposed to be a full army captain, a lieutenant and three E7s. A light infantry weapons, a mortar—heavy weapons, and a medic. Okay, never saw a captain. They had instead of all E7s, most of them were E6s. Say you were an E6 as heavy weapons and he was the medic and he was an E6 and I was E7 and I had a 2nd lieutenant. He was the advisory team leader. He would be there about a month, six weeks and they would put him in a unit up north. Then, I would get a new 2nd lieutenant, but all this time, we did not live in a compound. We lived out in a village with the people. When they went on operations, RFs, regular forces, I wasn’t with <orgName ref="#ttu_480_org_54">ARVN (Army of the Republic of Vietnam)</orgName> now. <orgName ref="#ttu_480_org_55">ARVN</orgName> is a step higher. I had a lindoid, they called it. A battalion about the size of an infantry company. We were advisors to and we went on operations every day. We got shot at every day and we walked the rice patties. We were supposed to go two at a time. Well, if we went two at a time, it didn’t work out because I didn’t have three people most of the time. So what we had to do—and we couldn’t leave one guy back by himself. So we all went.</u>
+      <u who="NAPOLI">Every day?</u>
+      <u who="BELL">Every day, seven days a week and we walked around rice patties and you can depend on it, we got shot at every day for almost the entire year I was there. Yeah and we were eating their food too. We—you know, we ate whatever they ate. We cooked our own though, but it wasn’t good duty. Absolutely not. A lot of the unit, lot of the MET teams have got a way to keep a guy up every night. Then, he walked the rice patties the next day too! Because you couldn’t get killed, you couldn’t dare to go to bed. Sleep all of you. We never had any incidents. We did get attacked at night, but not just us and we had heard in some of the villages they turn on the Americans, you know. Said, “Oh, <orgName ref="#ttu_480_org_56">VC (Viet Cong)</orgName> came in here and killed them all.” So we kept somebody awake. You know, it wasn’t very nice.</u>
+      <u who="NAPOLI">From <date when="1970">1970</date>, you rotated back to the <placeName ref="#ttu_480_place_72">States</placeName>, I guess.</u>
+      <u who="BELL">Yes, back—I came back to <placeName ref="#ttu_480_place_73">Fort Ord, California</placeName>. I put in for that because my wife was in <placeName ref="#ttu_480_place_74">San Diego</placeName>. I was assigned to the committee group, they had basic trainees there at <placeName ref="#ttu_480_place_75">Fort Ord</placeName> at that time. At first, I was the NCOIC (Non-Commissioned Officer in Charge), I was an E7 of a hand grenade range, when we were teaching hand grenade. I had an MOS (Military Occupational Specialty) with a M on the end of it for an instructor then because I had an OCS type deal. We taught them how to throw the hand grenades. But then I got assigned to the night fire range. We—like I was E7 and you’re E7, I worked Monday, Wednesday, and Friday. From five in the morning, to eleven at night or twelve o’clock when we got through with the firing, and then I didn’t come to work the next day. So you worked Tuesday and Thursday but then the next week—</u>
+      <u who="NAPOLI">We flip. </u>
+      <u who="BELL">Flipped Monday, Wednesday, and Friday. So that’s how we worked at and that was a pretty good job, but you know, five to twelve at night. (Laughs)</u>
+      <u who="NAPOLI">That’s a long day.</u>
+      <u who="BELL">Pretty long days, yes. Then, I went to <placeName ref="#ttu_480_place_76">Fort Dix</placeName>. Then, I went to <placeName ref="#ttu_480_place_77">Korea</placeName>. I took my family with me to <placeName ref="#ttu_480_place_78">Fort Dix</placeName> with me, so when I had to go to <placeName ref="#ttu_480_place_79">Korea</placeName>, I left my family at <placeName ref="#ttu_480_place_80">Fort Dix</placeName>. So I came back to <placeName ref="#ttu_480_place_81">Fort Dix</placeName>, when I got back, I was on the E8 list, I made it to E8 and I took over the 1st Sergeant of <orgName ref="#ttu_480_org_57">Delta, Delta 3rd Battalion, 3rd Brigade</orgName>. I retired from <orgName ref="#ttu_480_org_58">D33</orgName> on <date when="1978-10-01">1 October, 1978</date>.</u>
+      <u who="BELL">You saw a lot of change in the army in those years?</u>
+      <u who="NAPOLI">Oh, absolutely, yeah. One thing that the—I feel very sorry for the guys that’s over there now in <placeName ref="#ttu_480_place_82">Iran</placeName>—<placeName ref="#ttu_480_place_83">Iraq</placeName> rather and <placeName ref="#ttu_480_place_84">Afghanistan</placeName>. When we went back for our second, some people went back for their third tours in <placeName ref="#ttu_480_place_85">Vietnam</placeName>, we had openings. A billet was opened. So the rank was open, you could make rank. If they sent home a buck sergeant, somebody got to be a buck sergeant! But these guys that are going—we were individually rotated. These guys that are going to war now, they’re going as a unit! So nobody is getting promoted. (Laughs) They’re stuck! Nobody is getting promoted because they’re taking their own unit with them. There’s no openings unless the normal thing comes in. It helped a lot of us guys, you know. I would’ve never retired as an E8 if <name type="event" ref="#ttu_480_event_2">Vietnam</name> hadn’t had come along. So some of the guys going over there—you’d go to <placeName ref="#ttu_480_place_86">Vietnam</placeName> in the later years, say <date when="1969">’69</date> or <date when="1970">’70</date> and if you went over there as an E3, two months you were an E4. Then, before you left you were an E5. Poor guys sitting over there, the other war is not getting that.</u>
+      <u who="NAPOLI">Let me ask another question about change. I know you had very different duties and I know the war was in a different place between <date when="1965">’65</date> and <date when="1969">’69</date>. But can you help me—</u>
+      <u who="BELL"><date when="1964">’64</date>.</u>
+      <u who="NAPOLI"><date when="1965">’65</date> to <date when="1969">’69</date>, when you—you were over there in <date when="1965">’65</date>?</u>
+      <u who="BELL">Yes, I was <placeName ref="#ttu_480_place_87">II Corps</placeName>.</u>
+      <u who="NAPOLI">That’s right. You came back in—</u>
+      <u who="BELL">To <date when="1969">’69</date> to <date when="1970">’70</date> in <placeName ref="#ttu_480_place_88">IV Corps</placeName>.</u>
+      <u who="NAPOLI">Right. I'm interested in the changes that you saw in the war itself between the two periods of time.</u>
+      <u who="BELL">Well, I was in completely two different areas. I was in real central highlands. Down here I was in the lowlands and rice patties. I was not with the <orgName ref="#ttu_480_org_59">America</orgName> unit. I had my higher headquarters, but we got there maybe once a month. So I really didn’t see any <orgName ref="#ttu_480_org_60">US Army</orgName> fighting except the helicopters that I’d call in to pick up the wounded Vietnamese. So I really was not involved with any unit fighting, except the Vietnamese fighting and they avoided if it could, but they were always getting snipers. So I really couldn’t answer that at all. I don’t think there was—for me it was a complete different war. I was a Vietnamese fighter then.</u>
+      <u who="NAPOLI">That’s a good answer actually. That’s a good answer.</u>
+      <u who="BELL">It was just completely changed. I wasn’t in the <orgName ref="#ttu_480_org_61">American Army</orgName> anymore. I was in the <orgName ref="#ttu_480_org_62">Vietnamese Army</orgName>. The <orgName ref="#ttu_480_org_63">South Vietnamese Army</orgName> though (Laughs).</u>
+      <u who="NAPOLI">Yes, yes. I asked this to a bunch of guys and I don’t know if this question is going to work for you. Are there lessons or things that you learned out of the <name type="event" ref="#ttu_480_event_3">Ia Drang</name>? That you took with you later in the service?</u>
+      <u who="BELL">Oh leadership, oh goodness, yes. Like some of our officers and senior NCOs told us to do things and it really showed us what to do. Then, later on as I got higher rank, I could reflect back on that and I used some of the same quotes and mannerisms and everything. Got them to do a better job by having learnt from these older and more experienced men.</u>
+      <u who="NAPOLI">Who in particular? Was there anyone in particular?</u>
+      <u who="BELL"><persName ref="#ttu_480_person_44">Larry Gwen</persName>, my XO (Executive Officer). <persName ref="#ttu_480_person_45">Sergeant Eshbach</persName> and I had one guy that got killed over there. His name was <persName ref="#ttu_480_person_46">Willie Quillen</persName>, he was Puerto Rican, he was a Buck Sergeant like me but he got promoted to E6 right after I got shot and he was—I was one fireteam, he had the other fireteam. But he got to be the Platoon Sergeant after he made E6. He showed me really—he had been in the army for a longtime, but only a E5, his English was kind of limited but if I listened good I can get it. I could remember some of the things back then when I was in the military he would say,(Editor’s note: Interviewee imitates voice)“Now that’s what we got to do, sergeant. We got to get them to do this.” Things like that.</u>
+      <u who="NAPOLI">So leadership is a major—</u>
+      <u who="BELL">Oh, yes. <persName ref="#ttu_480_person_47">Sergeant Major James Scott</persName>, he just died two weeks ago down in <placeName ref="#ttu_480_place_89">Fort Benning</placeName>. He would always cheer up the troops coming around and kept the moral up and everything. Oh, yeah. Just like if you read that book, <persName ref="#ttu_480_person_48">Sergeant Major Plumley</persName> I saw him two weeks ago at <persName ref="#ttu_480_person_49">Scott</persName>’s funeral, down in <placeName ref="#ttu_480_place_90">Columbus</placeName> when <persName ref="#ttu_480_person_50">Scott</persName> just died. <persName ref="#ttu_480_person_51">Jim Scott</persName>, he just died, like I said two weeks ago and <persName ref="#ttu_480_person_52">Plumley</persName> was down there and every time I see him, I think of the book when he says, “Alright,” told <persName ref="#ttu_480_person_53">Joe Galloway</persName> “you can’t take no pictures sunny down there in the ground, you got to get up here and look around.”</u>
+      <u who="NAPOLI">Long term, what has service in the <name type="event" ref="#ttu_480_event_4">Ia Drang</name> meant to you?</u>
+      <u who="BELL">Well, at first, really it was just a job. We didn’t actually realize what we had done in the <placeName ref="#ttu_480_place_91">Ia Drang Valley</placeName> until later, years later. I mean, not like six months—now, the officers and you know, the people that compiled all of it, they knew right away what we had done. But the little guys, you know, the buck sergeants and the E6s and the E4s and 3s, we didn’t realize until it started coming out three, four, five years later. “Oh goodness, I did that?” (Laughs). With this, it was all part of the job and it was, you know. Yeah.</u>
+      <u who="NAPOLI">And over time, it has taken on more significance?</u>
+      <u who="BELL">Oh, yes. Yes, just like what we’re doing up here right now for the 40th anniversary of the <name type="event" ref="#ttu_480_event_5">Ia Drang Valley</name>. The movie came out and it’s drawing attention to it and you say, “Oh gee, I just—you know it amazing we’re still alive, you know.”</u>
+      <u who="NAPOLI">Talk to me about these events when you come?</u>
+      <u who="BELL">Sad. Sad in some respects, but then when you see some of the others guys that you knew—before we went to <placeName ref="#ttu_480_place_92">Vietnam</placeName>, at <placeName ref="#ttu_480_place_93">Fort Benning</placeName> and after we went to <placeName ref="#ttu_480_place_94">Vietnam</placeName>, you see some of them, you’re kind of cheered “Man, I'm kind of glad he didn’t get it.” But then I remember <persName ref="#ttu_480_person_54">Roger Stone</persName>, a very good friend of mine. He got killed, go down to the wall and see his name on it, and see <persName ref="#ttu_480_person_55">Eshbach</persName>’s name on it. I see <persName ref="#ttu_480_person_56">Willey’s Quillen</persName>’s name on it. So it’s sad, but it’s good to see the other guys that did make it. I think it’s a good thing too, the healing process you know, if you want to call it that.</u>
+      <u who="NAPOLI">Because of the connection you guys feel to one another?</u>
+      <u who="BELL">Oh, yes. Absolutely. Camaraderie and all. Oh, yes. </u>
+      <u who="NAPOLI">Does the public attention make a difference?</u>
+      <u who="BELL">I don’t think so. Absolutely not. I can’t think of an incident other than just being us guys. You see somebody that you hadn’t seen and a lot of us did not know that they were having the <orgName ref="#ttu_480_org_64">1st Cav</orgName> <name type="event" ref="#ttu_480_event_6">Ia Drang Valley</name> thing until it was going on for ten years. We just didn’t know. Just like we didn’t know what we had accomplished in <placeName ref="#ttu_480_place_95">Ia Drang Valley</placeName>. Both <placeName ref="#ttu_480_place_96">X-Ray</placeName> and <placeName ref="#ttu_480_place_97">Albany</placeName> and <placeName ref="#ttu_480_place_98">Landing Zone Columbus</placeName>.</u>
+      <u who="NAPOLI">Interesting. Is there anything else that we need to talk about? </u>
+      <u who="BELL">Not that I know of. I'm getting kind of tired in here. (Chuckles)</u>
+      <u who="NAPOLI">I understand, we’ll stop. Thank you, <persName ref="#ttu_480_person_57">Mr. Bell</persName>.</u>
+      <u who="BELL">Thank you very much. </u>
+      <u who="BELL">(Editor’s Note: Speaks to third parties not relevant to the interview.)(End of Interview)</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_480_place_0">
+        <placeName>Hilton Crystal City</placeName>
+        <location>
+          <geo>38.85273695571491 -77.0517220465822</geo>
+        </location>
+        <idno type="WD">Q110624980</idno>
+      </place>
+      <place xml:id="ttu_480_place_1">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="ttu_480_place_2">
+        <placeName>Cartersville</placeName>
+        <location>
+          <geo>34.183333333333 -84.8</geo>
+        </location>
+        <idno type="WD">Q932346</idno>
+      </place>
+      <place xml:id="ttu_480_place_3">
+        <placeName>Rome</placeName>
+        <location>
+          <geo>34.26 -85.185</geo>
+        </location>
+        <idno type="WD">Q6580</idno>
+      </place>
+      <place xml:id="ttu_480_place_4">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_480_place_5">
+        <placeName>Germany</placeName>
+        <location>
+          <geo>51 10</geo>
+        </location>
+        <idno type="WD">Q183</idno>
+      </place>
+      <place xml:id="ttu_480_place_6">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_7">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_8">
+        <placeName>Columbus</placeName>
+        <location>
+          <geo>32.492222222222 -84.940277777778</geo>
+        </location>
+        <idno type="WD">Q239870</idno>
+      </place>
+      <place xml:id="ttu_480_place_9">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_10">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_480_place_11">
+        <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
+      </place>
+      <place xml:id="ttu_480_place_12">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_480_place_13">
+        <placeName>Charleston</placeName>
+        <location>
+          <geo>32.776111111111 -79.9325</geo>
+        </location>
+        <idno type="WD">Q47716</idno>
+      </place>
+      <place xml:id="ttu_480_place_14">
+        <placeName>Charleston</placeName>
+        <location>
+          <geo>32.776111111111 -79.9325</geo>
+        </location>
+        <idno type="WD">Q47716</idno>
+      </place>
+      <place xml:id="ttu_480_place_15">
+        <placeName>Fort Stewart</placeName>
+        <location>
+          <geo>31.88 -81.6075</geo>
+        </location>
+        <idno type="WD">Q1438754</idno>
+      </place>
+      <place xml:id="ttu_480_place_16">
+        <placeName>Savannah</placeName>
+        <location>
+          <geo>32.050833333333 -81.103888888889</geo>
+        </location>
+        <idno type="WD">Q83813</idno>
+      </place>
+      <place xml:id="ttu_480_place_17">
+        <placeName>Hunter Army Airfield</placeName>
+        <location>
+          <geo>32.01 -81.14555556</geo>
+        </location>
+        <idno type="WD">Q3085119</idno>
+      </place>
+      <place xml:id="ttu_480_place_18">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_19">
+        <placeName>Columbus</placeName>
+        <location>
+          <geo>32.492222222222 -84.940277777778</geo>
+        </location>
+        <idno type="WD">Q239870</idno>
+      </place>
+      <place xml:id="ttu_480_place_20">
+        <placeName>Columbus</placeName>
+        <location>
+          <geo>32.492222222222 -84.940277777778</geo>
+        </location>
+        <idno type="WD">Q239870</idno>
+      </place>
+      <place xml:id="ttu_480_place_21">
+        <placeName>Charleston</placeName>
+        <location>
+          <geo>32.776111111111 -79.9325</geo>
+        </location>
+        <idno type="WD">Q47716</idno>
+      </place>
+      <place xml:id="ttu_480_place_22">
+        <placeName>Germany</placeName>
+        <location>
+          <geo>51 10</geo>
+        </location>
+        <idno type="WD">Q183</idno>
+      </place>
+      <place xml:id="ttu_480_place_23">
+        <placeName>Panama Canal</placeName>
+        <location>
+          <geo>9.08 -79.68</geo>
+        </location>
+        <idno type="WD">Q7350</idno>
+      </place>
+      <place xml:id="ttu_480_place_24">
+        <placeName>Long Beach</placeName>
+        <location>
+          <geo>33.768321 -118.1956168</geo>
+        </location>
+        <idno type="WD">Q16739</idno>
+      </place>
+      <place xml:id="ttu_480_place_25">
+        <placeName>Long Beach</placeName>
+        <location>
+          <geo>33.768321 -118.1956168</geo>
+        </location>
+        <idno type="WD">Q16739</idno>
+      </place>
+      <place xml:id="ttu_480_place_26">
+        <placeName>Hawaii</placeName>
+        <location>
+          <geo>21.3075 -157.8575</geo>
+        </location>
+        <idno type="WD">Q782</idno>
+      </place>
+      <place xml:id="ttu_480_place_27">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_28">
+        <placeName>An KhÃª</placeName>
+        <location>
+          <geo>13.953066  108.65694</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_480_place_29">
+        <placeName>Golf Course</placeName>
+        <location>
+          <geo>13.993  108.648498</geo>
+        </location>
+        <idno type="WD">Q18386291</idno>
+      </place>
+      <place xml:id="ttu_480_place_30">
+        <placeName>Philippines</placeName>
+        <location>
+          <geo>12 123</geo>
+        </location>
+        <idno type="WD">Q928</idno>
+      </place>
+      <place xml:id="ttu_480_place_31">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_32">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_33">
+        <placeName>An KhÃª</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_480_place_34">
+        <placeName>An KhÃª</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_480_place_35">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_36">
+        <placeName>An KhÃª</placeName>
+        <location>
+          <geo>16.05222222 108.1855556</geo>
+        </location>
+        <idno type="WD">Q15179893</idno>
+      </place>
+      <place xml:id="ttu_480_place_37">
+        <placeName>Georgia</placeName>
+        <location>
+          <geo>33 -83.5</geo>
+        </location>
+        <idno type="WD">Q1428</idno>
+      </place>
+      <place xml:id="ttu_480_place_38">
+        <placeName>Ia Drang Valley</placeName>
+        <location>
+          <geo>13.583333333333 107.71666666667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
+      </place>
+      <place xml:id="ttu_480_place_39">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_40">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_41">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_42">
+        <placeName>Qui NhÆ¡n</placeName>
+        <location>
+          <geo>13.769580555555555 109.23137222222222</geo>
+        </location>
+        <idno type="WD">Q36081</idno>
+      </place>
+      <place xml:id="ttu_480_place_43">
+        <placeName>Clark Air Base</placeName>
+        <location>
+          <geo>15.185833 120.560278</geo>
+        </location>
+        <idno type="WD">Q1095676</idno>
+      </place>
+      <place xml:id="ttu_480_place_44">
+        <placeName>Philippines</placeName>
+        <location>
+          <geo>12 123</geo>
+        </location>
+        <idno type="WD">Q928</idno>
+      </place>
+      <place xml:id="ttu_480_place_45">
+        <placeName>Clark Air Base</placeName>
+        <location>
+          <geo>15.185833 120.560278</geo>
+        </location>
+        <idno type="WD">Q1095676</idno>
+      </place>
+      <place xml:id="ttu_480_place_46">
+        <placeName>Hawaii</placeName>
+        <location>
+          <geo>21.3075 -157.8575</geo>
+        </location>
+        <idno type="WD">Q782</idno>
+      </place>
+      <place xml:id="ttu_480_place_47">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="ttu_480_place_48">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="ttu_480_place_49">
+        <placeName>Scott Air Force Base</placeName>
+        <location>
+          <geo>38.545177777778 -89.835183333333</geo>
+        </location>
+        <idno type="WD">Q576617</idno>
+      </place>
+      <place xml:id="ttu_480_place_50">
+        <placeName>Scott Air Force Base</placeName>
+        <location>
+          <geo>38.545177777778 -89.835183333333</geo>
+        </location>
+        <idno type="WD">Q576617</idno>
+      </place>
+      <place xml:id="ttu_480_place_51">
+        <placeName>Walter Reed National Military Medical Center</placeName>
+        <location>
+          <geo>39.00194444444445 -77.09361111111112</geo>
+        </location>
+        <idno type="WD">Q1457886</idno>
+      </place>
+      <place xml:id="ttu_480_place_52">
+        <placeName>Walter Reed National Military Medical Center</placeName>
+        <location>
+          <geo>39.00194444444445 -77.09361111111112</geo>
+        </location>
+        <idno type="WD">Q1457886</idno>
+      </place>
+      <place xml:id="ttu_480_place_53">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_480_place_54">
+        <placeName>Bá»“ng SÆ¡n</placeName>
+        <location>
+          <geo>14.43333333 109.01666667</geo>
+        </location>
+        <idno type="WD">Q2276503</idno>
+      </place>
+      <place xml:id="ttu_480_place_55">
+        <placeName>Walter Reed National Military Medical Center</placeName>
+        <location>
+          <geo>39.00194444444445 -77.09361111111112</geo>
+        </location>
+        <idno type="WD">Q1457886</idno>
+      </place>
+      <place xml:id="ttu_480_place_56">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q78305201</idno>
+      </place>
+      <place xml:id="ttu_480_place_57">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_59">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_480_place_60">
+        <placeName>Fairbanks</placeName>
+        <location>
+          <geo>64.843611111111 -147.72305555556</geo>
+        </location>
+        <idno type="WD">Q79638</idno>
+      </place>
+      <place xml:id="ttu_480_place_61">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_62">
+        <placeName>Alaska</placeName>
+        <location>
+          <geo>64 -150</geo>
+        </location>
+        <idno type="WD">Q797</idno>
+      </place>
+      <place xml:id="ttu_480_place_63">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_64">
+        <placeName>San Diego</placeName>
+        <location>
+          <geo>32.715 -117.1625</geo>
+        </location>
+        <idno type="WD">Q16552</idno>
+      </place>
+      <place xml:id="ttu_480_place_65">
+        <placeName>Fairbanks</placeName>
+        <location>
+          <geo>64.843611111111 -147.72305555556</geo>
+        </location>
+        <idno type="WD">Q79638</idno>
+      </place>
+      <place xml:id="ttu_480_place_66">
+        <placeName>San Diego</placeName>
+        <location>
+          <geo>32.715 -117.1625</geo>
+        </location>
+        <idno type="WD">Q16552</idno>
+      </place>
+      <place xml:id="ttu_480_place_67">
+        <placeName>Manhattan</placeName>
+        <location>
+          <geo>39.19 -96.58667</geo>
+        </location>
+        <idno type="WD">Q856841</idno>
+      </place>
+      <place xml:id="ttu_480_place_68">
+        <placeName>Fort Riley</placeName>
+        <location>
+          <geo>39.1 -96.816666666667</geo>
+        </location>
+        <idno type="WD">Q1438701</idno>
+      </place>
+      <place xml:id="ttu_480_place_69">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_70">
+        <placeName>Mekong Delta</placeName>
+        <location>
+          <geo>10.009 105.824</geo>
+        </location>
+        <idno type="WD">Q1052867</idno>
+      </place>
+      <place xml:id="ttu_480_place_71">
+        <placeName>IV Corps</placeName>
+        <location>
+          <geo>10.1226 105.5356</geo>
+        </location>
+        <idno type="WD">Q105670558</idno>
+      </place>
+      <place xml:id="ttu_480_place_72">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_480_place_73">
+        <placeName>Fort Ord</placeName>
+        <location>
+          <geo>36.639166666667 -121.73527777778</geo>
+        </location>
+        <idno type="WD">Q943136</idno>
+      </place>
+      <place xml:id="ttu_480_place_74">
+        <placeName>San Diego</placeName>
+        <location>
+          <geo>32.715 -117.1625</geo>
+        </location>
+        <idno type="WD">Q16552</idno>
+      </place>
+      <place xml:id="ttu_480_place_75">
+        <placeName>Fort Ord</placeName>
+        <location>
+          <geo>36.639166666667 -121.73527777778</geo>
+        </location>
+        <idno type="WD">Q943136</idno>
+      </place>
+      <place xml:id="ttu_480_place_76">
+        <placeName>Fort Dix</placeName>
+        <location>
+          <geo>40.019166666667 -74.522777777778</geo>
+        </location>
+        <idno type="WD">Q1087169</idno>
+      </place>
+      <place xml:id="ttu_480_place_77">
+        <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
+      </place>
+      <place xml:id="ttu_480_place_78">
+        <placeName>Fort Dix</placeName>
+        <location>
+          <geo>40.019166666667 -74.522777777778</geo>
+        </location>
+        <idno type="WD">Q1087169</idno>
+      </place>
+      <place xml:id="ttu_480_place_79">
+        <placeName>Korea</placeName>
+        <location>
+          <geo>38.316666666667 127.23333333333</geo>
+        </location>
+        <idno type="WD">Q18097</idno>
+      </place>
+      <place xml:id="ttu_480_place_80">
+        <placeName>Fort Dix</placeName>
+        <location>
+          <geo>40.019166666667 -74.522777777778</geo>
+        </location>
+        <idno type="WD">Q1087169</idno>
+      </place>
+      <place xml:id="ttu_480_place_81">
+        <placeName>Fort Dix</placeName>
+        <location>
+          <geo>40.019166666667 -74.522777777778</geo>
+        </location>
+        <idno type="WD">Q1087169</idno>
+      </place>
+      <place xml:id="ttu_480_place_82">
+        <placeName>Iran</placeName>
+        <location>
+          <geo>32 53</geo>
+        </location>
+        <idno type="WD">Q794</idno>
+      </place>
+      <place xml:id="ttu_480_place_83">
+        <placeName>Iraq</placeName>
+        <location>
+          <geo>33 43</geo>
+        </location>
+        <idno type="WD">Q796</idno>
+      </place>
+      <place xml:id="ttu_480_place_84">
+        <placeName>Afghanistan</placeName>
+        <location>
+          <geo>33 66</geo>
+        </location>
+        <idno type="WD">Q889</idno>
+      </place>
+      <place xml:id="ttu_480_place_85">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_86">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_87">
+        <placeName>II Corps</placeName>
+        <location>
+          <geo>13.8011 108.1624</geo>
+        </location>
+        <idno type="WD">Q105670549</idno>
+      </place>
+      <place xml:id="ttu_480_place_88">
+        <placeName>IV Corps</placeName>
+        <location>
+          <geo>10.1226 105.5356</geo>
+        </location>
+        <idno type="WD">Q105670558</idno>
+      </place>
+      <place xml:id="ttu_480_place_89">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_480_place_90">
+        <placeName>Columbus</placeName>
+        <location>
+          <geo>32.492222222222 -84.940277777778</geo>
+        </location>
+        <idno type="WD">Q239870</idno>
+      </place>
+      <place xml:id="ttu_480_place_91">
+        <placeName>Ia Drang Valley</placeName>
+        <location>
+          <geo>13.583333333333 107.71666666667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
+      </place>
+      <place xml:id="ttu_480_place_92">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_93">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_480_place_94">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_480_place_95">
+        <placeName>Ia Drang Valley</placeName>
+        <location>
+          <geo>13.583333333333 107.71666666667</geo>
+        </location>
+        <idno type="WD">Q2904975</idno>
+      </place>
+      <place xml:id="ttu_480_place_96">
+        <placeName>LZ X-Ray</placeName>
+        <location>
+          <geo>13.567944 107.714</geo>
+        </location>
+        <idno type="WD">Q110624850</idno>
+      </place>
+      <place xml:id="ttu_480_place_97">
+        <placeName>LZ Albany</placeName>
+        <location>
+          <geo>13.59528 107.71528</geo>
+        </location>
+        <idno type="WD">Q110624853</idno>
+      </place>
+      <place xml:id="ttu_480_place_98">
+        <placeName>LZ Columbus</placeName>
+        <location>
+          <geo>13.58911111111111 107.74138888888889</geo>
+        </location>
+        <idno type="WD">Q110713739</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_480_event_0" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_480_event_1" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_480_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_480_event_3" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_480_event_4" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_480_event_5" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_480_event_6" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_480_person_0">
+        <persName>Philip F. Napoli</persName>
+        <idno type="WD">Q111599207</idno>
+      </person>
+      <person xml:id="ttu_480_person_1">
+        <persName>Malra Bell</persName>
+        <idno type="WD">Q111678648</idno>
+      </person>
+      <person xml:id="ttu_480_person_2">
+        <persName>Malra Bell</persName>
+        <idno type="WD">Q111678648</idno>
+      </person>
+      <person xml:id="ttu_480_person_3">
+        <persName>Henry Thorpe</persName>
+        <idno type="WD">Q111601789</idno>
+      </person>
+      <person xml:id="ttu_480_person_4">
+        <persName>Captain Cloudera</persName>
+      <idno type="project">ttu_0127</idno></person>
+      <person xml:id="ttu_480_person_5">
+        <persName>George Armstrong Custer</persName>
+        <idno type="WD">Q188205</idno>
+      </person>
+      <person xml:id="ttu_480_person_6">
+        <persName>George Armstrong Custer</persName>
+        <idno type="WD">Q188205</idno>
+      </person>
+      <person xml:id="ttu_480_person_7">
+        <persName>Charles Eschbach</persName>
+        <idno type="WD">Q112071457</idno>
+      </person>
+      <person xml:id="ttu_480_person_8">
+        <persName>Ben Johnson</persName>
+        <idno type="WD">Q112071615</idno>
+      </person>
+      <person xml:id="ttu_480_person_9">
+        <persName>Ben Johnson</persName>
+        <idno type="WD">Q112071615</idno>
+      </person>
+      <person xml:id="ttu_480_person_10">
+        <persName>Ben Johnson</persName>
+        <idno type="WD">Q112071615</idno>
+      </person>
+      <person xml:id="ttu_480_person_11">
+        <persName>Ben Johnson</persName>
+        <idno type="WD">Q112071615</idno>
+      </person>
+      <person xml:id="ttu_480_person_12">
+        <persName>Charles Eschbach</persName>
+        <idno type="WD">Q112071457</idno>
+      </person>
+      <person xml:id="ttu_480_person_13">
+        <persName>Charles Eschbach</persName>
+        <idno type="WD">Q112071457</idno>
+      </person>
+      <person xml:id="ttu_480_person_14">
+        <persName>George Armstrong Custer</persName>
+        <idno type="WD">Q188205</idno>
+      </person>
+      <person xml:id="ttu_480_person_15">
+        <persName>Cloudera</persName>
+      <idno type="project">ttu_0127</idno></person>
+      <person xml:id="ttu_480_person_16">
+        <persName>Henry Thorpe</persName>
+        <idno type="WD">Q111601789</idno>
+      </person>
+      <person xml:id="ttu_480_person_17">
+        <persName>Henry Thorpe</persName>
+        <idno type="WD">Q111601789</idno>
+      </person>
+      <person xml:id="ttu_480_person_18">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_19">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_20">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_21">
+        <persName>Joel Sugdinis</persName>
+        <idno type="WD">Q111443804</idno>
+      </person>
+      <person xml:id="ttu_480_person_22">
+        <persName>William H. Sisson</persName>
+        <idno type="WD">Q111678658</idno>
+      </person>
+      <person xml:id="ttu_480_person_23">
+        <persName>Charles Eschbach</persName>
+        <idno type="WD">Q112071457</idno>
+      </person>
+      <person xml:id="ttu_480_person_24">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_25">
+        <persName>William H. Sisson</persName>
+        <idno type="WD">Q111678658</idno>
+      </person>
+      <person xml:id="ttu_480_person_26">
+        <persName>John Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_480_person_27">
+        <persName>John Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_480_person_28">
+        <persName>John Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_480_person_29">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_30">
+        <persName>John Geoghegan</persName>
+        <idno type="WD">Q6235071</idno>
+      </person>
+      <person xml:id="ttu_480_person_31">
+        <persName>Rick Rescorla</persName>
+        <idno type="WD">Q6068455</idno>
+      </person>
+      <person xml:id="ttu_480_person_32">
+        <persName>Rick Rescorla</persName>
+        <idno type="WD">Q6068455</idno>
+      </person>
+      <person xml:id="ttu_480_person_33">
+        <persName>Michael Alfred</persName>
+      <idno type="project">ttu_0129</idno></person>
+      <person xml:id="ttu_480_person_34">
+        <persName>Walter Joseph Marm, Jr.</persName>
+        <idno type="WD">Q7965296</idno>
+      </person>
+      <person xml:id="ttu_480_person_35">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_36">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_37">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_480_person_38">
+        <persName>Charles Eschbach</persName>
+        <idno type="WD">Q112071457</idno>
+      </person>
+      <person xml:id="ttu_480_person_39">
+        <persName>William H. Sisson</persName>
+        <idno type="WD">Q111678658</idno>
+      </person>
+      <person xml:id="ttu_480_person_40">
+        <persName>Alfred</persName>
+      <idno type="project">ttu_0129</idno></person>
+      <person xml:id="ttu_480_person_41">
+        <persName>Alfred</persName>
+      <idno type="project">ttu_0129</idno></person>
+      <person xml:id="ttu_480_person_42">
+        <persName>Dwayne Paulson</persName>
+      <idno type="project">ttu_0130</idno></person>
+      <person xml:id="ttu_480_person_43">
+        <persName>Dawn Rose Bell</persName>
+      <idno type="project">ttu_0131</idno></person>
+      <person xml:id="ttu_480_person_44">
+        <persName>Larry Gwin</persName>
+        <idno type="WD">Q111686250</idno>
+      </person>
+      <person xml:id="ttu_480_person_45">
+        <persName>Charles Eschbach</persName>
+        <idno type="WD">Q112071457</idno>
+      </person>
+      <person xml:id="ttu_480_person_46">
+        <persName>Willie Quillen</persName>
+      <idno type="project">ttu_0132</idno></person>
+      <person xml:id="ttu_480_person_47">
+        <persName>James Arthur Scott</persName>
+        <idno type="WD">Q111599273</idno>
+      </person>
+      <person xml:id="ttu_480_person_48">
+        <persName>Basil L. Plumley</persName>
+        <idno type="WD">Q2535583</idno>
+      </person>
+      <person xml:id="ttu_480_person_49">
+        <persName>James Arthur Scott</persName>
+        <idno type="WD">Q111599273</idno>
+      </person>
+      <person xml:id="ttu_480_person_50">
+        <persName>James Arthur Scott</persName>
+        <idno type="WD">Q111599273</idno>
+      </person>
+      <person xml:id="ttu_480_person_51">
+        <persName>James Arthur Scott</persName>
+        <idno type="WD">Q111599273</idno>
+      </person>
+      <person xml:id="ttu_480_person_52">
+        <persName>Basil L. Plumley</persName>
+        <idno type="WD">Q2535583</idno>
+      </person>
+      <person xml:id="ttu_480_person_53">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_480_person_54">
+        <persName>Roger Stone</persName>
+        <idno type="WD">Q112071687</idno>
+      </person>
+      <person xml:id="ttu_480_person_55">
+        <persName>Charles Eschbach</persName>
+        <idno type="WD">Q112071457</idno>
+      </person>
+      <person xml:id="ttu_480_person_56">
+        <persName>Willie Quillen</persName>
+      <idno type="project">ttu_0132</idno></person>
+      <person xml:id="ttu_480_person_57">
+        <persName>Malra Bell</persName>
+        <idno type="WD">Q111678648</idno>
+      </person>
+      <person xml:id="ttu_480_person_58">
+        <persName>Captain Sugdinis</persName>
+        <idno type="WD">Q111443804</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_480_org_0">
+        <orgName>7th Cavalry Regiment</orgName>
+        <idno type="WD">Q269574</idno>
+      </org>
+      <org xml:id="ttu_480_org_1">
+        <orgName>Company C, 1st of the 9th Infantry</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_2">
+        <orgName>2nd Infantry Division</orgName>
+        <idno type="WD">Q210607</idno>
+      </org>
+      <org xml:id="ttu_480_org_3">
+        <orgName>Company C, 1st of the 9th Infantry</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_4">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_5">
+        <orgName>7th Cavalry Regiment</orgName>
+        <idno type="WD">Q269574</idno>
+      </org>
+      <org xml:id="ttu_480_org_6">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_480_org_7">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_8">
+        <orgName>2nd Infantry Division</orgName>
+        <idno type="WD">Q210607</idno>
+      </org>
+      <org xml:id="ttu_480_org_9">
+        <orgName>Company C, 1st of the 9th Infantry</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_10">
+        <orgName>2nd Infantry Division</orgName>
+        <idno type="WD">Q210607</idno>
+      </org>
+      <org xml:id="ttu_480_org_11">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_480_org_12">
+        <orgName>11th Airborne Division</orgName>
+        <idno type="WD">Q169980</idno>
+      </org>
+      <org xml:id="ttu_480_org_13">
+        <orgName>2nd Infantry Division</orgName>
+        <idno type="WD">Q210607</idno>
+      </org>
+      <org xml:id="ttu_480_org_14">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_480_org_15">
+        <orgName>Company D, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112010266</idno>
+      </org>
+      <org xml:id="ttu_480_org_16">
+        <orgName>11th Airborne Division</orgName>
+        <idno type="WD">Q169980</idno>
+      </org>
+      <org xml:id="ttu_480_org_17">
+        <orgName>11th Airborne Division</orgName>
+        <idno type="WD">Q169980</idno>
+      </org>
+      <org xml:id="ttu_480_org_18">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_480_org_19">
+        <orgName>2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110629367</idno>
+      </org>
+      <org xml:id="ttu_480_org_20">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_480_org_21">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_480_org_22">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_480_org_23">
+        <orgName>USS Admiral Hugh Rodman</orgName>
+        <idno type="WD">Q7867050</idno>
+      </org>
+      <org xml:id="ttu_480_org_24">
+        <orgName>USS Admiral Hugh Rodman</orgName>
+        <idno type="WD">Q7867050</idno>
+      </org>
+      <org xml:id="ttu_480_org_25">
+        <orgName>USS Admiral Hugh Rodman</orgName>
+        <idno type="WD">Q7867050</idno>
+      </org>
+      <org xml:id="ttu_480_org_26">
+        <orgName>USS Admiral Hugh Rodman</orgName>
+        <idno type="WD">Q7867050</idno>
+      </org>
+      <org xml:id="ttu_480_org_27">
+        <orgName>3rd Brigade Combat Team, 1st Cavalry Division</orgName>
+        <idno type="WD">Q4636701</idno>
+      </org>
+      <org xml:id="ttu_480_org_28">
+        <orgName>USS Admiral Hugh Rodman</orgName>
+        <idno type="WD">Q7867050</idno>
+      </org>
+      <org xml:id="ttu_480_org_29">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_480_org_30">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+      <org xml:id="ttu_480_org_31">
+        <orgName>B Company 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112009074</idno>
+      </org>
+      <org xml:id="ttu_480_org_32">
+        <orgName>B Company 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112009074</idno>
+      </org>
+      <org xml:id="ttu_480_org_33">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_34">
+        <orgName>2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110629367</idno>
+      </org>
+      <org xml:id="ttu_480_org_35">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_36">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_37">
+        <orgName>B Company 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112009074</idno>
+      </org>
+      <org xml:id="ttu_480_org_38">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_39">
+        <orgName>B Company 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112009074</idno>
+      </org>
+      <org xml:id="ttu_480_org_40">
+        <orgName>B Company 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112009074</idno>
+      </org>
+      <org xml:id="ttu_480_org_41">
+        <orgName>B Company 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112009074</idno>
+      </org>
+      <org xml:id="ttu_480_org_42">
+        <orgName>People's Army of Vietnam</orgName>
+        <idno type="WD">Q3936506</idno>
+      </org>
+      <org xml:id="ttu_480_org_43">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_44">
+        <orgName>B Company 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q112009074</idno>
+      </org>
+      <org xml:id="ttu_480_org_45">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_46">
+        <orgName>Company A, 2nd Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_47">
+        <orgName>Associated Press</orgName>
+        <idno type="WD">Q40469</idno>
+      </org>
+      <org xml:id="ttu_480_org_48">
+        <orgName>United States Department of Veterans Affairs</orgName>
+        <idno type="WD">Q592576</idno>
+      </org>
+      <org xml:id="ttu_480_org_49">
+        <orgName>United States Department of Veterans Affairs</orgName>
+        <idno type="WD">Q592576</idno>
+      </org>
+      <org xml:id="ttu_480_org_50">
+        <orgName>American Red Cross</orgName>
+        <idno type="WD">Q470110</idno>
+      </org>
+      <org xml:id="ttu_480_org_51">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_480_org_52">
+        <orgName>Company C, 1st Battalion, 47th Infantry</orgName>
+        <idno type="WD">Q111678050</idno>
+      </org>
+      <org xml:id="ttu_480_org_53">
+        <orgName>Charlie Company, 1st of the 9th</orgName>
+        <idno type="WD">Q111597006</idno>
+      </org>
+      <org xml:id="ttu_480_org_54">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_480_org_55">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_480_org_56">
+        <orgName>National Front for the Liberation of South Vietnam</orgName>
+        <idno type="WD">Q10810255</idno>
+      </org>
+      <org xml:id="ttu_480_org_57">
+        <orgName>Company D, 3rd Battalion 3rd Brigade</orgName>
+        <idno type="WD">Q111678007</idno>
+      </org>
+      <org xml:id="ttu_480_org_58">
+        <orgName>Company D, 3rd Battalion 3rd Brigade</orgName>
+        <idno type="WD">Q111678007</idno>
+      </org>
+      <org xml:id="ttu_480_org_59">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_480_org_60">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_480_org_61">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_480_org_62">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_480_org_63">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_480_org_64">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
