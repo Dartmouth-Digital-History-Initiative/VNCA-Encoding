@@ -92,7 +92,7 @@
       <u who="NAPOLI">No? Different incident. </u>
       <u who="BELL">Yes. I'm pretty sure. I wasn’t there. I was already back in <placeName ref="#ttu_480_place_55">Walter Reed</placeName> when that crash happened, but if I hadn’t gotten shot in <date when="1965-11-16">November</date>, I would’ve been on that plane and died on the <date when="1966-01-25">25th of January</date>. So I was fortunate not to have gotten killed twice. If not the sniper, the plane crash would’ve got me.</u>
       <u who="NAPOLI">What kind of treatment did you get? Did you get good treatment?</u>
-      <u who="BELL">Oh great, the military gives the best treatment in the world. Even the <orgName ref="#ttu_480_org_48">VA (Veterans Affairs)</orgName>, I go to the <orgName ref="#ttu_480_org_49">VA</orgName>. I have no complaints about the government’s military treatment. My wife had a baby in <placeName ref="#ttu_480_place_56">Martin Army Hospital</placeName> when I was in <placeName ref="#ttu_480_place_57">Vietnam</placeName>. <placeName ref="#ttu_480_place_58">Captain Sugdinis</placeName>, my company commander called, I was on the bridge. This was prior to <name type="event" ref="#ttu_480_event_1">Ia Drang Valley</name>. I had secured a bridge one night, I had two men on one side, three men on the other side on the fire team. We were securing a bridge and he called me up and said, “<orgName ref="#ttu_480_org_50">Red Cross</orgName> just notified us that your wife had a little girl named <persName ref="#ttu_480_person_43">Dawn Rose Bell</persName> and she was born yesterday.” So that was really nice, she’s here like I said earlier.</u>
+      <u who="BELL">Oh great, the military gives the best treatment in the world. Even the <orgName ref="#ttu_480_org_48">VA (Veterans Affairs)</orgName>, I go to the <orgName ref="#ttu_480_org_49">VA</orgName>. I have no complaints about the government’s military treatment. My wife had a baby in <placeName ref="#ttu_480_place_56">Martin Army Hospital</placeName> when I was in <placeName ref="#ttu_480_place_57">Vietnam</placeName>. <persName ref="#ttu_480_person_58">Captain Sugdinis</persName>, my company commander called, I was on the bridge. This was prior to <name type="event" ref="#ttu_480_event_1">Ia Drang Valley</name>. I had secured a bridge one night, I had two men on one side, three men on the other side on the fire team. We were securing a bridge and he called me up and said, “<orgName ref="#ttu_480_org_50">Red Cross</orgName> just notified us that your wife had a little girl named <persName ref="#ttu_480_person_43">Dawn Rose Bell</persName> and she was born yesterday.” So that was really nice, she’s here like I said earlier.</u>
       <u who="NAPOLI">That’s a good moment. How’s your health now?</u>
       <u who="BELL">Well, real shortness of breath. But see, I stayed in the army. I was only a Buck Sergeant E5 then and I retired in <date when="1978">1978</date> from the <orgName ref="#ttu_480_org_51">Army</orgName>. I’ve had several operations and I have a leg that fell and broke two years ago and it won’t mend. It hasn’t mended yet. I was on a wheelchair for over a year. It slowly—they got me down on this brace here, I can walk with the cane and this brace. But I'm completely retired, so it doesn’t make any difference.</u>
       <u who="NAPOLI">So what were you’re assignments after? It must’ve taken you a long time to get healed from the gunshot wound.</u>
@@ -321,9 +321,6 @@
       </place>
       <place xml:id="ttu_480_place_57">
         <placeName>Vietnam</placeName>
-      </place>
-      <place xml:id="ttu_480_place_58">
-        <placeName>Captain Sugdinis</placeName>
       </place>
       <place xml:id="ttu_480_place_59">
         <placeName>Fort Benning</placeName>
@@ -643,6 +640,9 @@
       </person>
       <person xml:id="ttu_480_person_57">
         <persName>Mr. Bell</persName>
+      </person>
+      <person xml:id="ttu_480_person_58">
+        <persName>Captain Sugdinis</persName>
       </person>
     </listPerson>
     <listOrg>
