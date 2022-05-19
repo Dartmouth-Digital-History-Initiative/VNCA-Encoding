@@ -1,4 +1,4 @@
-id	placeName	QID	dvp_id	coordinate location
+id	placeName	QID	ttu_id	coordinate location
 ttu_481_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
 ttu_481_place_1	Virginia	Q1370		37.5,-79
 ttu_481_place_2	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
@@ -17,14 +17,12 @@ ttu_481_place_14	Louisiana	Q1588		31, -92
 ttu_481_place_15	North Carolina	Q1454		35.5,-80
 ttu_481_place_16	Lake Charles	Q864106		30.214722, -93.208611
 ttu_481_place_17	Lake Charles	Q864106		30.214722, -93.208611
-ttu_481_place_18	Arlington National Cemetery	Q216344		"38.879167, -77.072222	"
-ttu_481_place_19	Arlington National Cemetery	Q216344		"38.879167, -77.072222	
-"
+ttu_481_place_18	Arlington National Cemetery	Q216344		38.879167, -77.072222
+ttu_481_place_19	Arlington National Cemetery	Q216344		38.879167, -77.072222
 ttu_481_place_20	Vietnam	Q881		16,108
 ttu_481_place_21	West Virginia	Q1371		39, -80.5
 ttu_481_place_22	Monticello	Q199618		38.008889, -78.453333
-ttu_481_place_23	United States of America	Q30		"39.828175, -98.5795	
-"
+ttu_481_place_23	United States of America	Q30		39.828175, -98.5795
 ttu_481_place_24	North Carolina	Q1454		35.5,-80
 ttu_481_place_25	Arlington National Cemetery	Q216344		38.87916666666667,-77.07222222222222
 ttu_481_place_26	Fort Benning	Q1438462		32.366111111111,-84.969166666667
