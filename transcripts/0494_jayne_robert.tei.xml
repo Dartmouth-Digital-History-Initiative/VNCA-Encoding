@@ -59,30 +59,30 @@
   </teiHeader>
   <text>
     <body>
-      <u who="NAPOLI">I am <persName>Philip Napoli</persName>, today is the <date when="2005-11-12">12th of November 2005</date>. I am with <persName>Mr. Jayne</persName> at the <placeName>Crystal City Hilton</placeName>, and we are going to talk a little bit about your memories of <name type="event">Vietnam War</name> era. As I said earlier, the first thing to do is to get you to introduce yourself. So tell us a little bit about who you are today.</u>
-      <u who="JAYNE">Okay. I am <persName>Colonel Robert Kennon Jayne</persName>. K-E-N-N-O-N J-A-Y-N-E. I go by <persName>Ken</persName>. It helps me when somebody calls me <persName>Bob</persName>, I know they’re trying to sell me something and I hang up. I came into the <orgName>Army</orgName> at <date when="1959-05-26">26th May, 1959</date>. Back in those days, you got a uniform allowance, if you were a reserve officer you did not, if you were regular army officer. I was a distinguished military student, distinguished military graduate at <orgName>Mississippi State University</orgName> in the <orgName>ROTC (Reserve Officer Training Corps) program</orgName>. Took preliminary flight training, but I graduated before I was 21 so they could not commission me for the regular army. They brought me in for three days as a reserve officer that was worth a hundred dollars a day when the pay for a 2nd lieutenant was 222.30 per month. That was very good. From there, I was a basic branch engineer. I did take preliminary flight training at <orgName>Mississippi State</orgName>. So I’d already solo’d and flown fixed wing aircraft. Got orientation in the helicopters. Went to the basic course of the engineer. Went down to flight school in <placeName>Rucker</placeName>. First assignment was in Europe, <orgName>24th Aviation Company</orgName> flying primarily Bird Dogs and Beavers in some very nasty weather. We could do pretty much anything with the Bird Dog that a lot of people over there can do with helicopters. Came back from there to the advanced course at <placeName>Fort Belvoir</placeName>, engineering advanced course. From there I went direct to helicopter school, <placeName>Fort Wolters</placeName> it was in. Came back from Helicopter school and I was assigned to the <orgName>11th Air Assault Division</orgName> test in <placeName>Fort Benning, Georgia</placeName>. The <orgName>11th Air Assault Division</orgName> was the predecessor to the <orgName>1st Cav</orgName>. In fact, they basically changed the patch and the flag and moved it over. We had probably some of the most intense training the aviators have ever gotten in the <orgName>11th Air Assault Division</orgName>. In many ways, it was more intense in combat. In many ways, it was sometimes more dangerous in combat. People were not shooting at you, but we were doing a lot of things and testing the envelope. Things that would save many lives when we got to <placeName>Vietnam</placeName>. But in a training environment, it was dangerous. We changed the flag in about <date when="1965-05">May of 1965</date>. I went over with the advanced party in <date when="1965-08">August</date>, flew over it. I had about thirty days of combat before the rest of the division came over. We were reminiscing Thursday night. We were assigned to units in country to learn from them. All of us pretty well agreed we could’ve taught them. We had far better training and the tactics you needed in <placeName>Vietnam</placeName> than the people in country did, that we got from the <orgName>11th Air Assault Division</orgName>. After about thirty days or so, when the rest of the <orgName>division</orgName> came in by ship, we picked up the aircraft and crews and instituted the company and started operations.</u>
+      <u who="NAPOLI">I am <persName ref="#ttu_494_person_0">Philip Napoli</persName>, today is the <date when="2005-11-12">12th of November 2005</date>. I am with <persName ref="#ttu_494_person_1">Mr. Jayne</persName> at the <placeName ref="#ttu_494_place_0">Crystal City Hilton</placeName>, and we are going to talk a little bit about your memories of <name type="event" ref="#ttu_494_event_0">Vietnam War</name> era. As I said earlier, the first thing to do is to get you to introduce yourself. So tell us a little bit about who you are today.</u>
+      <u who="JAYNE">Okay. I am <persName ref="#ttu_494_person_2">Colonel Robert Kennon Jayne</persName>. K-E-N-N-O-N J-A-Y-N-E. I go by <persName ref="#ttu_494_person_3">Ken</persName>. It helps me when somebody calls me <persName ref="#ttu_494_person_4">Bob</persName>, I know they’re trying to sell me something and I hang up. I came into the <orgName ref="#ttu_494_org_0">Army</orgName> at <date when="1959-05-26">26th May, 1959</date>. Back in those days, you got a uniform allowance, if you were a reserve officer you did not, if you were regular army officer. I was a distinguished military student, distinguished military graduate at <orgName ref="#ttu_494_org_1">Mississippi State University</orgName> in the <orgName ref="#ttu_494_org_2">ROTC (Reserve Officer Training Corps) program</orgName>. Took preliminary flight training, but I graduated before I was 21 so they could not commission me for the regular army. They brought me in for three days as a reserve officer that was worth a hundred dollars a day when the pay for a 2nd lieutenant was 222.30 per month. That was very good. From there, I was a basic branch engineer. I did take preliminary flight training at <orgName ref="#ttu_494_org_3">Mississippi State</orgName>. So I’d already solo’d and flown fixed wing aircraft. Got orientation in the helicopters. Went to the basic course of the engineer. Went down to flight school in <placeName ref="#ttu_494_place_1">Rucker</placeName>. First assignment was in Europe, <orgName ref="#ttu_494_org_4">24th Aviation Company</orgName> flying primarily Bird Dogs and Beavers in some very nasty weather. We could do pretty much anything with the Bird Dog that a lot of people over there can do with helicopters. Came back from there to the advanced course at <placeName ref="#ttu_494_place_2">Fort Belvoir</placeName>, engineering advanced course. From there I went direct to helicopter school, <placeName ref="#ttu_494_place_3">Fort Wolters</placeName> it was in. Came back from Helicopter school and I was assigned to the <orgName ref="#ttu_494_org_5">11th Air Assault Division</orgName> test in <placeName ref="#ttu_494_place_4">Fort Benning, Georgia</placeName>. The <orgName ref="#ttu_494_org_6">11th Air Assault Division</orgName> was the predecessor to the <orgName ref="#ttu_494_org_7">1st Cav</orgName>. In fact, they basically changed the patch and the flag and moved it over. We had probably some of the most intense training the aviators have ever gotten in the <orgName ref="#ttu_494_org_8">11th Air Assault Division</orgName>. In many ways, it was more intense in combat. In many ways, it was sometimes more dangerous in combat. People were not shooting at you, but we were doing a lot of things and testing the envelope. Things that would save many lives when we got to <placeName ref="#ttu_494_place_5">Vietnam</placeName>. But in a training environment, it was dangerous. We changed the flag in about <date when="1965-05">May of 1965</date>. I went over with the advanced party in <date when="1965-08">August</date>, flew over it. I had about thirty days of combat before the rest of the division came over. We were reminiscing Thursday night. We were assigned to units in country to learn from them. All of us pretty well agreed we could’ve taught them. We had far better training and the tactics you needed in <placeName ref="#ttu_494_place_6">Vietnam</placeName> than the people in country did, that we got from the <orgName ref="#ttu_494_org_9">11th Air Assault Division</orgName>. After about thirty days or so, when the rest of the <orgName ref="#ttu_494_org_10">division</orgName> came in by ship, we picked up the aircraft and crews and instituted the company and started operations.</u>
       <u who="NAPOLI">Which company?</u>
-      <u who="JAYNE"><orgName>Charlie Company, 229th Assault Helicopter Battalion</orgName>. </u>
+      <u who="JAYNE"><orgName ref="#ttu_494_org_11">Charlie Company, 229th Assault Helicopter Battalion</orgName>. </u>
       <u who="NAPOLI">Okay, good.</u>
-      <u who="JAYNE">It was sort of interesting, I went out to I believe it was either the Boxer or the Crow, I forget which one of the ships. Picked up crews, sent them back to <placeName>An Khe</placeName> from <placeName>Qui Nhon</placeName>. We had a rule then, you had certain requirements before you become pilot in command. What I did not know based on the ship was that—I remember it was the <orgName>101st</orgName> or the <orgName>173rd</orgName>, maybe the 173rd. One of other units in country got attacked. So they needed support. I was sending back peter pilots that were not qualified to be aircraft commanders. With aircraft, without guns. Loaded down with everything that they scrounge off the ships and they were getting there unloading them and then going out in combat. It was funny for my aspect, probably not so funny from their aspect when I got over there because once the combat requirements were gone, they were back to peter pilots, they were no longer aircraft commanders. So they thought a little—that since they had flown aircraft command in their first day in a country in combat, why now do they have to go through all this requirement to be qualified as aircraft commander? But they did anyway. We had brought the intensity of operations right from the start. Primarily east of <placeName>An Khe</placeName>. Nobody is familiar with—I’m sure you are because you know people from <placeName>An Khe</placeName>, you know where <placeName>Golf Course</placeName> was and so forth.</u>
+      <u who="JAYNE">It was sort of interesting, I went out to I believe it was either the Boxer or the Crow, I forget which one of the ships. Picked up crews, sent them back to <placeName ref="#ttu_494_place_7">An Khe</placeName> from <placeName ref="#ttu_494_place_8">Qui Nhon</placeName>. We had a rule then, you had certain requirements before you become pilot in command. What I did not know based on the ship was that—I remember it was the <orgName ref="#ttu_494_org_12">101st</orgName> or the <orgName ref="#ttu_494_org_13">173rd</orgName>, maybe the 173rd. One of other units in country got attacked. So they needed support. I was sending back peter pilots that were not qualified to be aircraft commanders. With aircraft, without guns. Loaded down with everything that they scrounge off the ships and they were getting there unloading them and then going out in combat. It was funny for my aspect, probably not so funny from their aspect when I got over there because once the combat requirements were gone, they were back to peter pilots, they were no longer aircraft commanders. So they thought a little—that since they had flown aircraft command in their first day in a country in combat, why now do they have to go through all this requirement to be qualified as aircraft commander? But they did anyway. We had brought the intensity of operations right from the start. Primarily east of <placeName ref="#ttu_494_place_9">An Khe</placeName>. Nobody is familiar with—I’m sure you are because you know people from <placeName ref="#ttu_494_place_10">An Khe</placeName>, you know where <placeName ref="#ttu_494_place_11">Golf Course</placeName> was and so forth.</u>
       <u who="NAPOLI">Yes.</u>
-      <u who="JAYNE">I’ll just give you a story there. By the time we got there, most of the <placeName>Golf Course</placeName> was complete. It’s called the <placeName>Golf Course</placeName> because there’s General—was it <persName>Knight</persName>? I think anyway, I wasn’t there. But anyway, he had them cutting there by hand with machetes and whatnot and he says, “I want it like a golf course.” Well, <persName>General Batey</persName> happened to be down at <placeName>An Khe Airfield</placeName> which was a fixed wing strip, and we were loading the sandbags and taking them back up to make bunkers. We were all around in t-shirts. Basically, none of us had rank on. Most of us were lieutenants, captains, warrant officers. Had a couple of NCOs (Non-Commissioned Officers) there, one of them were <persName>Staff Sergeant Austin</persName>. <persName>Austin</persName> had on this fatigue cap that had <persName>Staff Sergeant Brass</persName> on it. We found this old knocked down bunker filled with sandbags already filled and you know, being alert, cunning and sly, we said “Why fill them when we got these already filled?” So we started loading three quarter ton with filled sandbags. <persName>General Batey</persName> came up and says, “I gave specific orders that no one is to take sandbags that are already filled, you refill new sandbags. Who’s in charge of this detail?” All lieutenants and captains and warrants look around each other and saw <persName>Austin</persName> there, and said, “He is!” (Laughs)</u>
+      <u who="JAYNE">I’ll just give you a story there. By the time we got there, most of the <placeName ref="#ttu_494_place_12">Golf Course</placeName> was complete. It’s called the <placeName ref="#ttu_494_place_13">Golf Course</placeName> because there’s General—was it <persName ref="#ttu_494_person_5">Knight</persName>? I think anyway, I wasn’t there. But anyway, he had them cutting there by hand with machetes and whatnot and he says, “I want it like a golf course.” Well, <persName ref="#ttu_494_person_6">General Batey</persName> happened to be down at <placeName ref="#ttu_494_place_14">An Khe Airfield</placeName> which was a fixed wing strip, and we were loading the sandbags and taking them back up to make bunkers. We were all around in t-shirts. Basically, none of us had rank on. Most of us were lieutenants, captains, warrant officers. Had a couple of NCOs (Non-Commissioned Officers) there, one of them were <persName ref="#ttu_494_person_7">Staff Sergeant Austin</persName>. <persName ref="#ttu_494_person_8">Austin</persName> had on this fatigue cap that had <persName ref="#ttu_494_person_9">Staff Sergeant Brass</persName> on it. We found this old knocked down bunker filled with sandbags already filled and you know, being alert, cunning and sly, we said “Why fill them when we got these already filled?” So we started loading three quarter ton with filled sandbags. <persName ref="#ttu_494_person_10">General Batey</persName> came up and says, “I gave specific orders that no one is to take sandbags that are already filled, you refill new sandbags. Who’s in charge of this detail?” All lieutenants and captains and warrants look around each other and saw <persName ref="#ttu_494_person_11">Austin</persName> there, and said, “He is!” (Laughs)</u>
       <u who="NAPOLI">(Laughs)</u>
-      <u who="JAYNE">Then the <persName>General</persName> proceeded to chew out <persName>Sergeant Austin</persName>, if not the lowest ranking person there, he was the second from the lowest ranking person. Anyway, one of those little things you do in combat, some of the funny aspects. Anyway, from there we went to a lot of different places but to kind of get pretty fast to <name type="event">Ia Drang</name>. The last big battle just before the <name type="event">Ia Drang</name> was the <name type="event">Battle of Plei Me</name>. We had gone to <placeName>Plei Me</placeName> after most of the action, basically the mop-up action from there. They had sent the <orgName>2nd of the 7th</orgName> into <placeName>LZ (Landing Zone) X-Ray</placeName>. <orgName>Alpha Company</orgName> had the primary mission and <orgName>Charlie Company</orgName> filled in, which typically whenever you have a mission there, you put everybody into it. I was there on the later parts of <name type="event">X-Ray</name>. What I remember basically about that besides the fire and the tight <placeName>LZ</placeName> was we took one prisoner out of there. That’s kind of unusual for us. We took the prisoner back with us. Most of that though was <persName>Bruce Crandall</persName> and the people under him at that particular time. Fast forward until, I guess it was the 16th or the 17th when the <orgName>2nd of the 7th</orgName> was marching and walking from <placeName>LZ Columbus</placeName> to <placeName>LZ Albany</placeName>. <persName>Ken Whitesell</persName>, who was one of my lieutenants, infantry officer—we had decided that because we felt the <orgName>2nd of the 7th</orgName> needed a little extra help coordinating aviation activities and whatnot, we sent <persName>Ken</persName> down, I think somebody already interviewed <persName>Ken</persName>. We sent <persName>Ken Whitesell</persName> down then as basically <orgName>Army Aviation</orgName> Liaison officer to be with the S3 section of the <orgName>2nd of the 7th</orgName>, march along with them, etc. I’m not sure he’s forgiven us yet because he was there invited, and he is an infantry officer and so he was right in the battle. They made a couple of flights in that day. I guess I had gone back to the hooch and sometime after midnight someone came and woke me up and said, “We need a volunteer mission to go in and to take some ammunition, some medicine, some water, other supplies into <placeName>Albany</placeName> and bring wounded out. They’ve got I forgot how many, sixteen or seventeen wounded. They’ve basically been triaged into the category that they’ll make it if they get treatment, they won’t make it if they don’t. We need to go.” And I said, “Yes.” The whole crew went, and little <persName>Bennet</persName>—and I don’t remember right now who, but <persName>Will Bennet</persName> and his crew. <persName>Will</persName> and I flew a lot together. Once you’ve flown one of these volunteer missions, it’s difficult to ever not volunteer for one. Anyway, we went in there, heavy fire and we had everything from A1E dropping bombs and artillery and flares and whatnot. I remember <persName>Will</persName> when the fire was coming down, finally just says, “I don’t want to see it.” Cease fire of the flares. Then we saw a T over there. <persName>Will</persName> says, “I have the T in sight and I’m coming in.” Somebody on the ground, I remember it was <persName>Ken</persName> or someone else said, “Negative, negative, negative.” He says, “The T is not in our control. Do not land on the T.” So we aborted that approach. Of course, we are flying without lights. He says, “Where are you?” He says, “Look off to your right front and you’ll see a flashlight blinking.” I said, “Roger, you know, I just saw you blink three times or whatever.” He says, “Roger, that’s me.” And I say, “Okay, we’ll come in on you.” So we came in, landed to the flashlight, picked up the wounded, took mortar over there. We had to move the aircraft a little bit to try to get out from where the mortars were landing. Now my crew chiefs and gunners at the time were out there bringing people in. They had to bring in a little farther and then we got them all loaded back, flew in. Our fuel state had gotten so low, that when we landed at the medevac pad, we did not have enough fuel to hover over the flight landing to be refueled at the normal location so <persName>Major Bennet</persName> was there, mission commander says, “Cut it here guys, the fuel truck will come to us.” While we were waiting for the fuel truck, we went out and basically you know talked to him and met the people we just evacuated because when you bring in that many people, it takes a while for the stretcher bearers to get them all in. I will always remember <persName>Commander Sergeant Major Scott</persName>, who was there, and I could see from his back the little black holes going through him and he is up there walking around putting his arm around his fruit and saying, “Hang on <persName>John</persName>, we’re here now. We’re back, you got it made, they’ll take you in there in just a minute, hang on.” And talking to me and I don’t know who else was there, but he says, “When we heard those helicopters coming in, it sounded like the wings of angels flapping.” I thought that was a nice thing to say and from his aspect, that’s probably exactly what it sounded like and that got picked up at the time and then of course, it made some of the news things. I often wondered what happened to him. Found out he survived the war; he was down in <placeName>Florida</placeName> and he recently passed away. From that, we finished our turn. Combat operations in a whole bunch of places. I just hit some of the highlights. We were talking about this last night. One of the most helpless times I ever felt, we were flying over near <placeName>Cambodia</placeName>. We picked up a LRRP, long range reconnaissance patrol. They were in the aircraft sitting down, not tied down or anything. I looked back and there was a grenade rolling on the floor. Normally when a grenade is rolling around like this, it means it has popped off somewhere, the handle has initiated the firing chain and you got ten seconds before it goes off. I can’t do anything with the aircraft because I’ll lose the LRRPs. Of course, I’m hollering over in the intercom with the crew chief and the gunner, “Grab that blanky blank grenade!” Obviously, the end of the story was good, otherwise I wouldn’t be here! (Chuckles) What had happened was the grenade came unscrewed! And the firing chain was still on somebody’s web harness. But nevertheless, it is an extreme feeling of no one thinks it’s going to happen and not being able to do anything having several alternatives, none of which are any good. Like I said, fortunately it worked out. I guess one of the most frustrating times was—we went to <placeName>Tuy Hoa</placeName>. It was an unusual day, I wound up going through four airplanes. The last one, we sat on the ground for several hours while they were prepping the LZ. The battleship New Jersey fired on it, <orgName>TAC (Tactical Air Command)</orgName> was on it, artillery fired on it, gunships fired on it and everything else. We landed into—it was a three-sided field bounded by hedge rose, a flight of four. As we’re coming in, my right-hand wingman, Yellow 2 I believe it was said, “I'm on fire, I'm on fire, I'm going around.” And I looked up and saw him instead of landing with the rest of us trying to continue on and then boom. The other three aircraft got in, we worked up the crossfire the other guys were spider holes. It must have been tough for the infantry. They bailed out and you know, engaged them with fire. They didn’t waste any time getting out of there, we didn’t waste any time getting out of the LZ. We got out of the LZ, fell off the cliff where the wreckage of the aircraft was. It was on the side of the cliff, no way you can land, just ashes. We went down to an LZ we’d been to earlier that day, but that time it got dark. It was no longer in friendly hands, but at least we knew where it was. Somebody had landed there. Crew chief and gunner shining flashlights up in the bullet holes to see what you hit in the rotating parts. If you hit any of the control systems that light beam hits a control system you got no choice but to shut it down. You need to check and see it. If you got a control rod that has been hit, it may go at any time and basically, you’re going to die and everybody with you. Fortunately, it did not hit any of the rotating parts. So we flew out to the beach, there was a field bump there. We landed and refueled. As we were starting to refuel, the crew chief comes up and goes like this, “Cut it sir! Cut it! Cut it!” I flipped the engine and said “Why, what’s wrong?” He said, “Sir, we got fuel running all over the place.” They had blown up because they have taken a round through the fuel cell. We took seven rounds through the fuel cell and it did not blow. The difference being our rounds undoubtedly went through fuel, their rounds went through air. Put it around the fuel, it won’t blow. Put it through fuel, it will blow. We took the guns, the radios, the crew put them on one of the other birds and flew it back. That was the fourth bird that was left there. That was about two weeks before I was due to come home. We lost a crew of four. <orgName>Charlie Company’s</orgName> <persName>Don Estes</persName>, <persName>Dalmore Townson</persName>, and I don’t remember the crew chief and gunner. I did in fact when I came back, I talked to <persName>Don Estes’</persName> family and <persName>Dalmore Townson’s</persName> wife. I think I got to one of the enlisted crew chief or gunner. The ones that happened to be where I could get to them while I was there. Anyway, that’s about it from the <name type="event">Ia Drang</name> perspective.</u>
+      <u who="JAYNE">Then the <persName ref="#ttu_494_person_12">General</persName> proceeded to chew out <persName ref="#ttu_494_person_13">Sergeant Austin</persName>, if not the lowest ranking person there, he was the second from the lowest ranking person. Anyway, one of those little things you do in combat, some of the funny aspects. Anyway, from there we went to a lot of different places but to kind of get pretty fast to <name type="event" ref="#ttu_494_event_1">Ia Drang</name>. The last big battle just before the <name type="event" ref="#ttu_494_event_2">Ia Drang</name> was the <name type="event" ref="#ttu_494_event_3">Battle of Plei Me</name>. We had gone to <placeName ref="#ttu_494_place_15">Plei Me</placeName> after most of the action, basically the mop-up action from there. They had sent the <orgName ref="#ttu_494_org_14">2nd of the 7th</orgName> into <placeName ref="#ttu_494_place_16">LZ (Landing Zone) X-Ray</placeName>. <orgName ref="#ttu_494_org_15">Alpha Company</orgName> had the primary mission and <orgName ref="#ttu_494_org_16">Charlie Company</orgName> filled in, which typically whenever you have a mission there, you put everybody into it. I was there on the later parts of <name type="event" ref="#ttu_494_event_4">X-Ray</name>. What I remember basically about that besides the fire and the tight <placeName ref="#ttu_494_place_17">LZ</placeName> was we took one prisoner out of there. That’s kind of unusual for us. We took the prisoner back with us. Most of that though was <persName ref="#ttu_494_person_14">Bruce Crandall</persName> and the people under him at that particular time. Fast forward until, I guess it was the 16th or the 17th when the <orgName ref="#ttu_494_org_17">2nd of the 7th</orgName> was marching and walking from <placeName ref="#ttu_494_place_18">LZ Columbus</placeName> to <placeName ref="#ttu_494_place_19">LZ Albany</placeName>. <persName ref="#ttu_494_person_15">Ken Whitesell</persName>, who was one of my lieutenants, infantry officer—we had decided that because we felt the <orgName ref="#ttu_494_org_18">2nd of the 7th</orgName> needed a little extra help coordinating aviation activities and whatnot, we sent <persName ref="#ttu_494_person_16">Ken</persName> down, I think somebody already interviewed <persName ref="#ttu_494_person_17">Ken</persName>. We sent <persName ref="#ttu_494_person_18">Ken Whitesell</persName> down then as basically <orgName ref="#ttu_494_org_19">Army Aviation</orgName> Liaison officer to be with the S3 section of the <orgName ref="#ttu_494_org_20">2nd of the 7th</orgName>, march along with them, etc. I’m not sure he’s forgiven us yet because he was there invited, and he is an infantry officer and so he was right in the battle. They made a couple of flights in that day. I guess I had gone back to the hooch and sometime after midnight someone came and woke me up and said, “We need a volunteer mission to go in and to take some ammunition, some medicine, some water, other supplies into <placeName ref="#ttu_494_place_20">Albany</placeName> and bring wounded out. They’ve got I forgot how many, sixteen or seventeen wounded. They’ve basically been triaged into the category that they’ll make it if they get treatment, they won’t make it if they don’t. We need to go.” And I said, “Yes.” The whole crew went, and little <persName ref="#ttu_494_person_19">Bennet</persName>—and I don’t remember right now who, but <persName ref="#ttu_494_person_20">Will Bennet</persName> and his crew. <persName ref="#ttu_494_person_21">Will</persName> and I flew a lot together. Once you’ve flown one of these volunteer missions, it’s difficult to ever not volunteer for one. Anyway, we went in there, heavy fire and we had everything from A1E dropping bombs and artillery and flares and whatnot. I remember <persName ref="#ttu_494_person_22">Will</persName> when the fire was coming down, finally just says, “I don’t want to see it.” Cease fire of the flares. Then we saw a T over there. <persName ref="#ttu_494_person_23">Will</persName> says, “I have the T in sight and I’m coming in.” Somebody on the ground, I remember it was <persName ref="#ttu_494_person_24">Ken</persName> or someone else said, “Negative, negative, negative.” He says, “The T is not in our control. Do not land on the T.” So we aborted that approach. Of course, we are flying without lights. He says, “Where are you?” He says, “Look off to your right front and you’ll see a flashlight blinking.” I said, “Roger, you know, I just saw you blink three times or whatever.” He says, “Roger, that’s me.” And I say, “Okay, we’ll come in on you.” So we came in, landed to the flashlight, picked up the wounded, took mortar over there. We had to move the aircraft a little bit to try to get out from where the mortars were landing. Now my crew chiefs and gunners at the time were out there bringing people in. They had to bring in a little farther and then we got them all loaded back, flew in. Our fuel state had gotten so low, that when we landed at the medevac pad, we did not have enough fuel to hover over the flight landing to be refueled at the normal location so <persName ref="#ttu_494_person_25">Major Bennet</persName> was there, mission commander says, “Cut it here guys, the fuel truck will come to us.” While we were waiting for the fuel truck, we went out and basically you know talked to him and met the people we just evacuated because when you bring in that many people, it takes a while for the stretcher bearers to get them all in. I will always remember <persName ref="#ttu_494_person_26">Commander Sergeant Major Scott</persName>, who was there, and I could see from his back the little black holes going through him and he is up there walking around putting his arm around his fruit and saying, “Hang on <persName ref="#ttu_494_person_27">John</persName>, we’re here now. We’re back, you got it made, they’ll take you in there in just a minute, hang on.” And talking to me and I don’t know who else was there, but he says, “When we heard those helicopters coming in, it sounded like the wings of angels flapping.” I thought that was a nice thing to say and from his aspect, that’s probably exactly what it sounded like and that got picked up at the time and then of course, it made some of the news things. I often wondered what happened to him. Found out he survived the war; he was down in <placeName ref="#ttu_494_place_21">Florida</placeName> and he recently passed away. From that, we finished our turn. Combat operations in a whole bunch of places. I just hit some of the highlights. We were talking about this last night. One of the most helpless times I ever felt, we were flying over near <placeName ref="#ttu_494_place_22">Cambodia</placeName>. We picked up a LRRP, long range reconnaissance patrol. They were in the aircraft sitting down, not tied down or anything. I looked back and there was a grenade rolling on the floor. Normally when a grenade is rolling around like this, it means it has popped off somewhere, the handle has initiated the firing chain and you got ten seconds before it goes off. I can’t do anything with the aircraft because I’ll lose the LRRPs. Of course, I’m hollering over in the intercom with the crew chief and the gunner, “Grab that blanky blank grenade!” Obviously, the end of the story was good, otherwise I wouldn’t be here! (Chuckles) What had happened was the grenade came unscrewed! And the firing chain was still on somebody’s web harness. But nevertheless, it is an extreme feeling of no one thinks it’s going to happen and not being able to do anything having several alternatives, none of which are any good. Like I said, fortunately it worked out. I guess one of the most frustrating times was—we went to <placeName ref="#ttu_494_place_23">Tuy Hoa</placeName>. It was an unusual day, I wound up going through four airplanes. The last one, we sat on the ground for several hours while they were prepping the LZ. The battleship New Jersey fired on it, <orgName ref="#ttu_494_org_21">TAC (Tactical Air Command)</orgName> was on it, artillery fired on it, gunships fired on it and everything else. We landed into—it was a three-sided field bounded by hedge rose, a flight of four. As we’re coming in, my right-hand wingman, Yellow 2 I believe it was said, “I'm on fire, I'm on fire, I'm going around.” And I looked up and saw him instead of landing with the rest of us trying to continue on and then boom. The other three aircraft got in, we worked up the crossfire the other guys were spider holes. It must have been tough for the infantry. They bailed out and you know, engaged them with fire. They didn’t waste any time getting out of there, we didn’t waste any time getting out of the LZ. We got out of the LZ, fell off the cliff where the wreckage of the aircraft was. It was on the side of the cliff, no way you can land, just ashes. We went down to an LZ we’d been to earlier that day, but that time it got dark. It was no longer in friendly hands, but at least we knew where it was. Somebody had landed there. Crew chief and gunner shining flashlights up in the bullet holes to see what you hit in the rotating parts. If you hit any of the control systems that light beam hits a control system you got no choice but to shut it down. You need to check and see it. If you got a control rod that has been hit, it may go at any time and basically, you’re going to die and everybody with you. Fortunately, it did not hit any of the rotating parts. So we flew out to the beach, there was a field bump there. We landed and refueled. As we were starting to refuel, the crew chief comes up and goes like this, “Cut it sir! Cut it! Cut it!” I flipped the engine and said “Why, what’s wrong?” He said, “Sir, we got fuel running all over the place.” They had blown up because they have taken a round through the fuel cell. We took seven rounds through the fuel cell and it did not blow. The difference being our rounds undoubtedly went through fuel, their rounds went through air. Put it around the fuel, it won’t blow. Put it through fuel, it will blow. We took the guns, the radios, the crew put them on one of the other birds and flew it back. That was the fourth bird that was left there. That was about two weeks before I was due to come home. We lost a crew of four. <orgName ref="#ttu_494_org_22">Charlie Company’s</orgName> <persName ref="#ttu_494_person_28">Don Estes</persName>, <persName ref="#ttu_494_person_29">Dalmore Townson</persName>, and I don’t remember the crew chief and gunner. I did in fact when I came back, I talked to <persName ref="#ttu_494_person_30">Don Estes’</persName> family and <persName ref="#ttu_494_person_31">Dalmore Townson’s</persName> wife. I think I got to one of the enlisted crew chief or gunner. The ones that happened to be where I could get to them while I was there. Anyway, that’s about it from the <name type="event" ref="#ttu_494_event_5">Ia Drang</name> perspective.</u>
       <u who="NAPOLI">Can you tell me a little bit more about that night landing? I don't know anything about helicopters, okay? So just remember that you’re sort of talking to an undergraduate student effectively of the helicopter. Putting a helicopter down in a landing zone you can’t see, under intense fire. As hard as it sounds to me—</u>
-      <u who="JAYNE">Well, it’s not easy. There’s a big difference too. At that time, we had what were called a D-Models and a D-Model had an 1100 horsepower engine. A D-Model was vastly underpowered for the temperatures and altitudes you had in <placeName>Vietnam</placeName>. So we went in with low fuel states, so we could carry more people in and out. We, nevertheless, were still on the edge of the power curve. Later on, an H-Model with 1300 something horsepower was far better. In fact, it was limited by the transmission, not by the engine. So that in of itself is a limiting factor because you can’t just pull pitch and go because the harder you pull pitch after a certain point, instead of getting more power, you lose power. It’s like trying to step on an accelerator when you’re in high gear, starting from the starting line, you wouldn’t do it with a transmission. So that in of itself is bad. But then, you don’t want to present anymore of a target than you have to, so you don’t put your lights on at all. So you’re flying formation, guided basically on the instruments lights of your wingman. You’re looking at your instrument lights and realize you got a 48 foot roller and he’s got a 48 foot roller and if you get any closer than 48 feet, you’re both going to die. You got to pretty well know where you’re in relation to the other aircraft. Now the other side is that if you get too far back, you may have a heck of a time getting in there with him. So it’s difficult. We made it alright despite a whole lot of things. I will say that we were all volunteers, everybody went, crew chief, gunners, pilots. I of course, as the aircraft commander and the pilot would fly with the rest of them. But we each made an individual decision to go. Anyone could have said, “No, I don’t feel right on this” and we got somebody else. Nobody backed down. That’s one of the reasons I'm a little unhappy with the award policy and that they tend to award the commander a little higher. So I got higher award than some of the other people. I think everybody makes an individual decision, you know. You ought to get the same award, but anyway. That’s not to waste none. I do recall one other mission that was not <name type="event">Ia Drang</name>, but <persName>Will Bennet</persName> probably told his interview, but we’re all related also. This I think was after this mission. <persName>Will</persName> and I both volunteered. Like I said, once you go on these missions, you cannot not volunteer. Somebody says we got a deed, you’re going to go, and <persName>Sergeant Major Scott</persName>’s “Wings of angels flapping” certainly helps you make the decision, you know, “I want to go”. Anyway, they had a muzzle burst, an artillery battery and they killed—I don’t know how many wounded, ten, twelve people. Medevac would not go in. Unfortunately, during the <orgName>Cav</orgName> initial period the first day in combat, they lost a medevac lieutenant commander with a round to the head. I saw it. It took a while for leadership to overcome that and leadership overcome losing their commander and then get them to get the other pilots to fly. So they refused to fly. The weather was heavy fog right down the treetops. <persName>Will</persName> went in, <persName>Will</persName> lead the flight. <persName>Will</persName> was a field artilleryman. We couldn’t see them, but he had them fire WP, White Phosphorus on the gun target line. We flew in the instruments, low level, in the fog. From flash, to flash, to flash. Now don’t ask me how we made it because I was in the trees and mountains and everything and that’s what we do. We got in, got it lined up there, picked up the troops and took them out.</u>
+      <u who="JAYNE">Well, it’s not easy. There’s a big difference too. At that time, we had what were called a D-Models and a D-Model had an 1100 horsepower engine. A D-Model was vastly underpowered for the temperatures and altitudes you had in <placeName ref="#ttu_494_place_24">Vietnam</placeName>. So we went in with low fuel states, so we could carry more people in and out. We, nevertheless, were still on the edge of the power curve. Later on, an H-Model with 1300 something horsepower was far better. In fact, it was limited by the transmission, not by the engine. So that in of itself is a limiting factor because you can’t just pull pitch and go because the harder you pull pitch after a certain point, instead of getting more power, you lose power. It’s like trying to step on an accelerator when you’re in high gear, starting from the starting line, you wouldn’t do it with a transmission. So that in of itself is bad. But then, you don’t want to present anymore of a target than you have to, so you don’t put your lights on at all. So you’re flying formation, guided basically on the instruments lights of your wingman. You’re looking at your instrument lights and realize you got a 48 foot roller and he’s got a 48 foot roller and if you get any closer than 48 feet, you’re both going to die. You got to pretty well know where you’re in relation to the other aircraft. Now the other side is that if you get too far back, you may have a heck of a time getting in there with him. So it’s difficult. We made it alright despite a whole lot of things. I will say that we were all volunteers, everybody went, crew chief, gunners, pilots. I of course, as the aircraft commander and the pilot would fly with the rest of them. But we each made an individual decision to go. Anyone could have said, “No, I don’t feel right on this” and we got somebody else. Nobody backed down. That’s one of the reasons I'm a little unhappy with the award policy and that they tend to award the commander a little higher. So I got higher award than some of the other people. I think everybody makes an individual decision, you know. You ought to get the same award, but anyway. That’s not to waste none. I do recall one other mission that was not <name type="event" ref="#ttu_494_event_6">Ia Drang</name>, but <persName ref="#ttu_494_person_32">Will Bennet</persName> probably told his interview, but we’re all related also. This I think was after this mission. <persName ref="#ttu_494_person_33">Will</persName> and I both volunteered. Like I said, once you go on these missions, you cannot not volunteer. Somebody says we got a deed, you’re going to go, and <persName ref="#ttu_494_person_34">Sergeant Major Scott</persName>’s “Wings of angels flapping” certainly helps you make the decision, you know, “I want to go”. Anyway, they had a muzzle burst, an artillery battery and they killed—I don’t know how many wounded, ten, twelve people. Medevac would not go in. Unfortunately, during the <orgName ref="#ttu_494_org_23">Cav</orgName> initial period the first day in combat, they lost a medevac lieutenant commander with a round to the head. I saw it. It took a while for leadership to overcome that and leadership overcome losing their commander and then get them to get the other pilots to fly. So they refused to fly. The weather was heavy fog right down the treetops. <persName ref="#ttu_494_person_35">Will</persName> went in, <persName ref="#ttu_494_person_36">Will</persName> lead the flight. <persName ref="#ttu_494_person_37">Will</persName> was a field artilleryman. We couldn’t see them, but he had them fire WP, White Phosphorus on the gun target line. We flew in the instruments, low level, in the fog. From flash, to flash, to flash. Now don’t ask me how we made it because I was in the trees and mountains and everything and that’s what we do. We got in, got it lined up there, picked up the troops and took them out.</u>
       <u who="NAPOLI">So creative professionalism?</u>
-      <u who="JAYNE">Yeah, and I was just following <persName>Will</persName>. <persName>Will</persName> was the one that thought of using the White Phosphorus like signposts on the way.</u>
-      <u who="NAPOLI">Mm-hmm. Were there lessons that you guys learned about flying these missions from those early days outside of <placeName>Plei Me</placeName> and into the—</u>
-      <u who="JAYNE">Actually, we learned the lessons in <placeName>Benning</placeName>.</u>
+      <u who="JAYNE">Yeah, and I was just following <persName ref="#ttu_494_person_38">Will</persName>. <persName ref="#ttu_494_person_39">Will</persName> was the one that thought of using the White Phosphorus like signposts on the way.</u>
+      <u who="NAPOLI">Mm-hmm. Were there lessons that you guys learned about flying these missions from those early days outside of <placeName ref="#ttu_494_place_25">Plei Me</placeName> and into the—</u>
+      <u who="JAYNE">Actually, we learned the lessons in <placeName ref="#ttu_494_place_26">Benning</placeName>.</u>
       <u who="NAPOLI">You did?</u>
       <u who="JAYNE">Yeah. See, before we came over the policy in general was that you tried to stay 2500 feet or higher, which got you at about .50 caliber range if possible and if not, at least 1500 feet which got you at small arms range. We didn’t fly that way. We trained where we could go against anything. Whether small arms, .50 caliber, 20-millimeter, 37 millimeters, whatever and we flew the treetops. If you didn’t come back with limbs in your skids, you weren’t flying low enough. That was a major difference. Navigation was much more difficult. </u>
       <u who="NAPOLI">Yeah.</u>
-      <u who="JAYNE">Flying is more difficult, but it’s a lot safer because if you have ever been in a city when the police are running helicopter patrols and you hear them and try to locate them, you’ll be amazed how hard it is to tell where they are when they are at low level. You hear the sound, and it kind of sounds like it’s all around you. So as a result, by flying low like that, we were much less likely to get hit by any form of fire. Not that we didn’t, but we were much more effective. They usually didn’t know where we were until we were short final. Timing was very important. I mean, you synchronized your watch, you had to be in within five seconds. The reason you did was that you typically—on a typical operation you have <orgName>TAC</orgName> air, artillery or whatever prepping the LZ. But you didn’t want it too early because if you had it too early, bad guys knew where you were coming. But you wanted to basically try to get as many of them as you could that way. Everybody you killed that way, it’s somebody you ain’t got to deal with later. Unfortunately, sometimes they just burrow in the holes, but at least you kept their heads down. Then you had the gunships come in. The gunships come in and they do what is called a “Daisy Chain” on each side of the helicopter as they come in. Then, you are on short final and on short final, your guns which are waste guns M23s, they’re firing suppressive fire and they have exacto fire. So ideally, what happens if you get everything down, they prep the LZ with the big stuff. You get to the release point. Release point—the last rounds all the way. Don’t want to be there early, don’t want to be there late. If you’re late, you’re not covered for a period of time. If you’re early, you’ll get an artillery shell and that’s not too good. But the gunships covering you, on short final, your guns are covering you. So you got continuous coverage and then as soon as infantry gets out, they head out and start laying down a base fire. The idea is the whole time they keep the bad guys down. It’s not so much to kill them. If you do, that’s great, but the main thing is to keep them down so they can’t fire at you. Then the infantry engages as they’re going out. I remember one operation we had, and I don’t remember the LZ, but it was east of <placeName>An Khe</placeName>. I think it was in <placeName>Happy Valley</placeName>. It was a cold LZ, so that meant the intelligence said there was no <orgName>VC (Viet Cong</orgName>) there, then we’re not going to prep it. We went in there; we did not prep it. We’re on the short final and we started taking fire. My M23s started laying down their suppressive fire. The one on my side jammed. As we landed, a guy popped up from the ditch line, a creek line over there about seventy-five feet of weight and proceeds to blow out the little plexiglass window that’s in the door. There’s a little, about twelve-inch door. Behind the pilot, the co-pilot. Blew that, went around. That got my attention. Everybody else is on the aircraft behind me. The closest weapon I had at the time was a backup weapon. It was inside my flight-glass behind the first aid kit. The others were hanging back here. So the guy was right there and I didn’t want him to fire again, I pulled out that .38 rested it on out and I was taught in combat firing, you fire double tap, bang, bang. In real combat, it’s bang, bang, bang, click, click, click, click. (Laughs). Of course, I continued to fire until it was empty. Center of mass, he went down. At the same time, I got my foot on the floor mic and called the gunships in, the gunships came in and strafed the creek. So much for cold LZs.</u>
+      <u who="JAYNE">Flying is more difficult, but it’s a lot safer because if you have ever been in a city when the police are running helicopter patrols and you hear them and try to locate them, you’ll be amazed how hard it is to tell where they are when they are at low level. You hear the sound, and it kind of sounds like it’s all around you. So as a result, by flying low like that, we were much less likely to get hit by any form of fire. Not that we didn’t, but we were much more effective. They usually didn’t know where we were until we were short final. Timing was very important. I mean, you synchronized your watch, you had to be in within five seconds. The reason you did was that you typically—on a typical operation you have <orgName ref="#ttu_494_org_24">TAC</orgName> air, artillery or whatever prepping the LZ. But you didn’t want it too early because if you had it too early, bad guys knew where you were coming. But you wanted to basically try to get as many of them as you could that way. Everybody you killed that way, it’s somebody you ain’t got to deal with later. Unfortunately, sometimes they just burrow in the holes, but at least you kept their heads down. Then you had the gunships come in. The gunships come in and they do what is called a “Daisy Chain” on each side of the helicopter as they come in. Then, you are on short final and on short final, your guns which are waste guns M23s, they’re firing suppressive fire and they have exacto fire. So ideally, what happens if you get everything down, they prep the LZ with the big stuff. You get to the release point. Release point—the last rounds all the way. Don’t want to be there early, don’t want to be there late. If you’re late, you’re not covered for a period of time. If you’re early, you’ll get an artillery shell and that’s not too good. But the gunships covering you, on short final, your guns are covering you. So you got continuous coverage and then as soon as infantry gets out, they head out and start laying down a base fire. The idea is the whole time they keep the bad guys down. It’s not so much to kill them. If you do, that’s great, but the main thing is to keep them down so they can’t fire at you. Then the infantry engages as they’re going out. I remember one operation we had, and I don’t remember the LZ, but it was east of <placeName ref="#ttu_494_place_27">An Khe</placeName>. I think it was in <placeName ref="#ttu_494_place_28">Happy Valley</placeName>. It was a cold LZ, so that meant the intelligence said there was no <orgName ref="#ttu_494_org_25">VC (Viet Cong</orgName>) there, then we’re not going to prep it. We went in there; we did not prep it. We’re on the short final and we started taking fire. My M23s started laying down their suppressive fire. The one on my side jammed. As we landed, a guy popped up from the ditch line, a creek line over there about seventy-five feet of weight and proceeds to blow out the little plexiglass window that’s in the door. There’s a little, about twelve-inch door. Behind the pilot, the co-pilot. Blew that, went around. That got my attention. Everybody else is on the aircraft behind me. The closest weapon I had at the time was a backup weapon. It was inside my flight-glass behind the first aid kit. The others were hanging back here. So the guy was right there and I didn’t want him to fire again, I pulled out that .38 rested it on out and I was taught in combat firing, you fire double tap, bang, bang. In real combat, it’s bang, bang, bang, click, click, click, click. (Laughs). Of course, I continued to fire until it was empty. Center of mass, he went down. At the same time, I got my foot on the floor mic and called the gunships in, the gunships came in and strafed the creek. So much for cold LZs.</u>
       <u who="NAPOLI">Yeah.</u>
       <u who="JAYNE">They seldom are. So much for intelligence. We talk about intelligence and weapons of mass destruction. Intelligence is a destine art. A lot of variables. </u>
-      <u who="NAPOLI">So then, I need to hear a little bit more about training in <placeName>Benning</placeName>, I think. In order to understand how well prepared you were. You’ve said that you were intensely prepared, and in some ways, combat was more—was easier or you were prepared for it as you could be.</u>
-      <u who="JAYNE">Let me just tell you, we had the Carolina maneuvers. Which we basically fought the <orgName>82nd Airborne Division</orgName> and won. But in some of the unusual things we did in training, we flew formations IFR (Instrument Flight Rules) in the clouds. </u>
+      <u who="NAPOLI">So then, I need to hear a little bit more about training in <placeName ref="#ttu_494_place_29">Benning</placeName>, I think. In order to understand how well prepared you were. You’ve said that you were intensely prepared, and in some ways, combat was more—was easier or you were prepared for it as you could be.</u>
+      <u who="JAYNE">Let me just tell you, we had the Carolina maneuvers. Which we basically fought the <orgName ref="#ttu_494_org_26">82nd Airborne Division</orgName> and won. But in some of the unusual things we did in training, we flew formations IFR (Instrument Flight Rules) in the clouds. </u>
       <u who="NAPOLI">I didn’t hear you very well. </u>
       <u who="JAYNE">We flew formations in the clouds. </u>
       <u who="NAPOLI">In the clouds.</u>
@@ -90,41 +90,41 @@
       <u who="NAPOLI">Yeah.</u>
       <u who="JAYNE">Okay. Very dangerous.</u>
       <u who="NAPOLI">Sound’s it to me. </u>
-      <u who="JAYNE">We lost some ships; I mean we lost two ships all because it’s in mid-air. We flew formations at night without lights. We used that in <placeName>Vietnam</placeName>, remember? We did obviously in training. We flew landing to FM radios using ARC-44s, which are a directional finding capability you had on the Hueys. You had two antennas in the front, you can point the aircraft and pick up a no and you land to a radio. We actually start approaches on it in training as a way to get in at night and we did that in combat. We flew extensively in low level formation flying. </u>
+      <u who="JAYNE">We lost some ships; I mean we lost two ships all because it’s in mid-air. We flew formations at night without lights. We used that in <placeName ref="#ttu_494_place_30">Vietnam</placeName>, remember? We did obviously in training. We flew landing to FM radios using ARC-44s, which are a directional finding capability you had on the Hueys. You had two antennas in the front, you can point the aircraft and pick up a no and you land to a radio. We actually start approaches on it in training as a way to get in at night and we did that in combat. We flew extensively in low level formation flying. </u>
       <u who="NAPOLI">You were good at flying at contour off the ground, I guess long before you arrived?</u>
       <u who="JAYNE">Oh yeah, yeah. To do that, you’ve got to have one guy navigating. The guy that really has to do most of the navigating is the lead ship. They can’t be the only one. Because if he gets shot down, somebody’s got to take over. So what really happens is that normally you have someone flying and somebody navigating, and working radios. If you’re an officer, a leader or commander, normally you’re sitting in the left seat. The pilot is actually doing the flying, most of the time you’re working the radios communicating, navigating, etc. In fact, frequent if you go to hot LZ both of you are on the control. If one of you gets hit, the control doesn’t flop over, the aircraft flops over too if it does. We had the usual mechanical incidents in training, which certainly helps for the ones you had in combat because a lot of the problems we had in combat were caused not by bullets but just by the intensity of off-tempo we had. So many hours we were putting on engines, airframes, not to mention the people in addition to engines and airframes. So in fact, if you did have mechanical problems, as well as problems caused by the enemy.</u>
       <u who="NAPOLI">What about the fatigue you guys felt?</u>
-      <u who="JAYNE">I think adrenaline helped a lot on that. You kind of crashed when you came back. Theoretically, we had a limit of I think fourteen hours, it was a hundred and forty hours a month which was far above what most airlines. But a hundred and forty, you went to the flight surgeon. The flight surgeon says, “You alright?” You say, “Yeah.” He says, “Okay.” (Laughs) You went back and flew more. So it didn’t become a limiting factor. I oddly enough do not recall ever being completely fatigue in flight in combat. Maybe because there was so much adrenaline. All the time I remember that was in my second tour and we’d had a kind of unusual day and the last three or four hours of which they had to report a bomb on a bridge on the <placeName>Saigon River</placeName>. At the end of the mission, just before we were fixing to fly back, they asked us to pick up some <orgName>UDT (Underwater Demolition Team)</orgName> people. Bring them in, land on the bridge, let them check for it, and take them back out and so forth. That day, we flew seventeen flight hours. When I got back and landed the aircraft and got out, I could not stand up. I literally got out of the aircraft and just collapsed. Because you had seventeen hours of vibration too, you know, and that’s fatiguing!</u>
+      <u who="JAYNE">I think adrenaline helped a lot on that. You kind of crashed when you came back. Theoretically, we had a limit of I think fourteen hours, it was a hundred and forty hours a month which was far above what most airlines. But a hundred and forty, you went to the flight surgeon. The flight surgeon says, “You alright?” You say, “Yeah.” He says, “Okay.” (Laughs) You went back and flew more. So it didn’t become a limiting factor. I oddly enough do not recall ever being completely fatigue in flight in combat. Maybe because there was so much adrenaline. All the time I remember that was in my second tour and we’d had a kind of unusual day and the last three or four hours of which they had to report a bomb on a bridge on the <placeName ref="#ttu_494_place_31">Saigon River</placeName>. At the end of the mission, just before we were fixing to fly back, they asked us to pick up some <orgName ref="#ttu_494_org_27">UDT (Underwater Demolition Team)</orgName> people. Bring them in, land on the bridge, let them check for it, and take them back out and so forth. That day, we flew seventeen flight hours. When I got back and landed the aircraft and got out, I could not stand up. I literally got out of the aircraft and just collapsed. Because you had seventeen hours of vibration too, you know, and that’s fatiguing!</u>
       <u who="NAPOLI">I'm sure!</u>
       <u who="JAYNE">That’s the only time I ever remember really being fatigued when I got out of the aircraft.</u>
-      <u who="NAPOLI">What you’re kind of suggesting to me is that the <name type="event">Ia Drang</name> in some ways just one moment in your first tour. I didn’t realize you’d done two tours and in terms of it, the combat experience it provides of you know, not especially notable in some particular fashion.</u>
+      <u who="NAPOLI">What you’re kind of suggesting to me is that the <name type="event" ref="#ttu_494_event_7">Ia Drang</name> in some ways just one moment in your first tour. I didn’t realize you’d done two tours and in terms of it, the combat experience it provides of you know, not especially notable in some particular fashion.</u>
       <u who="JAYNE">Well, certainly notable because a lot of good people died.</u>
       <u who="NAPOLI">But in terms of you—</u>
-      <u who="JAYNE">Certainly notable because it was the first real operation we had against <orgName>North Vietnamese troops</orgName>. The most notable thing to me was that the sound of wings of angels flapping. I’ll always remember that. That’s one of the things that made it impossible to never say no to a request for a volunteer after that.</u>
-      <u who="NAPOLI">I see, I hear what you’re saying now, I get it. On a human level, it had a deeper significance resonated, but on a professional level, you were prepared for this from <placeName>Benning</placeName>.</u>
+      <u who="JAYNE">Certainly notable because it was the first real operation we had against <orgName ref="#ttu_494_org_28">North Vietnamese troops</orgName>. The most notable thing to me was that the sound of wings of angels flapping. I’ll always remember that. That’s one of the things that made it impossible to never say no to a request for a volunteer after that.</u>
+      <u who="NAPOLI">I see, I hear what you’re saying now, I get it. On a human level, it had a deeper significance resonated, but on a professional level, you were prepared for this from <placeName ref="#ttu_494_place_32">Benning</placeName>.</u>
       <u who="JAYNE">Not to downplay the intensity the combat, but they were many operations as far as aviation was concerned, we had various instances. Bunch in the way of being shot and hit. It’s funny, the infantry would tell me that they were extremely nervous when they were in our airplanes and we were taking fire. The reason is because they are out of their environment. They can’t control it! They don’t have their radios to call artillery in. They can’t take their M16s or M40s or whatever and engage the enemy. All they can do is ride along and hope we’re doing our job. </u>
       <u who="NAPOLI">Yes</u>
-      <u who="JAYNE">Well, the opposite is also true when we’re on the ground! We were on the ground in a log area waiting, again about four ships, <persName>Will Bennet</persName>, and myself and two of us. We were taking on the fire on the ground. We felt the same way! You know, we don’t have our aircraft radios, we don’t have our gunships, we can’t call in artillery and we got .38 or “Get back to the aircraft and leave a M16 or shotgun.” Whatever is around hanging on the back seat! I recall we were in this log area—let me lead up to it first. There was a fella by the name of <persName>Lee Merell</persName>. Chief Warrant Officer. M-E-R-E-L-L. He got shot in the head on an earlier mission. Bullet went in here, came out here, right. In fact, the guy that was flying with him is here with us today. Of course, everybody thought, “He’s gone.” They took his helmet off, the bullet hit, went around his skull, came out the other side did nothing but cut scalp. Gave him a hell of a headache and a little scar around his head. Anyway, <persName>Lee</persName> was there. Well, <persName>Lee</persName> wasn’t that lucky this time. I recall <persName>Lee</persName> getting hit in the hip. <persName>Will</persName> thinks he got hit in the gut, but I evacuated him, I recall he was hit in the hip, in the main femur, which is tremendously painful and very dangerous because it can cut through. Anyway, he was hit there. Then, <persName>Dave Hepp</persName> got hit just under here which wasn’t quite as bad. Anyway, <persName>Will’s</persName> ship had gotten shot, mine had not. I was in the process of walking from my ship to over to <persName>Will’s</persName> to talk about something when the firing started. I hit the ground and the bullets were zapping overhead. They got a very distinct crack when they’re coming right at you. I thought about returning fire with my .38, but I couldn’t see a target and I didn’t really want to call any more attention to myself than I had already. I just hunkered down and then got on over and <persName>Will</persName> said, “Would you fly <persName>Lee</persName> and <persName>Dave</persName> back to <placeName>An Khe</placeName>? Medevac? My ship has been hit; you know what we need to do.” So we flew back, I guess we flew back firing artillery. You always did and you never flew single ship unless you couldn’t avoid it. Got back and landed at the medevac pad and what was kind of funny, we landed, and they were taking him off and all of the sudden, these crewmen come back and the seat folds back and they unstrap my belt and start pulling me out and I said, “What in the hell are you doing?” He says, “I'm taking you out!” I said, “What do you mean you’re taking me out?” He says, “You’re wounded!” “The hell I am!” He says, “The hell you are! Look at your chest, you got blood all over you!” I looked down and I saw the blood. What had happened, I just had a graze, I forget what cheek it was now. I ain’t never knew, I never felt it, you know. But it bled like son of a gun, and you know with adrenaline you didn’t feel it. So I said, “Screw it. Give me a band aid, I'm going back!” And we went back. I had thought of that a lot when <persName>John Kerr</persName> was talking about his Purple Hearts, you know. Will says, “Ought to place you in the Purple Heart.” I said, “For what? For a Band-Aid? I didn’t get any treatment.” But it was kind of funny because I didn’t even know at all I had blood on me or anything on me. It just shows you in combat, there’s so many things going on. That the things that when you think about you would notice, you don’t notice. You intend upon one thing and that’s doing your mission, taking care of the people and get back alive if you can.</u>
+      <u who="JAYNE">Well, the opposite is also true when we’re on the ground! We were on the ground in a log area waiting, again about four ships, <persName ref="#ttu_494_person_40">Will Bennet</persName>, and myself and two of us. We were taking on the fire on the ground. We felt the same way! You know, we don’t have our aircraft radios, we don’t have our gunships, we can’t call in artillery and we got .38 or “Get back to the aircraft and leave a M16 or shotgun.” Whatever is around hanging on the back seat! I recall we were in this log area—let me lead up to it first. There was a fella by the name of <persName ref="#ttu_494_person_41">Lee Merell</persName>. Chief Warrant Officer. M-E-R-E-L-L. He got shot in the head on an earlier mission. Bullet went in here, came out here, right. In fact, the guy that was flying with him is here with us today. Of course, everybody thought, “He’s gone.” They took his helmet off, the bullet hit, went around his skull, came out the other side did nothing but cut scalp. Gave him a hell of a headache and a little scar around his head. Anyway, <persName ref="#ttu_494_person_42">Lee</persName> was there. Well, <persName ref="#ttu_494_person_43">Lee</persName> wasn’t that lucky this time. I recall <persName ref="#ttu_494_person_44">Lee</persName> getting hit in the hip. <persName ref="#ttu_494_person_45">Will</persName> thinks he got hit in the gut, but I evacuated him, I recall he was hit in the hip, in the main femur, which is tremendously painful and very dangerous because it can cut through. Anyway, he was hit there. Then, <persName ref="#ttu_494_person_46">Dave Hepp</persName> got hit just under here which wasn’t quite as bad. Anyway, <persName ref="#ttu_494_person_47">Will’s</persName> ship had gotten shot, mine had not. I was in the process of walking from my ship to over to <persName ref="#ttu_494_person_48">Will’s</persName> to talk about something when the firing started. I hit the ground and the bullets were zapping overhead. They got a very distinct crack when they’re coming right at you. I thought about returning fire with my .38, but I couldn’t see a target and I didn’t really want to call any more attention to myself than I had already. I just hunkered down and then got on over and <persName ref="#ttu_494_person_49">Will</persName> said, “Would you fly <persName ref="#ttu_494_person_50">Lee</persName> and <persName ref="#ttu_494_person_51">Dave</persName> back to <placeName ref="#ttu_494_place_33">An Khe</placeName>? Medevac? My ship has been hit; you know what we need to do.” So we flew back, I guess we flew back firing artillery. You always did and you never flew single ship unless you couldn’t avoid it. Got back and landed at the medevac pad and what was kind of funny, we landed, and they were taking him off and all of the sudden, these crewmen come back and the seat folds back and they unstrap my belt and start pulling me out and I said, “What in the hell are you doing?” He says, “I'm taking you out!” I said, “What do you mean you’re taking me out?” He says, “You’re wounded!” “The hell I am!” He says, “The hell you are! Look at your chest, you got blood all over you!” I looked down and I saw the blood. What had happened, I just had a graze, I forget what cheek it was now. I ain’t never knew, I never felt it, you know. But it bled like son of a gun, and you know with adrenaline you didn’t feel it. So I said, “Screw it. Give me a band aid, I'm going back!” And we went back. I had thought of that a lot when <persName ref="#ttu_494_person_52">John Kerr</persName> was talking about his Purple Hearts, you know. Will says, “Ought to place you in the Purple Heart.” I said, “For what? For a Band-Aid? I didn’t get any treatment.” But it was kind of funny because I didn’t even know at all I had blood on me or anything on me. It just shows you in combat, there’s so many things going on. That the things that when you think about you would notice, you don’t notice. You intend upon one thing and that’s doing your mission, taking care of the people and get back alive if you can.</u>
       <u who="NAPOLI">Flying that helicopter in the most professional confident fashion that is possible.</u>
-      <u who="JAYNE">That’s what gets you back alive. Couple of things that happened early on, these are little aside from the <name type="event">Ia Drang</name>. Best to my knowledge, no one knew it at the time, but we had landed somewhere up in the highlands and before I landed, I had like about four-hundred pounds of fuel onboard. Huey holds 1400 and normally when you have a thirty-minute reserve, which is something like 200 something pounds. We landed a little hard and I looked at the fuel gauge. It’s down at less than two-hundred pounds and the fuel lights are on, the pressure lights are on along with some other things. I said, “What the heck is going on?” They call back and he says, “It’s probably the fuel gauge, they’ll bring you a new fuel gauge.” So maintenance guy came out and put a new fuel gauge in, went back to like four-hundred pounds or something. He says, “It must be alright.” So we took off, flew a little more and all of the sudden the fuel pressure light came on again. We said, “Hey, we got a fuel pressure light.” and he says, “Well go ahead and fly back down.” We flew back down to <placeName>An Khe</placeName> and that’s when I flew as high as I could, and I went from clearing to clearing to clearing because the dang thing can’t quit. Want to have a reasonable place to put it down. We got back to <placeName>An Khe</placeName> and quit on short final. Got in there and alive, nobody was hurt. They just said, “Well, it must have been two bad fuel gauge.” Anyway, whatever it was they didn’t think much about it. It happened again to me! By which time and I didn’t realize it happened to other people too. What had occurred, we had discovered is that a fungus in southeast Asia with the high humidity, it liked to eat JP4!</u>
+      <u who="JAYNE">That’s what gets you back alive. Couple of things that happened early on, these are little aside from the <name type="event" ref="#ttu_494_event_8">Ia Drang</name>. Best to my knowledge, no one knew it at the time, but we had landed somewhere up in the highlands and before I landed, I had like about four-hundred pounds of fuel onboard. Huey holds 1400 and normally when you have a thirty-minute reserve, which is something like 200 something pounds. We landed a little hard and I looked at the fuel gauge. It’s down at less than two-hundred pounds and the fuel lights are on, the pressure lights are on along with some other things. I said, “What the heck is going on?” They call back and he says, “It’s probably the fuel gauge, they’ll bring you a new fuel gauge.” So maintenance guy came out and put a new fuel gauge in, went back to like four-hundred pounds or something. He says, “It must be alright.” So we took off, flew a little more and all of the sudden the fuel pressure light came on again. We said, “Hey, we got a fuel pressure light.” and he says, “Well go ahead and fly back down.” We flew back down to <placeName ref="#ttu_494_place_34">An Khe</placeName> and that’s when I flew as high as I could, and I went from clearing to clearing to clearing because the dang thing can’t quit. Want to have a reasonable place to put it down. We got back to <placeName ref="#ttu_494_place_35">An Khe</placeName> and quit on short final. Got in there and alive, nobody was hurt. They just said, “Well, it must have been two bad fuel gauge.” Anyway, whatever it was they didn’t think much about it. It happened again to me! By which time and I didn’t realize it happened to other people too. What had occurred, we had discovered is that a fungus in southeast Asia with the high humidity, it liked to eat JP4!</u>
       <u who="NAPOLI">Huh!</u>
       <u who="JAYNE">So this fungus was in the fuel tanks and we didn’t have completely full, you have moisture in it and then that fungus would stop off little holes and baffles between refuel tanks and so you had engine fuel pump, you had an electric fuel pump and air fuel pump. Somehow, one of the fuel pumps that made it stop working, the baffles got stopped up, so the way it was measuring the fuel in that tank remain fuel because it didn’t transfer to one of the others and it gave you a false reading. That’s what it was. I guess they’ve corrected it now, but it was some exciting times and fortunately I didn’t get hurt. In fact, there I have to tell you one another time, at least I knew what it was, and I landed right away as soon as I could and took home fuel. But it’s one of those things. You learn things that nobody ever thought of.</u>
       <u who="NAPOLI">Right, the machine had its own—I don't know, what should we call it? Characteristics.</u>
       <u who="JAYNE">Well, this wasn’t a machine, this was an organism!</u>
       <u who="NAPOLI">But it was living in this—</u>
-      <u who="JAYNE">Yeah, it didn’t have any problems in the <placeName>United States</placeName> with it. So apparently it was some fungus that was endemic to southeast Asia, like JP4. Which you know, when you think about it now, you got mild radiation, you got bacteria that eats petrol carbons and so forth. So now we know all about it. Somebody maybe knew about it then, but we didn’t. (Laughs)</u>
+      <u who="JAYNE">Yeah, it didn’t have any problems in the <placeName ref="#ttu_494_place_36">United States</placeName> with it. So apparently it was some fungus that was endemic to southeast Asia, like JP4. Which you know, when you think about it now, you got mild radiation, you got bacteria that eats petrol carbons and so forth. So now we know all about it. Somebody maybe knew about it then, but we didn’t. (Laughs)</u>
       <u who="NAPOLI">But it gives the machine a particular set of performance characteristics that you had to learn.</u>
       <u who="JAYNE">Oh yeah, it changed the performance characteristics right, yeah.</u>
       <u who="NAPOLI">Tell me a little bit about coming to these reunions, what brings you and what do you find here?</u>
-      <u who="JAYNE">Well, probably the reason that I came to the last one, which was the first one I came to. A person by the name <persName>Paul Winkel</persName>. I suspect <persName>Paul</persName> has talked to you.</u>
+      <u who="JAYNE">Well, probably the reason that I came to the last one, which was the first one I came to. A person by the name <persName ref="#ttu_494_person_53">Paul Winkel</persName>. I suspect <persName ref="#ttu_494_person_54">Paul</persName> has talked to you.</u>
       <u who="NAPOLI">I don’t know him, but I’ve heard his name.</u>
-      <u who="JAYNE">Okay. He’s a colonel also. He was in the <orgName>229th Alpha Company</orgName>. <persName>Paul</persName> has done two things. He’s writing a book from the aviation standpoint, I'm not sure how well he’s doing on it. I owe him a chapter, which I haven’t written. If he’s not any better than that, he’s in bad trouble. But he also felt that because the administrative chain in these operations were nonexistent, the tactical chain was fine. We had no problem to support it. But we put together these task forces made up from people from a lot of different units and so they had different commanders, different administration chains and so forth. So he felt that a lot of people unfairly had not been recognized. So he started pushing and in fact got <orgName>Congress</orgName> to approve a bill that makes it relook at awards and establish for lack of a better term “We Look Boards”. They go back in and look at people who had done heroic actions and where they had eye-witness accounts and etc. But for various reasons they hadn’t been recognized. All they had been recognized at a rather low level in comparison in comparison to what other people with similar circumstances were recognized. As a result of all that, he took a lot of us that frankly had never really delved back into that part of the past. You know, it was the past. We just considered it the past; it wasn’t something we wanted necessarily to relive. He kind of forced us to relive it. As a result of that, when the one came up last year, it was a significant—I won’t say pressure, but you know, it was significant. A lot of guys said well you know, let’s go up there. So we came up for it. I came up for this one. <orgName>Charlie Company 229th</orgName> is staying in the <placeName>Marriott hotel</placeName>. We stayed there because at the time I made the arrangement, and I made a schedule to have a reception at the <placeName>Kennedy Center</placeName>. We were scheduled to have a dinner at the <placeName>D.C. Armory</placeName>. The only thing we did down here basically, that’s where everybody already stayed. It made a lot more sense for us to stay there and go right across the street to the <placeName>Kennedy Center</placeName> and also, we took a whole function of our own and we were going to attempt service. For us, it worked out very, very well. Like a lot of plans, they were changed by other people and we no longer went to the <placeName>Kennedy Center</placeName>, we no longer went or the <placeName>D.C. Armory</placeName>. So we’re there and have our own little reunion besides at (Editor’s Note: Inaudible) last night, had a great time at (Editor’s Note: Inaudible). So to us, I think we’re getting an awful lot out of the reunion with <orgName>Charlie Company 229th</orgName>. I will be honest and admit that with <orgName>Charlie Company</orgName>, <name type="event">Ia Drang</name> is probably not as big of deal as it is with <persName>Bruce Crandall</persName>. So we’ll probably continue to meet. I'm not sure if we’ll go along necessarily every year with the big reunion. Because we felt a certain togetherness there with the <orgName>229th</orgName> in general really. <persName>Bruce</persName> was not there. <persName>Bruce</persName> identifies more with more I think with the overall <name type="event">Ia Drang</name>. All of us—not all of us, I don’t remember the <orgName>1st Cav</orgName> Reunion. I was at <placeName>Fort Hood</placeName> in <date when="1981">1981</date> to <date when="1986">1986</date>. Knew the people in the <orgName>1st Cav</orgName> very well as I did with people in the <orgName>2nd Armored Division</orgName>. I was at headquarters. So obviously maintain all of our contacts. But it’s been good to come here, but there’s people—I don’t want to sound off, but there’s people that are almost professional veterans. Some of us that was a point in our life, we’re proud of what we did, we’re proud of the people that were there, we love the people who were there. We’ve had other lives and we do other things and that’s a relatively small part of our life. Does that make sense?</u>
+      <u who="JAYNE">Okay. He’s a colonel also. He was in the <orgName ref="#ttu_494_org_29">229th Alpha Company</orgName>. <persName ref="#ttu_494_person_55">Paul</persName> has done two things. He’s writing a book from the aviation standpoint, I'm not sure how well he’s doing on it. I owe him a chapter, which I haven’t written. If he’s not any better than that, he’s in bad trouble. But he also felt that because the administrative chain in these operations were nonexistent, the tactical chain was fine. We had no problem to support it. But we put together these task forces made up from people from a lot of different units and so they had different commanders, different administration chains and so forth. So he felt that a lot of people unfairly had not been recognized. So he started pushing and in fact got <orgName ref="#ttu_494_org_30">Congress</orgName> to approve a bill that makes it relook at awards and establish for lack of a better term “We Look Boards”. They go back in and look at people who had done heroic actions and where they had eye-witness accounts and etc. But for various reasons they hadn’t been recognized. All they had been recognized at a rather low level in comparison in comparison to what other people with similar circumstances were recognized. As a result of all that, he took a lot of us that frankly had never really delved back into that part of the past. You know, it was the past. We just considered it the past; it wasn’t something we wanted necessarily to relive. He kind of forced us to relive it. As a result of that, when the one came up last year, it was a significant—I won’t say pressure, but you know, it was significant. A lot of guys said well you know, let’s go up there. So we came up for it. I came up for this one. <orgName ref="#ttu_494_org_31">Charlie Company 229th</orgName> is staying in the <placeName ref="#ttu_494_place_37">Marriott hotel</placeName>. We stayed there because at the time I made the arrangement, and I made a schedule to have a reception at the <placeName ref="#ttu_494_place_38">Kennedy Center</placeName>. We were scheduled to have a dinner at the <placeName ref="#ttu_494_place_39">D.C. Armory</placeName>. The only thing we did down here basically, that’s where everybody already stayed. It made a lot more sense for us to stay there and go right across the street to the <placeName ref="#ttu_494_place_40">Kennedy Center</placeName> and also, we took a whole function of our own and we were going to attempt service. For us, it worked out very, very well. Like a lot of plans, they were changed by other people and we no longer went to the <placeName ref="#ttu_494_place_41">Kennedy Center</placeName>, we no longer went or the <placeName ref="#ttu_494_place_42">D.C. Armory</placeName>. So we’re there and have our own little reunion besides at (Editor’s Note: Inaudible) last night, had a great time at (Editor’s Note: Inaudible). So to us, I think we’re getting an awful lot out of the reunion with <orgName ref="#ttu_494_org_32">Charlie Company 229th</orgName>. I will be honest and admit that with <orgName ref="#ttu_494_org_33">Charlie Company</orgName>, <name type="event" ref="#ttu_494_event_9">Ia Drang</name> is probably not as big of deal as it is with <persName ref="#ttu_494_person_56">Bruce Crandall</persName>. So we’ll probably continue to meet. I'm not sure if we’ll go along necessarily every year with the big reunion. Because we felt a certain togetherness there with the <orgName ref="#ttu_494_org_34">229th</orgName> in general really. <persName ref="#ttu_494_person_57">Bruce</persName> was not there. <persName ref="#ttu_494_person_58">Bruce</persName> identifies more with more I think with the overall <name type="event" ref="#ttu_494_event_10">Ia Drang</name>. All of us—not all of us, I don’t remember the <orgName ref="#ttu_494_org_35">1st Cav</orgName> Reunion. I was at <placeName ref="#ttu_494_place_43">Fort Hood</placeName> in <date when="1981">1981</date> to <date when="1986">1986</date>. Knew the people in the <orgName ref="#ttu_494_org_36">1st Cav</orgName> very well as I did with people in the <orgName ref="#ttu_494_org_37">2nd Armored Division</orgName>. I was at headquarters. So obviously maintain all of our contacts. But it’s been good to come here, but there’s people—I don’t want to sound off, but there’s people that are almost professional veterans. Some of us that was a point in our life, we’re proud of what we did, we’re proud of the people that were there, we love the people who were there. We’ve had other lives and we do other things and that’s a relatively small part of our life. Does that make sense?</u>
       <u who="NAPOLI">Yes, it does.</u>
       <u who="JAYNE">The other people, that’s their defining moment and that’s fine! That’s fine. But you can tell us, because you don’t see us with the Stetsons and all the stuff on. You see us just like this and there’s nothing wrong with it! That’s absolutely fine to do that! I like to deer hunt, some people don’t! Some people like—that’s their defining moment and they’ll spend the rest of their lives remembering that. It’s hard to break the bonds forged in combat.</u>
       <u who="NAPOLI">Sure.</u>
       <u who="JAYNE">It’s just little differences to how the bonds were forged.</u>
       <u who="NAPOLI">Right, I think that’s part of what I hear as a distinction with aviation people more broadly and infantry. You guys fought a different war in a funny way.</u>
-      <u who="JAYNE">And we supported a lot of people. We knew a lot of the infantry guys very, very well. <persName>Frank Henry</persName> for one, he was the XO (Executive Officer) of the <orgName>2nd of the 7th</orgName>. <persName>Dally</persName> would’ve made general officer had he not died from an aneurysm jogging. We tend to pick up more personalities that we dealt with and supporting people.</u>
+      <u who="JAYNE">And we supported a lot of people. We knew a lot of the infantry guys very, very well. <persName ref="#ttu_494_person_59">Frank Henry</persName> for one, he was the XO (Executive Officer) of the <orgName ref="#ttu_494_org_38">2nd of the 7th</orgName>. <persName ref="#ttu_494_person_60">Dally</persName> would’ve made general officer had he not died from an aneurysm jogging. We tend to pick up more personalities that we dealt with and supporting people.</u>
       <u who="NAPOLI">Sure.</u>
       <u who="JAYNE">On the other hand, if you’re a grunt on the line, then the two guys on each side of you, you know, you guys got to stick together. In fact, that’s one of the points I think have more meaning. People don’t fight necessarily for you, but for their country. For all the altruistic things and the bullets flying, they’re fighting for the guys on each side of them.</u>
       <u who="NAPOLI">And who did you fight for?</u>
@@ -132,15 +132,523 @@
       <u who="NAPOLI">And who did you fight for?</u>
       <u who="JAYNE">I don't know, I never thought of it that way. It’s a little different I think in an aircraft, then it is when you’re down there with a guy on each side and the bullets flying. Because you’re in a compartment and you’re certainly trying to take care of everybody in there and the people on the ground and going in and all that, it’s not quite the same thing. I'm not saying that you don’t get scared, you sure as heck get scared in the aircrafts too, but it’s not quite the same thing.</u>
       <u who="NAPOLI">Good.</u>
-      <u who="JAYNE">So I think we fought because we were doing some good over there. And it’s a tremendous disappointment to a lot of us that fought over there and saw a lot of good people lose their lives over there, that we didn’t accomplish what was intended to be accomplished. We didn’t lose the war militarily. We lost the war politically. People like <persName>Hanoi Jane Fonda</persName>. Politicians had decided that the war was no longer popular, therefore they no longer support it. We left a lot of good Vietnamese people. Good people, we left them high and dry. We often left them, our country did and that’s a shame.</u>
+      <u who="JAYNE">So I think we fought because we were doing some good over there. And it’s a tremendous disappointment to a lot of us that fought over there and saw a lot of good people lose their lives over there, that we didn’t accomplish what was intended to be accomplished. We didn’t lose the war militarily. We lost the war politically. People like <persName ref="#ttu_494_person_61">Hanoi Jane Fonda</persName>. Politicians had decided that the war was no longer popular, therefore they no longer support it. We left a lot of good Vietnamese people. Good people, we left them high and dry. We often left them, our country did and that’s a shame.</u>
       <u who="NAPOLI">When did your second tour end? You did two tours?</u>
-      <u who="JAYNE">My second tour started right as <name type="event">Tet ’68</name> ended and ended right as <name type="event">Tet ’69</name> began. So I got a little bit of both, but I didn’t have to go through either one of them. I had a very different tour.</u>
+      <u who="JAYNE">My second tour started right as <name type="event" ref="#ttu_494_event_11">Tet ’68</name> ended and ended right as <name type="event" ref="#ttu_494_event_12">Tet ’69</name> began. So I got a little bit of both, but I didn’t have to go through either one of them. I had a very different tour.</u>
       <u who="NAPOLI">Yeah, I would’ve guessed that it’s a different war that you saw.</u>
-      <u who="JAYNE">Yeah. It was also different—I'm an engineer and an aviator. So when I went back, when it came time to go back they said, “Where do you want to go?” I said, “Well I'm an engineer and aviator. Send me back to some place where I can do as much as can with both skills.” So I was an aviation officer for troops in the <orgName>20th Brigade</orgName> which was <orgName>III</orgName> and <orgName>IV Corps</orgName>, then later on for all engineers in <placeName>Vietnam</placeName>. We supported them. Of course, I changed tactics a little bit. A lot of the pilots that were used to flying fairly conservatively, we flew a lot less conservatively after I came in there. Because I was still used to flying the way we did in the <orgName>Cav</orgName>! I set up a semi-official policy that my young warrants that had never been in combat after six months flying engineers around, then I arranged to swap them with some warrants that had been flying with some of the <orgName>Cav</orgName> squadrons or somewhere else in combat. Bring them up, you know and get them flying a different type of mission and get these guys down to do some war fighting so they got some war stories. Some of them appreciated it, some didn’t. On the first ones I sat down, he was a good pilot and I picked him as one of the first ones because I thought he was a good pilot. I thought that if I were he, I would want to go home and not say I flew engineer colonels around, I’d want to go back and say, “I fought the war in the Delta! I flew a <orgName>Cav</orgName> gunship” and so forth. So I said to him—I think it was one of those <orgName>Cav</orgName> squadrons, he came up to me and said, “Sir, what did I do wrong?” I said, “You didn’t do anything wrong! You did a great job! It’s because of that you know, I'm giving you a chance to go down and really do some great things in a combat unit.” I don’t think he appreciated it. Most of the rest of them did. I don’t think he was a coward; I just don’t think he had the same viewpoint that I thought he would. (Laughs)</u>
+      <u who="JAYNE">Yeah. It was also different—I'm an engineer and an aviator. So when I went back, when it came time to go back they said, “Where do you want to go?” I said, “Well I'm an engineer and aviator. Send me back to some place where I can do as much as can with both skills.” So I was an aviation officer for troops in the <orgName ref="#ttu_494_org_39">20th Brigade</orgName> which was <orgName ref="#ttu_494_org_40">III</orgName> and <orgName ref="#ttu_494_org_41">IV Corps</orgName>, then later on for all engineers in <placeName ref="#ttu_494_place_44">Vietnam</placeName>. We supported them. Of course, I changed tactics a little bit. A lot of the pilots that were used to flying fairly conservatively, we flew a lot less conservatively after I came in there. Because I was still used to flying the way we did in the <orgName ref="#ttu_494_org_42">Cav</orgName>! I set up a semi-official policy that my young warrants that had never been in combat after six months flying engineers around, then I arranged to swap them with some warrants that had been flying with some of the <orgName ref="#ttu_494_org_43">Cav</orgName> squadrons or somewhere else in combat. Bring them up, you know and get them flying a different type of mission and get these guys down to do some war fighting so they got some war stories. Some of them appreciated it, some didn’t. On the first ones I sat down, he was a good pilot and I picked him as one of the first ones because I thought he was a good pilot. I thought that if I were he, I would want to go home and not say I flew engineer colonels around, I’d want to go back and say, “I fought the war in the Delta! I flew a <orgName ref="#ttu_494_org_44">Cav</orgName> gunship” and so forth. So I said to him—I think it was one of those <orgName ref="#ttu_494_org_45">Cav</orgName> squadrons, he came up to me and said, “Sir, what did I do wrong?” I said, “You didn’t do anything wrong! You did a great job! It’s because of that you know, I'm giving you a chance to go down and really do some great things in a combat unit.” I don’t think he appreciated it. Most of the rest of them did. I don’t think he was a coward; I just don’t think he had the same viewpoint that I thought he would. (Laughs)</u>
       <u who="NAPOLI">I'm afraid it’s 3 o’clock and we have to stop. I don’t like doing this!</u>
       <u who="JAYNE">Yeah, I'll tell you I didn’t think I'd go half an hour! I'm surprised I’ve talked for an hour! Yeah, I think that pretty well covered it.</u>
       <u who="NAPOLI">Good. Thank you, sir.</u>
       <u who="JAYNE">Okay.</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_494_place_0">
+        <placeName>Crystal City Hilton</placeName>
+      </place>
+      <place xml:id="ttu_494_place_1">
+        <placeName>Rucker</placeName>
+      </place>
+      <place xml:id="ttu_494_place_2">
+        <placeName>Fort Belvoir</placeName>
+      </place>
+      <place xml:id="ttu_494_place_3">
+        <placeName>Fort Wolters</placeName>
+      </place>
+      <place xml:id="ttu_494_place_4">
+        <placeName>Fort Benning, Georgia</placeName>
+      </place>
+      <place xml:id="ttu_494_place_5">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_494_place_6">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_494_place_7">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_494_place_8">
+        <placeName>Qui Nhon</placeName>
+      </place>
+      <place xml:id="ttu_494_place_9">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_494_place_10">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_494_place_11">
+        <placeName>Golf Course</placeName>
+      </place>
+      <place xml:id="ttu_494_place_12">
+        <placeName>Golf Course</placeName>
+      </place>
+      <place xml:id="ttu_494_place_13">
+        <placeName>Golf Course</placeName>
+      </place>
+      <place xml:id="ttu_494_place_14">
+        <placeName>An Khe Airfield</placeName>
+      </place>
+      <place xml:id="ttu_494_place_15">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_494_place_16">
+        <placeName>LZ (Landing Zone) X-Ray</placeName>
+      </place>
+      <place xml:id="ttu_494_place_17">
+        <placeName>LZ</placeName>
+      </place>
+      <place xml:id="ttu_494_place_18">
+        <placeName>LZ Columbus</placeName>
+      </place>
+      <place xml:id="ttu_494_place_19">
+        <placeName>LZ Albany</placeName>
+      </place>
+      <place xml:id="ttu_494_place_20">
+        <placeName>Albany</placeName>
+      </place>
+      <place xml:id="ttu_494_place_21">
+        <placeName>Florida</placeName>
+      </place>
+      <place xml:id="ttu_494_place_22">
+        <placeName>Cambodia</placeName>
+      </place>
+      <place xml:id="ttu_494_place_23">
+        <placeName>Tuy Hoa</placeName>
+      </place>
+      <place xml:id="ttu_494_place_24">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_494_place_25">
+        <placeName>Plei Me</placeName>
+      </place>
+      <place xml:id="ttu_494_place_26">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_494_place_27">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_494_place_28">
+        <placeName>Happy Valley</placeName>
+      </place>
+      <place xml:id="ttu_494_place_29">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_494_place_30">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="ttu_494_place_31">
+        <placeName>Saigon River</placeName>
+      </place>
+      <place xml:id="ttu_494_place_32">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="ttu_494_place_33">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_494_place_34">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_494_place_35">
+        <placeName>An Khe</placeName>
+      </place>
+      <place xml:id="ttu_494_place_36">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="ttu_494_place_37">
+        <placeName>Marriott hotel</placeName>
+      </place>
+      <place xml:id="ttu_494_place_38">
+        <placeName>Kennedy Center</placeName>
+      </place>
+      <place xml:id="ttu_494_place_39">
+        <placeName>D.C. Armory</placeName>
+      </place>
+      <place xml:id="ttu_494_place_40">
+        <placeName>Kennedy Center</placeName>
+      </place>
+      <place xml:id="ttu_494_place_41">
+        <placeName>Kennedy Center</placeName>
+      </place>
+      <place xml:id="ttu_494_place_42">
+        <placeName>D.C. Armory</placeName>
+      </place>
+      <place xml:id="ttu_494_place_43">
+        <placeName>Fort Hood</placeName>
+      </place>
+      <place xml:id="ttu_494_place_44">
+        <placeName>Vietnam</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_494_event_0">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="ttu_494_event_1">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_2">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_3">
+        <desc>Battle of Plei Me</desc>
+      </event>
+      <event xml:id="ttu_494_event_4">
+        <desc>X-Ray</desc>
+      </event>
+      <event xml:id="ttu_494_event_5">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_6">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_7">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_8">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_9">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_10">
+        <desc>Ia Drang</desc>
+      </event>
+      <event xml:id="ttu_494_event_11">
+        <desc>Tet ’68</desc>
+      </event>
+      <event xml:id="ttu_494_event_12">
+        <desc>Tet ’69</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_494_person_0">
+        <persName>Philip Napoli</persName>
+      </person>
+      <person xml:id="ttu_494_person_1">
+        <persName>Mr. Jayne</persName>
+      </person>
+      <person xml:id="ttu_494_person_2">
+        <persName>Colonel Robert Kennon Jayne</persName>
+      </person>
+      <person xml:id="ttu_494_person_3">
+        <persName>Ken</persName>
+      </person>
+      <person xml:id="ttu_494_person_4">
+        <persName>Bob</persName>
+      </person>
+      <person xml:id="ttu_494_person_5">
+        <persName>Knight</persName>
+      </person>
+      <person xml:id="ttu_494_person_6">
+        <persName>General Batey</persName>
+      </person>
+      <person xml:id="ttu_494_person_7">
+        <persName>Staff Sergeant Austin</persName>
+      </person>
+      <person xml:id="ttu_494_person_8">
+        <persName>Austin</persName>
+      </person>
+      <person xml:id="ttu_494_person_9">
+        <persName>Staff Sergeant Brass</persName>
+      </person>
+      <person xml:id="ttu_494_person_10">
+        <persName>General Batey</persName>
+      </person>
+      <person xml:id="ttu_494_person_11">
+        <persName>Austin</persName>
+      </person>
+      <person xml:id="ttu_494_person_12">
+        <persName>General</persName>
+      </person>
+      <person xml:id="ttu_494_person_13">
+        <persName>Sergeant Austin</persName>
+      </person>
+      <person xml:id="ttu_494_person_14">
+        <persName>Bruce Crandall</persName>
+      </person>
+      <person xml:id="ttu_494_person_15">
+        <persName>Ken Whitesell</persName>
+      </person>
+      <person xml:id="ttu_494_person_16">
+        <persName>Ken</persName>
+      </person>
+      <person xml:id="ttu_494_person_17">
+        <persName>Ken</persName>
+      </person>
+      <person xml:id="ttu_494_person_18">
+        <persName>Ken Whitesell</persName>
+      </person>
+      <person xml:id="ttu_494_person_19">
+        <persName>Bennet</persName>
+      </person>
+      <person xml:id="ttu_494_person_20">
+        <persName>Will Bennet</persName>
+      </person>
+      <person xml:id="ttu_494_person_21">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_22">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_23">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_24">
+        <persName>Ken</persName>
+      </person>
+      <person xml:id="ttu_494_person_25">
+        <persName>Major Bennet</persName>
+      </person>
+      <person xml:id="ttu_494_person_26">
+        <persName>Commander Sergeant Major Scott</persName>
+      </person>
+      <person xml:id="ttu_494_person_27">
+        <persName>John</persName>
+      </person>
+      <person xml:id="ttu_494_person_28">
+        <persName>Don Estes</persName>
+      </person>
+      <person xml:id="ttu_494_person_29">
+        <persName>Dalmore Townson</persName>
+      </person>
+      <person xml:id="ttu_494_person_30">
+        <persName>Don Estes’</persName>
+      </person>
+      <person xml:id="ttu_494_person_31">
+        <persName>Dalmore Townson’s</persName>
+      </person>
+      <person xml:id="ttu_494_person_32">
+        <persName>Will Bennet</persName>
+      </person>
+      <person xml:id="ttu_494_person_33">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_34">
+        <persName>Sergeant Major Scott</persName>
+      </person>
+      <person xml:id="ttu_494_person_35">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_36">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_37">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_38">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_39">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_40">
+        <persName>Will Bennet</persName>
+      </person>
+      <person xml:id="ttu_494_person_41">
+        <persName>Lee Merell</persName>
+      </person>
+      <person xml:id="ttu_494_person_42">
+        <persName>Lee</persName>
+      </person>
+      <person xml:id="ttu_494_person_43">
+        <persName>Lee</persName>
+      </person>
+      <person xml:id="ttu_494_person_44">
+        <persName>Lee</persName>
+      </person>
+      <person xml:id="ttu_494_person_45">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_46">
+        <persName>Dave Hepp</persName>
+      </person>
+      <person xml:id="ttu_494_person_47">
+        <persName>Will’s</persName>
+      </person>
+      <person xml:id="ttu_494_person_48">
+        <persName>Will’s</persName>
+      </person>
+      <person xml:id="ttu_494_person_49">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="ttu_494_person_50">
+        <persName>Lee</persName>
+      </person>
+      <person xml:id="ttu_494_person_51">
+        <persName>Dave</persName>
+      </person>
+      <person xml:id="ttu_494_person_52">
+        <persName>John Kerr</persName>
+      </person>
+      <person xml:id="ttu_494_person_53">
+        <persName>Paul Winkel</persName>
+      </person>
+      <person xml:id="ttu_494_person_54">
+        <persName>Paul</persName>
+      </person>
+      <person xml:id="ttu_494_person_55">
+        <persName>Paul</persName>
+      </person>
+      <person xml:id="ttu_494_person_56">
+        <persName>Bruce Crandall</persName>
+      </person>
+      <person xml:id="ttu_494_person_57">
+        <persName>Bruce</persName>
+      </person>
+      <person xml:id="ttu_494_person_58">
+        <persName>Bruce</persName>
+      </person>
+      <person xml:id="ttu_494_person_59">
+        <persName>Frank Henry</persName>
+      </person>
+      <person xml:id="ttu_494_person_60">
+        <persName>Dally</persName>
+      </person>
+      <person xml:id="ttu_494_person_61">
+        <persName>Hanoi Jane Fonda</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_494_org_0">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="ttu_494_org_1">
+        <orgName>Mississippi State University</orgName>
+      </org>
+      <org xml:id="ttu_494_org_2">
+        <orgName>ROTC (Reserve Officer Training Corps) program</orgName>
+      </org>
+      <org xml:id="ttu_494_org_3">
+        <orgName>Mississippi State</orgName>
+      </org>
+      <org xml:id="ttu_494_org_4">
+        <orgName>24th Aviation Company</orgName>
+      </org>
+      <org xml:id="ttu_494_org_5">
+        <orgName>11th Air Assault Division</orgName>
+      </org>
+      <org xml:id="ttu_494_org_6">
+        <orgName>11th Air Assault Division</orgName>
+      </org>
+      <org xml:id="ttu_494_org_7">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_494_org_8">
+        <orgName>11th Air Assault Division</orgName>
+      </org>
+      <org xml:id="ttu_494_org_9">
+        <orgName>11th Air Assault Division</orgName>
+      </org>
+      <org xml:id="ttu_494_org_10">
+        <orgName>division</orgName>
+      </org>
+      <org xml:id="ttu_494_org_11">
+        <orgName>Charlie Company, 229th Assault Helicopter Battalion</orgName>
+      </org>
+      <org xml:id="ttu_494_org_12">
+        <orgName>101st</orgName>
+      </org>
+      <org xml:id="ttu_494_org_13">
+        <orgName>173rd</orgName>
+      </org>
+      <org xml:id="ttu_494_org_14">
+        <orgName>2nd of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_15">
+        <orgName>Alpha Company</orgName>
+      </org>
+      <org xml:id="ttu_494_org_16">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_494_org_17">
+        <orgName>2nd of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_18">
+        <orgName>2nd of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_19">
+        <orgName>Army Aviation</orgName>
+      </org>
+      <org xml:id="ttu_494_org_20">
+        <orgName>2nd of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_21">
+        <orgName>TAC (Tactical Air Command)</orgName>
+      </org>
+      <org xml:id="ttu_494_org_22">
+        <orgName>Charlie Company’s</orgName>
+      </org>
+      <org xml:id="ttu_494_org_23">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_494_org_24">
+        <orgName>TAC</orgName>
+      </org>
+      <org xml:id="ttu_494_org_25">
+        <orgName>VC (Viet Cong</orgName>
+      </org>
+      <org xml:id="ttu_494_org_26">
+        <orgName>82nd Airborne Division</orgName>
+      </org>
+      <org xml:id="ttu_494_org_27">
+        <orgName>UDT (Underwater Demolition Team)</orgName>
+      </org>
+      <org xml:id="ttu_494_org_28">
+        <orgName>North Vietnamese troops</orgName>
+      </org>
+      <org xml:id="ttu_494_org_29">
+        <orgName>229th Alpha Company</orgName>
+      </org>
+      <org xml:id="ttu_494_org_30">
+        <orgName>Congress</orgName>
+      </org>
+      <org xml:id="ttu_494_org_31">
+        <orgName>Charlie Company 229th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_32">
+        <orgName>Charlie Company 229th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_33">
+        <orgName>Charlie Company</orgName>
+      </org>
+      <org xml:id="ttu_494_org_34">
+        <orgName>229th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_35">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_494_org_36">
+        <orgName>1st Cav</orgName>
+      </org>
+      <org xml:id="ttu_494_org_37">
+        <orgName>2nd Armored Division</orgName>
+      </org>
+      <org xml:id="ttu_494_org_38">
+        <orgName>2nd of the 7th</orgName>
+      </org>
+      <org xml:id="ttu_494_org_39">
+        <orgName>20th Brigade</orgName>
+      </org>
+      <org xml:id="ttu_494_org_40">
+        <orgName>III</orgName>
+      </org>
+      <org xml:id="ttu_494_org_41">
+        <orgName>IV Corps</orgName>
+      </org>
+      <org xml:id="ttu_494_org_42">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_494_org_43">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_494_org_44">
+        <orgName>Cav</orgName>
+      </org>
+      <org xml:id="ttu_494_org_45">
+        <orgName>Cav</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
