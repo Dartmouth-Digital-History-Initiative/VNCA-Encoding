@@ -1,2 +1,6 @@
 id	name	QID	ttu_id	start time	end time	point in time
 ttu_481_event_0	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_481_event_1	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_481_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_481_event_3	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+ttu_481_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
