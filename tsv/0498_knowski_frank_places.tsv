@@ -1,12 +1,12 @@
-id	placeName
-ttu_498_place_0	X-Ray
-ttu_498_place_1	Albany
-ttu_498_place_2	Vietnam
-ttu_498_place_3	X-Ray
-ttu_498_place_4	X-Ray
-ttu_498_place_5	Landing Zone Albany
-ttu_498_place_6	St. Louis
-ttu_498_place_7	D.C.
-ttu_498_place_8	San Jose, California
-ttu_498_place_9	San Mateo
-ttu_498_place_10	Albany
+id	placeName	QID	ttu_id	coordinate location
+ttu_498_place_0	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_498_place_1	LZ Albany	Q110624853		13.59528,107.71528
+ttu_498_place_2	Vietnam	Q881		16,108
+ttu_498_place_3	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_498_place_4	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_498_place_5	LZ Albany	Q110624853		13.59528,107.71528
+ttu_498_place_6	St. Louis	Q38022		38.62638888888889,-90.19944444444444
+ttu_498_place_7	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_498_place_8	San Jose	Q16553		37.304166666667,-121.87277777778
+ttu_498_place_9	San Mateo	Q169943		37.554166666667,-122.31305555556
+ttu_498_place_10	LZ Albany	Q110624853		13.59528,107.71528
