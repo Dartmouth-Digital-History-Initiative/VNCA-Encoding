@@ -1,47 +1,47 @@
-id	placeName
-ttu_490_place_0	Crystal City Hilton Hotel
-ttu_490_place_1	Belton, Texas
-ttu_490_place_2	Fort Hood
-ttu_490_place_3	Iraq
-ttu_490_place_4	Fort Hood
-ttu_490_place_5	Dallas
-ttu_490_place_6	Temple, Texas
-ttu_490_place_7	Foot Hood
-ttu_490_place_8	Temple
-ttu_490_place_9	Vietnam
-ttu_490_place_10	Killeen
-ttu_490_place_11	Fort Hood
-ttu_490_place_12	Houston
-ttu_490_place_13	Houston
-ttu_490_place_14	Cypress Fairbanks
-ttu_490_place_15	Houston
-ttu_490_place_16	Killeen
-ttu_490_place_17	Georgia
-ttu_490_place_18	Fort Benning
-ttu_490_place_19	the wall
-ttu_490_place_20	the wall
-ttu_490_place_21	the wall
-ttu_490_place_22	Washington D.C.
-ttu_490_place_23	the wall
-ttu_490_place_24	the wall
-ttu_490_place_25	the wall
-ttu_490_place_26	the wall
-ttu_490_place_27	the wall
-ttu_490_place_28	the wall
-ttu_490_place_29	the wall
-ttu_490_place_30	South Texas
-ttu_490_place_31	Falfurrias
-ttu_490_place_32	Refugio
-ttu_490_place_33	 Houston Area
-ttu_490_place_34	Texas
-ttu_490_place_35	Houston
-ttu_490_place_36	Houston
-ttu_490_place_37	Vietnam
-ttu_490_place_38	Vietnam
-ttu_490_place_39	Fort Benning
-ttu_490_place_40	Fort Benning
-ttu_490_place_41	the White House
-ttu_490_place_42	Vietnam
-ttu_490_place_43	Vietnam
-ttu_490_place_44	Fort Hood
-ttu_490_place_45	Iraq
+id	placeName	QID	coordinate location
+ttu_490_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980	38.852191,-77.052014
+ttu_490_place_1	Belton	Q744550	31.0589,-97.4633
+ttu_490_place_2	Fort Hood	Q783854	31.1344744,-97.7797191
+ttu_490_place_3	Iraq	Q796	33,43
+ttu_490_place_4	Fort Hood	Q783854	31.1344744,-97.7797191
+ttu_490_place_5	Dallas	Q16557	32.779166666667,-96.808888888889
+ttu_490_place_6	Temple	Q427075	31.0982344,-97.342782
+ttu_490_place_7	Fort Hood	Q783854	31.1344744,-97.7797191
+ttu_490_place_8	Temple	Q427075	31.0982344,-97.342782
+ttu_490_place_9	Vietnam	Q881	16,108
+ttu_490_place_10	Killeen	Q128228	31.105555555556,-97.726666666667
+ttu_490_place_11	Fort Hood	Q783854	31.1344744,-97.7797191
+ttu_490_place_12	Houston	Q16555	29.762777777778,-95.383055555556
+ttu_490_place_13	Houston	Q16555	29.762777777778,-95.383055555556
+ttu_490_place_14	Cypress-Fairbanks Independent School District	Q5200304	29.922661, -95.583977
+ttu_490_place_15	Houston	Q16555	29.762777777778,-95.383055555556
+ttu_490_place_16	Killeen	Q128228	31.105555555556,-97.726666666667
+ttu_490_place_17	Georgia	Q1428	33,-83.5
+ttu_490_place_18	Fort Benning	Q1438462	32.366111111111,-84.969166666667
+ttu_490_place_19	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_20	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_21	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_22	Washington, D.C.	Q61	38.895,-77.036666666667
+ttu_490_place_23	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_24	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_25	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_26	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_27	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_28	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_29	Vietnam Veterans Memorial	Q713628	38.891111111111,-77.047777777778
+ttu_490_place_30	South Texas	Q2393494	28.344824, -98.560894
+ttu_490_place_31	Falfurrias	Q387737	27.224416666667,-98.145194444444
+ttu_490_place_32	Refugio	Q975650	28.305833333333,-97.274722222222
+ttu_490_place_33	Greater Houston	Q426435	29.76278,-95.38306
+ttu_490_place_34	Texas	Q1439	31,-100
+ttu_490_place_35	Houston	Q16555	29.762777777778,-95.383055555556
+ttu_490_place_36	Houston	Q16555	29.762777777778,-95.383055555556
+ttu_490_place_37	Vietnam	Q881	16,108
+ttu_490_place_38	Vietnam	Q881	16,108
+ttu_490_place_39	Fort Benning	Q1438462	32.366111111111,-84.969166666667
+ttu_490_place_40	Fort Benning	Q1438462	32.366111111111,-84.969166666667
+ttu_490_place_41	White House	Q35525	38.897669444444,-77.03655
+ttu_490_place_42	Vietnam	Q881	16,108
+ttu_490_place_43	Vietnam	Q881	16,108
+ttu_490_place_44	Fort Hood	Q783854	31.1344744,-97.7797191
+ttu_490_place_45	Iraq	Q796	33,43
