@@ -1,7 +1,7 @@
-id	name
-ttu_498_event_0	battles of the Ia Drang Valley
-ttu_498_event_1	LZ (Landing Zone) X-Ray
-ttu_498_event_2	Falcon
-ttu_498_event_3	Albany
-ttu_498_event_4	Albany
-ttu_498_event_5	Vietnam
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_498_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_498_event_1	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_498_event_2	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_498_event_3	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_498_event_4	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_498_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
