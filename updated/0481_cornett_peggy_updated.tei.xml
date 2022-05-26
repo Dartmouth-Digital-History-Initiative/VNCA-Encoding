@@ -1,0 +1,636 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_481">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Peggy Cornett</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">ttu_481</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="video" dur-iso="00:41:38">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0481/OH0481.mp4" mimeType="video/mp4"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Phillip Napoli</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0481/OH0481.pdf</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Oral History of the Vietnam Center and Sam Johnson Vietnam Archive</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="CORNETT"/>
+        <person xml:id="NAPOLI"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2005-11-11"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="NAPOLI">I am <persName ref="#ttu_481_person_0">Philip Napoli</persName>, today is <date when="2005-11-11">November 11, 2005</date>. I am speaking with <persName ref="#ttu_481_person_1">Peggy Cornett</persName> at the <placeName ref="#ttu_481_place_0">Crystal City Hilton Hotel</placeName> in <placeName ref="#ttu_481_place_1">Virginia</placeName>. We’re going to be speaking about your brother and your memories of your brother and the aftermath of the <name type="event" ref="#ttu_481_event_1">Ia Drang Valley</name> for you personally. First—</u>
+      <u who="CORNETT">Well I live in <placeName ref="#ttu_481_place_3">Charlottesville, Virginia</placeName> and I work at a historic home in <placeName ref="#ttu_481_place_4">Monticello</placeName>. I'm from <placeName ref="#ttu_481_place_5">North Carolina</placeName> originally and <persName ref="#ttu_481_person_2">Don</persName>, my brother and my sister, Carol also live there but he actually entered the military when we were living in <placeName ref="#ttu_481_place_6">Louisiana</placeName>. We moved around a lot, my father was a lieutenant colonel in the <orgName ref="#ttu_481_org_0">Army</orgName>. My brother was—I'm all over the place here, but my dad was older when I was born so he retired when I was three years old. We still ended up moving around a lot and we ended up living in <placeName ref="#ttu_481_place_7">Louisiana</placeName>. My brother and sister went to <orgName ref="#ttu_481_org_1">McNeese State College</orgName> in <placeName ref="#ttu_481_place_8">Lake Charles</placeName>. He was in the <orgName ref="#ttu_481_org_2">ROTC (Reserve Officers' Training Corps)</orgName> and he was twelve years older than me and he married there and then, after he graduated he joined the <orgName ref="#ttu_481_org_3">military</orgName> as a lieutenant and moved to <placeName ref="#ttu_481_place_9">Fort Benning</placeName>. He was stationed at <placeName ref="#ttu_481_place_10">Fort Benning</placeName> and that’s when you know, they were shipped out to <placeName ref="#ttu_481_place_11">Vietnam</placeName> from there. He had a son; his son had just turned a year old when <persName ref="#ttu_481_person_3">Don</persName> was killed. His birthday was a couple of days ago, <date when="2005-11-09">November 9th</date> so he just turned forty-one. Hard to believe. So I have a lot of memories of my brother. Well, families are always a little screwy anyway, but ours was kind of clouded I guess by the fact that my father was an alcoholic. Which in a sense, <persName ref="#ttu_481_person_4">Don</persName> became like a father figure to me as well as an older brother. Especially because my father was still in <placeName ref="#ttu_481_place_12">Korea</placeName> when I was born, I never really saw him until I was three years old. We were living in <placeName ref="#ttu_481_place_13">Southern Pines</placeName> with my mother, sister and brother. So it was particularly—it was a particular loss I guess, his death was like a double loss for me, I guess. It was also an incredibly traumatic and unfortunate thing to the whole family, our family. I mean you always think of someone’s death bringing people together but ours we all kind of spun off into our own little orbits of grief and tried to deal with it alone. I always said my mother and father kind of made a pact with the devil before my brother left and if he would come back they—some strange reason my dad stopped drinking right before he left and my mother stopped smoking, and then of course right after he died, all those habits start up again even worse. My mother especially was profoundly affected. <persName ref="#ttu_481_person_5">Don</persName> was just her son, her first born. She became very withdrawn and of course my father, his drinking got worse after that. My sister was already living on her own down in <placeName ref="#ttu_481_place_14">Louisiana</placeName>, so she dealt with it kind of in her own place. We were living in <placeName ref="#ttu_481_place_15">North Carolina</placeName> at the time, when <persName ref="#ttu_481_person_6">Don</persName> was killed. Anyway, the first year was very dark.</u>
+      <u who="NAPOLI">How old were you?</u>
+      <u who="CORNETT">I was twelve. Yeah. He don’t—they’d only been there for a couple of months. You know, they went in <date when="1965">August</date>, they were killed in <date when="1965-11">November</date> and I had a real hard time even accepting that he actually died. It was real denial. But I’ll never forget when we found out. My parents were watching a football game. It must’ve been on a weekend, Saturday or Sunday, anyway. The phone rang and I went to answer the phone and it was <persName ref="#ttu_481_person_7">Don</persName>’s wife’s father. Didn’t really ring a bell that this was serious. He said he wanted to speak to my dad. My dad went in and I just felt this kind of energy going between my mother and then he came in and he just said, “He’s gone.” They both started crying and you know my parents were never affectionate with each other, but he went over and sat on the couch and put his arm around her. My mother was just dissolved and sobbing. I was just sitting there, “Who? Who’s gone?” it didn’t really—I didn’t want to accept it I guess. I just remember everything became black in the room. It was—I must’ve fallen in a well or something. It was very—like an incredible storm came over. Anyway, my brother was over—they didn’t really get his body back for a long time. It was several weeks; it was almost Christmas when it came back, so it was this waiting and waiting. They were going to have this big memorial service for him down in <placeName ref="#ttu_481_place_16">Lake Charles</placeName> because he had been student body president, he was a big guy, very well liked. Hundreds of people, you know. We went down there and it just wait, wait and wait until his body got back and of course, I was down there with my family, I was taken out of school. I even got a case of pleurisy, which was very odd. It was just a real dark, dark time, dark winter. Finally, his body came and I don’t know why I have this memory if it’s true, but he was sent on a train and we went to meet the train and there was a military escort with his casket. My memories that his coffin must’ve been in a wooden crate or something and it had “Do not open” stamped on it. I don’t know it seem so—you know like he was luggage or something being shipped. They wouldn’t allow my dad to identify the body because he had decomposed so long, so again that fed into my fantasy that he didn’t really die, that he was over there somewhere. There was this memorial service there in <placeName ref="#ttu_481_place_17">Lake Charles</placeName> and huge thing. The minister—I used to remember his name. Anyway, they were Methodist and he—who married my brother and his wife Silva. He was at the funeral or at the service and then his body was shipped up to <placeName ref="#ttu_481_place_18">Arlington</placeName>. He’s buried in <placeName ref="#ttu_481_place_19">Arlington</placeName>. So we had another you know, a grave side service there. By then, it was quite cold. I’ll never forget also you know the fact that we went to where he was going to buried, there was a whole row of open graves next to his open grave, which was very—just stuck in my mind. Then, for months after that I was really—you know we came back, I finally got back to school, I was just a real outcast. I was weird because no one knew how to approach me. People would come and try to say that they were sorry, but I could tell that people were afraid to talk to me, so I was kind of a loner—I was always kind of a loner, but I really became a loner then. I started having terrible nightmares for a long time of—couple I really remember vividly to this day, I wanted to dig his grave up to look at him. I was just digging, trying to dig his grave up and I woke up and my hands were clinched so tight. My nails were dug into my hands and then another one—I was in <placeName ref="#ttu_481_place_20">Vietnam</placeName> and I was in this field, a place with tall grass and I didn’t really know all this was what the scene was like when he was killed, but there was tall grass and all of the sudden it parted and there was a <orgName ref="#ttu_481_org_4">Vietcong</orgName>—he was there and shot me in the face and I fell back and it was like I went into the sky or the stars. Then, I kind of opened my eyes again and I was in a room, there was a casket it the room and I walked up to the casket and looked inside and of course I was in the casket, but half my face was gone and I sort of jump back, looked around me and the room was full of mirrors and I was not reflected in the mirrors. It was just a horrifying dream that I mean—I was screaming. That first year was very hard. My mother as I said, she just went off on her own—and this is before people sent you to therapy and that sort of thing. (Laughs) You just dealt with it, you know. But she did deal with it in the spring, I’ll never forget. All of the sudden she just started disappearing and we realized that she had gone out in the back—we had an acre of land; it was a long narrow acre. She’d gone out into the backyard and started planting a garden and she really got into that garden, I’ll never forget. Because she grew up on a farm and they were self-sufficient. Her father was—incredible family. He had ten kids and lived out in <placeName ref="#ttu_481_place_21">West Virginia</placeName>. She was a gardener, but she kind of took it up again and I remember going down there and just kind of being with her in the garden. We wouldn’t even talk, I just kind of helped her you know, weeding or planting or whatever. We starting coming little-by-little, kind of coming out it that spring, I guess. At least back to the living, back to somehow going on, so that was a real positive. I mean it had a profound effect on my life because I went on and studied botany in college and horticulture and that’s what I do as a profession, I'm a director of a plant center in <placeName ref="#ttu_481_place_22">Monticello</placeName>. So gardening really became my vocation and it really grew out of that I think—even today when I dig, there’s something about the soil it connects me to that time. Anyway, is it okay I just keep rambling on? (Laughs)</u>
+      <u who="NAPOLI">You’re doing great! You’re doing absolutely great!</u>
+      <u who="CORNETT">Well, all the stuff just kind of on bubbling up here. There were some other things I wanted to say about that time. Anyway, I don’t know if I can get in on all that but, it was a year—over a year later it was in <date when="1967-01">January of 1967</date>. So that must’ve been—it was a year and several months later. We were sitting at the dinner table, my dad was reading, seemed kind of sober at the time and he was reading the Saturday evening post and he was very intent on it he was just really studying this while we were eating dinner and he just kept flipping. Then he said, “This is about <persName ref="#ttu_481_person_9">Don</persName>.” It was an article that described the whole battle. It was actually written by <persName ref="#ttu_481_person_10">Jack Smith</persName> and I brought it (Laughs) a copy of it because I—reading this article made me finally accept that this really happened because he talks about my brother in this article. <persName ref="#ttu_481_person_11">Jack</persName> was probably the last person to see my brother alive.</u>
+      <u who="NAPOLI">Could you tell me where in the article?</u>
+      <u who="CORNETT">It’s sort of near the beginning. He talks about the XO (Executive Officer). </u>
+      <u who="NAPOLI">Yes.</u>
+      <u who="CORNETT">That was my brother and it’s an amazing article, I think. <persName ref="#ttu_481_person_12">Jack</persName> was like twenty years old when he wrote it. He had been injured, I guess you know the whole thing. Anyway, I wrote something about it, <persName ref="#ttu_481_person_13">Jack</persName> died last year. Well, I always kept it, reading his article had an incredible impact in my life. So like in the early nineties, when <persName ref="#ttu_481_person_14">Joe Galloway</persName>’s book came out came and there was this big hoopla about it. Something came out in <orgName ref="#ttu_481_org_5">US News and World Today</orgName>, big thing about the whole battle. They kind of took excerpts and they interviewed <persName ref="#ttu_481_person_15">Jack</persName> and they had that whole scene in this article, “Death in the Tall Grass”. Which I think is a great title. Better in some ways than We Were Soldiers…Once. Anyway, he’s my brother here, this picture of <persName ref="#ttu_481_person_16">Jack</persName>. But they used my brother’s name in this article and this thing that <persName ref="#ttu_481_person_17">Jack</persName> wrote is really amazing because you know there’s no photography, there’s drawings, no names were used. It’s very interesting the way it was written. So here they have my brother’s name and it was really quite touching and again, it just brought this whole article back into my mind. <persName ref="#ttu_481_person_18">Jack</persName> was working for <orgName ref="#ttu_481_org_7">ABC News</orgName> at the time, so I kind of just mustered up the courage and wrote him a letter, I didn’t know if it would ever even get to him. But it did and he called me immediately and yeah, it was <date>1992</date>. He called me and asked me to meet him for lunch. I came up, and it was just this “Wow”. You know, <persName ref="#ttu_481_person_19">Jack Smith</persName>. You know, I went to his office and all this stuff and then he said, “You know, there’s this reunion that happens every year and it might be a kind of a healing thing, something that you would like to attend.” So I did, I came. Actually, I have come <date>almost every year</date> since, to this reunion and so—but I’ll never forget the first time I walked into the—it was in another hotel and I walk in and there’s just a few other guys were sitting there. I came in and I said my name and they looked at me and it was like they were looking like a ghost because I kind of look like my brother. We have similar features and it just blew their minds. I keep in touch with these guys, we’re like on this email loop with all the jokes and all that stuff. So it’s been very, I don’t know, I’ve just become their friends, I guess one of the guys. Anyway, I was so sad when <persName ref="#ttu_481_person_21">Jack</persName> died. It’s weird because my father died of pancreatic cancer too. It was just so sad and I wrote this about <persName ref="#ttu_481_person_22">Jack</persName> right after he died. I don’t know if I should read it?</u>
+      <u who="NAPOLI">Yeah, I would like it if you would.</u>
+      <u who="CORNETT">Okay. Still needs a lot of work.(Editor’s note: Interviewee reads from a document.) <persName ref="#ttu_481_person_23">Jack Smith</persName>, a personal story and the legacy he left. <persName ref="#ttu_481_person_24">Jack Smith</persName>’s story “Death in the Ia Drang Valley”, about <placeName ref="#ttu_481_place_23">America</placeName>’s earliest major battle of the <name type="event" ref="#ttu_481_event_0">Vietnam War</name> appeared in the <date when="1967-01">January 1967</date> issue of the <orgName ref="#ttu_481_org_8">Saturday Evening Post</orgName>. This is what war reporting looked like in those days. With no photography or accounts from embedded correspondents on the front lines, only words with crude and gruesome black and white drawings painted the scene. No soldiers names were revealed, only titles and ranks. No instantaneous footage of burning bodies and screaming adversaries. This was published over a year after the event, almost an afterthought. The magazine arrived along with a regular mail at our home in <placeName ref="#ttu_481_place_24">North Carolina</placeName>. I can still see my father quietly reading the story in the dim light at the dinner table one winter evening and hear him whisper, “This must be about <persName ref="#ttu_481_person_25">Don</persName>.” As he flips the pages. Even without my brother’s name, my father knew immediately by the date, battle, and the rank that the lieutenant, the XO, was his only son. I was a child when all this took place, but old enough to grasp the magnitude of the event because my brother was mortally wounded at <persName ref="#ttu_481_person_26">Jack</persName>’s side as they lay side-by-side in the tall grass. Until then, I had many ways of denying that <persName ref="#ttu_481_person_27">Don</persName> ever died. His decomposing body was not returned for burial for nearly a month and despite my father’s insistence and protest, no one was allowed to identify it. I had watched the sealed coffin flag draped, poised next to a row of open graves at <placeName ref="#ttu_481_place_25">Arlington</placeName> in utter disbelief. It took <persName ref="#ttu_481_person_28">Jack</persName>’s own stark description, his very words for me to finally accept the truth. I sequestered that issue of the <orgName ref="#ttu_481_org_9">Saturday Evening Post</orgName> under my bed where I hid my father’s <orgName ref="#ttu_481_org_10">Argosy</orgName> and <orgName ref="#ttu_481_org_11">Playboy</orgName> magazines and in the weeks and months after we first read <persName ref="#ttu_481_person_29">Jack</persName>’s wrenching story, I reread parts of it many, many times. And if eyes could bore through print and paper, mine would have vaporized completely the magazine’s glossy pages. Parts of <persName ref="#ttu_481_person_30">Jack</persName>’s account were eerily familiar in my morbid imagining and nightmares following <persName ref="#ttu_481_person_31">Don</persName>’s death. I’d even dreamed of the rustling grass, of parting the blades and shooting a man in the face and watching the face disappear. But there were other parts that were not expected and that had affected me profoundly through my life. “Then the XO screamed” <persName ref="#ttu_481_person_32">Jack</persName> wrote. A bullet had gone through his boot, taking all of his toes with it. He was in agony and crying. It’s funny how certain images stick in your mind. All his toes. It was not the killing bullet, not the one that hit seconds earlier and was already lodged in the small of his back. He would’ve lived if this were all there was, he would’ve had a limp and a cane or perhaps a wooden foot, but he would’ve walked away from that terrible place. All of his toes. It’s funny how an image gets stick in your mind. <persName ref="#ttu_481_person_33">Don</persName> in a chair wearing bright white socks, intently polishing his boots one sultry August night, the last night my parents, older sister, and I would ever see him. All his toes in still intact. All his toes. It’s funny how we can obsess over seemingly innocent moments. <persName ref="#ttu_481_person_34">Don</persName> holding the soft chubby toes of his infant son splashing in the bath, as he surely must have done before shipping out along with all the others from <placeName ref="#ttu_481_place_26">Fort Benning, Georgia</placeName>. Leaving behind his wife and child, one sultry August night. Curiously an obituary about <persName ref="#ttu_481_person_35">Jack</persName> in the <orgName ref="#ttu_481_org_12">Washington Post</orgName> picked out this one scene. The author writes, “Enemy bullets suddenly transformed three commanding officers into desperate men. Crying in agony about toes that had been shot off.” This was true, but the reporter missed the rest of the story, the gift that <persName ref="#ttu_481_person_36">Jack</persName> gave to me. In <persName ref="#ttu_481_person_37">Jack</persName>’s story, the scene continues. For my brother somehow managed to crawl off into the tall grass to rally the troops and <persName ref="#ttu_481_person_38">Jack</persName> found courage in his act. “It was his positive decision to do something,” <persName ref="#ttu_481_person_39">Jack</persName> wrote, “that reinforced my own will to go on.” I saw that in my brother’s last effort, <persName ref="#ttu_481_person_40">Jack</persName> found the strength to snap out of his own battle trauma to keep fighting and to live. Although <persName ref="#ttu_481_person_41">Jack</persName>’s account haunted my youth in many ways, with time it also gave me a sense of strength, purpose and clarity. Through <persName ref="#ttu_481_person_42">Jack</persName>’s words, my big brother became even more than a courageous and heroic but untouchable icon of my imagination. I came to understand that he was a fragile human being, barley an adult, who instinctively managed to do something very human and wonderful as he died. <persName ref="#ttu_481_person_43">Jack</persName> endured many brutal and agonizing deaths that day and onto the night. This was just one. The awesome power of journalism is often not without unexpected long-term impact and unsettling repercussions. In his life and actions, <persName ref="#ttu_481_person_44">Jack</persName> proved himself not only a worthy soldier on the battlefield, but also reporter worthy on the tremendous responsibility inherent in the profession he would ultimately embrace.(Editor’s note: Document ends, interview resumes.)</u>
+      <u who="NAPOLI">It’s wonderful.</u>
+      <u who="CORNETT">Yes, it still needs a little work. (Chuckles) Anyway, it’s kind of crazy in a way—it’s funny how I was just trying to capture how I couldn’t let go of him dying. It was very graphic.</u>
+      <u who="NAPOLI">I know, I know the article.</u>
+      <u who="CORNETT">Also, we knew that he suffered. But to clarify that, he did suffer and he knew he was dying. It was—his wife remarried within the year after he died, she just had to have a husband, you know. It was kind of in those days. To take care of her, but my dad, he never liked her anyway. (Chuckles) So he really just cut off. But my mother kept trying to keep in touch because she wanted to know <persName ref="#ttu_481_person_45">Don</persName>’s son, you know. She did do that over the years. Especially, my dad died in <date when="1978">’78</date>, but mother kind of slowly got the connection back there and we—I still, I'm not very close to Kevin but I at least am connected to him. That’s about the only connection, our family has kind of dwindled away. I guess you always think about what my life would’ve been like if <persName ref="#ttu_481_person_46">Don</persName> had lived and how different I would be. How different our whole family might’ve been. I mean, it is what it is. That’s it. I don’t know what else to say. </u>
+      <u who="NAPOLI">You brought other things, could you tell us about the other things that you brought? I mean there’s more than one thing in your hand.</u>
+      <u who="CORNETT">Yeah, I brought the article and the thing from the <orgName ref="#ttu_481_org_13">US News and World Today</orgName>. I think he really acknowledged <persName ref="#ttu_481_person_47">Don</persName> in this article, <persName ref="#ttu_481_person_48">Jack</persName> did and a picture of him is just great of <persName ref="#ttu_481_person_49">Jack</persName> when he was eighteen years old I think. But he really said outright how <persName ref="#ttu_481_person_50">Don</persName> gave him the will to go on because he was in shock and there’s more about him here. Then I also brought—well, after the movie came out, We Were Soldiers and this kind of all brought, you know articles in reaction to the movie. I guess this was sent to us from—it was in a newspaper or somewhere. It showed, it talked about if—I guess it was from <placeName ref="#ttu_481_place_27">Lake Charles</placeName> and it talked about <persName ref="#ttu_481_person_51">Don</persName> who was a local casualty. The movie brings back memories of him and they talk about him here and there’s a picture of him. This was a picture that I will always remember because it was from his yearbook, when he was a cadet colonel in the <orgName ref="#ttu_481_org_14">ROTC</orgName>. Then there’s a picture of him, says it’s in the <orgName ref="#ttu_481_org_15">McNeese State University</orgName> archives, which is kind of a neat picture of <persName ref="#ttu_481_person_52">Don</persName> in full battle gear. There’s another thing that was given to me just a few years ago. Brigham, <persName ref="#ttu_481_person_53">Jim Brigham</persName>. Have you talked to him?</u>
+      <u who="NAPOLI">I know the name, but I have not spoken with him personally.</u>
+      <u who="CORNETT">He’s been coming to these things for years too and he had a video clip of <persName ref="#ttu_481_person_54">Don</persName>. Just a real brief thing it’s sort of like the length of time you always see, what’s that thing out in the <placeName ref="#ttu_481_place_28">Pacific northwest</placeName>, bigfoot?</u>
+      <u who="NAPOLI">Bigfoot? (Chuckles) Like a little flash that goes by?</u>
+      <u who="CORNETT">(Laughs) Yeah, it’s like this little—it’s real primitive and it’s like in the middle of this real long—apparently they had one of those cameras over there and they were just shooting out of the helicopters and it’s goes on and on and you’re looking at scenery. It was just for hours and all of the sudden, there’s this little middle section there and it’s of the guys building a temporary hut or building. It’s just for a few moments I see <persName ref="#ttu_481_person_55">Don</persName> in there, but it’s funny how seeing something like that it’s like you don’t expect that to happen, but I forgot how he used to carry himself and kind of his building. He wasn’t really all that—he was tall but they were other guys that were taller than him. At one point, he looked over, he really wasn’t looking at the camera, but he was kind of just looking in that direction. He used to get this look in his face. He was kidding around but he would look like he was looking serious and he did that and god, that was so amazing because I just remember when I was six years old and he used to give me that look and yeah. He was—he did a lot of things when I was a kid. I remember, you know, I couldn’t have been more than six years old because we were living in <placeName ref="#ttu_481_place_29">Florida</placeName> and he had just learned how to drive. He drove me around his lap, let me steer. When he was in—he also learned how to, he got his pilot’s license I guess before, maybe in college. Anyway, he took me up in his little plane and let me take over the—</u>
+      <u who="NAPOLI">Oh my.</u>
+      <u who="CORNETT">(Laughs) I pull and we’re going straight up and then we’re going straight down and he was laughing and laughing. I was like freaked out, but then it kind of settled out. I guess he had it all under control. I was probably like ten at that point. It was very, kind of surreal memories. Obviously, he’s kind of idealized in these images that I have of him, but he was a good guy, he was such a good hearted, funny guy. The guys loved him, his comrades in <placeName ref="#ttu_481_place_30">Vietnam</placeName>. They all just, you know they say that he was their best friend. He had—he affected people. I think all of his comrades really took it hard too, to lose someone is like unbelievable. The whole <name type="event" ref="#ttu_481_event_2">Vietnam</name>, you know I was still so young and I really didn’t understand a lot about it and it was still so early and then of course it went on for about ten years. By then, I was grown up. All of my friends were antiwar and all that peace stuff. I was kind of part of that too, but I never really could go with it completely because I felt like I was being—not really acknowledging <persName ref="#ttu_481_person_56">Don</persName> and what he did to sacrifice. So it took a long time to kind of move away from all that, but it was strange times then. It was a long war.</u>
+      <u who="NAPOLI">That hasn’t ended.</u>
+      <u who="CORNETT">Yeah, (Chuckles) that’s right. It’s still—it’s just so funny, weird or creepy, I guess. You know in <name type="event" ref="#ttu_481_event_3">Iraq</name>, you know it’s like, “We don’t want this to turn into another <name type="event" ref="#ttu_481_event_4">Vietnam</name>, you know.” It’s conjured up as this bad war, or this bad event. We didn’t win. That kind of mentality, I guess kind of followed me. They talk about vets when they came back at that time, they were shunned and they weren’t given any kind of acknowledgment like they do now. I felt that way too, it was almost—maybe not embarrassed, but I just didn’t want to talk about it. It was really hard to even say my brother’s name to people for years. It’s just sticking my—it was very emotional. Now, in some ways I almost feel a little angry. When I watch tv, I watch news a lot and everything and it’s just this instantaneous saying where they’re family is all—everybody knows about them now. Like, no one knew about us. They showed when they were coming home, none of that was really done back then. It was just a whole different mindset I guess.</u>
+      <u who="NAPOLI">Do you think it would’ve helped?</u>
+      <u who="CORNETT">That’s a good question. (Laughs) I think it would’ve made me feel validated you know, what he did. I guess I never really thought that he died in vain, but it was just a tragic event. It was really unfortunate. It would’ve been—I don’t know, I'm not really into the celebrity of victimhood sort of thing.</u>
+      <u who="NAPOLI">But some acknowledgment of your grief would’ve been a good thing?	</u>
+      <u who="CORNETT">It would’ve been a good thing, yeah. Like I said, that first year was very—it really affected my personality after, all through school. I was a real outsider, kind of a loner. Even when years went by and I kind of felt that students didn’t really remember that I have this history or whatever. I just kind of became this other person I guess, it took a long time. I kind of associated with—I latched onto one other friend and she and I are real outsiders because she had a lot family issues and problems too. My sister was only two years younger than <persName ref="#ttu_481_person_57">Don</persName>. She’d have whole different interview because they grew up together, went to the same college together and they were really close. <persName ref="#ttu_481_person_58">Don</persName> was a lot more distant for me as far as time and age and everything. So my sister, she was always a pretty strong person, stronger in some ways than me. It was really hard on her too. My dad became pretty bitter. He never really snapped out of it. I mean, I wouldn’t say he became like—I don’t know, he was just very, very angry and bitter about what happened.</u>
+      <u who="NAPOLI">Distant from you I guess?</u>
+      <u who="CORNETT">Oh yeah. He was, like I said was an alcoholic and that was something that was always kind of a big secret. <persName ref="#ttu_481_person_59">Don</persName> really kind of buffered him because he was really violent too. There were times when he kind of intervened when my dad was trying to beat up my mother. I was sort of this, why does evil survive and good die? It just didn’t seem fair to me that <persName ref="#ttu_481_person_60">Don</persName> would die and dad would live. In the end, he was sort of a sad person, my dad. I felt sorry for him in the end. I can’t think of anything more to say.</u>
+      <u who="NAPOLI">Okay.</u>
+      <u who="CORNETT">I think I said too much already.</u>
+      <u who="NAPOLI">All right. Well we can stop.</u>
+      <u who="CORNETT">I appreciate it.(End of interview.)</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_481_place_0">
+        <placeName>Hilton Crystal City at Washington Reagan National Airport</placeName>
+        <location>
+          <geo>38.852191 -77.052014</geo>
+        </location>
+        <idno type="WD">Q110624980</idno>
+      </place>
+      <place xml:id="ttu_481_place_1">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="ttu_481_place_3">
+        <placeName>Charlottesville</placeName>
+        <location>
+          <geo>38.0299 -78.479</geo>
+        </location>
+        <idno type="WD">Q123766</idno>
+      </place>
+      <place xml:id="ttu_481_place_4">
+        <placeName>Monticello</placeName>
+        <location>
+          <geo>38.008889 -78.453333</geo>
+        </location>
+        <idno type="WD">Q199618</idno>
+      </place>
+      <place xml:id="ttu_481_place_5">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="ttu_481_place_6">
+        <placeName>Louisiana</placeName>
+        <location>
+          <geo>31 -92</geo>
+        </location>
+        <idno type="WD">Q1588</idno>
+      </place>
+      <place xml:id="ttu_481_place_7">
+        <placeName>Louisiana</placeName>
+        <location>
+          <geo>31 -92</geo>
+        </location>
+        <idno type="WD">Q1588</idno>
+      </place>
+      <place xml:id="ttu_481_place_8">
+        <placeName>Lake Charles</placeName>
+        <location>
+          <geo>30.214722222222 -93.208611111111</geo>
+        </location>
+        <idno type="WD">Q864106</idno>
+      </place>
+      <place xml:id="ttu_481_place_9">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_481_place_10">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_481_place_11">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_481_place_12">
+        <placeName>South Korea</placeName>
+        <location>
+          <geo>36  128</geo>
+        </location>
+        <idno type="WD">Q884</idno>
+      </place>
+      <place xml:id="ttu_481_place_13">
+        <placeName>Southern Pines</placeName>
+        <location>
+          <geo>35.181944  -79.398333</geo>
+        </location>
+        <idno type="WD">Q2028106</idno>
+      </place>
+      <place xml:id="ttu_481_place_14">
+        <placeName>Louisiana</placeName>
+        <location>
+          <geo>31  -92</geo>
+        </location>
+        <idno type="WD">Q1588</idno>
+      </place>
+      <place xml:id="ttu_481_place_15">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="ttu_481_place_16">
+        <placeName>Lake Charles</placeName>
+        <location>
+          <geo>30.214722  -93.208611</geo>
+        </location>
+        <idno type="WD">Q864106</idno>
+      </place>
+      <place xml:id="ttu_481_place_17">
+        <placeName>Lake Charles</placeName>
+        <location>
+          <geo>30.214722  -93.208611</geo>
+        </location>
+        <idno type="WD">Q864106</idno>
+      </place>
+      <place xml:id="ttu_481_place_18">
+        <placeName>Arlington National Cemetery</placeName>
+        <location>
+          <geo>38.879167  -77.072222</geo>
+        </location>
+        <idno type="WD">Q216344</idno>
+      </place>
+      <place xml:id="ttu_481_place_19">
+        <placeName>Arlington National Cemetery</placeName>
+        <location>
+          <geo>38.879167  -77.072222</geo>
+        </location>
+        <idno type="WD">Q216344</idno>
+      </place>
+      <place xml:id="ttu_481_place_20">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_481_place_21">
+        <placeName>West Virginia</placeName>
+        <location>
+          <geo>39  -80.5</geo>
+        </location>
+        <idno type="WD">Q1371</idno>
+      </place>
+      <place xml:id="ttu_481_place_22">
+        <placeName>Monticello</placeName>
+        <location>
+          <geo>38.008889  -78.453333</geo>
+        </location>
+        <idno type="WD">Q199618</idno>
+      </place>
+      <place xml:id="ttu_481_place_23">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175  -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_481_place_24">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="ttu_481_place_25">
+        <placeName>Arlington National Cemetery</placeName>
+        <location>
+          <geo>38.87916666666667 -77.07222222222222</geo>
+        </location>
+        <idno type="WD">Q216344</idno>
+      </place>
+      <place xml:id="ttu_481_place_26">
+        <placeName>Fort Benning</placeName>
+        <location>
+          <geo>32.366111111111 -84.969166666667</geo>
+        </location>
+        <idno type="WD">Q1438462</idno>
+      </place>
+      <place xml:id="ttu_481_place_27">
+        <placeName>Lake Charles</placeName>
+        <location>
+          <geo>30.214722222222 -93.208611111111</geo>
+        </location>
+        <idno type="WD">Q864106</idno>
+      </place>
+      <place xml:id="ttu_481_place_28">
+        <placeName>Pacific Northwest</placeName>
+        <location>
+          <geo>45.8288 -120.32227</geo>
+        </location>
+        <idno type="WD">Q12603</idno>
+      </place>
+      <place xml:id="ttu_481_place_29">
+        <placeName>Florida</placeName>
+        <location>
+          <geo>28.133333333333 -81.631666666667</geo>
+        </location>
+        <idno type="WD">Q812</idno>
+      </place>
+      <place xml:id="ttu_481_place_30">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_481_event_0" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_481_event_1" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_481_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="ttu_481_event_3" from-iso="2003-03-20T00:00:00Z" to-iso="2011-12-15T00:00:00Z">
+        <desc>Iraq War</desc>
+        <idno type="WD">Q545449</idno>
+      </event>
+      <event xml:id="ttu_481_event_4" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_481_person_0">
+        <persName>Philip F. Napoli</persName>
+        <idno type="WD">Q111599207</idno>
+      </person>
+      <person xml:id="ttu_481_person_1">
+        <persName>Peggy Cornett</persName>
+        <idno type="WD">Q111846229</idno>
+      </person>
+      <person xml:id="ttu_481_person_2">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_3">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_4">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_5">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_6">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_7">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_9">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_10">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_11">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_12">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_13">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_14">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_481_person_15">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_16">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_17">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_18">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_19">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_21">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_22">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_23">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_24">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_25">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_26">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_27">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_28">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_29">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_30">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_31">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_32">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_33">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_34">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_35">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_36">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_37">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_38">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_39">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_40">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_41">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_42">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_43">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_44">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_45">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_46">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_47">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_48">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_49">
+        <persName>Jack Smith</persName>
+        <idno type="WD">Q15486512</idno>
+      </person>
+      <person xml:id="ttu_481_person_50">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_51">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_52">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_53">
+        <persName>James S. Brigham</persName>
+        <idno type="WD">Q111658774</idno>
+      </person>
+      <person xml:id="ttu_481_person_54">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_55">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_56">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_57">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_58">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_59">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+      <person xml:id="ttu_481_person_60">
+        <persName>Don Cornett</persName>
+        <idno type="WD">Q111844576</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_481_org_0">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_481_org_1">
+        <orgName>McNeese State University</orgName>
+        <idno type="WD">Q634396</idno>
+      </org>
+      <org xml:id="ttu_481_org_2">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="ttu_481_org_3">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="ttu_481_org_4">
+        <orgName>People's Liberation Armed Forces of South Vietnam</orgName>
+        <idno type="WD">Q10810255</idno>
+      </org>
+      <org xml:id="ttu_481_org_5">
+        <orgName>U.S. News &amp; World Report</orgName>
+        <idno type="WD">Q848629</idno>
+      </org>
+      <org xml:id="ttu_481_org_7">
+        <orgName>ABC News</orgName>
+        <idno type="WD">Q287171</idno>
+      </org>
+      <org xml:id="ttu_481_org_8">
+        <orgName>The Saturday Evening Post</orgName>
+        <idno type="WD">Q2302345</idno>
+      </org>
+      <org xml:id="ttu_481_org_9">
+        <orgName>The Saturday Evening Post</orgName>
+        <idno type="WD">Q2302345</idno>
+      </org>
+      <org xml:id="ttu_481_org_10">
+        <orgName>Argosy</orgName>
+        <idno type="WD">Q649812</idno>
+      </org>
+      <org xml:id="ttu_481_org_11">
+        <orgName>Playboy</orgName>
+        <idno type="WD">Q150820</idno>
+      </org>
+      <org xml:id="ttu_481_org_12">
+        <orgName>The Washington Post</orgName>
+        <idno type="WD">Q166032</idno>
+      </org>
+      <org xml:id="ttu_481_org_13">
+        <orgName>U.S. News &amp; World Report</orgName>
+        <idno type="WD">Q848629</idno>
+      </org>
+      <org xml:id="ttu_481_org_14">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="ttu_481_org_15">
+        <orgName>McNeese State University</orgName>
+        <idno type="WD">Q634396</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
