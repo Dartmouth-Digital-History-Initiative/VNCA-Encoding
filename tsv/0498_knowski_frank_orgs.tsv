@@ -1,8 +1,8 @@
-id	orgName
-ttu_498_org_0	Alpha Company, 1st of the 5th
-ttu_498_org_1	North Vietnamese
-ttu_498_org_2	North Vietnamese
-ttu_498_org_3	Air Force
-ttu_498_org_4	Air Force
-ttu_498_org_5	North Vietnamese
-ttu_498_org_6	IBM
+id	orgName	QID	ttu_id
+ttu_498_org_0	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_498_org_1	People's Army of Vietnam	Q3936506	
+ttu_498_org_2	People's Army of Vietnam	Q3936506	
+ttu_498_org_3	United States Air Force	Q11223	
+ttu_498_org_4	United States Air Force	Q11223	
+ttu_498_org_5	People's Army of Vietnam	Q3936506	
+ttu_498_org_6	IBM	Q37156	
