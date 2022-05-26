@@ -1,75 +1,75 @@
-id	persName
-ttu_492_person_0	Phil Napoli
-ttu_492_person_1	Edward Times
-ttu_492_person_2	Edward Lee Times
-ttu_492_person_3	General Moore
-ttu_492_person_4	Captain John D. Herren
-ttu_492_person_5	General Moore
-ttu_492_person_6	Ronald Sisson
-ttu_492_person_7	General Moore
-ttu_492_person_8	Sergeant Major
-ttu_492_person_9	General
-ttu_492_person_10	Hal Moore
-ttu_492_person_11	Hal Moore
-ttu_492_person_12	Colonel Moore
-ttu_492_person_13	sergeant major
-ttu_492_person_14	Colonel Moore
-ttu_492_person_15	Sergeant Montgomery
-ttu_492_person_16	Times
-ttu_492_person_17	Colonel Moore
-ttu_492_person_18	Colonel Moore
-ttu_492_person_19	Colonel Moore
-ttu_492_person_20	Times
-ttu_492_person_21	Colonel
-ttu_492_person_22	Colonel Moore
-ttu_492_person_23	Perkins
-ttu_492_person_24	Times
-ttu_492_person_25	Jim Gooden
-ttu_492_person_26	Jim Gooden
-ttu_492_person_27	Sam Elliott
-ttu_492_person_28	Sam Elliott
-ttu_492_person_29	Jim Gooden
-ttu_492_person_30	Hal Moore
-ttu_492_person_31	Ron Sisson
-ttu_492_person_32	Galloway
-ttu_492_person_33	Times
-ttu_492_person_34	Momma Julie
-ttu_492_person_35	Galloway
-ttu_492_person_36	Momma Julie
-ttu_492_person_37	McKinney
-ttu_492_person_38	John McKinney
-ttu_492_person_39	general
-ttu_492_person_40	Mike
-ttu_492_person_41	Julie Moore
-ttu_492_person_42	Hal
-ttu_492_person_43	sergeant major
-ttu_492_person_44	Sam Elliott
-ttu_492_person_45	Matt Dillon
-ttu_492_person_46	Jennifer
-ttu_492_person_47	Bill Beck
-ttu_492_person_48	Joe Galloway
-ttu_492_person_49	General Shinseki
-ttu_492_person_50	Freddy Owens
-ttu_492_person_51	John
-ttu_492_person_52	Jessie Hernandez
-ttu_492_person_53	Hernandez
-ttu_492_person_54	Jessie Hernandez
-ttu_492_person_55	Mitchell
-ttu_492_person_56	Mitchell
-ttu_492_person_57	Jessie Hernandez
-ttu_492_person_58	Jessie Hernandez
-ttu_492_person_59	Bob Barker
-ttu_492_person_60	Jim Gooden
-ttu_492_person_61	Martin
-ttu_492_person_62	Sergeant Milligan
-ttu_492_person_63	Kevin Milligan
-ttu_492_person_64	Emile Gunderson
-ttu_492_person_65	General Moore
-ttu_492_person_66	General Peterson
-ttu_492_person_67	Sam Elliott
-ttu_492_person_68	Maury Drummond
-ttu_492_person_69	Kathleen Blanco
-ttu_492_person_70	Charles T. Smith
-ttu_492_person_71	Sergeant major
-ttu_492_person_72	Captain Herren
-ttu_492_person_73	Jack
+id	persName	QID	ttu_id
+ttu_492_person_0	Philip F. Napoli	Q111599207	
+ttu_492_person_1	Edward Times	Q112134953	
+ttu_492_person_2	Edward Times	Q112134953	
+ttu_492_person_3	Hal Moore	Q430209	
+ttu_492_person_4	John D. Herren	Q111678638	
+ttu_492_person_5	Hal Moore	Q430209	
+ttu_492_person_6	Ronald Sisson	Q112134987	
+ttu_492_person_7	Hal Moore	Q430209	
+ttu_492_person_8	Basil L. Plumley	Q2535583	
+ttu_492_person_9	Hal Moore	Q430209	
+ttu_492_person_10	Hal Moore	Q430209	
+ttu_492_person_11	Hal Moore	Q430209	
+ttu_492_person_12	Hal Moore	Q430209	
+ttu_492_person_13	Basil L. Plumley	Q2535583	
+ttu_492_person_14	Hal Moore	Q430209	
+ttu_492_person_15	Sergeant Montgomery	Q112135744	
+ttu_492_person_16	Edward Times	Q112134953	
+ttu_492_person_17	Hal Moore	Q430209	
+ttu_492_person_18	Hal Moore	Q430209	
+ttu_492_person_19	Hal Moore	Q430209	
+ttu_492_person_20	Edward Times	Q112134953	
+ttu_492_person_21	Hal Moore	Q430209	
+ttu_492_person_22	Hal Moore	Q430209	
+ttu_492_person_23	Perkins		ttu_0128
+ttu_492_person_24	Edward Times	Q112134953	
+ttu_492_person_25	Jim Gooden	Q112135179	
+ttu_492_person_26	Jim Gooden	Q112135179	
+ttu_492_person_27	Sam Elliott	Q311314	
+ttu_492_person_28	Sam Elliott	Q311314	
+ttu_492_person_29	Jim Gooden	Q112135179	
+ttu_492_person_30	Hal Moore	Q430209	
+ttu_492_person_31	Ron Sisson	Q106852680	
+ttu_492_person_32	Joseph L. Galloway	Q3185182	
+ttu_492_person_33	Edward Times	Q112134953	
+ttu_492_person_34	Julia Compton Moore	Q6306317	
+ttu_492_person_35	Joseph L. Galloway	Q3185182	
+ttu_492_person_36	Julia Compton Moore	Q6306317	
+ttu_492_person_37	McKinney		ttu_0129
+ttu_492_person_38	John McKinney		ttu_0129
+ttu_492_person_39	Hal Moore	Q430209	
+ttu_492_person_40	Mike		ttu_0130
+ttu_492_person_41	Julia Compton Moore	Q6306317	
+ttu_492_person_42	Hal Moore	Q430209	
+ttu_492_person_43	Basil L. Plumley	Q2535583	
+ttu_492_person_44	Sam Elliott	Q311314	
+ttu_492_person_45	Matt Dillon	Q193070	
+ttu_492_person_46	Jennifer		ttu_0131
+ttu_492_person_47	William Beck	Q111660664	
+ttu_492_person_48	Joseph L. Galloway	Q3185182	
+ttu_492_person_49	Eric Shinseki	Q373274	
+ttu_492_person_50	Freddie Owens	Q112135207	
+ttu_492_person_51	John D. Herren	Q111678638	
+ttu_492_person_52	Jesse Hernandez	Q112135222	
+ttu_492_person_53	Jesse Hernandez	Q112135222	
+ttu_492_person_54	Jesse Hernandez	Q112135222	
+ttu_492_person_55	Mitchell		ttu_0132
+ttu_492_person_56	Mitchell		ttu_0132
+ttu_492_person_57	Jesse Hernandez	Q112135222	
+ttu_492_person_58	Jesse Hernandez	Q112135222	
+ttu_492_person_59	Robert Barker	Q111569733	
+ttu_492_person_60	Jim Gooden	Q112135179	
+ttu_492_person_61	Martin		ttu_0133
+ttu_492_person_62	Kevin Milligan	Q112135232	
+ttu_492_person_63	Kevin Milligan	Q112135232	
+ttu_492_person_64	Emile Gunderson		ttu_0134
+ttu_492_person_65	Hal Moore	Q430209	
+ttu_492_person_66	Erik C. Peterson	Q106645262	
+ttu_492_person_67	Sam Elliott	Q311314	
+ttu_492_person_68	Maury Drummond	Q112135241	
+ttu_492_person_69	Kathleen Blanco	Q237786	
+ttu_492_person_70	Charles T. Smith	Q112135249	
+ttu_492_person_71	John D. Herren	Q111678638	
+ttu_492_person_72	John D. Herren	Q111678638	
+ttu_492_person_73	Jack		ttu_0135
