@@ -1,0 +1,1092 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ttu_454">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Joseph Galloway</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">ttu_454</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="40:02:00">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0454/OH0454.mp4" mimeType="video/mp4"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0454/OH0454.pdf</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="VERRONE"/>
+        <person xml:id="GALLOWAY"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2005-11-10"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="VERRONE">This is Dr. <persName ref="#ttu_454_person_0">Richard Verrone</persName>, I’m conducting a video-oral history with Mr. <persName ref="#ttu_454_person_1">Joseph Galloway</persName>. Today is <date when="2005-11-10">November 10th, 2005</date>. We are in <placeName ref="#ttu_454_place_0">Washington, D.C.</placeName>, at the <placeName ref="#ttu_454_place_1">Crystal City Hilton</placeName> for the 40th anniversary reunion of the <name type="event" ref="#ttu_454_event_0">Ia Drang-Pleiku Battles</name> and the <orgName ref="#ttu_454_org_0">1st Cav Division</orgName> reunion. <persName ref="#ttu_454_person_2">Joe</persName>, let me start with you. I want to know about you as a person and what got you into your field. I know you have been asked this probably many, many times before. But besides war correspondent, how did you get interested in writing, in journalism and reporting in general?</u>
+      <u who="GALLOWAY">I think I was born one. I was voracious reader as a kid at the time, from my first year in school. I cleaned out the library in the schools, I cleaned out the town library, and by reading I learned to recognize good writing and I learned how to write, and by the time I was in high school, I was working on the school paper, the school annual. I loved it. Somewhere in there I read the collected works of <persName ref="#ttu_454_person_3">Ernie Pyle</persName>. I thought, you know, if I ever become a journalist and my generation has a war, I want to cover it, and I would like to cover as much like <persName ref="#ttu_454_person_4">Mr. Pyle</persName> did his generation’s war as possible. I graduated high school and I helped start an opposition weekly newspaper in my hometown, which put the established Weekly out of business and is still printing today.</u>
+      <u who="VERRONE">Really? What year was this?</u>
+      <u who="GALLOWAY">This was <date when="1959">1959</date>. Then I was—I made the mistake of going off to community college, basically living at home and commuting forty miles each way.</u>
+      <u who="VERRONE">Why do you say a mistake?</u>
+      <u who="GALLOWAY">Well it was a mistake, I was accepted at <orgName ref="#ttu_454_org_1">Texas A and M</orgName>, I would have graduated in <date when="1964">’64</date> I might have been killed in <placeName ref="#ttu_454_place_2">Vietnam</placeName>. Certainly, that’s where I would end up and probably as a helicopter pilot or something. But I decided to do this thing and stay closer to home and it was a mistake. I had an 8:00 AM class in the German language, taught by a portly lady with poorly fitted dentures and she would walk in and say, “Guten Tag” and spray the first three rows. You know, I drank a bit of beer in those days and I felt bad already, and to be spit on by your German teacher was more than I could stand. Six weeks later, I said, “That’s it, I’m done with college. I’m joining the <orgName ref="#ttu_454_org_2">army</orgName>.” I’d just turned seventeen. I needed my mother’s signature and I browbeat her until she agreed. We were driving to the recruiting office and literally two blocks away from the courthouse in <placeName ref="#ttu_454_place_3">Victoria, Texas</placeName>, we pasted the daily newspaper. I had been their campus stringer for my six weeks in college and my mother, in a last desperate attempt foiled my plans and said, “What about your journalism?” I said, “Good call mom, stop the car.” I got out, I walked in. Went up to the managing editor, <persName ref="#ttu_454_person_5">Mr. Jim Wreck</persName> and said, “You wouldn’t happen to have an opening for a reporter?” He said, “Actually I do.” And he hired me on the spot. Thirty-five bucks a week and a free subscription to the paper. And that was it!</u>
+      <u who="VERRONE">That’s incredible. It worked out.</u>
+      <u who="GALLOWAY">It worked out.</u>
+      <u who="VERRONE">Your mother’s influence here and her stopping.</u>
+      <u who="GALLOWAY">Oh yeah! My lord, if we would’ve gone another direction, it wouldn’t have worked. I don’t know where I would’ve ended up or what I would’ve been.</u>
+      <u who="VERRONE">She encouraged you before this in a reading and—</u>
+      <u who="GALLOWAY">Oh yeah, absolutely.</u>
+      <u who="VERRONE">What about your father?</u>
+      <u who="GALLOWAY">My father was, you know, I got my voracious reading habits from him. He was a very quiet man, and he read four, five, six books a week. He was a fine man. He and six of his brothers wore the uniform in <name type="event" ref="#ttu_454_event_1">World War II</name>, and four of my mother’s brothers. I did not meet him until I was right at five years old because he went off to service and I was born three weeks before <name type="event" ref="#ttu_454_event_2">Pearl Harbor</name>. Pre-War, more steel in the models back then. My first memories are growing up–we lived my mother and I between her mother’s house and his mother’s house, like all the other wives and kids did. They were just starting out, nobody owned a house, and suddenly all the men have either joined up or been drafted and they’re gone. So I grew up and my first memories are living in houses full of frightened women, looking at the window for the telegraph boy. I just remember my grandmother, there’s seven of her sons all over the world. <orgName ref="#ttu_454_org_3">Navy</orgName>, <orgName ref="#ttu_454_org_4">Air Corps</orgName>, <orgName ref="#ttu_454_org_5">Army</orgName>, you name it. When I remembered <date when="1945-09-02">V-J Day</date>, my grandmother who raised all these kids, she had twelve kids. Her husband died right after the youngest one was born, so she raised all of those kids. She didn’t weigh 90 pounds dripping wet but a fierce lady.</u>
+      <u who="VERRONE">Obviously. Did they make it home?</u>
+      <u who="GALLOWAY">All but one. She threw a <date when="1945-09-02">V-J Day</date> party in the little town of <placeName ref="#ttu_454_place_4">Franklin, Texas</placeName>. All the ladies brought their big black washpots and made Irish stew, and there were probably twenty hand-cranked ice cream freezers. Each with a little boy sitting on top of it packing the ice down and I was one of those little boys. That was the most joyous occasion that I can remember of my childhood.</u>
+      <u who="VERRONE">It’s got to make a huge impression on you. You had this huge military influence and experience at such a young age. This ties in very well later.</u>
+      <u who="GALLOWAY">My family, bunch of Scots Irish Ridgerunners. They came out of <placeName ref="#ttu_454_place_5">Virginia</placeName> to <placeName ref="#ttu_454_place_6">Western North Carolina</placeName> in the 1780s and from there in <date when="1820">1820</date> into <placeName ref="#ttu_454_place_7">Tennessee</placeName>, and from <date when="1840">1840</date> to <placeName ref="#ttu_454_place_8">Texas</placeName>. They—you know, when you can see another cabin’s smoke, it was time to move. Place was getting crowded. They fought, as far as I can tell, in every war that this country has ever had.</u>
+      <u who="VERRONE">That’s mentioned in the book and the movie.</u>
+      <u who="GALLOWAY">The movie? Yeah, people always say, “That story about your great grandfathers can’t be true.” Well, it certainly is. Great-grandfather <persName ref="#ttu_454_person_6">James Reed</persName>, <orgName ref="#ttu_454_org_6">2nd Louisiana Infantry</orgName>, was captured by the Yankees at <name type="event" ref="#ttu_454_event_3">Cold Harbor</name>. They kept him for a while, and they paroled him to go home and he went straight back to his outfit. They rewarded him by making him the color bearer on the eve of the <name type="event" ref="#ttu_454_event_4">Battle of the Wilderness</name>. He lasted about three minutes, lost his right leg and use of his right arm. Two inches of bone taken out, so he just had this useless arm. At the end of the war, after they got him patched up, they put him on a hospital steamer. Went down the coast, clapped out old thing they thought it was going to sink at any moment, packed with wounded and the doctors were doing what they do. They were sawing the limbs off and throwing them off the back of the boat. By the time they got around <placeName ref="#ttu_454_place_9">Key West</placeName>, they had about a thousand sharks following this boat and these guys are laying down below joking about it, saying you know, “They’ve had the hors d’oeuvres, they’re waiting for the main course.” He gets back to <placeName ref="#ttu_454_place_10">New Orleans</placeName> and after the war is over, moves to <placeName ref="#ttu_454_place_11">Texas</placeName> and buys the farm next to <persName ref="#ttu_454_person_7">Sergeant James Aisha Galloway</persName>, sheriff of <placeName ref="#ttu_454_place_12">Robertson County, Texas</placeName>, now. One-legged sheriff. He was in the <orgName ref="#ttu_454_org_8">4th Texas Infantry</orgName>, <orgName ref="#ttu_454_org_9">Hood’s Brigade</orgName>. And lost his left leg charging the guns of the <orgName ref="#ttu_454_org_10">New York’s Swavs</orgName> at <name type="event" ref="#ttu_454_event_5">2nd Manassas</name>. These guys would go to town once a year together to buy one pair of boots and split them up and walk out the door laughing over how they’d screwed the shopkeeper. You can’t make a story like that up!</u>
+      <u who="VERRONE">Of course, and in the movie, I presumed this happened at <name type="event" ref="#ttu_454_event_6">X-Ray</name>. Did you tell <persName ref="#ttu_454_person_8">Moore</persName> the story at <name type="event" ref="#ttu_454_event_7">X-Ray</name>?</u>
+      <u who="GALLOWAY">No, I didn’t. That’s <placeName ref="#ttu_454_place_13">Hollywood</placeName>, but it’s a true story. Third great-grandfather was in <orgName ref="#ttu_454_org_11">5th Texas Infantry</orgName>, <orgName ref="#ttu_454_org_12">Hood’s Brigade</orgName>. Fought throughout the <name type="event" ref="#ttu_454_event_8">war</name>, from the beginning to the <name type="event" ref="#ttu_454_event_9">surrender at Appomattox</name>. A company of a hundred and forty-five men on the day they enlisted. He was a private and at the end, I had this while I was writing the Soldiers book. I would get where I was drowning in <placeName ref="#ttu_454_place_14">Vietnam</placeName> and I would turn away and read a little <name type="event" ref="#ttu_454_event_10">Civil War</name>, clear my pallet. Read the history of the <orgName ref="#ttu_454_org_13">29th Regiment</orgName> <persName ref="#ttu_454_person_9">Joshua Lawrence Chamberlain</persName>. I found of a reprint of a rare book about called <orgName ref="#ttu_454_org_14">Hood’s Brigade</orgName>. Appendix A is every company’s roaster on the day of the enlisted. I go to company’s C and there’s great-grandfather <persName ref="#ttu_454_person_10">Allison</persName>, <persName ref="#ttu_454_person_11">John Thomas Allison</persName>. Appendix B was the roaster of those who were present and accounted for at the <name type="event" ref="#ttu_454_event_11">surrender at Appomattox</name>. So I to that Charlie company. Only one name left, his. The hair stood up on the back of my neck.</u>
+      <u who="VERRONE">That’s a hell of a—</u>
+      <u who="GALLOWAY">He lived to be two months shy of a hundred years old. I only missed meeting him by four years. I got all his stories from my grandmother. My other grandmother told me the stories of her husband’s father and her father. You know, the <name type="event" ref="#ttu_454_event_12">Civil War</name> still lives in the south.</u>
+      <u who="VERRONE">Absolutely does.</u>
+      <u who="GALLOWAY">You can get an arousing good fist fight over it.</u>
+      <u who="VERRONE">I’ve done that. (Both laugh)</u>
+      <u who="VERRONE">I’m from <placeName ref="#ttu_454_place_15">North Carolina</placeName>, so I encountered some of these Yankees when I went to school. Well, you mentioned reading a lot and recognizing good writing. What do you remember? What is good writing to you? What books were really influential?</u>
+      <u who="GALLOWAY">Boy, you’re going back to a lot of books, but certainly <persName ref="#ttu_454_person_13">Mark Twain</persName>. You know, I didn’t get serious until later, when I got to reading history. Was influenced by a mentor of mine. I worked on that newspaper in <placeName ref="#ttu_454_place_16">Texas</placeName> for a year and a half and applied for a job with <orgName ref="#ttu_454_org_16">United Press International</orgName> in <placeName ref="#ttu_454_place_17">Houston</placeName>. They hired me but they sent me to <placeName ref="#ttu_454_place_18">Kansas City</placeName>, and they hired somebody up north and sent him to <placeName ref="#ttu_454_place_19">Houston</placeName>. I think it was the <orgName ref="#ttu_454_org_17">army</orgName> principle, “Never send a guy to basic training close to his home, he’ll run away.” So I’d never been in north of <placeName ref="#ttu_454_place_20">Dallas, Texas</placeName>, in my life and suddenly I'm in <placeName ref="#ttu_454_place_21">Kansas City</placeName>, and I'm the new guy and they say, “You will inevitably get a message, you’re going to work the night and the overnight shifts. You know, eleven to seven in the morning. Inevitably you’ll get messages from <placeName ref="#ttu_454_place_22">New York</placeName> asking you to call <persName ref="#ttu_454_person_14">Harry Truman</persName> and get an answer on a question.” They went to the Rolodex and said, “Here’s his home number.”</u>
+      <u who="VERRONE">Wow.</u>
+      <u who="GALLOWAY">It wasn’t two weeks until I had one of those messages and I’m just a kid, you know, I’d just turned nineteen. With trembling hands, I dialed that number and <persName ref="#ttu_454_person_15">Harry Truman</persName> answered his own phone. I apologized and said what it was about, and he had some really pungent opinions about our editors in <placeName ref="#ttu_454_place_23">New York</placeName> and I apologized again, and he said, “Not you son, hell you’re a reporter. You work for a living. It’s those pinheaded bastards, the editors.” He said, “If they had read my memoirs, they’d know the answer to their questions was Volume 2, page 193. But here it is again because they probably can’t read.” Before we hung up, he said, “Come by and see me at the library.” So I did and I did fairly often. I would later cover him when he was speaking in the area, in <placeName ref="#ttu_454_place_24">Kansas</placeName> or <placeName ref="#ttu_454_place_25">Missouri</placeName>. Doing political talks for the <orgName ref="#ttu_454_org_18">Democrats</orgName> or whatever he was doing. He was really a mentor.</u>
+      <u who="VERRONE">That’s incredible, I did not know <persName ref="#ttu_454_person_16">Harry Truman</persName> was that kind of a man</u>
+      <u who="GALLOWAY">I had, you know, after nine months in <placeName ref="#ttu_454_place_26">Kansas City</placeName>, they put me in <placeName ref="#ttu_454_place_27">Topeka</placeName> as the <orgName ref="#ttu_454_org_19">State House Bureau</orgName> chief. Youngest <orgName ref="#ttu_454_org_20">Bureau</orgName> chief <orgName ref="#ttu_454_org_21">UPI (United Press International)</orgName> ever had; I was still nineteen. There, another mentor was <persName ref="#ttu_454_person_17">Alf Landon</persName>. <persName ref="#ttu_454_person_18">Nancy Landon Kassebaum</persName>’s father, Governor of <placeName ref="#ttu_454_place_28">Kansas</placeName> during the worst of the <name type="event" ref="#ttu_454_event_13">Dust Bowl</name> days and the <date when="1936">1936</date> candidate of the <orgName ref="#ttu_454_org_22">Republican party</orgName> against <persName ref="#ttu_454_person_19">Roosevelt</persName>. He was really happy to see <persName ref="#ttu_454_person_20">McGovern</persName> come along and become the worst defeated candidate in history because previously he had held the record. After his election defeat, they turned the “As <placeName ref="#ttu_454_place_29">Maine</placeName> goes, so goes the nation.” Into “As <placeName ref="#ttu_454_place_30">Maine</placeName> goes, so goes <placeName ref="#ttu_454_place_31">Vermont</placeName>.” Those were the two states he carried. But I had lunch with him once a week. He was the fount of knowledge of any issue on the <orgName ref="#ttu_454_org_23">Republican party</orgName> politics. <persName ref="#ttu_454_person_21">Truman</persName> on <orgName ref="#ttu_454_org_24">Democratic</orgName> politics, people say, “Where is your degree from?” I say, “Well I have a PhD in political science from Trumanland and University.”</u>
+      <u who="VERRONE">Very true. So this is setting you up to go obviously to bigger and better places. Describe what made a good mentor for you then? Did you know what you were looking for?</u>
+      <u who="GALLOWAY">I by then had—by <date when="1963">1963</date>, I was reading the dispatches of <persName ref="#ttu_454_person_22">Neil Sheehan</persName> on the <orgName ref="#ttu_454_org_25">UPI</orgName> wire, I was reading <persName ref="#ttu_454_person_23">David Halberstam’s</persName> reports, <persName ref="#ttu_454_person_24">Malcom Brown</persName> of the <orgName ref="#ttu_454_org_26">AP (Associated Press)</orgName>out of this place called <placeName ref="#ttu_454_place_32">Vietnam</placeName>. The way I read it, we were going to get involved in this war. It was going to become <placeName ref="#ttu_454_place_33">America</placeName>’s war, my generation’s war. I figured, forty years later it would be a lot easier to explain why I went than why I didn’t.</u>
+      <u who="VERRONE">You felt that then?</u>
+      <u who="GALLOWAY">At <date when="1963">’63</date> I started writing a letter a week to my bosses at <orgName ref="#ttu_454_org_27">UPI</orgName> in <placeName ref="#ttu_454_place_34">New York</placeName>. Begging, pleading, cajoling for a transfer from <placeName ref="#ttu_454_place_35">Topeka, Kansas</placeName> to <placeName ref="#ttu_454_place_36">Saigon</placeName>. I didn’t quite make it. But the week after the <name type="event" ref="#ttu_454_event_14">’64 presidential election</name>, I get a call, I was on vacation my home in <placeName ref="#ttu_454_place_37">Texas</placeName>. My boss in <placeName ref="#ttu_454_place_38">Dallas</placeName> said, “You own a trench coat?” I didn’t know what he was talking about. I said, “No, not really.” He said, “Well, you better buy one, you’ve been transferred to <placeName ref="#ttu_454_place_39">Tokyo</placeName>.” Which was the <orgName ref="#ttu_454_org_28">UPI Asia</orgName> headquarters. That’s good enough for me, It’s closer. So I spend one week in <placeName ref="#ttu_454_place_40">New York</placeName> and I was on my way. Very quickly.</u>
+      <u who="VERRONE">And from <placeName ref="#ttu_454_place_41">Tokyo</placeName> you made your way to <placeName ref="#ttu_454_place_42">Saigon</placeName>?</u>
+      <u who="GALLOWAY"><date when="1964">’64</date> I landed in <placeName ref="#ttu_454_place_43">Tokyo</placeName>, I go to the boss there and say, “I like to go on to <placeName ref="#ttu_454_place_44">Saigon</placeName>.” “Oh!” He said, “Son,” This is <date when="1964-11">November of ’64</date>. He said, “I just sent a second man to <placeName ref="#ttu_454_place_45">Saigon</placeName> we’ll never need more than that.” So I just went about my business and of course in <date when="1965-03">March of ’65</date> the 1st battalion of Marines landed, and about three weeks after they landed, so did I. I was the buildup. But two days in <placeName ref="#ttu_454_place_46">Saigon</placeName> and then flew straight to <placeName ref="#ttu_454_place_47">Da Nang </placeName>and started going on <orgName ref="#ttu_454_org_30">Marine</orgName> operations.</u>
+      <u who="VERRONE">Where did your drive come from? I mean you were pretty bold for a young guy.</u>
+      <u who="GALLOWAY">I thought I was the best writer in the world. I was cocky. You know, if I could do this stuff when I'm nineteen, I got to figure there’s no way but up. There’s not much that scares me.</u>
+      <u who="VERRONE">You’re asking for, “Let me into this war.” It’s not a “war” war according to the public then, but we know now there was all kinds of stuff happening. When you get there in <date when="1965">’65</date> after the <orgName ref="#ttu_454_org_31">Marines</orgName>, this is not covering the tea party somewhere in the <placeName ref="#ttu_454_place_48">United States</placeName>.</u>
+      <u who="GALLOWAY">No, no, no. This is the real deal.</u>
+      <u who="VERRONE">How did you function in this environment? I mean it was the first time you’ve been in this sort of—</u>
+      <u who="GALLOWAY">Right off the bat, you know, I was OJT (On-the Job Training), all I knew about war was from reading books and watching <persName ref="#ttu_454_person_25">John Wayne</persName> movies. I thought I had to be in a hurry because it might end quickly. I got up there and almost immediately, I landed at the airport and I was carrying a Samsonite suitcase, wearing chinos and loafers. I hadn’t even had a chance to get a set of fatigues. This excited little half-French, half-Vietnamese guy, terrific individual named <persName ref="#ttu_454_person_26">Henri Huet</persName> came running up to me, “You’re <persName ref="#ttu_454_person_27">Mr. Galloway</persName>!” “Yeah” “Oh, I’m <persName ref="#ttu_454_person_28">Henri Huet</persName> from <orgName ref="#ttu_454_org_33">UPI</orgName>, I’m photographer. There’s big battle south of here, you come with me.” I said, “What about my suitcase?” He said, “Fuck your suitcase!” He threw it in the <orgName ref="#ttu_454_org_34">8th Aerial Transport Squadron</orgName> hooch and dragged me onto a C130 which was spinning up on the ramp. We just barely get up and we go down, and we land on this little strip in a dirty little town called Quang Ninh City.</u>
+      <u who="VERRONE">Baptism by fire.</u>
+      <u who="GALLOWAY">Oh yeah, and we get off and I don’t know where I am, but this place looks like somebody stuck a stick in an ant hill. It was boiling with people and planes, and panic and everything else. I still can’t hear anything, there’s noise everywhere and <persName ref="#ttu_454_person_29">Huet</persName> runs off. There’s a H34 helicopter <orgName ref="#ttu_454_org_35">Marine</orgName> spinning up on the ram over there and he says something to the crew chief and waves at me, and we get on this thing and we’re out over the rice paddies. We circled a kind of a bald hill, maybe three, four-hundred feet high out in the middle this circle by rice paddies. I can see out the door that there’s a lot of people in kind of rings of fox holes, not even fox holes, just little fighting holes like this. We drop in there like a rock and then they shut her down, and then there’s silence. I realize it’s total silence. We get out, and I realize all those people in those holes are dead. There was an <orgName ref="#ttu_454_org_36">ARVN (Army of the Republic of Vietnam)</orgName> battalion and they’d been over run and killed to the last man. There were two American advisors with them, and they brought us along because they thought that they’d needed help finding and bringing their bodies to the helicopter.</u>
+      <u who="VERRONE">It was your first time being with the units?</u>
+      <u who="GALLOWAY">Yeah, yeah, yeah. We went from hole to hole and we found these two guys, and we carried them to the chopper. I’m sitting there and I'm thinking, “<persName ref="#ttu_454_person_30">John Wayne</persName> didn’t show anything like this.” I'm thinking, war may not be what I thought it was going to be. This is serious stuff. And all the time, you sit there and you don’t want to look at the man’s face, but you look at his boots. You think about how this morning or yesterday in this case, he sat on the edge of a bunk somewhere laced those boots up and he’ll never do that again. Somewhere there’s a woman and children who are going to be destroyed by this. So for a guy who just turned twenty-three, that’s a hard thing to look upon. We get back to Quang Ninh and <persName ref="#ttu_454_person_31">Huet</persName>, you know, who fought with the <orgName ref="#ttu_454_org_37">French</orgName> against the <orgName ref="#ttu_454_org_38">Viet men</orgName>, incredible veteran of all of this stuff, he says “You know the Americans all leave here as soon as it starts to get dark and go back to <placeName ref="#ttu_454_place_51">Da Nang</placeName>. They fly out and then they’ll come back first light in the morning. It’s too dangerous they say, to stay here.” Because the Vietnamese, the <orgName ref="#ttu_454_org_39">VC</orgName> were trying to cut the country in half right there. There wasn’t much of it left and Quang Ninh City sat in the middle of it. He said, “But we will outsmart the <orgName ref="#ttu_454_org_40">Associated Press</orgName>. You and I will stay here tonight, and we can get started earlier.” “Oh, if you say so.” We go off to the <orgName ref="#ttu_454_org_41">MAAG (Military Assistance Advisory Group)</orgName> compound, the <orgName ref="#ttu_454_org_42">Assistance Advisory Group</orgName>. And there’s this captain, tall, thin ranger captain. He looks like forty miles of bad road. His face lit up and he said, “Boy am I glad to see you! We’ve been going 24/7 here for about a week. We’re happy to feed you and put you up, but you stand at your own guard tonight.”</u>
+      <u who="VERRONE">This is—</u>
+      <u who="GALLOWAY">This is my third night in country, and he proceeds to give us a M2 grease gun, and a little short lesson on how to operate it, thank god it’s simple.</u>
+      <u who="VERRONE">Have you ever handle weapons before?</u>
+      <u who="GALLOWAY">Oh, I was a hunter by the time I was seven years old.</u>
+      <u who="VERRONE">Figured you probably were, down in <placeName ref="#ttu_454_place_53">Texas</placeName>.</u>
+      <u who="GALLOWAY">Yeah, yeah. This is a different thing. I listened very carefully and thank god it’s a simple weapon. I’m laying in this bunk, <persName ref="#ttu_454_person_32">Henri</persName> is going to do the midnight to 3:00 AM and I'm going to do 3:00 AM to six, and I’m laying there and there’s no way I’m going to sleep. I’m just laying there looking at that ceiling. My turn comes and I go out there, and it is the darkest thing in the world. The bunker is right up against a high-fence, barbed-wire, razor-wire on the top and a little road and across there is the <orgName ref="#ttu_454_org_43">ARVN</orgName> compound. Well, they satchel bomb the <orgName ref="#ttu_454_org_44">ARVN</orgName> compound on my tour, so my nerves were stretched real fine. Just as there was a little bit of light, in the longest night of my life, I see a guy in a bicycle. Coming down that little road with a big package on the front of it. I flip the safety and I say to myself, “If he makes one move towards that package, I’m going to blow him away.” About then, that captain hits me on the shoulder and says, “Son, don’t shoot that man, he’s the cook. If you kill him, you’re going to be fixing breakfast.” (Both laugh)</u>
+      <u who="GALLOWAY">Ah mercy. So that was my introduction, and I rethought the whole thing right then.</u>
+      <u who="VERRONE">I bet you did.</u>
+      <u who="GALLOWAY">And I said, “This is not going to be fast; it’s not going to be easy and we ain’t got near enough folks here to do anything about it. As I went on deeper into the thing, I really began to realize that it was no matter how much I love these troops, there weren’t enough of them and there wasn’t enough will in <placeName ref="#ttu_454_place_54">America</placeName> to win this thing. It just wasn’t going to work.</u>
+      <u who="VERRONE">Let me ask you, after those first three days, four days, what did you do withthose boots in your mind? What did you do with them in your mind? Did you check it out going forward or do you have to process and write about it?</u>
+      <u who="GALLOWAY">At that point I did write about it, I sent my pictures in. I wrote about it.There’s a picture that <persName ref="#ttu_454_person_33">Henri</persName> shot of me at the front of that helicopter with my camera, and the look of astonishment and shock on my face. You can read it. I have a copy of that in my file somewhere. Looked at it not too long ago.</u>
+      <u who="VERRONE">Who do you see there, in that picture?</u>
+      <u who="GALLOWAY">You know, I guess we all change some. But <placeName ref="#ttu_454_place_55">Vietnam</placeName> was a definingmoment in my life. Very much so and what I know is no one who went there was the same when he left, it changed you all, it changed all of us. Some for the better, some for the worst. Some can live with the memory, some can’t. Some deal with it by keeping busy and moving ahead, working hard. Some take to alcohol, drugs or whatever. But nobody left there with a free pass. You carry those memories all your life.</u>
+      <u who="VERRONE">Question is, what did you do with those memories? You just skipped aheadover a lot of years.</u>
+      <u who="GALLOWAY">Lot of years.</u>
+      <u who="VERRONE">But what have you done with them? Or what are you doing with them?</u>
+      <u who="GALLOWAY">Well I have to go back and quote to you the words of a late friend of mine. <persName ref="#ttu_454_person_34">Captain BT Collins</persName>, who was an artillery LNO (Liaison Officer) with <persName ref="#ttu_454_person_35">Hal Moore’s</persName> brigade right after the <name type="event" ref="#ttu_454_event_15">Ia Drang</name> starting in <date when="1965-12">December of ’65</date>. He did a tour of that and interestingly his—I think his commander was a fine captain named <persName ref="#ttu_454_person_36">Sam Bird</persName> who was the escort of honor at the funeral of <persName ref="#ttu_454_person_37">Jack Kennedy</persName> and was himself blown up. Suffered a terrible brain injury. You know, existed with great difficulty after the war. Finally, when he died, it was ruled that he died of wounds suffered in <placeName ref="#ttu_454_place_56">Vietnam</placeName>, which was quite true. They put his name on the wall. But <persName ref="#ttu_454_person_38">BT Collins</persName> did his tour and then came back again as a special forces captain, and ended up down in the delta and in a firefight, a grenade took his leg and his right arm. When the book came out, he came to see me. Just turned up at my office in <placeName ref="#ttu_454_place_57">Washington</placeName>. Comes in, stumping on this wooden leg—plastic leg with iron hook arm and sits down, tells me that he loved this book and that he could tell the truth of it in every line, and his connection to <persName ref="#ttu_454_person_39">Hal Moore</persName>. He was a force to reckon with, incredible man. He spent a year at <placeName ref="#ttu_454_place_71">Walter Reed</placeName>, I think. When they finally turned him loose with his new plastic leg and his hook and his crutches, he went straight to the <placeName ref="#ttu_454_place_58">Pentagon</placeName> to the infantry officer assignment branch. He walked in, stumped in on his crutches and there were about six Majors behind the counter. Not a single combat infantry badge on any of thems chest. This guy steps up there and they say, “Well, what can we do for you, captain?” he says, “I’d like to volunteer to go to <placeName ref="#ttu_454_place_59">Vietnam</placeName>.” And their mouths all fell open. The guy says, “That’s not possible, you can’t go back. You’ve already been there, and you’ve suffered these terrible wounds. You’re not capable of combat.” He said, “Oh, I know that. I don’t expect that I can go to combat like I am, but I can go hold down a desk job and free up some other man to go to combat in my place.” They all looked, and their faces fell, they couldn’t look him in the eye anymore. That’s what he wanted to say and do. He turned around and walked out of there. Hundred percent disabled, half bone way. Went out to <placeName ref="#ttu_454_place_60">California</placeName> and went to law school. Ended up as chief of staff to <persName ref="#ttu_454_person_41">Governor Jerry Brown</persName>. Two more disparate individuals, you couldn’t imagine. Hell raiser. Spark plug who built the <placeName ref="#ttu_454_place_61">California Vietnam Veterans’ Memorial</placeName>. Took on jobs like cleaning up and reorganizing the juvenile detention system in <placeName ref="#ttu_454_place_62">California</placeName>. Always very strong on women’s issues and taking care of women. He used to go around and when he talked to veterans, he would say these words, “No whining, no crying. We’re the fortunate ones. We survived, when so many men all around us gave their precious lives so that we could live. We owe them a sacred obligation to live every day to its fullest potential, trying to make this world a better place for our having lived and their having died. No whining, no crying.”</u>
+      <u who="VERRONE">You take that with you now?</u>
+      <u who="GALLOWAY">Every day, every day. I’m sixty-four years old! I don’t know where theyears went. But it’s payback time. You know, I don’t know how any <name type="event" ref="#ttu_454_event_19">Vietnam</name> veteran, anyone who spent time there, can really rest on his laurels as long there is one homeless veteran out there. As long as our <orgName ref="#ttu_454_org_45">VA</orgName> is not taken care of. There are a thousand issues that we need to be engaged on and I am engaged on. I worked four full time jobs and I ought to be slowing down, but I don’t know how.</u>
+      <u who="VERRONE">Well, obviously you are still driven today like you were when you nineteen.</u>
+      <u who="GALLOWAY">Absolutely and I can write better now!VERRONE: It’s been forty years since <name type="event" ref="#ttu_454_event_16">X-Ray</name> and <name type="event" ref="#ttu_454_event_18">Albany</name> and were here at this reunionthis weekend to kind of commemorate that 40th anniversary. Can you reflect on those days? I know you can, and I know there’s a lot there. There’s a lot there.</u>
+      <u who="VERRONE">But people know you through the movie or <persName ref="#ttu_454_person_42">Barry Pepper</persName>, people know youthrough—people who read the book and a lot have, they know you through that book. But what about <persName ref="#ttu_454_person_43">Joe Galloway</persName> the person? I know you’re in this book but—</u>
+      <u who="GALLOWAY">I tried not to be very much in that book. It was a story of a battle and wewanted to tell that. It had to be told in <persName ref="#ttu_454_person_44">General Moore</persName>’s words, so a lot of <persName ref="#ttu_454_person_45">Joe Galloway</persName> isn’t in there and it shouldn’t be. It was—people asked, “If you knew what was at the other end, would you have gotten on that helicopter?” Of course I would! My job! I fought to get on that helicopter. I outsmarted <persName ref="#ttu_454_person_46">Peter Arnett</persName> of <orgName ref="#ttu_454_org_46">AP</orgName>. Foxed him out of his drawers, five other reporters who were in that <placeName ref="#ttu_454_place_65">LZ (Landing Zone) Falcon</placeName>, five miles away from that battlefield. I got to ride into the pages of history, and they got bubkes.</u>
+      <u who="VERRONE">And you talked <persName ref="#ttu_454_person_54">Matt Dillion</persName> into this?</u>
+      <u who="GALLOWAY">Yeah, well no. <persName ref="#ttu_454_person_48">Hal Moore</persName> had the call!</u>
+      <u who="VERRONE">Right, <persName ref="#ttu_454_person_49">Dillon</persName> called <persName ref="#ttu_454_person_50">Moore</persName> and <persName ref="#ttu_454_person_55">Moore</persName> said, “If you’re crazy enough, bring him on.”</u>
+      <u who="GALLOWAY">Absolutely! Bring him in. But none of this would’ve happened if I hadn’tgone in and spent a miserable two days and a night marching with <orgName ref="#ttu_454_org_50">Hal’s battalion</orgName>. Three four days before the <name type="event" ref="#ttu_454_event_17">battle</name>. You know, I knew there was something cooking in the Highlands. From <date when="1965-08">August of ’65</date> I had been down to <placeName ref="#ttu_454_place_66">Saigon</placeName> for a short stop and was flying back to <placeName ref="#ttu_454_place_67">Da Nang</placeName> on the <orgName ref="#ttu_454_org_49">Air Force</orgName> C123 Milk Run, we called it. Stopped everywhere, all the way up to get back to <placeName ref="#ttu_454_place_68">Da Nang</placeName>, you spent the whole day flying. It stopped in <placeName ref="#ttu_454_place_69">Pleiku</placeName> and they dropped the tailgate and they’re going throw a couple mailbags off. I look out the back and they’re heeding bodies off of couple of helicopters, and they got a pretty stack out of them. I just grabbed my pack and bailed off the tailgate and found that there was a huge fight going on around <placeName ref="#ttu_454_place_70">Duc Co Special Forces Camp</placeName>. I hooked up with <orgName ref="#ttu_454_org_47">173rd Airborne</orgName>. They were going out to bring in an <orgName ref="#ttu_454_org_48">ARVN</orgName> paratrooper battalion and its advisors who had fought there and lost a lot of men. The roads had all been mined and the bridges blown, and they were coming over really a dirt track. Twenty miles of so through bad country. So we took some tanks and a couple platoons of paratroopers and we went out that road to hook up with them. Somewhere midway. There’s a picture in the book and of course their advisor was a brand new Major named <persName ref="#ttu_454_person_52">H. Norman Schwarzkopf</persName>. We kind of got aquatinted a little bit on that trip. It would pay dividend some years later.</u>
+      <u who="VERRONE">I bet so; <persName ref="#ttu_454_person_53">Joe</persName> let’s take a break for a moment.</u>
+      <u who="GALLOWAY">Yeah.(End of interview)</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="ttu_454_place_0">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="ttu_454_place_1">
+        <placeName>Hilton Crystal City</placeName>
+        <location>
+          <geo>38.85273695571491 -77.0517220465822</geo>
+        </location>
+        <idno type="WD">Q110624980</idno>
+      </place>
+      <place xml:id="ttu_454_place_2">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_454_place_3">
+        <placeName>Victoria</placeName>
+        <location>
+          <geo>28.816944444444 -96.993333333333</geo>
+        </location>
+        <idno type="WD">Q784496</idno>
+      </place>
+      <place xml:id="ttu_454_place_4">
+        <placeName>Franklin</placeName>
+        <location>
+          <geo>31.0261 -96.4861</geo>
+        </location>
+        <idno type="WD">Q974124</idno>
+      </place>
+      <place xml:id="ttu_454_place_5">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="ttu_454_place_6">
+        <placeName>Western North Carolina</placeName>
+        <location>
+          <geo>35.88 -82.36</geo>
+        </location>
+        <idno type="WD">Q7988113</idno>
+      </place>
+      <place xml:id="ttu_454_place_7">
+        <placeName>Tennessee</placeName>
+        <location>
+          <geo>36 -86</geo>
+        </location>
+        <idno type="WD">Q1509</idno>
+      </place>
+      <place xml:id="ttu_454_place_8">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="ttu_454_place_9">
+        <placeName>Key West</placeName>
+        <location>
+          <geo>24.559722222222 -81.783611111111</geo>
+        </location>
+        <idno type="WD">Q485186</idno>
+      </place>
+      <place xml:id="ttu_454_place_10">
+        <placeName>New Orleans</placeName>
+        <location>
+          <geo>29.95465 -90.07507</geo>
+        </location>
+        <idno type="WD">Q34404</idno>
+      </place>
+      <place xml:id="ttu_454_place_11">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="ttu_454_place_12">
+        <placeName>Robertson County</placeName>
+        <location>
+          <geo>31.03 -96.51</geo>
+        </location>
+        <idno type="WD">Q26506</idno>
+      </place>
+      <place xml:id="ttu_454_place_13">
+        <placeName>Hollywood</placeName>
+        <location>
+          <geo>34.098333333333336 -118.32666666666667</geo>
+        </location>
+        <idno type="WD">Q34006</idno>
+      </place>
+      <place xml:id="ttu_454_place_14">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_454_place_15">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="ttu_454_place_16">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="ttu_454_place_17">
+        <placeName>Houston</placeName>
+        <location>
+          <geo>29.762777777778 -95.383055555556</geo>
+        </location>
+        <idno type="WD">Q16555</idno>
+      </place>
+      <place xml:id="ttu_454_place_18">
+        <placeName>Kansas City</placeName>
+        <location>
+          <geo>39.05 -94.583333333333</geo>
+        </location>
+        <idno type="WD">Q41819</idno>
+      </place>
+      <place xml:id="ttu_454_place_19">
+        <placeName>Houston</placeName>
+        <location>
+          <geo>29.762777777778 -95.383055555556</geo>
+        </location>
+        <idno type="WD">Q16555</idno>
+      </place>
+      <place xml:id="ttu_454_place_20">
+        <placeName>Dallas</placeName>
+        <location>
+          <geo>32.779166666667 -96.808888888889</geo>
+        </location>
+        <idno type="WD">Q16557</idno>
+      </place>
+      <place xml:id="ttu_454_place_21">
+        <placeName>Kansas City</placeName>
+        <location>
+          <geo>39.05 -94.583333333333</geo>
+        </location>
+        <idno type="WD">Q41819</idno>
+      </place>
+      <place xml:id="ttu_454_place_22">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.712728 -74.006015</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="ttu_454_place_23">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.712728 -74.006015</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="ttu_454_place_24">
+        <placeName>Kansas</placeName>
+        <location>
+          <geo>38.5 -98</geo>
+        </location>
+        <idno type="WD">Q1558</idno>
+      </place>
+      <place xml:id="ttu_454_place_25">
+        <placeName>Missouri</placeName>
+        <location>
+          <geo>38.5 -92.5</geo>
+        </location>
+        <idno type="WD">Q1581</idno>
+      </place>
+      <place xml:id="ttu_454_place_26">
+        <placeName>Kansas City</placeName>
+        <location>
+          <geo>39.05 -94.583333333333</geo>
+        </location>
+        <idno type="WD">Q41819</idno>
+      </place>
+      <place xml:id="ttu_454_place_27">
+        <placeName>Topeka</placeName>
+        <location>
+          <geo>39.04833 -95.67804</geo>
+        </location>
+        <idno type="WD">Q41057</idno>
+      </place>
+      <place xml:id="ttu_454_place_28">
+        <placeName>Kansas</placeName>
+        <location>
+          <geo>38.5 -98</geo>
+        </location>
+        <idno type="WD">Q1558</idno>
+      </place>
+      <place xml:id="ttu_454_place_29">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="ttu_454_place_30">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="ttu_454_place_31">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="ttu_454_place_32">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_454_place_33">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_454_place_34">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.712728 -74.006015</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="ttu_454_place_35">
+        <placeName>Topeka</placeName>
+        <location>
+          <geo>39.04833 -95.67804</geo>
+        </location>
+        <idno type="WD">Q41057</idno>
+      </place>
+      <place xml:id="ttu_454_place_36">
+        <placeName>Ho Chi Minh City</placeName>
+        <location>
+          <geo>10.816666666667 106.63333333333</geo>
+        </location>
+        <idno type="WD">Q1854</idno>
+      </place>
+      <place xml:id="ttu_454_place_37">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="ttu_454_place_38">
+        <placeName>Dallas</placeName>
+        <location>
+          <geo>32.779166666667 -96.808888888889</geo>
+        </location>
+        <idno type="WD">Q16557</idno>
+      </place>
+      <place xml:id="ttu_454_place_39">
+        <placeName>Tokyo</placeName>
+        <location>
+          <geo>35.689722222222 139.69222222222</geo>
+        </location>
+        <idno type="WD">Q1490</idno>
+      </place>
+      <place xml:id="ttu_454_place_40">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.712728 -74.006015</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="ttu_454_place_41">
+        <placeName>Tokyo</placeName>
+        <location>
+          <geo>35.689722222222 139.69222222222</geo>
+        </location>
+        <idno type="WD">Q1490</idno>
+      </place>
+      <place xml:id="ttu_454_place_42">
+        <placeName>Ho Chi Minh City</placeName>
+        <location>
+          <geo>10.816666666667 106.63333333333</geo>
+        </location>
+        <idno type="WD">Q1854</idno>
+      </place>
+      <place xml:id="ttu_454_place_43">
+        <placeName>Tokyo</placeName>
+        <location>
+          <geo>35.689722222222 139.69222222222</geo>
+        </location>
+        <idno type="WD">Q1490</idno>
+      </place>
+      <place xml:id="ttu_454_place_44">
+        <placeName>Ho Chi Minh City</placeName>
+        <location>
+          <geo>10.816666666667 106.63333333333</geo>
+        </location>
+        <idno type="WD">Q1854</idno>
+      </place>
+      <place xml:id="ttu_454_place_45">
+        <placeName>Ho Chi Minh City</placeName>
+        <location>
+          <geo>10.816666666667 106.63333333333</geo>
+        </location>
+        <idno type="WD">Q1854</idno>
+      </place>
+      <place xml:id="ttu_454_place_46">
+        <placeName>Ho Chi Minh City</placeName>
+        <location>
+          <geo>10.816666666667 106.63333333333</geo>
+        </location>
+        <idno type="WD">Q1854</idno>
+      </place>
+      <place xml:id="ttu_454_place_47">
+        <placeName>Da Nang</placeName>
+        <location>
+          <geo>16.069444444444443 108.20972222222223</geo>
+        </location>
+        <idno type="WD">Q25282</idno>
+      </place>
+      <place xml:id="ttu_454_place_48">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_454_place_51">
+        <placeName>Da Nang</placeName>
+        <location>
+          <geo>16.069444444444443 108.20972222222223</geo>
+        </location>
+        <idno type="WD">Q25282</idno>
+      </place>
+      <place xml:id="ttu_454_place_53">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="ttu_454_place_54">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="ttu_454_place_55">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_454_place_56">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_454_place_57">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="ttu_454_place_58">
+        <placeName>The Pentagon</placeName>
+        <location>
+          <geo>38.871111 -77.055833</geo>
+        </location>
+        <idno type="WD">Q11208</idno>
+      </place>
+      <place xml:id="ttu_454_place_59">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="ttu_454_place_60">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="ttu_454_place_61">
+        <placeName>California Vietnam Veterans Memorial</placeName>
+        <location>
+          <geo>38.575555555556 -121.48833333333</geo>
+        </location>
+        <idno type="WD">Q49476581</idno>
+      </place>
+      <place xml:id="ttu_454_place_62">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="ttu_454_place_65">
+        <placeName>LZ Falcon</placeName>
+        <location>
+          <geo>13.62278 107.76417</geo>
+        </location>
+        <idno type="WD">Q110624865</idno>
+      </place>
+      <place xml:id="ttu_454_place_66">
+        <placeName>Ho Chi Minh City</placeName>
+        <location>
+          <geo>10.816666666667 106.63333333333</geo>
+        </location>
+        <idno type="WD">Q1854</idno>
+      </place>
+      <place xml:id="ttu_454_place_67">
+        <placeName>Da Nang</placeName>
+        <location>
+          <geo>16.069444444444443 108.20972222222223</geo>
+        </location>
+        <idno type="WD">Q25282</idno>
+      </place>
+      <place xml:id="ttu_454_place_68">
+        <placeName>Da Nang</placeName>
+        <location>
+          <geo>16.069444444444443 108.20972222222223</geo>
+        </location>
+        <idno type="WD">Q25282</idno>
+      </place>
+      <place xml:id="ttu_454_place_69">
+        <placeName>Pleiku</placeName>
+        <location>
+          <geo>13.971519 108.014673</geo>
+        </location>
+        <idno type="WD">Q30599</idno>
+      </place>
+      <place xml:id="ttu_454_place_70">
+        <placeName>Đức Cơ Camp</placeName>
+        <location>
+          <geo>13.788 107.627</geo>
+        </location>
+        <idno type="WD">Q18639590</idno>
+      </place>
+      <place xml:id="ttu_454_place_71">
+        <placeName>Walter Reed National Military Medical Center</placeName>
+        <location>
+          <geo>39.00194444444445 -77.09361111111112</geo>
+        </location>
+        <idno type="WD">Q1457886</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="ttu_454_event_0" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_454_event_1" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="ttu_454_event_2" when-iso="1941-12-07T00:00:00Z">
+        <desc>Attack on Pearl Harbor</desc>
+        <idno type="WD">Q52418</idno>
+      </event>
+      <event xml:id="ttu_454_event_3" from-iso="1864-05-31T00:00:00Z" to-iso="1864-06-12T00:00:00Z">
+        <desc>Battle of Cold Harbor</desc>
+        <idno type="WD">Q497797</idno>
+      </event>
+      <event xml:id="ttu_454_event_4" from-iso="1864-05-05T00:00:00Z" to-iso="1864-05-07T00:00:00Z">
+        <desc>Battle of the Wilderness</desc>
+        <idno type="WD">Q1425882</idno>
+      </event>
+      <event xml:id="ttu_454_event_5" when-iso="1862-01-01T00:00:00Z">
+        <desc>Second Battle of Bull Run</desc>
+        <idno type="WD">Q233343</idno>
+      </event>
+      <event xml:id="ttu_454_event_6" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_454_event_7" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_454_event_8" from-iso="1861-04-12T00:00:00Z" to-iso="1865-05-09T00:00:00Z">
+        <desc>American Civil War</desc>
+        <idno type="WD">Q8676</idno>
+      </event>
+      <event xml:id="ttu_454_event_9" when-iso="1865-04-09T00:00:00Z">
+        <desc>Surrender at Appomattox Court House</desc>
+        <idno type="WD">Q19918522</idno>
+      </event>
+      <event xml:id="ttu_454_event_10" from-iso="1861-04-12T00:00:00Z" to-iso="1865-05-09T00:00:00Z">
+        <desc>American Civil War</desc>
+        <idno type="WD">Q8676</idno>
+      </event>
+      <event xml:id="ttu_454_event_11" when-iso="1865-04-09T00:00:00Z">
+        <desc>Surrender at Appomattox Court House</desc>
+        <idno type="WD">Q19918522</idno>
+      </event>
+      <event xml:id="ttu_454_event_12" from-iso="1861-04-12T00:00:00Z" to-iso="1865-05-09T00:00:00Z">
+        <desc>American Civil War</desc>
+        <idno type="WD">Q8676</idno>
+      </event>
+      <event xml:id="ttu_454_event_13" from-iso="1930-01-01T00:00:00Z" to-iso="1936-01-01T00:00:00Z">
+        <desc>Dust Bowl</desc>
+        <idno type="WD">Q726501</idno>
+      </event>
+      <event xml:id="ttu_454_event_14" when-iso="1964-11-03T00:00:00Z">
+        <desc>1964 United States presidential election</desc>
+        <idno type="WD">Q699646</idno>
+      </event>
+      <event xml:id="ttu_454_event_15" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_454_event_16" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ X-Ray</desc>
+        <idno type="WD">Q110624716</idno>
+      </event>
+      <event xml:id="ttu_454_event_17" from-iso="1965-11-14T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Battle of Ia Drang</desc>
+        <idno type="WD">Q714749</idno>
+      </event>
+      <event xml:id="ttu_454_event_18" from-iso="1965-11-17T00:00:00Z" to-iso="1965-11-18T00:00:00Z">
+        <desc>Combat at LZ Albany</desc>
+        <idno type="WD">Q110624722</idno>
+      </event>
+      <event xml:id="ttu_454_event_19" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="ttu_454_person_0">
+        <persName>Richard Verrone</persName>
+        <idno type="WD">Q111653126</idno>
+      </person>
+      <person xml:id="ttu_454_person_1">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_454_person_2">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_454_person_3">
+        <persName>Ernie Pyle</persName>
+        <idno type="WD">Q38415</idno>
+      </person>
+      <person xml:id="ttu_454_person_4">
+        <persName>Ernie Pyle</persName>
+        <idno type="WD">Q38415</idno>
+      </person>
+      <person xml:id="ttu_454_person_5">
+        <persName>Mr. Jim Wreck</persName>
+      </person>
+      <person xml:id="ttu_454_person_6">
+        <persName>James Reed</persName>
+      </person>
+      <person xml:id="ttu_454_person_7">
+        <persName>Sergeant James Aisha Galloway</persName>
+      </person>
+      <person xml:id="ttu_454_person_8">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_454_person_9">
+        <persName>Joshua Lawrence Chamberlain</persName>
+        <idno type="WD">Q80766</idno>
+      </person>
+      <person xml:id="ttu_454_person_10">
+        <persName>Allison</persName>
+      </person>
+      <person xml:id="ttu_454_person_11">
+        <persName>John Thomas Allison</persName>
+      </person>
+      <person xml:id="ttu_454_person_13">
+        <persName>Mark Twain</persName>
+        <idno type="WD">Q7245</idno>
+      </person>
+      <person xml:id="ttu_454_person_14">
+        <persName>Harry S Truman</persName>
+        <idno type="WD">Q11613</idno>
+      </person>
+      <person xml:id="ttu_454_person_15">
+        <persName>Harry S Truman</persName>
+        <idno type="WD">Q11613</idno>
+      </person>
+      <person xml:id="ttu_454_person_16">
+        <persName>Harry S Truman</persName>
+        <idno type="WD">Q11613</idno>
+      </person>
+      <person xml:id="ttu_454_person_17">
+        <persName>Alf Landon</persName>
+        <idno type="WD">Q665416</idno>
+      </person>
+      <person xml:id="ttu_454_person_18">
+        <persName>Nancy Landon Kassebaum</persName>
+        <idno type="WD">Q458281</idno>
+      </person>
+      <person xml:id="ttu_454_person_19">
+        <persName>Franklin Delano Roosevelt</persName>
+        <idno type="WD">Q8007</idno>
+      </person>
+      <person xml:id="ttu_454_person_20">
+        <persName>George McGovern</persName>
+        <idno type="WD">Q331742</idno>
+      </person>
+      <person xml:id="ttu_454_person_21">
+        <persName>Harry S Truman</persName>
+        <idno type="WD">Q11613</idno>
+      </person>
+      <person xml:id="ttu_454_person_22">
+        <persName>Neil Sheehan</persName>
+        <idno type="WD">Q1238740</idno>
+      </person>
+      <person xml:id="ttu_454_person_23">
+        <persName>David Halberstam</persName>
+        <idno type="WD">Q467156</idno>
+      </person>
+      <person xml:id="ttu_454_person_24">
+        <persName>Malcom Brown</persName>
+        <idno type="WD">Q18630785</idno>
+      </person>
+      <person xml:id="ttu_454_person_25">
+        <persName>John Wayne</persName>
+        <idno type="WD">Q40531</idno>
+      </person>
+      <person xml:id="ttu_454_person_26">
+        <persName>Henri Huet</persName>
+        <idno type="WD">Q1605885</idno>
+      </person>
+      <person xml:id="ttu_454_person_27">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_454_person_28">
+        <persName>Henri Huet</persName>
+        <idno type="WD">Q1605885</idno>
+      </person>
+      <person xml:id="ttu_454_person_29">
+        <persName>Henri Huet</persName>
+        <idno type="WD">Q1605885</idno>
+      </person>
+      <person xml:id="ttu_454_person_30">
+        <persName>John Wayne</persName>
+        <idno type="WD">Q40531</idno>
+      </person>
+      <person xml:id="ttu_454_person_31">
+        <persName>Henri Huet</persName>
+        <idno type="WD">Q1605885</idno>
+      </person>
+      <person xml:id="ttu_454_person_32">
+        <persName>Henri Huet</persName>
+        <idno type="WD">Q1605885</idno>
+      </person>
+      <person xml:id="ttu_454_person_33">
+        <persName>Henri Huet</persName>
+        <idno type="WD">Q1605885</idno>
+      </person>
+      <person xml:id="ttu_454_person_34">
+        <persName>B. T. Collins</persName>
+        <idno type="WD">Q4834225</idno>
+      </person>
+      <person xml:id="ttu_454_person_35">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_454_person_36">
+        <persName>Sam Bird</persName>
+        <idno type="WD">Q153242</idno>
+      </person>
+      <person xml:id="ttu_454_person_37">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="ttu_454_person_38">
+        <persName>B. T. Collins</persName>
+        <idno type="WD">Q4834225</idno>
+      </person>
+      <person xml:id="ttu_454_person_39">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_454_person_41">
+        <persName>Jerry Brown</persName>
+        <idno type="WD">Q152451</idno>
+      </person>
+      <person xml:id="ttu_454_person_42">
+        <persName>Barry Pepper</persName>
+        <idno type="WD">Q315604</idno>
+      </person>
+      <person xml:id="ttu_454_person_43">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_454_person_44">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_454_person_45">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_454_person_46">
+        <persName>Peter Arnett</persName>
+        <idno type="WD">Q142025</idno>
+      </person>
+      <person xml:id="ttu_454_person_48">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_454_person_49">
+        <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
+      </person>
+      <person xml:id="ttu_454_person_50">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+      <person xml:id="ttu_454_person_52">
+        <persName>Norman Schwarzkopf Jr.</persName>
+        <idno type="WD">Q310188</idno>
+      </person>
+      <person xml:id="ttu_454_person_53">
+        <persName>Joseph L. Galloway</persName>
+        <idno type="WD">Q3185182</idno>
+      </person>
+      <person xml:id="ttu_454_person_54">
+        <persName>Matt Dillon</persName>
+        <idno type="WD">Q111442679</idno>
+      </person>
+      <person xml:id="ttu_454_person_55">
+        <persName>Hal Moore</persName>
+        <idno type="WD">Q430209</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="ttu_454_org_0">
+        <orgName>1st Cavalry Division</orgName>
+        <idno type="WD">Q2338</idno>
+      </org>
+      <org xml:id="ttu_454_org_1">
+        <orgName>Texas A&amp;M University</orgName>
+        <idno type="WD">Q49212</idno>
+      </org>
+      <org xml:id="ttu_454_org_2">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_454_org_3">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="ttu_454_org_4">
+        <orgName>United States Army Air Corps</orgName>
+        <idno type="WD">Q2140008</idno>
+      </org>
+      <org xml:id="ttu_454_org_5">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_454_org_6">
+        <orgName>2nd Louisiana Regiment Infantry</orgName>
+        <idno type="WD">Q16823854</idno>
+      </org>
+      <org xml:id="ttu_454_org_8">
+        <orgName>4th Texas Infantry Regiment</orgName>
+        <idno type="WD">Q85738415</idno>
+      </org>
+      <org xml:id="ttu_454_org_9">
+        <orgName>Texas Brigade</orgName>
+        <idno type="WD">Q4456779</idno>
+      </org>
+      <org xml:id="ttu_454_org_10">
+        <orgName>11th New York Infantry</orgName>
+        <idno type="WD">Q4547933</idno>
+      </org>
+      <org xml:id="ttu_454_org_11">
+        <orgName>5th Texas Infantry Regiment</orgName>
+        <idno type="WD">Q85738512</idno>
+      </org>
+      <org xml:id="ttu_454_org_12">
+        <orgName>Texas Brigade</orgName>
+        <idno type="WD">Q4456779</idno>
+      </org>
+      <org xml:id="ttu_454_org_13">
+        <orgName>20th Maine Volunteer Infantry Regiment</orgName>
+        <idno type="WD">Q4630787</idno>
+      </org>
+      <org xml:id="ttu_454_org_14">
+        <orgName>Texas Brigade</orgName>
+        <idno type="WD">Q4456779</idno>
+      </org>
+      <org xml:id="ttu_454_org_16">
+        <orgName>United Press International</orgName>
+        <idno type="WD">Q493845</idno>
+      </org>
+      <org xml:id="ttu_454_org_17">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="ttu_454_org_18">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="ttu_454_org_19">
+        <orgName>Kansas Legislature</orgName>
+        <idno type="WD">Q3270271</idno>
+      </org>
+      <org xml:id="ttu_454_org_20">
+        <orgName>Kansas Legislature</orgName>
+        <idno type="WD">Q3270271</idno>
+      </org>
+      <org xml:id="ttu_454_org_21">
+        <orgName>United Press International</orgName>
+        <idno type="WD">Q493845</idno>
+      </org>
+      <org xml:id="ttu_454_org_22">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="ttu_454_org_23">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="ttu_454_org_24">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="ttu_454_org_25">
+        <orgName>United Press International</orgName>
+        <idno type="WD">Q493845</idno>
+      </org>
+      <org xml:id="ttu_454_org_26">
+        <orgName>Associated Press</orgName>
+        <idno type="WD">Q40469</idno>
+      </org>
+      <org xml:id="ttu_454_org_27">
+        <orgName>United Press International</orgName>
+        <idno type="WD">Q493845</idno>
+      </org>
+      <org xml:id="ttu_454_org_28">
+        <orgName>United Press International</orgName>
+        <idno type="WD">Q493845</idno>
+      </org>
+      <org xml:id="ttu_454_org_30">
+        <orgName>United States Marine Corps</orgName>
+        <idno type="WD">Q11218</idno>
+      </org>
+      <org xml:id="ttu_454_org_31">
+        <orgName>United States Marine Corps</orgName>
+        <idno type="WD">Q11218</idno>
+      </org>
+      <org xml:id="ttu_454_org_33">
+        <orgName>United Press International</orgName>
+        <idno type="WD">Q493845</idno>
+      </org>
+      <org xml:id="ttu_454_org_34">
+        <orgName>8th Airlift Squadron</orgName>
+        <idno type="WD">Q4645295</idno>
+      </org>
+      <org xml:id="ttu_454_org_35">
+        <orgName>United States Marine Corps</orgName>
+        <idno type="WD">Q11218</idno>
+      </org>
+      <org xml:id="ttu_454_org_36">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_454_org_37">
+        <orgName>French Armed Forces</orgName>
+        <idno type="WD">Q477986</idno>
+      </org>
+      <org xml:id="ttu_454_org_38">
+        <orgName>Vietnamese Independence League</orgName>
+        <idno type="WD">Q190949</idno>
+      </org>
+      <org xml:id="ttu_454_org_39">
+        <orgName>People's Liberation Armed Forces</orgName>
+        <idno type="WD">Q10810255</idno>
+      </org>
+      <org xml:id="ttu_454_org_40">
+        <orgName>Associated Press</orgName>
+        <idno type="WD">Q40469</idno>
+      </org>
+      <org xml:id="ttu_454_org_41">
+        <orgName>Military Assistance Advisory Group</orgName>
+        <idno type="WD">Q112123445</idno>
+      </org>
+      <org xml:id="ttu_454_org_42">
+        <orgName>Military Assistance Advisory Group</orgName>
+        <idno type="WD">Q112123445</idno>
+      </org>
+      <org xml:id="ttu_454_org_43">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_454_org_44">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_454_org_45">
+        <orgName>United States Department of Veterans Affairs</orgName>
+        <idno type="WD">Q592576</idno>
+      </org>
+      <org xml:id="ttu_454_org_46">
+        <orgName>Associated Press</orgName>
+        <idno type="WD">Q40469</idno>
+      </org>
+      <org xml:id="ttu_454_org_47">
+        <orgName>173rd Airborne Brigade</orgName>
+        <idno type="WD">Q198679</idno>
+      </org>
+      <org xml:id="ttu_454_org_48">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="ttu_454_org_49">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="ttu_454_org_50">
+        <orgName>1st Battalion, 7th Cavalry Regiment</orgName>
+        <idno type="WD">Q110641589</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
