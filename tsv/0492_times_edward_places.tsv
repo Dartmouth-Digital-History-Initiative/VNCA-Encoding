@@ -1,97 +1,97 @@
-id	placeName
-ttu_492_place_0	Crystal City Hilton
-ttu_492_place_1	Marin City, California
-ttu_492_place_2	Baton Rouge, Louisiana
-ttu_492_place_3	Baton Rouge
-ttu_492_place_4	San Francisco
-ttu_492_place_5	Baton Rouge
-ttu_492_place_6	Baton Rouge
-ttu_492_place_7	California
-ttu_492_place_8	Louisiana
-ttu_492_place_9	Fort Ord
-ttu_492_place_10	Monterey, California
-ttu_492_place_11	Fort Ord
-ttu_492_place_12	Fort Gordon
-ttu_492_place_13	Augusta, Georgia
-ttu_492_place_14	Fort Devens
-ttu_492_place_15	Ayer, Massachusetts
-ttu_492_place_16	Fort Devens
-ttu_492_place_17	Fort Benning
-ttu_492_place_18	Vietnam
-ttu_492_place_19	‘Nam
-ttu_492_place_20	Vietnam
-ttu_492_place_21	Vietnam
-ttu_492_place_22	Vietnam
-ttu_492_place_23	Japan
-ttu_492_place_24	Qui Nhon
-ttu_492_place_25	Japan
-ttu_492_place_26	Vietnam
-ttu_492_place_27	Japan
-ttu_492_place_28	Vietnam
-ttu_492_place_29	California
-ttu_492_place_30	Louisiana
-ttu_492_place_31	California
-ttu_492_place_32	Baton Rouge, Louisiana
-ttu_492_place_33	New Rose, Louisiana
-ttu_492_place_34	Fort Benning
-ttu_492_place_35	Kelley Hill
-ttu_492_place_36	Louisiana
-ttu_492_place_37	Baton Rouge
-ttu_492_place_38	Washington, D.C.
-ttu_492_place_39	VA (Veterans Affairs) Hospital
-ttu_492_place_40	New Orleans
-ttu_492_place_41	Washington
-ttu_492_place_42	Vietnam
-ttu_492_place_43	Vietnam
-ttu_492_place_44	An Khe
-ttu_492_place_45	Fort Devens
-ttu_492_place_46	Ia Drang Valley
-ttu_492_place_47	Pleiku
-ttu_492_place_48	Ia Drang
-ttu_492_place_49	Ia Drang Valley
-ttu_492_place_50	Baton Rouge
-ttu_492_place_51	New Orleans
-ttu_492_place_52	New Orleans
-ttu_492_place_53	Ia Drang
-ttu_492_place_54	New Orleans
-ttu_492_place_55	VA hospital
-ttu_492_place_56	Baton Rouge
-ttu_492_place_57	California
-ttu_492_place_58	Baton Rouge
-ttu_492_place_59	Ia Drang valley
-ttu_492_place_60	Ia Drang Valley
-ttu_492_place_61	Ia Drang
-ttu_492_place_62	Baton Rouge
-ttu_492_place_63	Vet center
-ttu_492_place_64	New Orleans
-ttu_492_place_65	New Orleans
-ttu_492_place_66	Harley Davis place
-ttu_492_place_67	Baton Rouge
-ttu_492_place_68	New Orleans
-ttu_492_place_69	Baton Rouge
-ttu_492_place_70	that valley
-ttu_492_place_71	Fort Benning
-ttu_492_place_72	Baton Rouge
-ttu_492_place_73	Auburn, Alabama
-ttu_492_place_74	Fort Benning
-ttu_492_place_75	Baton Rouge
-ttu_492_place_76	Mobile, Alabama
-ttu_492_place_77	Baton Rouge
-ttu_492_place_78	Fort Benning
-ttu_492_place_79	Fort Benning
-ttu_492_place_80	Fort Hood
-ttu_492_place_81	Missouri
-ttu_492_place_82	Fort Hood
-ttu_492_place_83	Kansas City
-ttu_492_place_84	Baton Rouge
-ttu_492_place_85	Iraq
-ttu_492_place_86	Iraq
-ttu_492_place_87	Fort Hood
-ttu_492_place_88	Iraq
-ttu_492_place_89	Baton Rouge
-ttu_492_place_90	Louisiana
-ttu_492_place_91	Ia Drang
-ttu_492_place_92	Texas
-ttu_492_place_93	Nashville, Tennessee
-ttu_492_place_94	Myrtle Beach
-ttu_492_place_95	Nashville
+id	placeName	QID	ttu_id	coordinate location
+ttu_492_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980		"38.852191,-77.052014"
+ttu_492_place_1	Marin City	Q2586362		"37.868611111111,-122.50916666667"
+ttu_492_place_2	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_3	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_4	San Francisco	Q62		"37.7775,-122.41638888888889"
+ttu_492_place_5	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_6	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_7	California	Q99		"37,-120"
+ttu_492_place_8	Louisiana	Q1588		"31,-92"
+ttu_492_place_9	Fort Ord	Q943136		"36.639166666667,-121.73527777778"
+ttu_492_place_10	Monterey	Q487315		"36.60024,-121.89468"
+ttu_492_place_11	Fort Ord	Q943136		"36.639166666667,-121.73527777778"
+ttu_492_place_12	Fort Gordon	Q1368958		"33.413333333333,-82.135277777778"
+ttu_492_place_13	Augusta	Q181962		"33.47,-81.975"
+ttu_492_place_14	Fort Devens	Q1413867		"42.545022222222,-71.613336111111"
+ttu_492_place_15	Ayer	Q945957		"42.5611,-71.5903"
+ttu_492_place_16	Fort Devens	Q1413867		"42.545022222222,-71.613336111111"
+ttu_492_place_17	Fort Benning	Q1438462		"32.366111111111,-84.969166666667"
+ttu_492_place_18	Vietnam	Q881		"16,108"
+ttu_492_place_19	Vietnam	Q881		"16,108"
+ttu_492_place_20	Vietnam	Q881		"16,108"
+ttu_492_place_21	Vietnam	Q881		"16,108"
+ttu_492_place_22	Vietnam	Q881		"16,108"
+ttu_492_place_23	Japan	Q17		"35,136"
+ttu_492_place_24	Qui Nhơn	Q36081		"13.769580555555555,109.23137222222222"
+ttu_492_place_25	Japan	Q17		"35,136"
+ttu_492_place_26	Vietnam	Q881		"16,108"
+ttu_492_place_27	Japan	Q17		"35,136"
+ttu_492_place_28	Vietnam	Q881		"16,108"
+ttu_492_place_29	California	Q99		"37,-120"
+ttu_492_place_30	Louisiana	Q1588		"31,-92"
+ttu_492_place_31	California	Q99		"37,-120"
+ttu_492_place_32	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_33	New Roads	Q2276773		"30.6964,-91.4389"
+ttu_492_place_34	Fort Benning	Q1438462		"32.366111111111,-84.969166666667"
+ttu_492_place_35	Kelley Hill	Q110888302		"32.38325815053565,-84.89875257096901"
+ttu_492_place_36	Louisiana	Q1588		"31,-92"
+ttu_492_place_37	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_38	"Washington, D.C."	Q61		"38.895,-77.036666666667"
+ttu_492_place_39	Washington DC VA Medical Center	Q30279708		"38.92574,-77.010974"
+ttu_492_place_40	New Orleans	Q34404		"29.95465,-90.07507"
+ttu_492_place_41	"Washington, D.C."	Q61		"38.895,-77.036666666667"
+ttu_492_place_42	Vietnam	Q881		"16,108"
+ttu_492_place_43	Vietnam	Q881		"16,108"
+ttu_492_place_44	An Khê	Q15179893		"13.9530664,108.6569463"
+ttu_492_place_45	Fort Devens	Q1413867		"42.545022222222,-71.613336111111"
+ttu_492_place_46	Ia Drang Valley	Q2904975		"13.583333333333,107.71666666667"
+ttu_492_place_47	Pleiku	Q30599		"13.971519,108.014673"
+ttu_492_place_48	Ia Drăng	Q10772506		"13.76361111,107.8541667"
+ttu_492_place_49	Ia Drang Valley	Q2904975		"13.583333333333,107.71666666667"
+ttu_492_place_50	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_51	New Orleans	Q34404		"29.95465,-90.07507"
+ttu_492_place_52	New Orleans	Q34404		"29.95465,-90.07507"
+ttu_492_place_53	Ia Drăng	Q10772506		"13.76361111,107.8541667"
+ttu_492_place_54	New Orleans	Q34404		"29.95465,-90.07507"
+ttu_492_place_55	Washington DC VA Medical Center	Q30279708		"38.92574,-77.010974"
+ttu_492_place_56	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_57	California	Q99		"37,-120"
+ttu_492_place_58	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_59	Ia Drang Valley	Q2904975		"13.583333333333,107.71666666667"
+ttu_492_place_60	Ia Drang Valley	Q2904975		"13.583333333333,107.71666666667"
+ttu_492_place_61	Ia Drăng	Q10772506		"13.76361111,107.8541667"
+ttu_492_place_62	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_63	Washington DC VA Medical Center	Q30279708		"38.92574,-77.010974"
+ttu_492_place_64	New Orleans	Q34404		"29.95465,-90.07507"
+ttu_492_place_65	New Orleans	Q34404		"29.95465,-90.07507"
+ttu_492_place_66	Harley Davis place		ttu_0136	
+ttu_492_place_67	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_68	New Orleans	Q34404		"29.95465,-90.07507"
+ttu_492_place_69	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_70	Ia Drang Valley	Q2904975		"13.583333333333,107.71666666667"
+ttu_492_place_71	Fort Benning	Q1438462		"32.366111111111,-84.969166666667"
+ttu_492_place_72	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_73	Auburn	Q79728		"32.597684,-85.480823"
+ttu_492_place_74	Fort Benning	Q1438462		"32.366111111111,-84.969166666667"
+ttu_492_place_75	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_76	Mobile	Q79875		"30.727669444444,-88.052672222222"
+ttu_492_place_77	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_78	Fort Benning	Q1438462		"32.366111111111,-84.969166666667"
+ttu_492_place_79	Fort Benning	Q1438462		"32.366111111111,-84.969166666667"
+ttu_492_place_80	Fort Hood	Q783854		"31.1344744,-97.7797191"
+ttu_492_place_81	Missouri	Q1581		"38.5,-92.5"
+ttu_492_place_82	Fort Hood	Q783854		"31.1344744,-97.7797191"
+ttu_492_place_83	"Kansas City, Missouri"	Q41819		"39.05,-94.583333333333"
+ttu_492_place_84	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_85	Iraq	Q796		"33,43"
+ttu_492_place_86	Iraq	Q796		"33,43"
+ttu_492_place_87	Fort Hood	Q783854		"31.1344744,-97.7797191"
+ttu_492_place_88	Iraq	Q796		"33,43"
+ttu_492_place_89	Baton Rouge	Q28218		"30.4475,-91.178611111111"
+ttu_492_place_90	Louisiana	Q1588		"31,-92"
+ttu_492_place_91	Ia Drang Valley	Q2904975		"13.583333333333,107.71666666667"
+ttu_492_place_92	Texas	Q1439		"31,-100"
+ttu_492_place_93	Nashville	Q23197		"36.16222222222222,-86.77444444444444"
+ttu_492_place_94	Myrtle Beach	Q839805		"33.71,-78.883611111111"
+ttu_492_place_95	Nashville	Q23197		"36.16222222222222,-86.77444444444444"
