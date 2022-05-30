@@ -1,10 +1,10 @@
-id	orgName
-ttu_490_org_0	Baylor College of Dentistry
-ttu_490_org_1	1st Cav
-ttu_490_org_2	US News & World Report
-ttu_490_org_3	US News & World Report
-ttu_490_org_4	2 of 7th
-ttu_490_org_5	Delta Company
-ttu_490_org_6	1 of 7th
-ttu_490_org_7	1st Cav
-ttu_490_org_8	United States Army
+id	orgName	QID	ttu_id
+ttu_490_org_0	Baylor College of Dentistry	Q4874601	
+ttu_490_org_1	1st Cavalry Division	Q2338	
+ttu_490_org_2	U.S. News & World Report	Q848629	
+ttu_490_org_3	U.S. News & World Report	Q848629	
+ttu_490_org_4	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_490_org_5	Company D, 229th Aviation Battalion	Q110954816	
+ttu_490_org_6	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_490_org_7	1st Cavalry Division	Q2338	
+ttu_490_org_8	United States Army	Q9212	
