@@ -1,30 +1,30 @@
-id	persName
-ttu_498_person_0	Dr. Richard Verrone
-ttu_498_person_1	Sergeant Frank Knowski
-ttu_498_person_2	Sergeant
-ttu_498_person_3	Vincent Locatelli
-ttu_498_person_4	Loco
-ttu_498_person_5	Loco
-ttu_498_person_6	Loco
-ttu_498_person_7	Loco
-ttu_498_person_8	Captain Forrest
-ttu_498_person_9	Loco
-ttu_498_person_10	Forrest
-ttu_498_person_11	Loco
-ttu_498_person_12	Loco
-ttu_498_person_13	Lieutenant Hess
-ttu_498_person_14	Loco
-ttu_498_person_15	Forrest
-ttu_498_person_16	Captain Forrest
-ttu_498_person_17	Captain Forrest
-ttu_498_person_18	Rip
-ttu_498_person_19	Rip
-ttu_498_person_20	Ski
-ttu_498_person_21	Ski
-ttu_498_person_22	Ski
-ttu_498_person_23	Rip
-ttu_498_person_24	Loco
-ttu_498_person_25	Captain Forrest
-ttu_498_person_26	Loco
-ttu_498_person_27	Loco
-ttu_498_person_28	Sergeant
+id	persName	QID	ttu_id
+ttu_498_person_0	Richard Verrone	Q111653126	
+ttu_498_person_1	Frank Knowski	Q112188996	
+ttu_498_person_2	Frank Knowski	Q112188996	
+ttu_498_person_3	Vincent Locatelli	Q112189010	
+ttu_498_person_4	Vincent Locatelli	Q112189010	
+ttu_498_person_5	Vincent Locatelli	Q112189010	
+ttu_498_person_6	Vincent Locatelli	Q112189010	
+ttu_498_person_7	Vincent Locatelli	Q112189010	
+ttu_498_person_8	George Forrest	Q111597595	
+ttu_498_person_9	Vincent Locatelli	Q112189010	
+ttu_498_person_10	George Forrest	Q111597595	
+ttu_498_person_11	Vincent Locatelli	Q112189010	
+ttu_498_person_12	Vincent Locatelli	Q112189010	
+ttu_498_person_13	Larry Leroy Hess	Q112189030	
+ttu_498_person_14	Vincent Locatelli	Q112189010	
+ttu_498_person_15	George Forrest	Q111597595	
+ttu_498_person_16	George Forrest	Q111597595	
+ttu_498_person_17	George Forrest	Q111597595	
+ttu_498_person_18	Rip		ttu_0172
+ttu_498_person_19	Rip		ttu_0172
+ttu_498_person_20	Frank Knowski	Q112188996	
+ttu_498_person_21	Frank Knowski	Q112188996	
+ttu_498_person_22	Frank Knowski	Q112188996	
+ttu_498_person_23	Rip		ttu_0172
+ttu_498_person_24	Vincent Locatelli	Q112189010	
+ttu_498_person_25	George Forrest	Q111597595	
+ttu_498_person_26	Vincent Locatelli	Q112189010	
+ttu_498_person_27	Vincent Locatelli	Q112189010	
+ttu_498_person_28	Frank Knowski	Q112188996	
