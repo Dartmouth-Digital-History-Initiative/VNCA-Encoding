@@ -3,11 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Paul Patton Winkel, Jr.</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="video" dur-iso="00:51:47">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0451/OH0451.mp4" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Mark Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0451/OH0451.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2005-11-10"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -58,8 +58,8 @@
   </teiHeader>
   <text>
     <body>
-      <u who="VERRONE"><persName>Patten Winkel Jr</persName>, <date>today</date> is <date>November 10th, 2005</date>, and we are in <placeName>Washington DC</placeName>, in <placeName>the Crystal City</placeName> Hilton for the 40th anniversary reunion of the Ia Drang-Pleiku campaigns. Colonel <persName>Winkel</persName>, thank you so much for doing this with us. We want to talk about 1965 and that, but I want—if you can give us a little background of yourself and what got you into aviation, and then into the unit that support everything going on at X-Ray. So how did that begin? You have some family experience in warfare.</u>
-      <u who="WINKEL">Well, I’ve been army ever since I was three, I think. I just did some ancestral research, I found a great-great that was in the provisional army of the <placeName>colonies</placeName> in <date>1725</date>, and then I had a great-grandfather who was with <placeName>Washington</placeName> in <name type="event">the Revolution War</name>—great-great-grandfather. Then a great-grandfather who was a sergeant in the Calvary with Sherman for <date>four years</date>. Two uncles in <name type="event">World War I</name>, my dad and another uncle in <name type="event">World War II</name>. So I enlisted in being army, graduated from high school in <placeName>Vienna</placeName>, <placeName>Austria</placeName>, when my dad was assigned over there, and became interested in the military academy. Graduated in <date>’56</date> and having been a private prior to going to military academy for <date>a year and a half</date>, army prep school. Went into <orgName>Army Rangers</orgName>, parachute, airborne, army aviation. Then went to <placeName>Fort Bragg</placeName>, and <placeName>Fort Bragg</placeName> in <date>the late 50s</date> when General <persName>Howe</persName> came down and he and <persName>Gavin</persName> had been looking at <orgName>air assault business</orgName>, and he sort of used our 82nd aviation company as a test vehicle. I would, after coming back from helicopter school, fix wing helicopters and instruments. Sort of toyed around with us, hopping over trees in our H13, shooting tanks by turning on our landing lights, and then moving troops from place to place, sort of investigating this sort of thing. Then I got another assignment, went to <placeName>Korea</placeName>, and then came back and went to advanced course.  Transferred to <orgName>the Transportation Corps</orgName> because that’s where aviation was. Ended up real quickly down at <orgName>General Kinnard’s</orgName> organization in <date>’64</date> and we got involved in the air assault business there. I was a helicopter Platoon Commander Operations Officer—Company Platoon Commander and then <orgName>Operations Officer</orgName>. Then, because I rode a lot, I got to be a <orgName>PIO</orgName> (Public Information Officer) for the battalion during the selling of the air assault stuff. Then within <date>the same year</date>, was a gunship <placeName>Platoon</placeName> Commander, went to <placeName>the Dominican Republic</placeName> and was the Assistant Operation Officer down with our aviation detention there and came back and got into—they put me into the gunship come in and when we got to ‘<persName>Nam</persName>, they put me into the troop with <orgName>a Bravo Company</orgName>. So that’s sort of—just had no choice, all of the sudden there we were and Benning, at <orgName>Benning General Kinnard</orgName> had us—he was our initiative, that became probably because we using our initiative during the air assault test enabled us to do this sort of thing in <placeName>the Ia Drang</placeName>. One example of using an initiative we went to the <placeName>Carolinas</placeName> and had practicing the air assault test in the middle of a hurricane. One of our platoon leaders said, “We can’t fly anymore, were going to stop, were going to land our ships at the <persName>Howard Johnson’s</persName>.” They put them in the parking lot and they spent the night at the Howard Johnsons. So that was one example of initiative, in support of the whole thing.</u>
+      <u who="VERRONE"><persName>Patton Winkel Jr</persName>, today is <date when="2005-11-10">November 10th, 2005</date>, and we are in <placeName>Washington DC</placeName>, in <placeName>the Crystal City Hilton</placeName> for the 40th anniversary reunion of the <name type="event">Ia Drang-Pleiku campaigns</name>. <persName>Colonel Winkel</persName>, thank you so much for doing this with us. We want to talk about <date when="1965">1965</date> and that, but I want—if you can give us a little background of yourself and what got you into aviation, and then into the unit that support everything going on at <placeName>X-Ray</placeName>. So how did that begin? You have some family experience in warfare.</u>
+      <u who="WINKEL">Well, I’ve been army ever since I was three, I think. I just did some ancestral research, I found a great-great that was in the provisional army of the <placeName>colonies</placeName> in <date when="1725">1725</date>, and then I had a great-grandfather who was with <persName>Washington</persName> in the <name type="event">Revolution War</name>—great-great-grandfather. Then a great-grandfather who was a sergeant in the <orgName>Calvary</orgName> with <persName>Sherman</persName> for four years. Two uncles in <name type="event">World War I</name>, my dad and another uncle in <name type="event">World War II</name>. So I enlisted in being <orgName>army</orgName>, graduated from high school in <placeName>Vienna, Austria</placeName>, when my dad was assigned over there, and became interested in the military academy. Graduated in <date when="1956">’56</date> and having been a private prior to going to military academy for a year and a half, army prep school. Went into <orgName>Army Rangers</orgName>, parachute, airborne, army aviation. Then went to <placeName>Fort Bragg</placeName>, and <placeName>Fort Bragg</placeName> in the late 50s when <persName>General Howe</persName> came down and he and <persName>Gavin</persName> had been looking at air assault business, and he sort of used our <orgName>82nd aviation company</orgName> as a test vehicle. I would, after coming back from helicopter school, fix wing helicopters and instruments. Sort of toyed around with us, hopping over trees in our H13, shooting tanks by turning on our landing lights, and then moving troops from place to place, sort of investigating this sort of thing. Then I got another assignment, went to <placeName>Korea</placeName>, and then came back and went to advanced course.  Transferred to the <orgName>Transportation Corps</orgName> because that’s where aviation was. Ended up real quickly down at General Kinnard’s organization in <date>’64</date> and we got involved in the air assault business there. I was a helicopter Platoon Commander Operations Officer—Company Platoon Commander and then <orgName>Operations Officer</orgName>. Then, because I rode a lot, I got to be a <orgName>PIO</orgName> (Public Information Officer) for the battalion during the selling of the air assault stuff. Then within <date>the same year</date>, was a gunship <placeName>Platoon</placeName> Commander, went to <placeName>the Dominican Republic</placeName> and was the Assistant Operation Officer down with our aviation detention there and came back and got into—they put me into the gunship come in and when we got to ‘<persName>Nam</persName>, they put me into the troop with <orgName>a Bravo Company</orgName>. So that’s sort of—just had no choice, all of the sudden there we were and Benning, at <orgName>Benning General Kinnard</orgName> had us—he was our initiative, that became probably because we using our initiative during the air assault test enabled us to do this sort of thing in <placeName>the Ia Drang</placeName>. One example of using an initiative we went to the <placeName>Carolinas</placeName> and had practicing the air assault test in the middle of a hurricane. One of our platoon leaders said, “We can’t fly anymore, were going to stop, were going to land our ships at the <persName>Howard Johnson’s</persName>.” They put them in the parking lot and they spent the night at the Howard Johnsons. So that was one example of initiative, in support of the whole thing.</u>
       <u who="VERRONE">Right. Tell me a little bit about getting over to <placeName>Vietnam</placeName> and getting situated with 229th.</u>
       <u who="WINKEL">Well, I was with the 229th for <date>two years</date>, in the 11th <orgName>Air Assault</orgName> through the 229th. We did a lot of testing down in the air assault test and got—had to go to <placeName>Vietnam</placeName>. Got on board this ship, jeep carrier. Went to <placeName>Panama</placeName>, two other ships followed us, other ships went through the <placeName>Suez</placeName>. Our ship had to refit at <placeName>Long Beach</placeName>. Our aircraft carrier with all the helicopters landed first and the officers went to the officer’s club and the <persName>EM</persName> (Enlisted Men) went to <orgName>EM</orgName> club. We ate all the steaks, cleaned out the class six door. They brought the <orgName>EM</orgName> back in borrowed buses and the port commander says, “Anybody else from the cav, they’ll stay at the dock.” Then we went off with our carrier and went adrift in the <placeName>Pacific</placeName> about four times and went through a typhoon. Then we landed at (??) and they put the blades on our helicopters and we all test flew the helicopters off the ship two miles inland, and if they worked, they worked. If it didn’t work, well we—but that’s my boat ride.</u>
       <u who="VERRONE">Wow. That’s quite an adventure—</u>
