@@ -3,11 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Gordon Paul Rozanski</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="video" dur-iso="00:33:04">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0452/OH0452.mp4" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="path_to_file">https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0452/OH0452.pdf</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2005-11-10"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -58,9 +58,10 @@
   </teiHeader>
   <text>
     <body>
-      <u who="VERRONE">This is Dr. <persName>Richard Verrone</persName>, I’m conducting a video oral history with <persName>Gordon Paul Rozanski</persName>, better known as <placeName>Rozy</placeName>. <date>Today</date> is 11/10/05 and we are in <placeName>Washington, DC</placeName>, at the Crystal City Hilton and we’re here for the 40th anniversary reunion of the <persName>Pleiku</persName>-Ia <placeName>Drang Valley</placeName> campaign. Sir, what I would like for you to do is we can concentrate and look at these days in <date>November</date> and I like to get you to describe maybe that weekend before <date>Sunday the 14th</date>. What were you doing, what was your position, then what were you doing to prepare for this?</u>
-      <u who="ROZANSKI">The battalion at the time had been working in the <placeName>Plei Me</placeName> area there because of the attack of the on the Special Forces camp. When the battalion had moved up in there, I was the S4 for <date>1st</date> and the 7th and in charge of supplies. So I set up a supply agency there or attempted. Then, a couple of people at <placeName>Pleiku</placeName>, <persName>Holloway</persName> and then also put some other people up on the tea plantation to help and supply. We—at the time we’ve been supplying <date>daily</date> rations for the troops as they been on their other operations and then it was just a matter of support all the way through for—we had some guys who were troops ready to head on home and in a lot of cases decided to stick it out until they came back in from the field. So it was a matter of supply and taking care of the troops, making sure they had what they needed.</u>
-      <u who="VERRONE">How difficult of a job was that in that terrain? In that atmosphere and its—you’re right at the crux of what the public saw as the real first time the Americans were on the ground, which we know is not true. But tell me about working supply there in 1965.ROZANSKI: Well, really the weapons we had were basically new. They were the M16s. Getting the people used to the M16s and the problems of maintenance and trying to keep them from wrapping them around a tree after their little frustration. We had the rations, you know, were no problem. Still eating C-rations at the time, but we tried if possible, to make sure they got a hot meal or hot something. Usually every day or whatever if you’re not in contact. It wasn’t bad. The one problem we had from the get-go over there was the water. What we had for brining water out to the troops besides their own canteens, were plastic—they looked like collapsible milk jugs. Probably four and five gallons. They worked fine. They’d fold up, but when they were full of water and sloshed around, the first stick punctured them. So you always had a problem with water. I think that was probably one of the biggest headaches. Ammunition, we had a great supply of ammunition. Rations. Anything we need was right stone’s throw from the tent. The medical unit was supporting me and the <persName>Pleiku</persName> operation was right in my backdoor.</u>
+      <u who="VERRONE">This is <persName>Dr. Richard Verrone</persName>, I’m conducting a video oral history with <persName>Gordon Paul Rozanski</persName>, better known as <persName>Rozy</persName>. Today is <date when="2005-11-10">11/10/05</date> and we are in <placeName>Washington, DC</placeName>, at the <placeName>Crystal City Hilton</placeName> and we’re here for the 40th anniversary reunion of the <name type="event">Pleiku-Ia Drang Valley campaign</name>. Sir, what I would like for you to do is we can concentrate and look at these days in <date when="1965-11">November</date> and I like to get you to describe maybe that weekend before Sunday the <date when= "1965-11-14">14th</date>. What were you doing, what was your position, then what were you doing to prepare for this?</u>
+      <u who="ROZANSKI">The battalion at the time had been working in the <placeName>Plei Me</placeName> area there because of the attack of the on the Special Forces camp. When the battalion had moved up in there, I was the S4 for <orgName>1st and the 7th</orgName> and in charge of supplies. So I set up a supply agency there or attempted. Then, a couple of people at <placeName>Pleiku</placeName>, <persName>Holloway</persName> and then also put some other people up on the tea plantation to help and supply. We—at the time we’ve been supplying daily rations for the troops as they been on their other operations and then it was just a matter of support all the way through for—we had some guys who were troops ready to head on home and in a lot of cases decided to stick it out until they came back in from the field. So it was a matter of supply and taking care of the troops, making sure they had what they needed.</u>
+      <u who="VERRONE">How difficult of a job was that in that terrain? In that atmosphere and its—you’re right at the crux of what the public saw as the real first time the <orgName>Americans</orgName> were on the ground, which we know is not true. But tell me about working supply there in <date when="1965">1965</date>.</u>
+        <u who="ROZANSKI">Well, really the weapons we had were basically new. They were the M16s. Getting the people used to the M16s and the problems of maintenance and trying to keep them from wrapping them around a tree after their little frustration. We had the rations, you know, were no problem. Still eating C-rations at the time, but we tried if possible, to make sure they got a hot meal or hot something. Usually every day or whatever if you’re not in contact. It wasn’t bad. The one problem we had from the get-go over there was the water. What we had for brining water out to the troops besides their own canteens, were plastic—they looked like collapsible milk jugs. Probably four and five gallons. They worked fine. They’d fold up, but when they were full of water and sloshed around, the first stick punctured them. So you always had a problem with water. I think that was probably one of the biggest headaches. Ammunition, we had a great supply of ammunition. Rations. Anything we need was right stone’s throw from the tent. The medical unit was supporting me and the <name type="event">Pleiku operation</name> was right in my backdoor.</u>
       <u who="VERRONE">Sounded like you had what you needed.</u>
       <u who="ROZANSKI">We had everything we needed right there.</u>
       <u who="VERRONE"><date>Sunday the 14th</date>. Tell me <date>about that day</date>.</u>
