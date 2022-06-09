@@ -1,46 +1,46 @@
-id	placeName
-ttu_494_place_0	Crystal City Hilton
-ttu_494_place_1	Rucker
-ttu_494_place_2	Fort Belvoir
-ttu_494_place_3	Fort Wolters
-ttu_494_place_4	Fort Benning, Georgia
-ttu_494_place_5	Vietnam
-ttu_494_place_6	Vietnam
-ttu_494_place_7	An Khe
-ttu_494_place_8	Qui Nhon
-ttu_494_place_9	An Khe
-ttu_494_place_10	An Khe
-ttu_494_place_11	Golf Course
-ttu_494_place_12	Golf Course
-ttu_494_place_13	Golf Course
-ttu_494_place_14	An Khe Airfield
-ttu_494_place_15	Plei Me
-ttu_494_place_16	LZ (Landing Zone) X-Ray
-ttu_494_place_17	LZ
-ttu_494_place_18	LZ Columbus
-ttu_494_place_19	LZ Albany
-ttu_494_place_20	Albany
-ttu_494_place_21	Florida
-ttu_494_place_22	Cambodia
-ttu_494_place_23	Tuy Hoa
-ttu_494_place_24	Vietnam
-ttu_494_place_25	Plei Me
-ttu_494_place_26	Benning
-ttu_494_place_27	An Khe
-ttu_494_place_28	Happy Valley
-ttu_494_place_29	Benning
-ttu_494_place_30	Vietnam
-ttu_494_place_31	Saigon River
-ttu_494_place_32	Benning
-ttu_494_place_33	An Khe
-ttu_494_place_34	An Khe
-ttu_494_place_35	An Khe
-ttu_494_place_36	United States
-ttu_494_place_37	Marriott hotel
-ttu_494_place_38	Kennedy Center
-ttu_494_place_39	D.C. Armory
-ttu_494_place_40	Kennedy Center
-ttu_494_place_41	Kennedy Center
-ttu_494_place_42	D.C. Armory
-ttu_494_place_43	Fort Hood
-ttu_494_place_44	Vietnam
+id	placeName	QID	ttu_id	coordinate location
+ttu_494_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
+ttu_494_place_1	Fort Rucker	Q1292067		31.34,-85.71
+ttu_494_place_2	Fort Belvoir	Q1375761		38.7197,-77.1546
+ttu_494_place_3	Fort Wolters	Q5472364		32.8525,-98.0311
+ttu_494_place_4	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_494_place_5	Vietnam	Q881		16,108
+ttu_494_place_6	Vietnam	Q881		16,108
+ttu_494_place_7	An Khê	Q15179893		13.9530664,108.6569463
+ttu_494_place_8	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+ttu_494_place_9	An Khê	Q15179893		13.9530664,108.6569463
+ttu_494_place_10	An Khê	Q15179893		13.9530664,108.6569463
+ttu_494_place_11	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_494_place_12	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_494_place_13	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_494_place_14	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_494_place_15	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_494_place_16	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_494_place_17	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_494_place_18	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_494_place_19	LZ Albany	Q110624853		13.59528,107.71528
+ttu_494_place_20	LZ Albany	Q110624853		13.59528,107.71528
+ttu_494_place_21	Florida	Q812		28.133333333333,-81.631666666667
+ttu_494_place_22	Cambodia	Q424		12.6,105
+ttu_494_place_23	Tuy Hòa	Q35747		13.0868719,109.308589
+ttu_494_place_24	Vietnam	Q881		16,108
+ttu_494_place_25	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_494_place_26	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_494_place_27	An Khê	Q15179893		13.9530664,108.6569463
+ttu_494_place_28	Suối Cả Valley	Q110943631		14.150583333333334,108.95794444444445
+ttu_494_place_29	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_494_place_30	Vietnam	Q881		16,108
+ttu_494_place_31	Saigon River	Q1060805		10.75,106.75
+ttu_494_place_32	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_494_place_33	An Khê	Q15179893		13.9530664,108.6569463
+ttu_494_place_34	An Khê	Q15179893		13.9530664,108.6569463
+ttu_494_place_35	An Khê	Q15179893		13.9530664,108.6569463
+ttu_494_place_36	United States of America	Q30		39.828175,-98.5795
+ttu_494_place_37	JW Marriott Washington, DC	Q111394684		38.89643,-77.03191
+ttu_494_place_38	John F. Kennedy Center for the Performing Arts	Q1631981		38.8957,-77.0559
+ttu_494_place_39	D.C. Armory	Q5203364		38.8886,-76.9755
+ttu_494_place_40	John F. Kennedy Center for the Performing Arts	Q1631981		38.8957,-77.0559
+ttu_494_place_41	John F. Kennedy Center for the Performing Arts	Q1631981		38.8957,-77.0559
+ttu_494_place_42	D.C. Armory	Q5203364		38.8886,-76.9755
+ttu_494_place_43	Fort Hood	Q783854		31.1344744,-97.7797191
+ttu_494_place_44	Vietnam	Q881		16,108
