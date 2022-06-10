@@ -1,5 +1,5 @@
-id	name
-ttu_491_event_0	World War II
-ttu_491_event_1	World War I.
-ttu_491_event_2	World War II
-ttu_491_event_3	World War II
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_491_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+ttu_491_event_1	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+ttu_491_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+ttu_491_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
