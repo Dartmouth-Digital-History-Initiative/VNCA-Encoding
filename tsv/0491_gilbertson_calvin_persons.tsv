@@ -1,19 +1,19 @@
-id	persName
-ttu_491_person_0	Philip Napoli
-ttu_491_person_1	Calvin Gilbertson
-ttu_491_person_2	Richard DeBauche
-ttu_491_person_3	Gilbertson
-ttu_491_person_4	Calvin Gilbertson
-ttu_491_person_5	DeBauche
-ttu_491_person_6	Gilbertson
-ttu_491_person_7	Richard DeBauche
-ttu_491_person_8	Cal
-ttu_491_person_9	Gilbertson
-ttu_491_person_10	General Darby 
-ttu_491_person_11	Fred Kluge
-ttu_491_person_12	Vincent Locatelli
-ttu_491_person_13	Platoon Sargent Kluge
-ttu_491_person_14	DeBauche
-ttu_491_person_15	Calvin
-ttu_491_person_16	Cal
-ttu_491_person_17	Cal
+id	persName	QID	ttu_id
+ttu_491_person_0	Philip F. Napoli	Q111599207	
+ttu_491_person_1	Calvin Gilbertson	Q112325713	
+ttu_491_person_2	Richard DeBauche	Q112325989	
+ttu_491_person_3	Calvin Gilbertson	Q112325713	
+ttu_491_person_4	Calvin Gilbertson	Q112325713	
+ttu_491_person_5	Hubert Robert Debauche	Q21388587	
+ttu_491_person_6	Calvin Gilbertson	Q112325713	
+ttu_491_person_7	Richard DeBauche	Q112325989	
+ttu_491_person_8	Calvin Gilbertson	Q112325713	
+ttu_491_person_9	Calvin Gilbertson	Q112325713	
+ttu_491_person_10	General Darby		
+ttu_491_person_11	Fred Kluge	Q112325964	
+ttu_491_person_12	Vincent Locatelli	Q112189010	
+ttu_491_person_13	Fred Kluge	Q112325964	
+ttu_491_person_14	Hubert Robert Debauche	Q21388587	
+ttu_491_person_15	Calvin Gilbertson	Q112325713	
+ttu_491_person_16	Calvin Gilbertson	Q112325713	
+ttu_491_person_17	Calvin Gilbertson	Q112325713	

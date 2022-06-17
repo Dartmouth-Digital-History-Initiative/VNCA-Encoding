@@ -1,14 +1,14 @@
-id	orgName
-ttu_491_org_0	the 2nd Infantry Division
-ttu_491_org_1	11th Air Assault
-ttu_491_org_2	1st Cav
-ttu_491_org_3	11th Air Assault
-ttu_491_org_4	Seabees
-ttu_491_org_5	Coast Guard
-ttu_491_org_6	Seabees
-ttu_491_org_7	 Company A, 1st of the 5th 
-ttu_491_org_8	VC (Viet Cong)
-ttu_491_org_9	1st of the 7th
-ttu_491_org_10	military
-ttu_491_org_11	Cav
-ttu_491_org_12	Lavender’s
+id	orgName	QID	ttu_id
+ttu_491_org_0	2nd Infantry Division	Q210607	
+ttu_491_org_1	11th Airborne Division	Q169980	
+ttu_491_org_2	1st Cavalry Division	Q2338	
+ttu_491_org_3	11th Airborne Division	Q169980	
+ttu_491_org_4	Seabee	Q1757145	
+ttu_491_org_5	United States Coast Guard	Q11224	
+ttu_491_org_6	Seabee	Q1757145	
+ttu_491_org_7	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_491_org_8	National Front for the Liberation of South Vietnam	Q174423	
+ttu_491_org_9	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_491_org_10	United States Armed Forces	Q11211	
+ttu_491_org_11	1st Cavalry Division	Q2338	
+ttu_491_org_12	Lavender’s		
