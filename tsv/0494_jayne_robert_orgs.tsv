@@ -1,47 +1,47 @@
-id	orgName
-ttu_494_org_0	Army
-ttu_494_org_1	Mississippi State University
-ttu_494_org_2	ROTC (Reserve Officer Training Corps) program
-ttu_494_org_3	Mississippi State
-ttu_494_org_4	24th Aviation Company
-ttu_494_org_5	11th Air Assault Division
-ttu_494_org_6	11th Air Assault Division
-ttu_494_org_7	1st Cav
-ttu_494_org_8	11th Air Assault Division
-ttu_494_org_9	11th Air Assault Division
-ttu_494_org_10	division
-ttu_494_org_11	Charlie Company, 229th Assault Helicopter Battalion
-ttu_494_org_12	101st
-ttu_494_org_13	173rd
-ttu_494_org_14	2nd of the 7th
-ttu_494_org_15	Alpha Company
-ttu_494_org_16	Charlie Company
-ttu_494_org_17	2nd of the 7th
-ttu_494_org_18	2nd of the 7th
-ttu_494_org_19	Army Aviation
-ttu_494_org_20	2nd of the 7th
-ttu_494_org_21	TAC (Tactical Air Command)
-ttu_494_org_22	Charlie Company’s
-ttu_494_org_23	Cav
-ttu_494_org_24	TAC
-ttu_494_org_25	VC (Viet Cong
-ttu_494_org_26	82nd Airborne Division
-ttu_494_org_27	UDT (Underwater Demolition Team)
-ttu_494_org_28	North Vietnamese troops
-ttu_494_org_29	229th Alpha Company
-ttu_494_org_30	Congress
-ttu_494_org_31	Charlie Company 229th
-ttu_494_org_32	Charlie Company 229th
-ttu_494_org_33	Charlie Company
-ttu_494_org_34	229th
-ttu_494_org_35	1st Cav
-ttu_494_org_36	1st Cav
-ttu_494_org_37	2nd Armored Division
-ttu_494_org_38	2nd of the 7th
-ttu_494_org_39	20th Brigade
-ttu_494_org_40	III
-ttu_494_org_41	IV Corps
-ttu_494_org_42	Cav
-ttu_494_org_43	Cav
-ttu_494_org_44	Cav
-ttu_494_org_45	Cav
+id	orgName	QID	ttu_id
+ttu_494_org_0	United States Army	Q9212	
+ttu_494_org_1	Mississippi State University	Q1939211	
+ttu_494_org_2	Reserve Officers' Training Corps	Q489983	
+ttu_494_org_3	Mississippi State University	Q1939211	
+ttu_494_org_4	24th Infantry Division	Q216951	
+ttu_494_org_5	11th Airborne Division	Q169980	
+ttu_494_org_6	11th Airborne Division	Q169980	
+ttu_494_org_7	1st Cavalry Division	Q2338	
+ttu_494_org_8	11th Airborne Division	Q169980	
+ttu_494_org_9	11th Airborne Division	Q169980	
+ttu_494_org_10	11th Airborne Division	Q169980	
+ttu_494_org_11	Company C, 229th Aviation Battalion	Q110624759	
+ttu_494_org_12	101st Airborne Division (Air Assault)	Q111844746	
+ttu_494_org_13	173rd Airborne Brigade	Q198679	
+ttu_494_org_14	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_494_org_15	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_494_org_16	Company C, 2nd Battalion, 7th Cavalry Regiment	Q111524902	
+ttu_494_org_17	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_494_org_18	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_494_org_19	United States Army Aviation Branch	Q1038259	
+ttu_494_org_20	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_494_org_21	Tactical Air Command	Q94291	
+ttu_494_org_22	Company C, 2nd Battalion, 7th Cavalry Regiment	Q111524902	
+ttu_494_org_23	1st Cavalry Division	Q2338	
+ttu_494_org_24	Tactical Air Command	Q94291	
+ttu_494_org_25	National Front for the Liberation of South Vietnam	Q174423	
+ttu_494_org_26	82nd Airborne Division	Q2358	
+ttu_494_org_27	Underwater Demolition Team	Q7883853	
+ttu_494_org_28	People's Army of Vietnam	Q3936506	
+ttu_494_org_29	Company A, 229th Aviation Battalion	Q110647772	
+ttu_494_org_30	United States Congress	Q11268	
+ttu_494_org_31	Company C, 229th Aviation Battalion	Q110624759	
+ttu_494_org_32	Company C, 229th Aviation Battalion	Q110624759	
+ttu_494_org_33	Company C, 229th Aviation Battalion	Q110624759	
+ttu_494_org_34	229th Aviation Regiment	Q4631295	
+ttu_494_org_35	1st Cavalry Division	Q2338	
+ttu_494_org_36	1st Cavalry Division	Q2338	
+ttu_494_org_37	2nd Armored Division	Q2633981	
+ttu_494_org_38	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_494_org_39	20th Engineer Brigade	Q4630744	
+ttu_494_org_40	III Corps	Q5971303	
+ttu_494_org_41	IV Corps	Q105670558	
+ttu_494_org_42	1st Cavalry Division	Q2338	
+ttu_494_org_43	1st Cavalry Division	Q2338	
+ttu_494_org_44	1st Cavalry Division	Q2338	
+ttu_494_org_45	1st Cavalry Division	Q2338	

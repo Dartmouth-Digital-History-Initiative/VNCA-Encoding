@@ -1,14 +1,14 @@
-id	name
-ttu_494_event_0	Vietnam War
-ttu_494_event_1	Ia Drang
-ttu_494_event_2	Ia Drang
-ttu_494_event_3	Battle of Plei Me
-ttu_494_event_4	X-Ray
-ttu_494_event_5	Ia Drang
-ttu_494_event_6	Ia Drang
-ttu_494_event_7	Ia Drang
-ttu_494_event_8	Ia Drang
-ttu_494_event_9	Ia Drang
-ttu_494_event_10	Ia Drang
-ttu_494_event_11	Tet ’68
-ttu_494_event_12	Tet ’69
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_494_event_0	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_494_event_1	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_2	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_3	Siege of Plei Me	Q7510313		1965-10-19T00:00:00Z	1965-10-25T00:00:00Z	 
+ttu_494_event_4	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_494_event_5	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_6	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_7	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_8	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_9	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_10	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_494_event_11	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+ttu_494_event_12	Tet 69	Q112297862				1969-02-01T00:00:00Z

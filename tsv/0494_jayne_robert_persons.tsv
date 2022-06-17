@@ -1,63 +1,63 @@
-id	persName
-ttu_494_person_0	Philip Napoli
-ttu_494_person_1	Mr. Jayne
-ttu_494_person_2	Colonel Robert Kennon Jayne
-ttu_494_person_3	Ken
-ttu_494_person_4	Bob
-ttu_494_person_5	Knight
-ttu_494_person_6	General Batey
-ttu_494_person_7	Staff Sergeant Austin
-ttu_494_person_8	Austin
-ttu_494_person_9	Staff Sergeant Brass
-ttu_494_person_10	General Batey
-ttu_494_person_11	Austin
-ttu_494_person_12	General
-ttu_494_person_13	Sergeant Austin
-ttu_494_person_14	Bruce Crandall
-ttu_494_person_15	Ken Whitesell
-ttu_494_person_16	Ken
-ttu_494_person_17	Ken
-ttu_494_person_18	Ken Whitesell
-ttu_494_person_19	Bennet
-ttu_494_person_20	Will Bennet
-ttu_494_person_21	Will
-ttu_494_person_22	Will
-ttu_494_person_23	Will
-ttu_494_person_24	Ken
-ttu_494_person_25	Major Bennet
-ttu_494_person_26	Commander Sergeant Major Scott
-ttu_494_person_27	John
-ttu_494_person_28	Don Estes
-ttu_494_person_29	Dalmore Townson
-ttu_494_person_30	Don Estes’
-ttu_494_person_31	Dalmore Townson’s
-ttu_494_person_32	Will Bennet
-ttu_494_person_33	Will
-ttu_494_person_34	Sergeant Major Scott
-ttu_494_person_35	Will
-ttu_494_person_36	Will
-ttu_494_person_37	Will
-ttu_494_person_38	Will
-ttu_494_person_39	Will
-ttu_494_person_40	Will Bennet
-ttu_494_person_41	Lee Merell
-ttu_494_person_42	Lee
-ttu_494_person_43	Lee
-ttu_494_person_44	Lee
-ttu_494_person_45	Will
-ttu_494_person_46	Dave Hepp
-ttu_494_person_47	Will’s
-ttu_494_person_48	Will’s
-ttu_494_person_49	Will
-ttu_494_person_50	Lee
-ttu_494_person_51	Dave
-ttu_494_person_52	John Kerr
-ttu_494_person_53	Paul Winkel
-ttu_494_person_54	Paul
-ttu_494_person_55	Paul
-ttu_494_person_56	Bruce Crandall
-ttu_494_person_57	Bruce
-ttu_494_person_58	Bruce
-ttu_494_person_59	Frank Henry
-ttu_494_person_60	Dally
-ttu_494_person_61	Hanoi Jane Fonda
+id	persName	QID	ttu_id
+ttu_494_person_0	Philip F. Napoli	Q111599207	
+ttu_494_person_1	Robert Kennon Jayne	Q112342468	
+ttu_494_person_2	Robert Kennon Jayne	Q112342468	
+ttu_494_person_3	Robert Kennon Jayne	Q112342468	
+ttu_494_person_4	Robert Kennon Jayne	Q112342468	
+ttu_494_person_5	Knight		
+ttu_494_person_6	General Batey		
+ttu_494_person_7	Victor Leroy Austin	Q112355405	
+ttu_494_person_8	Victor Leroy Austin	Q112355405	
+ttu_494_person_9	Basil Plane Brass	Q112354818	
+ttu_494_person_10	General Batey		
+ttu_494_person_11	Victor Leroy Austin	Q112355405	
+ttu_494_person_12	General		
+ttu_494_person_13	Victor Leroy Austin	Q112355405	
+ttu_494_person_14	Bruce Perry Crandall	Q3431327	
+ttu_494_person_15	Ken Whitesell		ttu_0190
+ttu_494_person_16	Ken		ttu_0190
+ttu_494_person_17	Ken		ttu_0190
+ttu_494_person_18	Ken Whitesell		ttu_0190
+ttu_494_person_19	William George Bennett	Q112356437	
+ttu_494_person_20	William George Bennett	Q112356437	
+ttu_494_person_21	William George Bennett	Q112356437	
+ttu_494_person_22	William George Bennett	Q112356437	
+ttu_494_person_23	William George Bennett	Q112356437	
+ttu_494_person_24	Ken		ttu_0190
+ttu_494_person_25	William George Bennett	Q112356437	
+ttu_494_person_26	James Arthur Scott	Q111599273	
+ttu_494_person_27	John		
+ttu_494_person_28	Donald Carthel Estes	Q112358942	
+ttu_494_person_29	Delmas Sherwood Townsend	Q112359912	
+ttu_494_person_30	Donald Carthel Estes	Q112358942	
+ttu_494_person_31	Delmas Sherwood Townsend	Q112359912	
+ttu_494_person_32	William George Bennett	Q112356437	
+ttu_494_person_33	William George Bennett	Q112356437	
+ttu_494_person_34	James Arthur Scott	Q111599273	
+ttu_494_person_35	William George Bennett	Q112356437	
+ttu_494_person_36	William George Bennett	Q112356437	
+ttu_494_person_37	William George Bennett	Q112356437	
+ttu_494_person_38	William George Bennett	Q112356437	
+ttu_494_person_39	William George Bennett	Q112356437	
+ttu_494_person_40	William George Bennett	Q112356437	
+ttu_494_person_41	Lee Merell		ttu_0191
+ttu_494_person_42	Lee		ttu_0191
+ttu_494_person_43	Lee		ttu_0191
+ttu_494_person_44	Lee		ttu_0191
+ttu_494_person_45	William George Bennett	Q112356437	
+ttu_494_person_46	Dave Hepp		ttu_0192
+ttu_494_person_47	William George Bennett	Q112356437	
+ttu_494_person_48	William George Bennett	Q112356437	
+ttu_494_person_49	William George Bennett	Q112356437	
+ttu_494_person_50	Lee		ttu_0191
+ttu_494_person_51	Dave		ttu_0192
+ttu_494_person_52	John Kerry	Q22316	
+ttu_494_person_53	Paul Winkel	Q110647727	
+ttu_494_person_54	Paul Winkel	Q110647727	
+ttu_494_person_55	Paul Winkel	Q110647727	
+ttu_494_person_56	Bruce Perry Crandall	Q3431327	
+ttu_494_person_57	Bruce Perry Crandall	Q3431327	
+ttu_494_person_58	Bruce Perry Crandall	Q3431327	
+ttu_494_person_59	Frank Henry	Q111653614	
+ttu_494_person_60	Dally		
+ttu_494_person_61	Jane Fonda	Q41142	
