@@ -17,13 +17,13 @@
         <recordingStmt>
           <recording xml:id="primary_recording" type="video" dur-iso="">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Mark Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
           <ref target="path_to_file">Primary transcription</ref>
@@ -32,7 +32,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>The Oral History Project of Vietnam Center and Sam Johnson Vietnam Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
