@@ -1,0 +1,409 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="BREWER"/>
+        <person xml:id="MILAM"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso=""/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="MILAM">This is Dr. <persName>Ron Milam</persName> with <orgName>Texas Tech University</orgName>. <date>Today</date> I am interviewing <persName>Forrest Brewer</persName>. <persName>Forrest</persName>, let’s start out by just—could you identify for me what your MOS (Military Occupational Specialty) and your rank was on <date>November 14th, 1965</date>?</u>
+      <u who="BREWER">My MOS was the 111B, which is combat infantry and my rank, I was a specialist 4th class.</u>
+      <u who="MILAM">S4. Okay, when did you join the 1st <orgName>Air Cav</orgName>?</u>
+      <u who="BREWER">Well, I was in the 11th <orgName>Air Assault</orgName> division first at <placeName>Fort Benning</placeName>. When we traded colors with <orgName>the 1st Cav</orgName> in <placeName>Korea</placeName>, we just switch colors from <orgName>the 2nd Infantry</orgName> to—everybody changed then, and we became the 1st Cav. That happened I believe in <date>June or July of ’65</date>.</u>
+      <u who="MILAM">Of ’65. So your training as part of the 1st Air Cav consisted of the time between when the colors were changed.</u>
+      <u who="BREWER">That’s right.</u>
+      <u who="MILAM">And that was at Benning?</u>
+      <u who="BREWER">That was at Benning.</u>
+      <u who="MILAM">Okay, now where were you before Benning? Were you in <placeName>Korea</placeName> or were just a part of that—</u>
+      <u who="BREWER">No. I came out of basic training, I went to <placeName>Fort Jackson</placeName>, <placeName>South Carolina</placeName> and then they organized the 11th <orgName>Air Assault Division</orgName>. It was a test unit and that’s where I was sent. We were the first group in helicopter warfare.</u>
+      <u who="MILAM">Okay, let’s talk about your training before we get to ‘Nam. You took basic training at Fort Jackson?</u>
+      <u who="BREWER">Basic training at <placeName>Fort Knox</placeName>, <placeName>Kentucky</placeName>.</u>
+      <u who="MILAM"><placeName>Fort Know</placeName>, <placeName>Kentucky</placeName>. Okay and then you took your <orgName>AIT</orgName> (Advanced Individual Training) at—</u>
+      <u who="BREWER"><persName>Fort Jackson</persName>.</u>
+      <u who="MILAM">And your <orgName>AIT</orgName> was essentially infantry?</u>
+      <u who="BREWER">That’s right.</u>
+      <u who="MILAM">In <orgName>AIT</orgName>, was there any discussions at all or any talk at all about air assault? About air cavalry?</u>
+      <u who="BREWER">No.</u>
+      <u who="MILAM">You didn’t hear anything?</u>
+      <u who="BREWER">Didn’t hear nothing. None. We graduated from there, everybody was getting orders to be shipped to different places and my orders never came down, I didn’t know what they were going to do with me and finally they gave me the orders that I was going to the 11th Air Assault and I’d never heard of it.</u>
+      <u who="MILAM">So that day of formation, usually comes <date>a couple of days</date> before the graduation, everybody standing out there getting their name read off and your name wasn’t called?</u>
+      <u who="BREWER">That’s right, exactly right. My name wasn’t called.</u>
+      <u who="MILAM">How many others’ names weren’t called?</u>
+      <u who="BREWER">I would say probably maybe ten.</u>
+      <u who="MILAM">And did all ten of you end up in <orgName>the Air Cav</orgName>?</u>
+      <u who="BREWER">As far as I know, we did.</u>
+      <u who="MILAM">Explain, tell me, were other people who got their orders, the other ninety percent of the company, were their orders for <placeName>Vietnam</placeName>?</u>
+      <u who="BREWER">No.</u>
+      <u who="MILAM"><placeName>Germany</placeName>?</u>
+      <u who="BREWER"><placeName>Germany</placeName>. I think some went to <placeName>Korea</placeName> and other places.</u>
+      <u who="MILAM">Tell me how you felt about <placeName>Vietnam</placeName> in that <orgName>AIT</orgName> experience? Did the troops talk about that war going on over there? Or was it even on the radar screen?</u>
+      <u who="BREWER">No. No. It was not.</u>
+      <u who="MILAM">And you trained on, I assumed on the M14?</u>
+      <u who="BREWER"><orgName>M14</orgName>.</u>
+      <u who="MILAM">Were you introduced to the 16 at all?</u>
+      <u who="BREWER">We were never introduced to the 16 until we got on the boats. I went over on the Buckner. </u>
+      <u who="MILAM">You went on the Buckner, okay. But there was no talk about <placeName>Vietnam</placeName> in <orgName>AIT</orgName>?</u>
+      <u who="BREWER">No, no.</u>
+      <u who="MILAM">Were you drafted?</u>
+      <u who="BREWER">No, I volunteered. I was out of high school <date>five days</date> and I joined the <orgName>Army</orgName>.</u>
+      <u who="MILAM">So you joined, you had what, a <date>three-year</date> commitment?</u>
+      <u who="BREWER"><date>Three year</date>.</u>
+      <u who="MILAM"><date>Three-year</date> commitment. Now your <orgName>MOS</orgName> is 11 Bravo. Was there a point of which you choose that, do you remember?</u>
+      <u who="BREWER">Yeah, I choose that.</u>
+      <u who="MILAM">Was that after basic training?</u>
+      <u who="BREWER">That was after basic training. That’s right. That’s exactly right.</u>
+      <u who="MILAM">Okay, so you go through <orgName>AIT</orgName>, your name is not called. And then <date>a couple of days later</date> was it? Did you have to stay around?</u>
+      <u who="BREWER">Well, it was probably <date>about two weeks</date>. I thought they were going to make me a cook! Because the only thing we got doing is pulling <placeName>KP</placeName> (<persName>Kitchen Patrol</persName>) duty and I said, “Aw, I'm going to be a cook.” And I hated <placeName>KP</placeName> duty, you know. It was like a real—</u>
+      <u who="MILAM">They put you in casual company?</u>
+      <u who="BREWER">I was in causal company, yeah.</u>
+      <u who="MILAM">Nothing causal about <orgName>KP</orgName>.</u>
+      <u who="BREWER">The new <orgName>AIT</orgName> guy was coming in and I was like working at mess hall <date>every day</date>. But anything would’ve been better than that. I really hated that.</u>
+      <u who="MILAM">Then the orders come through, this thing called the 11th Air Assault. </u>
+      <u who="BREWER"><orgName>11th Air Assault</orgName>.</u>
+      <u who="MILAM">So then take me through that journey from <placeName>Fort Jackson</placeName> to <placeName>Fort Benning</placeName>, was it immediate?</u>
+      <u who="BREWER">Oh yeah, it was like right then. When I got to the 11th <orgName>Air Assault Division</orgName>, there was probably only three men in my barracks, they were just starting it up. We had a <date>1st</date> sergeant; we had a company commander. I can’t recall his name right now. My lieutenant was Lieutenant <persName>Allison</persName>. I do remember him.</u>
+      <u who="MILAM">Lieutenant <persName>Allison</persName>? And he was a <date>2nd</date> lieutenant?</u>
+      <u who="BREWER">He was a <date>2nd</date> lieutenant, he was out platoon leader.</u>
+      <u who="MILAM">Was he newly commissioned? Do you remember?</u>
+      <u who="BREWER">I'm sure he was, he was like a little kid, you know. Real young. I would say within <date>two weeks</date> we were probably full strength. Eight of our guys were from <placeName>Korea</placeName>, some older guys and matter of fact, we had one guy I still remember his name. It was Parish. He fought in <placeName>Korea</placeName> and he was like the hero of our outfit, you know. We all like talk to him about some stuff.</u>
+      <u who="MILAM">Parish. Was he the only combat veteran?</u>
+      <u who="BREWER">No, no, we had others. But he reenlisted. We had older soldiers there. The older sergeants, some of them were in <placeName>Korea</placeName>. But Parish, he re-volunteered.</u>
+      <u who="MILAM">Was there anyone in your unit, do you recall, that had been to <placeName>Vietnam</placeName>?</u>
+      <u who="BREWER">No. Nobody,</u>
+      <u who="MILAM">Nobody? And <persName>Allison</persName> was—you don’t remember how he got his commission do you?</u>
+      <u who="BREWER">No, I don’t. I think it was ROTC (Reserve Officer <persName>Training Corps</persName>). Matter of fact, I would almost bet it was.</u>
+      <u who="MILAM">And so you are now—do you have an approximate date for this?</u>
+      <u who="BREWER">This would—let me see. </u>
+      <u who="MILAM">You can just tell me <date>what month</date> perhaps.</u>
+      <u who="BREWER">I would say probably <date>early November of ’63</date>.</u>
+      <u who="MILAM"><date>Early November of ’63</date>?</u>
+      <u who="BREWER">’63. </u>
+      <u who="MILAM">Okay. Now the unit is going to ship out on the Buckner in <date>August</date> of ’65. </u>
+      <u who="BREWER">That’s right.</u>
+      <u who="MILAM">Okay, so you were in the 11th Air Assault. It becomes part of the 1st Air Cav from November of ’63. </u>
+      <u who="BREWER">Correct.</u>
+      <u who="MILAM">Tell me about the first—you’re going to be there for <date>eighteen months</date> almost, in Benning.</u>
+      <u who="BREWER">Sure.</u>
+      <u who="MILAM">Let’s talk about say <date>the first two months</date> of that experience. As they try to form, I'm trying to get a handle on forming up a division that’s never been around. Doing something that no one’s ever done.</u>
+      <u who="BREWER">Sure.</u>
+      <u who="MILAM">You are—</u>
+      <u who="BREWER">At the green horn. </u>
+      <u who="MILAM">You’re what the unit does. You’re in 11 Bravo. What was <date>that first month</date>, let’s say, like?</u>
+      <u who="BREWER">I think <date>the first month</date> consisted of mostly physical training, running. Not much rifle range yet. We’d done a lot of rappelling. They showed us how to do that. We’d rappel off of the towers and stuff and that was pretty neat I always thought.</u>
+      <u who="MILAM">As if you’re going to rappel out of the chopper?</u>
+      <u who="BREWER">Exactly right. They had towers built, I think there was a 60-foot tower and 90-foot tower. I believe that was the two towers that we had.</u>
+      <u who="MILAM">And <persName>Lieutenant Allison</persName>, how long does he stay with your unit?</u>
+      <u who="BREWER">Well, what happened after the colors changed, I was in the <orgName>188th</orgName> infantry. There were three infantry divisions in the 11th Air Assault. There was the 511th, the 187th, and the <orgName>188th</orgName>. I was in the <orgName>188th</orgName>. When they changed colors for us to become the 1st Cav, they disbanded the 11th <orgName>Air Assault Division</orgName>. Well then, they sent me to the 23rd <orgName>Infantry Division</orgName> along with several other guys. Most of the guys was in the <orgName>188th</orgName>, they became <date>the 1st of the 8th</date> and we became <date>the 2nd of the 12th</date>. That’s how that came about. Why they disbanded us like that, I think it was just to fill the other companies up to make us full strength. I'm pretty sure that’s why they done that.</u>
+      <u who="MILAM">So in what's really a pretty long training period you got to know your entire platoon and company and everybody.</u>
+      <u who="BREWER">Sure.</u>
+      <u who="MILAM">When you went to <placeName>Vietnam</placeName> with that unit, what percentage of your company was still together from day one at Benning?</u>
+      <u who="BREWER">Probably five percent.</u>
+      <u who="MILAM">Five percent?</u>
+      <u who="BREWER">Yeah.</u>
+      <u who="MILAM">So ninety-five percent went on to do different things? Or ninety-five percent went with you to <placeName>Vietnam</placeName>?</u>
+      <u who="BREWER">No, we all went to <placeName>Vietnam</placeName>.</u>
+      <u who="MILAM">Yeah, but I mean with your unit, the same unit?</u>
+      <u who="BREWER">B Company, <date>2nd of the 12th</date>? Probably five percent.</u>
+      <u who="MILAM">Okay.</u>
+      <u who="BREWER">The rest of the guys—well I’m not going to say the rest, but a lot of them went to 1st of the 8th. Some, I don’t know where they went. Because when they disbanded <orgName>188th infantry</orgName>, we just broke up. But I know most of them went to <date>the 1st of the 8th</date>, I do know that.</u>
+      <u who="MILAM">Thinking about your chain of command in Benning. Did they stay with you all the way to ‘Nam? There were some changes, right? And let’s just say platoon company battalion.</u>
+      <u who="BREWER">I think the only guy that didn’t go to <placeName>Vietnam</placeName> with us was <date>our 1st</date> sergeant. I think for what reason he might have been getting out of the service after <date>twenty or thirty years</date>, but I believe he’s the only one. No, we had another boy that didn’t go too because I think he had <date>less than four months</date> to serve. Anybody that had a few amount of <date>months</date>, they didn’t let them go. But anybody that had, I think <date>six months</date> or more, they got to go.</u>
+      <u who="MILAM">You’ve told me that this one activity of rappelling, tell me a little bit about the other training that you had. What’d you do on a normal day at Benning? </u>
+      <u who="BREWER">Normal day we’d probably get up I’d say five o’clock in the morning. We would run two to three miles. Then we would eat dinner and then we would clean the barracks out and do police calls and stuff, straight everything up and then we would go out to the rifle ranges or just stuff like that.</u>
+      <u who="MILAM">At what point after <date>November ’63</date>, when you get there, would you say you knew you were going, or <placeName>Vietnam</placeName> was ever discussed? </u>
+      <u who="BREWER">Well, I would say right before <persName>Lyndon Johnson</persName> sent the 1st Cav over. Probably <date>two months</date> before that we knew something was happening.</u>
+      <u who="MILAM">So that would make it about May or June of ’65?</u>
+      <u who="BREWER">That’s right, that’s what I would say. We got a feeling that when we heard the 1st Cav colors were being shipped home and the 2nd Infantry colors was going to <placeName>Korea</placeName>, we knew something was going to happen.</u>
+      <u who="MILAM">How much did the training intensify once you knew you were going? Could you see all of the sudden that things got different in training? Or did it stay about the same?</u>
+      <u who="BREWER">Well, I thought it stayed about the same because I was familiar with the getting on the helicopters and how to get off and all that. But when I went to <orgName>the 2nd Infantry Division</orgName>, or the <date>23rd</date> Infantry rather, those guys didn’t practice helicopter warfare. Because you know I was in <orgName>11th Air Assault</orgName> and we were like—I ain’t going to say the leaders but we knew a lot that these guys didn’t know and they had like a crash course in it, where I’d been going through that for <date>about two years</date>.</u>
+      <u who="MILAM">Yeah. And once the word <placeName>Vietnam</placeName> started becoming part of the vocabulary there around the base, how did you all respond to each other about that? Do you recall? Did you have a lot of barrack discussions about it?</u>
+      <u who="BREWER">No, we were all gung-ho about it. We were all young, ready to go, show <placeName>America</placeName> what we could do. We were just fired up.</u>
+      <u who="MILAM">Had you ever heard of <placeName>Vietnam</placeName> before that?</u>
+      <u who="BREWER">Not too much.</u>
+      <u who="MILAM">Did you know where it was?</u>
+      <u who="BREWER">I knew it was far away. That’s about all I knew.</u>
+      <u who="MILAM">Same thing with your buddies?</u>
+      <u who="BREWER">Yeah. It was just a name. Just a name. I knew it was in <placeName>South East Asia</placeName>, we knew that. </u>
+      <u who="MILAM">Well, by the time you ship out in <date>August</date> of ’65 on the Buckner, there’s been you know, very few American ground troops in <placeName>Vietnam</placeName>. Only since <date>March</date>, so <date>six months</date> before that the 173rd went there. But now—and then there’d been news about when the president of the country was assassinated and all those things were going on, but did you pay much attention to any of that?</u>
+      <u who="BREWER">No. No, we were just a bunch of young guys wanting to get it over with.</u>
+      <u who="MILAM">Yeah. And excited about it you said?</u>
+      <u who="BREWER">Sure! We were excited, yeah.</u>
+      <u who="MILAM">Because you knew how to do these things in training. Let’s talk for a moment again, the <orgName>M14</orgName> was your weapon as you said until you got on the Buckner. </u>
+      <u who="BREWER">On the Buckner. </u>
+      <u who="MILAM">Had you been introduced to the M79?</u>
+      <u who="BREWER">Sure. Yeah.</u>
+      <u who="MILAM">So you had a little bit of training with the thump-gun.</u>
+      <u who="BREWER">Sure. </u>
+      <u who="MILAM">How about the M60?</u>
+      <u who="BREWER">Sure, a lot of training with that.</u>
+      <u who="MILAM">How about the LAW (Light Anti-Armor Weapon)? Had you gotten a chance to fire a LAW?</u>
+      <u who="BREWER">Yeah, we fired LAWs, yeah. We also had a 90 mm recoilless rifle but once we knew we were going to ‘Nam, they took that off of the crew and everybody was a machine gun and M60s. So we had like double M60 machine guns in our weapons squad.</u>
+      <u who="MILAM">Okay, so you had a weapons squad in your platoon and then within the company, was there a weapons platoon at that point?</u>
+      <u who="BREWER">Sure.</u>
+      <u who="MILAM">An 81 mm mortar?</u>
+      <u who="BREWER">No, no. Well, they were a real platoon. It was a 4th Platoon, a weapons platoon.</u>
+      <u who="MILAM">It was a weapons platoon. Were they up to strength, the weapons platoon? Or was it a smaller platoon than your rifle?</u>
+      <u who="BREWER">Oh, I don’t remember that.</u>
+      <u who="MILAM">That comes a little bit later.</u>
+      <u who="BREWER">Yeah, I can’t remember that.</u>
+      <u who="MILAM">Okay. So you’ve been trained on the M14. Did you get a chance to fire the M14 on fully automatic?FB. Sure.</u>
+      <u who="MILAM">But you’re introduced to this new plastic weapon on the ship you say?</u>
+      <u who="BREWER">That’s right.</u>
+      <u who="MILAM">Did you get a chance to fire it on the ship? Off the bow?</u>
+      <u who="BREWER">Sure.</u>
+      <u who="MILAM">And were the M16s, I assume they were still in crates?</u>
+      <u who="BREWER">That’s right.</u>
+      <u who="MILAM">And you each got issued the weapon that you were going to take to <placeName>Vietnam</placeName> on the boat?</u>
+      <u who="BREWER">Exactly right.</u>
+      <u who="MILAM">What did that training consist of on the M16, other than just firing it? Did you learn how to break it down?</u>
+      <u who="BREWER">Oh yeah, they showed us how to break it down and we took it back to the bow of the boat. They’d be groups of us, I think four or five in a group and they’d give us a couple of magazines and we had a floating target and we just opened up on it. It was a really good deal. Laughing and joking, you know. What I couldn’t believe is how much faster this gun could fire. The amount of rounds it could put out, it was amazing to me. I thought it was going to be a great weapon until I got over there.</u>
+      <u who="MILAM">Did you notice the weight difference?</u>
+      <u who="BREWER">Oh, guaranteed. I loved that little thing. It was great.</u>
+      <u who="MILAM">What did they tell you about the weapons potential for jamming?</u>
+      <u who="BREWER">There was nothing ever mention about that.</u>
+      <u who="MILAM">What did they tell you about—they gave you LSA, the lubricant?</u>
+      <u who="BREWER">Right, sure. </u>
+      <u who="MILAM">Tell you to carry that around with you all the time. </u>
+      <u who="BREWER">Keep the rifle clean, we knew that. We had several cases, and I had several cases where my rifle jammed and when I needed it the most! That’s what was scary. We had one guy in our outfit, he broke his over raw because it jammed on him. And he still talks about that <date>today</date>!</u>
+      <u who="MILAM">So you’re on the Buckner, you’re on your way to <placeName>Vietnam</placeName>. You got a lot of buddies with you, you pretty much know everybody, right?</u>
+      <u who="BREWER">Sure, I know them all.</u>
+      <u who="MILAM">You get to <placeName>Vietnam</placeName> in <date>August of 1965</date>. You come into <persName>Quin Nhon</persName>.</u>
+      <u who="BREWER"><persName>Quin Nhon</persName>, exactly right.</u>
+      <u who="MILAM">Then, you’re transported pretty quickly I think to a place called An <orgName>Khe</orgName>.BREWER: Well, the part that I always thought about, when we get on the LSTs (<persName>Landing Ship Tank</persName>) to go into the beach area, we never knew what was going to happen. We thought we were making an assault! Really did. 
+MILAM: <date>D-Day</date> all over again.</u>
+      <u who="BREWER">Exactly right! We had ammunition and everything, we locked up and loaded and everything and I'm right up front, ready to get off and here I hear an officer. Now I don’t know who he was, and they hollered to make way, well he comes up and stands right beside me. I’m saying—guys ready to walk right with him. I say “Boy, this guy got to be the bravest guy in the world!” I'm like kind of scared, you know. When we pulled up on the beach and the door come down, here’s a Vietnamese band playing <orgName>the Star-Spangled Banner</orgName>. Yeah, I never forgot that.</u>
+      <u who="MILAM">How about, were there women in their Ao Dai’s? Their native dress? I’ve seen pictures of that.</u>
+      <u who="BREWER">Yep, I’ve seen that.</u>
+      <u who="MILAM">Your platoon leader at that time—</u>
+      <u who="BREWER">Lieutenant Early.</u>
+      <u who="MILAM">Spell it please.</u>
+      <u who="BREWER">E-A-R-L-Y. William Early was his name. Real gung-ho guy.</u>
+      <u who="MILAM">Do you remember how he got his commission? Whether it was ROTC or—</u>
+      <u who="BREWER">Well, I can’t tell you that, I don't know. He was probably—I would say <placeName>West Point</placeName>.</u>
+      <u who="MILAM"><placeName>West Point</placeName>?</u>
+      <u who="BREWER">I would say that. </u>
+      <u who="MILAM">Okay. So you come off the ship there at <persName>Quin Nhon</persName> and then you eventually they will take you by bus then or by deuce and a half, I assume?</u>
+      <u who="BREWER">No, we go on choppers.</u>
+      <u who="MILAM">You got on choppers from <persName>Quin Nhon</persName>?</u>
+      <u who="BREWER">Right on the beach.</u>
+      <u who="MILAM">And they took you to An <orgName>Khe</orgName>?</u>
+      <u who="BREWER">They took us to An <orgName>Khe</orgName>.</u>
+      <u who="MILAM">How far along was the base in terms of construction when you got there?</u>
+      <u who="BREWER">There was nothing there, it was just the woods.</u>
+      <u who="MILAM">So you built the base?</u>
+      <u who="BREWER">We built the base. When we got out there, they told us to start clearing the brushes, this was going to be our home for <date>the next year</date>.</u>
+      <u who="MILAM">Did you set up immediate perimeter?</u>
+      <u who="BREWER">Immediate perimeter.</u>
+      <u who="MILAM">And concertina wire and all that?</u>
+      <u who="BREWER">No. No concertina wire, just the men was the perimeter.</u>
+      <u who="MILAM">Just the men as a perimeter. Foxholes out on the perimeter?</u>
+      <u who="BREWER">Foxholes.</u>
+      <u who="MILAM">How long after getting to An <persName>Khe</persName> was there any enemy activity at An <orgName>Khe</orgName>?</u>
+      <u who="BREWER">The first night.</u>
+      <u who="MILAM">The first night? What’d you get?</u>
+      <u who="BREWER">Sniper fire. I think it was just harassing fire. We were all jumping and everything. Guys that opened up on them, and whether we hit anybody, we don’t know.</u>
+      <u who="MILAM">How about mortars and rockets? Anything coming to base?</u>
+      <u who="BREWER">We only had like two mortar attacks while I was at An <orgName>Khe</orgName>. They never—I don’t think a mouse could’ve gotten through our concertina razor wire, I really don’t.</u>
+      <u who="MILAM">You got the perimeter set up.</u>
+      <u who="BREWER">We got it set. We had big towers built, it was pretty well defended.</u>
+      <u who="MILAM">And then <date>between August and November 14th</date>, did you have a lot of in-country training? Went out on patrols?</u>
+      <u who="BREWER">There were patrols all the time. </u>
+      <u who="MILAM">Did you make enemy contact very much on those patrols from An <orgName>Khe</orgName>?</u>
+      <u who="BREWER">We had sporadic contact, I ain’t going to say every time we went out, but we would find stuff. The first time that my company made any contact was on, I believe <date>November the</date> 4th, I'm sure. I know that was the date, major contact. <date>November</date> the 4th, <date>’65</date>.</u>
+      <u who="MILAM">And that was outside of An <orgName>Khe</orgName>?</u>
+      <u who="BREWER">Yes.</u>
+      <u who="MILAM">Did you participate in <name type="event">Operation Silver Bayonet</name>? Does that name mean anything to you?</u>
+      <u who="BREWER">I’ve heard of that name.</u>
+      <u who="MILAM">Okay, it’s one that took place in <placeName>Happy Valley</placeName> and I don’t know exactly which units participated, but I’ve had some of the vets tell me about that operation. I just wondered if you knew what was going on.</u>
+      <u who="BREWER">I’ve heard of it, yeah. I'm not sure. I was just a grunt.</u>
+      <u who="MILAM">Tell me <date>about November 13th</date> and 14th. 14th being the day X-Ray, the assault begins. Tell me about the day before or <date>two days</date> before. Tell me about the first time that you knew that there was going to be a major operation.</u>
+      <u who="BREWER">We knew something was going on. Because everything—An <persName>Khe</persName> was like really getting hectic, you know. People just running around. We knew something was coming down. We had been out on the field before that. Because we went out on the field probably in the Ia Drang area, I'm guessing about—which was called the <persName>Plekiu</persName> campaign, probably around the last of <date>October</date>. We had run patrols through the trails and stuff, we found a lot of footprints and discarded stuff. We knew they were in the area.</u>
+      <u who="MILAM">Right. You say, “We knew they were in the area.” How quickly did you identify “they”? Or do you remember identifying that “they” were PAVN (People’s Army of <placeName>Vietnam</placeName>) or <orgName>NVA</orgName> (<orgName>North Vietnamese Army</orgName>) and not <persName>VC</persName> (<persName>Viet Cong</persName>). </u>
+      <u who="BREWER">We knew they were NVA. Yeah, because we had found some helmets.</u>
+      <u who="MILAM"><persName>Pit</persName> helmets?</u>
+      <u who="BREWER"><persName>Pit</persName> helmets. We found them and as far as the <orgName>VC</orgName>, I don’t ever remember seeing a <orgName>VC</orgName>. I'm not saying I didn’t, but I know every contact we had it was all North Vietnamese, everyone.</u>
+      <u who="MILAM">I see, even back to that contact on <date>November 4th</date>?</u>
+      <u who="BREWER">Exactly.</u>
+      <u who="MILAM">The <date>November 4th</date> contact, could you tell how big the unit was?</u>
+      <u who="BREWER">No. What had happened, I do believe on <date>November the 2nd</date>—I could be off a few dates there, I don’t really recall. But 2nd <placeName>Platoon</placeName> was the platoon I was in and we were ordered to do some recon on some trails that had been found. So we’d—It would probably take two or three hours to do these little recon missions we were on and 2nd <placeName>Platoon</placeName> we were given this one order there and we left probably mid-morning sometimes and probably returned early afternoon. We knew they were there because we found trails and that’s how we knew it. Then on, well I think it was <date>November the 2nd</date> and I don’t recall if it rained, but we were going up pretty steep hillside and I had fallen, and I’d busted my right elbow. We stopped to take a break and a medic had come up to me and his name was <persName>Robert Tillquist</persName>. That’s that first time I’ve ever got to meet him. He was from headquarters company and they would attach a medic to each platoon, that’s usually how it worked. He bandaged my right elbow up, I know I hurt my right elbow, but he bandaged me up there and I told him, “It’s pretty bad.” I said, “I got a white bandage on my right elbow and here we’re out here jumping up making a pretty good target.” He laughed and joked about it and he seemed like a real nice guy. He told me, “I’m going to try to get some green material when I get back to base camp.” He said, “Cover that kind of stuff up.” While I don’t remember other than making a few other patrols for <date>a couple days</date> and then on <date>November the</date> 4th, our company decided to make a sweep of an area. I don’t know if recon had picked something up while we made the sweep and we didn’t know, we all strung out there in a big skirmish line. We got going through the words there and I don't know, I’d say maybe fifteen minutes or half an hour, could’ve been an hour, I don’t know the time, but we really had come into some thick stuff where we couldn’t see five feet sometimes. So we were in that stuff probably for five to ten minutes or maybe a little bit longer and when we broke through into this clearing, there was only about four of us guys together, whereas nobody else. I ask—I think it was <persName>Robert L. Smith</persName>, I ask him, I said “Where they at?” Because we were on a left flank. He said, “I don’t know.” I said, “Well we got to be behind, so we’ll make a right flank, and we’ll try to catch up to them.” But the problem was, they were behind us and we didn’t know it! So I’d say within fifteen minutes, there was a flat place there and we just come up over a little knoll. Walked right into them! Here’s about ten NVA soldiers sitting in a group and I don’t know if they were going over plans or eating dinner or what and I just opened fire on them. Everybody else did too and hell the shooting started like I had never heard. Well, a boy was in my platoon by the name of <persName>Jimmy Woodhouse</persName>, he was the first guy hit. He was like five to ten feet from me, he was hit three times. The worst shot he took, ricochet had bounced off a rock. The rocks in this area, some of them were bigger than school buses. He got shot in the ankle. He was in bad pain, I knew that. He was shot in the neck, under the arm and the ankle. I think the neck and the under arm are just flesh wounds, but the ankle was what was driving him crazy. Well, here our company had heard us up there firing and here they come up and now when they come up, we’re mixed up with their platoon which was <persName>Billy Ryan’s</persName> platoon. Just us four guys and it’s like all hell was breaking loose. I’d never seen nothing like that, you know.</u>
+      <u who="MILAM">This is your first experience in combat?</u>
+      <u who="BREWER">This is my first experience of seeing somebody in combat.</u>
+      <u who="MILAM">And the date proximately you think?</u>
+      <u who="BREWER"><date>November 4th</date>, I know the date. I guarantee that’s the date. Well, the fire was so intense, I just couldn’t believe it. Well, I started hollering for medic because I knew one had to be close by. I do believe that day <persName>Robert Tillquist</persName> was assigned to <placeName>3rd Platoon</placeName>. He was the first medic to come up and he grabbed <orgName>Woodhouse</orgName> and he dragged him back to the rear. I wasn’t worried about him no more; I was worried about the incoming that we were getting with ricochets and tracers and everything. Within just a few minutes I heard somebody in <placeName>3rd Platoon</placeName>, which was right off you my left close by, hollering for a medic. Well, I turned to look, and I see <persName>Robert Tillquist</persName> just running over there. Just a—the firing was unbelievable. I kept firing, <persName>Jimmy Woodhouse</persName> the one that was shot, he was a M79 man. Well, I got his M79 and I had a <orgName>M16</orgName>. I fired every M79 round he had in between firing my <orgName>M16</orgName> and stuff. I’d seen a guy fall from 3rd Platoon; I don’t know who it was because I didn’t know very many guys in <placeName>3rd Platoon</placeName>. They were in a big strap right there. It was close by, like fifty feet. We all got our heads down and everything and somebody from 3rd Platoon threw a grenade. We had a guy pinned down, <orgName>NVA</orgName> soldier pinned down. Somebody threw a grenade in there and I’ll be a son of a gun if he didn’t throw it back! So nobody got hurt, I'm sure. Well, when it went off, the machine gunner from <placeName>3rd Platoon</placeName>, they had two of them. One’s name was <persName>Johnny Hollopeter</persName>, I remember him well and another boy, <persName>Barberry</persName>, he was from <placeName>New York</placeName>. I can’t think of his first name. But they were both machine gunners so I think it was <persName>Billy Ryan</persName>, I'm not sure but I think he hollered for the M60 to spray into the area and for anybody that could throw a grenade on this guy. So four or five of us, we chunk grenades in on him and machine gun keep him pinned down I guess and after grenades went off, everything got quiet. We figured we got him. I don’t know who it was, but somebody crawled up and said, “We got him.” So everything got quiet and they said they were going to call in some artillery fire. I don’t know who called the artillery fire, but dead on. There wasn’t even no spot around it, guy that called it, he knew what he was doing. I mean, it hit right out there fifty yards in front of us, probably twenty to twenty-five rounds and it was just cracking the treetops.</u>
+      <u who="MILAM">Did you think it was your platoon leader called it in?</u>
+      <u who="BREWER">I’d say Lieutenant Early called it in. That’d be my guess who called that in. But there was no round, working your rounds in. I mean when he called it, it came straight in.</u>
+      <u who="MILAM">Do you remember his demeanor during this fire fight?</u>
+      <u who="BREWER">He was a gung-ho guy. Nobody liked him much but if you ever wanted a foxhole buddy or somebody, he’d be the guy to have.</u>
+      <u who="MILAM">And he was young?</u>
+      <u who="BREWER">He was young. </u>
+      <u who="MILAM">You all were young. </u>
+      <u who="BREWER">We were all young. I was <date>nineteen</date>, I think. He was probably twenty-four.</u>
+      <u who="MILAM">Who was the oldest person around you? Did you have an older NCO (<orgName>Non-Commanding Officer</orgName>)?</u>
+      <u who="BREWER">Yeah, that would had to have been probably Sergeant Pate. He was 1st Platoon sergeant.</u>
+      <u who="MILAM">He was experienced in <placeName>Korea</placeName>?</u>
+      <u who="BREWER">He was experienced in <placeName>Korea</placeName>. He was a POW (Prisoner of War) in <placeName>Korea</placeName>. Also, my squad leader, and I didn’t know at the time, <persName>Sergeant Jernigan</persName>, he was a POW in <placeName>Korea</placeName>.</u>
+      <u who="MILAM">What would you say your relative strength, do you think there was about ten NVA?</u>
+      <u who="BREWER">That’s what I saw. I would say about ten in a group there. After all the shooting was over, <persName>Sergeant Jernigan</persName> told me and <persName>Virgil Frank</persName>, <persName>Rollen Miller</persName>, and <persName>Robert L. Smith</persName> to check the area out. So we’re like sneaking and there’s this big boulders in this area, okay? Well, I didn’t go fifty feet when I can around the rock, cheese and crackers! There was a NVA sitting right there working on his AK-47. He just scared the living crap out of me.</u>
+      <u who="MILAM">You say working on it, he got it stripped down?</u>
+      <u who="BREWER">No! What had happened he’s trying to shoot it! But somebody and the guy who done that probably saved my life because what happened, as soon as I saw him, he just dropped his rifle there and I just pounced on it. I hollered for <persName>Robert L. Smith</persName> and he was close by, I said, “I got a guy!” So we come up there and I took him back and I threw his rifle across my shoulder, so I took him back and gave him to <persName>Sergeant Jernigan</persName>, which was my squad leader. On the way back down, I still had his AK-47. I said, “Man, I just wonder why that guy didn’t shoot me”. So I took the gun and looked at it and said, “I’ll be doggone.” Here an <orgName>M16</orgName> round had hit the receiver right there and had it jammed! You know they talked about the M60 jamming, but the <orgName>M16</orgName> made an AK-47 jam. I never forgot that! Well, when we got down in there—somebody else captured a prisoner too, I don’t recall who that was. But when we got down in there, there was rifles and ammunition and mortars and everything piled up down there! Well, I called up Lieutenant Early and told him what we had found. So we pulled back a little bit and everything got quiet and we were waiting for a counter attack which it never came. I went over to see if anybody in <placeName>3rd Platoon</placeName> could use a hand, because I knew they had some guys hit, I knew that. So when I went over there, I know there were four, five guys killed our of men, I saw them later and one of them was <persName>Bobby Tillquist</persName> and that just—</u>
+      <u who="MILAM">Let’s talk about, so you say the strength of this unit was twice as big as yours?</u>
+      <u who="BREWER">The NVA you mean?</u>
+      <u who="MILAM">Do you have any idea?</u>
+      <u who="BREWER">The only thing I know was after we got the wounded and the dead out, they sent us back in there to bury the dead. The <orgName>NVA</orgName>.</u>
+      <u who="MILAM"><orgName>NVA</orgName>? You buried.</u>
+      <u who="BREWER">I buried the NVA dead. I found fifteen dead <orgName>NVA</orgName>. We buried them right in their own foxholes that they had dug. I heard that they figured it was the reinforced platoon is what was in there. How many escaped? I don’t know. I’ve seen three get away. But that’s one of the ones I’ve see get away. We were firing at them and they just kept on going.</u>
+      <u who="MILAM">How about your own medevac that came in for you own wounded?</u>
+      <u who="BREWER">Well, whenever we went over there, me and two guys from 3rd platoon and I believe it was <persName>Frank Wren</persName>. He was in my squad there and we carried <persName>Bobby Tillquist</persName>’s body back probably a hundred yards I'm saying a hundred and fifty yards and they’d made a makeshift LZ (Landing Zone) where the choppers were coming in to pick up our wounded and dead up. Then after that happened, we went back down and loaded everything we could carry. The enemy stuff we carried back to the LZ and they took it out. We spent that whole night there in defensive positions and didn’t receive no fire. The next morning right at the daylight, here are NVA come walking in. Two positions from my left, I saw them coming. He had one hand up in the air, he was carrying a mortar round. Just a young kid. He looked about twelve years old. They were small people anyways but—</u>
+      <u who="MILAM">He was in uniform?</u>
+      <u who="BREWER">In uniform. Yep. He had a helmet on and everything. They scarfed him right up and took him back. 1st <placeName>Platoon</placeName>, which was run by <persName>Sergeant Pate</persName>, they decided to make a big sweep of the area. So they took off to my right and they come clean around and they got in a little skirmish out there, they killed a couple of NVA. I do know that, but they received no causalities. We had come back and probably set up another day or two in there just running extra patrols and stuff. Then we were ordered to go to <placeName>Pleiku</placeName>. I guess as a reward, I don't know why that happened. But I’d never seen nothing like that in my life, they had concrete bunkers, you know. We were used to dirt!</u>
+      <u who="MILAM">This was at what? Was this at Camp Holloway?</u>
+      <u who="BREWER">Camp Holloway.</u>
+      <u who="MILAM">This was about the 10th or so?</u>
+      <u who="BREWER">I ain’t going to say that far along. I would probably say the 7th, that’d be my guess. When we got there, we spent I think one or two nights there and then something tragic happened there and they shipped us right out <date>the next day</date>, right back in the boonies again.</u>
+      <u who="MILAM">I see. This operation that you had just experienced, coming up on this <orgName>NVA</orgName> unit. You sent that information obviously up through intelligence. Did you ever hear what anyone thought of about that in terms of what it meant, in terms of what is going to come on <date>14th and 15th</date>?</u>
+      <u who="BREWER">The only thing I heard was the stuff that we had captured was the biggest weapons catch that they had made during the whole war up until that point. I mean, there was tons of stuff there. I don’t know why they would only have a platoon guarding that or reinforced platoon. But these guys had just got there because some of them only had foxholes six inches deep. It wasn’t like—because I buried them and a lot of them didn’t even get put really under the ground, I just put them in and covered them up.</u>
+      <u who="MILAM">Were there any of those NVA that you could identified as officers?</u>
+      <u who="BREWER">No.</u>
+      <u who="MILAM">Were they all enlisted?</u>
+      <u who="BREWER">I checked their pockets, some of them had pictures. Everyone had a sewing kit, a needle and some thread, and I think one of them even had a dollar!</u>
+      <u who="MILAM">An American dollar?</u>
+      <u who="BREWER">No, no, Vietnamese.</u>
+      <u who="MILAM">Oh, dong?</u>
+      <u who="BREWER">Dong. One of them had a dong.</u>
+      <u who="MILAM">What were they carrying for provisions? As far as food is concerned. </u>
+      <u who="BREWER">They had just knapsacks on them. They all had rice, I know that. What really kind of got me upset <date>that day</date>, we come across one there and I don’t know if he was a medic we had killed or not. I'm assuming he was a North Vietnamese medic. There he had some bandages on, it was made in <placeName>New York</placeName>. That kind of got to me. They got our stuff you know and some <orgName>Red Cross</orgName> stuff too that they had. That upset me there.</u>
+      <u who="MILAM">You were sent to <placeName>Pleiku</placeName> then after this incident?</u>
+      <u who="BREWER">That’s right.</u>
+      <u who="MILAM">And how long were you in <placeName>Pleiku</placeName> before you went back out? You said you went back out into the boonies?</u>
+      <u who="BREWER">That’s right.</u>
+      <u who="MILAM">On an operation? Or—</u>
+      <u who="BREWER">We went out in a blocking position, I do believe. We did capture a couple more NVA, I remember that. But nothing major, the Ia Drang stuff it was going on. I would say it was maybe two miles from where we were at, where our position was. It was just horrendous over there! You could see the big black smoke and the planes coming in. I knew what it was, I didn’t know if it was the 7th or not. I said, “Man them guys got be taking hell over there.” Which they did. </u>
+      <u who="MILAM">Sure. But you were not—your base of operations at that point was <placeName>Pleiku</placeName>? When you said it was maybe used it as a blocking force—</u>
+      <u who="BREWER">No, we left <placeName>Pleiku</placeName>. We left there and we flew out of there. There was a bad accident happening in <placeName>Pleiku</placeName> is why they—when we first got there, we were like heroes. But the day we left; we were like really bad. One of our men, I think he might’ve been I don't know what company, but they had a party for us there. This guy got a little bit high and he killed one of our majors.</u>
+      <u who="MILAM">Really?</u>
+      <u who="BREWER">Really. Next morning or two they shipped us right out. Which I don’t blame them. Why they had to party, they were like rewarding us, but we had four men to a bunker. The board was passed down that the helicopter there was going to give us a party and two men from every bunker could go. Well, I didn’t go because I didn’t drink.</u>
+      <u who="MILAM">This was a reward for your—</u>
+      <u who="BREWER">Our actions on <date>November 4th</date>.</u>
+      <u who="MILAM">The incidents on <date>November 4th</date>, what was the KIAs (Killed in Action) of your own unit?</u>
+      <u who="BREWER">I think we had four or five we had killed. I know we had about fifteen wounded.</u>
+      <u who="MILAM">How did you feel about your success as a <date>nineteen-year-old</date> man? I mean, you lost some buddies.</u>
+      <u who="BREWER">I didn’t know at first really what to feel, but when Lieutenant Early and Sergeant <persName>Jernigan</persName> come up and was patting me on the back and everything you know, it made me feel good, it really did. It’s a shame to say that, but it made me—for the rest of the war I'm looking for somebody to kill because that made me feel so good for during that.</u>
+      <u who="MILAM">And your tour is young. You’ve only been there since <date>August</date>. So you got <date>another nine months</date> to serve.</u>
+      <u who="BREWER">No, I got discharged in <date>June</date>. I left there in <date>June</date>. My time was up, I come home.</u>
+      <u who="MILAM">How long did you stay in the <orgName>Army</orgName> after that?</u>
+      <u who="BREWER">I got out. When I come home—</u>
+      <u who="MILAM">So you didn’t stay–</u>
+      <u who="BREWER">I was married, I was already married.</u>
+      <u who="MILAM">So that was it for you.</u>
+      <u who="BREWER">That was it for me.</u>
+      <u who="MILAM">From <date>November 4th</date>, from this incident of <date>November 4th</date> to the rest of your tour, did you ever have other combat similar to <date>November 4th</date>?</u>
+      <u who="BREWER">You mean to losing men and stuff? </u>
+      <u who="MILAM">Yeah. </u>
+      <u who="BREWER">Sure. We lost a bunch of men. Let’s see, <date>January the 27th</date> until <date>February the 1st</date>, ’66. I got wounded. The record is I got wounded on <date>February 1st</date>, but I know it was <date>the 31st</date>, I know what date it was, but they got me listed as <date>February 1st</date>.</u>
+      <u who="MILAM">And the extent of your wounds were?</u>
+      <u who="BREWER">I had a shrapnel wound to the head.</u>
+      <u who="MILAM">To the head. Did you have something on?</u>
+      <u who="BREWER">No. It was nighttime and I took it off sitting in my foxhole, talking to my foxhole buddy, which was <persName>Virgil Frank</persName> by then because my other foxhole buddy was <persName>Robert L. Smith</persName> got killed.</u>
+      <u who="MILAM">And the incident, was it mortar?</u>
+      <u who="BREWER">I don’t even know. I don’t even know.</u>
+      <u who="MILAM">How much time did you spend in the hospital?</u>
+      <u who="BREWER">It was <date>about a month</date> in the hospital. </u>
+      <u who="MILAM">Which—</u>
+      <u who="BREWER">I went to <persName>Qui Nhon</persName>.</u>
+      <u who="MILAM">To <orgName>Qui Nhon Hospital</orgName>. When was this? What month?</u>
+      <u who="BREWER"><date>January</date>, well, <date>February</date>. <date>Last day of January</date> I got wounded.</u>
+      <u who="MILAM">After <date>your month</date> in the hospital, you went back to the field?</u>
+      <u who="BREWER">I went back to the field.</u>
+      <u who="MILAM">In terms of the number of times that you—I'm trying to put in perspective the <date>November 4th</date>, the first combat experience with the rest of your tour. It obviously had a big impact on you, you also had some feelings you described of exhilaration that you accomplished something. You’re a combat troop now. Did it get easier or was it harder each time you went into the field?</u>
+      <u who="BREWER">I think it got easier. I know it got easier because I wasn’t—I never really got scared until after everything was over. Then you realize what had happened and I felt good about making it. You know, here I was, I made it. The guy on my left was shot, the guy on my right was shot.</u>
+      <u who="MILAM">Yeah, but you survived it.</u>
+      <u who="BREWER">I survived it.</u>
+      <u who="MILAM">In terms of—let’s talk a little bit about coming home if you don’t mind. You got home; this war is heating up. A lot of men are going over now. Different than when you went. When you went, you hadn’t even heard of <placeName>Vietnam</placeName>. By the time you come home, everybody’s heard of it.</u>
+      <u who="BREWER">That’s right, everybody’s heard of it.</u>
+      <u who="MILAM">Let’s talk about your family. What was their attitude towards you when you got home?</u>
+      <u who="BREWER">I had a great family. The only thing I didn’t like and maybe it’s a good thing that it happened, my wife which I was married at the time had a baby daughter. You know, <date>nineteen years old</date>, married and got a kid already.</u>
+      <u who="MILAM">Your son or daughter?</u>
+      <u who="BREWER">My daughter.</u>
+      <u who="MILAM">And when was your daughter born?</u>
+      <u who="BREWER">She was born in <date>November ’64</date>.</u>
+      <u who="MILAM">So she was a little girl,</u>
+      <u who="BREWER">Little baby girl. Wasn’t even walking yet.</u>
+      <u who="MILAM">And your family was glad to see you. What about everybody else? Anybody look at you strange or wonder what you’ve been doing for <date>the last year</date>?</u>
+      <u who="BREWER">The good thing that came out about that was times were hard where I lived. Coal mines had shut down, but I got a job at a coal mine because I believe my superintendent was a veteran. I spent <date>thirty-four years</date> working a coal mine. But what upset me one time, there was a fella that I knew, he had a dog and he brough this dog to my house. He asked me, he said “I need you to do me a favor.” I said, “What’s that.” He said, “I need you to shoot my dog.” I said, “Why me?” He said, “I knew you were in <placeName>Vietnam</placeName>. You can do that kind of stuff!”</u>
+      <u who="MILAM">My goodness. I would assume that in your coal mine community in those next five or six years, a lot of your—not necessarily your friends but acquaintances went to <placeName>Vietnam</placeName>.</u>
+      <u who="BREWER">Sure.</u>
+      <u who="MILAM">Did you see any difference in the way you were treated when you came home in <date>’65</date>, ’66 outside of this incident that you just described?</u>
+      <u who="BREWER">No, I lived in a rural area. Really rural and I read about it in the paper, you know. I know when I come home that they wouldn’t fly us into <placeName>California</placeName> because of the protest. We had to fly into <placeName>Anchorage</placeName>, <placeName>Alaska</placeName>. Then we flew into some army base in <placeName>Fort Dix</placeName>, <placeName>New Jersey</placeName>. But they wouldn’t put us around any civilians. To me it felt like they were ashamed of us.</u>
+      <u who="MILAM">The experiences that you described in combat as an 11 Bravo, how much did you think it’s changed your life since then?</u>
+      <u who="BREWER">It never really changed my life until probably <date>about five years ago</date>. When I retired from the coal mine and some of my platoon members started getting back together and we found each other. Then, it all started to come back. It was just unreal how that came about.</u>
+      <u who="MILAM">As a good thing?</u>
+      <u who="BREWER">As a good thing, something I think I needed. I thought it was a shame when I left <placeName>Vietnam</placeName>, I wanted to come home! I never got nobody’s address, phone number. Nobody did! We wanted to come home!</u>
+      <u who="MILAM">But you know understand that was not unlike most of your other buddies. Most everybody that came home from <placeName>Vietnam</placeName> during that period of time did the same thing.</u>
+      <u who="BREWER">Guaranteed. Exactly right because I talked to them about that and that’s a shame that had to happened.</u>
+      <u who="MILAM">Yes. But your organization here is one of the best you know that.</u>
+      <u who="BREWER">We know that.</u>
+      <u who="MILAM">And you’ve done the best job to stay in touch, keeping together.</u>
+      <u who="BREWER">Yep, we do that.</u>
+      <u who="MILAM">Well, <persName>Forrest</persName> I appreciate you sitting down to talk to me and to talk to other people that are going to get a chance to see this. I know these aren’t easy things to talk about. But the good thing is this interview will be around for a long time, for people to look at and for you to look at. I think it’s important that you do that, and you’ve given a lot of respect <date>today</date> to some of your fallen buddies.</u>
+      <u who="BREWER">Well, the reason I wanted to do this was I didn’t want these guys to be forgotten.</u>
+      <u who="MILAM">Yes. <orgName>Texas Tech University</orgName> is the main repository for all information about <name type="event">the Vietnam War</name> and we will protect this interview and we’ll protect anything else that you’ve got. If you’ve got archives, if you got any souvenirs, if you’ve got anything, we have a place to put it so the rest of the world will see it forever and ever.</u>
+      <u who="BREWER">Okay, I got some stuff. I got some pictures.</u>
+      <u who="MILAM">We can talk about that. If you ever get a chance to come to <placeName>Lubbock</placeName>, <placeName>Texas</placeName>, and go through our archive, we sure would like to have you out there as our guest.</u>
+      <u who="BREWER">Okay.</u>
+      <u who="MILAM">Thank you very much for this interview.</u>
+      <u who="BREWER">Thank you.(End of interview)</u>
+    </body>
+  </text>
+</TEI>
