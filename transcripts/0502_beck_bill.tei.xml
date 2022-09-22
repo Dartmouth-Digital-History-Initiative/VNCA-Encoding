@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Bill Beck</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -15,9 +15,9 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="//rcweb.dartmouth.edu/DDHI/histories/beck_bill/beck_bill.mp3" mimeType="audio/mpeg"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2005-11-12"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -59,8 +59,8 @@
   <text>
     <body>
       <u who="VERRONE">I’m Dr. <persName>Richard Verrone</persName> I'm doing an oral history video interview with</u>
-      <u who="BECK">We are in <placeName>Washington</placeName> D.C. Crystal City Hilton. It’s <date>November 12th, 2005</date>. About 1:50 PM. We are here commemorating the reunion, the 40th anniversary reunion of the battles of the Ia Drang Valley, X-Ray, <placeName>Albany</placeName>, <orgName>Falcon</orgName>, <placeName>Columbus</placeName> and others. <persName>Bill</persName>, tell me a little bit about those days in <date>November</date>, before you all get in. Tell me about <persName>Tony Nadal</persName> and the guys around you, your buddies before you all arrived that <date>Sunday</date>.</u>
-      <u who="BECK">Alright. Well, we all trained at <placeName>Fort Benning</placeName>, <placeName>Georgia</placeName>. Advanced infantry division is what I was doing down there. We went overseas. We were best buddies back in the <placeName>States</placeName>. We were close knit in An <orgName>Khe</orgName>. We were in country <date>about two months</date> before the battle of the Ia Drang Valley. We worked <date>today</date>, we played together, we shared things together. We were close and we were good friends. Our sergeants were good friends, good buddies. Our officers, we respected. Our lieutenants, our captains, right up to Colonel <persName>Moore</persName> himself. We all knew each other, so we were pretty much a close knit family.</u>
+      <u who="BECK">We are in <placeName>Washington, D.C.</placeName> Crystal City Hilton. It’s <date when="2005-11-12">November 12th, 2005</date>. About 1:50 PM. We are here commemorating the reunion, the 40th anniversary reunion of the battles of the <placeName>Ia Drang Valley</placeName>, <placeName>X-Ray</placeName>, <placeName>Albany</placeName>, <orgName>Falcon</orgName>, <placeName>Columbus</placeName> and others. <persName>Bill</persName>, tell me a little bit about those days in <date when="1965-10">November</date>, before you all get in. Tell me about <persName>Tony Nadal</persName> and the guys around you, your buddies before you all arrived that Sunday.</u>
+      <u who="BECK">Alright. Well, we all trained at <placeName>Fort Benning, Georgia</placeName>. Advanced infantry division is what I was doing down there. We went overseas. We were best buddies back in the <placeName>States</placeName>. We were close knit in An <orgName>Khe</orgName>. We were in country <date>about two months</date> before the battle of the Ia Drang Valley. We worked <date>today</date>, we played together, we shared things together. We were close and we were good friends. Our sergeants were good friends, good buddies. Our officers, we respected. Our lieutenants, our captains, right up to Colonel <persName>Moore</persName> himself. We all knew each other, so we were pretty much a close knit family.</u>
       <u who="VERRONE">Was that unusual you think for a battalion to be that close?</u>
       <u who="BECK">I didn’t know it at the time, but in hindsight when you look back on things, I think we are a lot closer than other veterans that I’ve talked to.</u>
       <u who="VERRONE">Tell me about <persName>Tony Nadal</persName>.</u>
