@@ -7,7 +7,7 @@
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+          <recording xml:id="primary_recording" type="video" dur-iso="00:58:15">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="//rcweb.dartmouth.edu/DDHI/histories/beck_bill/beck_bill.mp3" mimeType="audio/mpeg"/>
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0502/OH0502.mp4" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0502/OH0502.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -59,7 +59,7 @@
   <text>
     <body>
       <u who="VERRONE">I’m Dr. <persName>Richard Verrone</persName> I'm doing an oral history video interview with</u>
-      <u who="BECK">We are in <placeName>Washington, D.C.</placeName> Crystal City Hilton. It’s <date when="2005-11-12">November 12th, 2005</date>. About 1:50 PM. We are here commemorating the reunion, the 40th anniversary reunion of the battles of the <placeName>Ia Drang Valley</placeName>, <placeName>X-Ray</placeName>, <placeName>Albany</placeName>, <orgName>Falcon</orgName>, <placeName>Columbus</placeName> and others. <persName>Bill</persName>, tell me a little bit about those days in <date when="1965-10">November</date>, before you all get in. Tell me about <persName>Tony Nadal</persName> and the guys around you, your buddies before you all arrived that Sunday.</u>
+      <u who="BECK">We are in <placeName>Washington, D.C.Crystal City Hilton</placeName>. It’s <date when="2005-11-12">November 12th, 2005</date>. About 1:50 PM. We are here commemorating the reunion, the 40th anniversary reunion of the <name type = "event">battles of the Ia Drang Valley</name>, <placeName>X-Ray</placeName>, <placeName>Albany</placeName>, <orgName>Falcon</orgName>, <placeName>Columbus</placeName> and others. <persName>Bill</persName>, tell me a little bit about those days in <date when="1965-10">November</date>, before you all get in. Tell me about <persName>Tony Nadal</persName> and the guys around you, your buddies before you all arrived that Sunday.</u>
       <u who="BECK">Alright. Well, we all trained at <placeName>Fort Benning, Georgia</placeName>. Advanced infantry division is what I was doing down there. We went overseas. We were best buddies back in the <placeName>States</placeName>. We were close knit in <placeName>An Khe</placeName>. We were in country about two months before the <name type="event">battle of the Ia Drang Valley</name>. We worked today, we played together, we shared things together. We were close and we were good friends. Our sergeants were good friends, good buddies. Our officers, we respected. Our lieutenants, our captains, right up to <persName>Colonel Moore</persName> himself. We all knew each other, so we were pretty much a close knit family.</u>
       <u who="VERRONE">Was that unusual you think for a battalion to be that close?</u>
       <u who="BECK">I didn’t know it at the time, but in hindsight when you look back on things, I think we are a lot closer than other veterans that I’ve talked to.</u>
