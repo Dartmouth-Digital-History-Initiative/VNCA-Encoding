@@ -7,7 +7,7 @@
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+          <recording xml:id="primary_recording" type="video" dur-iso="02:20:24">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="//rcweb.dartmouth.edu/DDHI/histories/moore_hal/moore_hal.mp3" mimeType="MIMEaudio/wav"/>
+            <media url="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0509/OH0509.mp4" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Mark Steven Varela</persName>
+            <orgName>Vietnam Center and Sam Johnson Vietnam Archive</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="https://vva.vietnam.ttu.edu/images.php?img=/OH/OH0509/OH0509.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>The Oral History Project of the Vietnam Center and Sam Johnson Vietnam Archive</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
