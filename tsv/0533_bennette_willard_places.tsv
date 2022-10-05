@@ -1,48 +1,49 @@
-id	placeName
-ttu_533_place_0	Colorado State University
-ttu_533_place_1	Fort Collins, Colorado
-ttu_533_place_2	Fort Sill
-ttu_533_place_3	Fort Sill, Oklahoma
-ttu_533_place_4	Fort Benning,Georgia
-ttu_533_place_5	Alaska
-ttu_533_place_6	Alaska
-ttu_533_place_7	 Fort Benning, Georgia
-ttu_533_place_8	Carolinas
-ttu_533_place_9	Fort Bragg
-ttu_533_place_10	Fort Benning
-ttu_533_place_11	Vietnam
-ttu_533_place_12	Mobile, Alabama
-ttu_533_place_13	Pleiku
-ttu_533_place_14	 An Khe
-ttu_533_place_15	Golf Course
-ttu_533_place_16	Bong Son
-ttu_533_place_17	Plei Me
-ttu_533_place_18	 Ia Drang Valley
-ttu_533_place_19	X-Ray
-ttu_533_place_20	X-Ray
-ttu_533_place_21	X-Ray
-ttu_533_place_22	X-Ray
-ttu_533_place_23	X-Ray
-ttu_533_place_24	X-Ray
-ttu_533_place_25	Albany
-ttu_533_place_26	X-Ray
-ttu_533_place_27	Albany
-ttu_533_place_28	X-Ray
-ttu_533_place_29	Albany
-ttu_533_place_30	 LZ (Landing Zone) Albany
-ttu_533_place_31	Pleiku
-ttu_533_place_32	Pleiku
-ttu_533_place_33	Pleiku
-ttu_533_place_34	Ia Drang
-ttu_533_place_35	Ia Drang Valley
-ttu_533_place_36	Ia Drang
-ttu_533_place_37	An Khe
-ttu_533_place_38	Ia Drang
-ttu_533_place_39	Fort Benning
-ttu_533_place_40	Benning
-ttu_533_place_41	Fort Benning
-ttu_533_place_42	Fort Benning
-ttu_533_place_43	Vietnam
-ttu_533_place_44	Fort Benning
-ttu_533_place_45	Carolinas
-ttu_533_place_46	Fort Benning
+id	placeName	QID	ttu_id	coordinate location
+ttu_533_place_0	Colorado State University	Q1111640		40.574836111111,-105.08097777778
+ttu_533_place_1	Fort Collins	Q490732		40.566666666667,-105.08333333333
+ttu_533_place_2	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_533_place_3	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+ttu_533_place_4	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_5	Alaska	Q797		64,-150
+ttu_533_place_6	Alaska	Q797		64,-150
+ttu_533_place_7	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_8	The Carolinas	Q2747220		34.797,-79.683
+ttu_533_place_9	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+ttu_533_place_10	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_11	Vietnam	Q881		16,108
+ttu_533_place_12	Mobile	Q79875		30.727669444444,-88.052672222222
+ttu_533_place_13	Pleiku	Q30599		13.971519,108.014673
+ttu_533_place_14	An Khê	Q15179893		13.9530664,108.6569463
+ttu_533_place_15	Camp Radcliff	Q18386291		13.993,108.648498
+ttu_533_place_16	Bồng Sơn	Q2276503		14.43333333,109.01666667
+				14.431111111111,108.9975
+ttu_533_place_17	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_533_place_18	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_533_place_19	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_20	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_21	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_22	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_23	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_24	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_25	LZ Albany	Q110624853		13.59528,107.71528
+ttu_533_place_26	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_27	LZ Albany	Q110624853		13.59528,107.71528
+ttu_533_place_28	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_533_place_29	LZ Albany	Q110624853		13.59528,107.71528
+ttu_533_place_30	LZ Albany	Q110624853		13.59528,107.71528
+ttu_533_place_31	Pleiku	Q30599		13.971519,108.014673
+ttu_533_place_32	Pleiku	Q30599		13.971519,108.014673
+ttu_533_place_33	Pleiku	Q30599		13.971519,108.014673
+ttu_533_place_34	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_533_place_35	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_533_place_36	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_533_place_37	An Khê	Q15179893		13.9530664,108.6569463
+ttu_533_place_38	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_533_place_39	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_40	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_41	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_42	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_43	Vietnam	Q881		16,108
+ttu_533_place_44	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_533_place_45	The Carolinas	Q2747220		34.797,-79.683
+ttu_533_place_46	Fort Benning	Q1438462		32.366111111111,-84.969166666667
