@@ -1,26 +1,26 @@
-id	orgName
-ttu_533_org_0	ROTC (Reserve Officer Training Corps)
-ttu_533_org_1	Army
-ttu_533_org_2	Army
-ttu_533_org_3	Army
-ttu_533_org_4	the 1st Cav
-ttu_533_org_5	 11th Air Assault division 
-ttu_533_org_6	A Company 229th
-ttu_533_org_7	Charlie Company of the 229th 
-ttu_533_org_8	the 119th Assault Helicopter Company
-ttu_533_org_9	Charlie Company
-ttu_533_org_10	Charlie Company
-ttu_533_org_11	2nd of the 7th
-ttu_533_org_12	A Company
-ttu_533_org_13	1st of the 7th
-ttu_533_org_14	Charlie Company
-ttu_533_org_15	2nd of the 7th
-ttu_533_org_16	2nd of the 7th
-ttu_533_org_17	Charlie
-ttu_533_org_18	Air Force
-ttu_533_org_19	229th
-ttu_533_org_20	227th
-ttu_533_org_21	Charlie 229th
-ttu_533_org_22	the 227th Assault Helicopter Battalion
-ttu_533_org_23	229th
-ttu_533_org_24	119th
+id	orgName	QID	ttu_id
+ttu_533_org_0	Reserve Officers' Training Corps	Q489983	
+ttu_533_org_1	United States Army	Q9212	
+ttu_533_org_2	United States Army	Q9212	
+ttu_533_org_3	United States Army	Q9212	
+ttu_533_org_4	1st Cavalry Division	Q2338	
+ttu_533_org_5	11th Airborne Division	Q169980	
+ttu_533_org_6	Company A, 229th Aviation Battalion	Q110647772	
+ttu_533_org_7	Company C, 229th Aviation Battalion	Q110624759	
+ttu_533_org_8	119th Assault Helicopter Company	Q4547701	
+ttu_533_org_9	Company C, 229th Aviation Battalion	Q110624759	
+ttu_533_org_10	Company C, 229th Aviation Battalion	Q110624759	
+ttu_533_org_11	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_533_org_12	Company A, 2nd Battalion, 7th Cavalry Regiment	Q111597006	
+ttu_533_org_13	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_533_org_14	Company C, 229th Aviation Battalion	Q110624759	
+ttu_533_org_15	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_533_org_16	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_533_org_17	Company C, 229th Aviation Battalion	Q110624759	
+ttu_533_org_18	United States Air Force	Q11223	
+ttu_533_org_19	229th Aviation Regiment	Q4631295	
+ttu_533_org_20	227th Aviation Regiment (United States)	Q83185178	
+ttu_533_org_21	Company C, 229th Aviation Battalion	Q110624759	
+ttu_533_org_22	227th Aviation Regiment (United States)	Q83185178	
+ttu_533_org_23	229th Aviation Regiment	Q4631295	
+ttu_533_org_24	119th Assault Helicopter Company	Q4547701	
