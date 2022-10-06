@@ -1,13 +1,13 @@
-id	orgName
-ttu_503_org_0	army
-ttu_503_org_1	Sons and Daughters in Touch
-ttu_503_org_2	Sons and Daughters
-ttu_503_org_3	Sons and Daughters
-ttu_503_org_4	Sons and Daughters
-ttu_503_org_5	Widener University
-ttu_503_org_6	ROTC (Reserve Officer Training Corps)
-ttu_503_org_7	C Company
-ttu_503_org_8	Sons and Daughters
-ttu_503_org_9	Sons and Daughters
-ttu_503_org_10	Sons and daughters
-ttu_503_org_11	Sons and Daughters
+id	orgName	QID	ttu_id
+ttu_503_org_0	United States Army	Q9212	
+ttu_503_org_1	Sons and Daughters in Touch	Q114442295	
+ttu_503_org_2	Sons and Daughters in Touch	Q114442295	
+ttu_503_org_3	Sons and Daughters in Touch	Q114442295	
+ttu_503_org_4	Sons and Daughters in Touch	Q114442295	
+ttu_503_org_5	Widener University	Q3443325	
+ttu_503_org_6	Reserve Officers' Training Corps	Q489983	
+ttu_503_org_7	Company C, 1st Battalion, 7th Cavalry Regiment	Q110745354	
+ttu_503_org_8	Sons and Daughters in Touch	Q114442295	
+ttu_503_org_9	Sons and Daughters in Touch	Q114442295	
+ttu_503_org_10	Sons and daughters		
+ttu_503_org_11	Sons and Daughters in Touch	Q114442295	
