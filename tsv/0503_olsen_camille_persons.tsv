@@ -1,7 +1,7 @@
 id	persName	QID	ttu_id
 ttu_503_person_0	Richard Verrone	Q111653126	
-ttu_503_person_1	Camille Olsen		ttu_0012
-ttu_503_person_2	Camille		ttu_0012
+ttu_503_person_1	Camille Olsen	Q114443478	
+ttu_503_person_2	Camille	Q114443478	
 ttu_503_person_3	John Geoghegan	Q6235071	
 ttu_503_person_4	Stephanie		ttu_0193
 ttu_503_person_5	John Geoghegan	Q6235071	
@@ -38,4 +38,4 @@ ttu_503_person_35	Greg		ttu_0195
 ttu_503_person_36	Greg		ttu_0195
 ttu_503_person_37	Julia		ttu_0196
 ttu_503_person_38	John Geoghegan	Q6235071	
-ttu_503_person_39	Cammie		ttu_0012
+ttu_503_person_39	Cammie	Q114443478	
