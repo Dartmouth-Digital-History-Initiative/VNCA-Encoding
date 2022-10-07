@@ -1,113 +1,113 @@
-id	persName
-ttu_502_person_0	Richard Verrone
-ttu_502_person_1	Bill
-ttu_502_person_2	Tony Nadal
-ttu_502_person_3	Colonel Moore
-ttu_502_person_4	Tony Nadal
-ttu_502_person_5	Tony Nadal
-ttu_502_person_6	Lieutenant Taft
-ttu_502_person_7	Hal Moore
-ttu_502_person_8	Hal Moore
-ttu_502_person_9	Colonel Moore
-ttu_502_person_10	Russell Adams
-ttu_502_person_11	Sergeant Major
-ttu_502_person_12	Sergeant Major
-ttu_502_person_13	sergeant major
-ttu_502_person_14	Nadal
-ttu_502_person_15	Taft
-ttu_502_person_16	Russell Adams
-ttu_502_person_17	Lieutenant Taft
-ttu_502_person_18	Lieutenant Taft
-ttu_502_person_19	Jerry Kirsch
-ttu_502_person_20	Jerry
-ttu_502_person_21	Russell Adams
-ttu_502_person_22	Russell
-ttu_502_person_23	Russell
-ttu_502_person_24	Chu Pong Mountain
-ttu_502_person_25	Adams
-ttu_502_person_26	Russell
-ttu_502_person_27	Russell
-ttu_502_person_28	Russell
-ttu_502_person_29	Bob Edward’s
-ttu_502_person_30	General Moore
-ttu_502_person_31	Bill Beck
-ttu_502_person_32	Russell
-ttu_502_person_33	Captain Nadal
-ttu_502_person_34	Russell
-ttu_502_person_35	Russell
-ttu_502_person_36	Russell
-ttu_502_person_37	Russell Adams
-ttu_502_person_38	Russell
-ttu_502_person_39	Russell
-ttu_502_person_40	Russell
-ttu_502_person_41	Russell
-ttu_502_person_42	Russell
-ttu_502_person_43	John
-ttu_502_person_44	John
-ttu_502_person_45	Lieutenant Raul Taboada
-ttu_502_person_46	Russell Adams
-ttu_502_person_47	Russell Adams
-ttu_502_person_48	Russell
-ttu_502_person_49	Russell
-ttu_502_person_50	Russell
-ttu_502_person_51	Russell
-ttu_502_person_52	Russell
-ttu_502_person_53	Russell
-ttu_502_person_54	lieutenant Taft
-ttu_502_person_55	Russell
-ttu_502_person_56	Russell
-ttu_502_person_57	Russell
-ttu_502_person_58	Russell
-ttu_502_person_59	Russell
-ttu_502_person_60	Russell
-ttu_502_person_61	General Moore
-ttu_502_person_62	Russ
-ttu_502_person_63	Russell
-ttu_502_person_64	Russell
-ttu_502_person_65	Russell
-ttu_502_person_66	Russ
-ttu_502_person_67	Rivera Rodriguez
-ttu_502_person_68	Russell
-ttu_502_person_69	Rodriguez 
-ttu_502_person_70	Captain McClellan
-ttu_502_person_71	Paul Truman McClellan
-ttu_502_person_72	General Moore
-ttu_502_person_73	Herren
-ttu_502_person_74	John Herren
-ttu_502_person_75	Captain Herren
-ttu_502_person_76	Captain Nadal
-ttu_502_person_77	Captain Nadal
-ttu_502_person_78	Tony
-ttu_502_person_79	Captain Nadal
-ttu_502_person_80	Tony
-ttu_502_person_81	Tony
-ttu_502_person_82	Colonel Moore
-ttu_502_person_83	Tony
-ttu_502_person_84	Tony
-ttu_502_person_85	Tony
-ttu_502_person_86	Tony
-ttu_502_person_87	Savage
-ttu_502_person_88	Ernie Savage
-ttu_502_person_89	Lieutenant Taft
-ttu_502_person_90	Captain Nadal
-ttu_502_person_91	Colonel Moore
-ttu_502_person_92	Captain Nadal
-ttu_502_person_93	Tony
-ttu_502_person_94	Russell
-ttu_502_person_95	Russell
-ttu_502_person_96	Walter Reed
-ttu_502_person_97	Russell
-ttu_502_person_98	John
-ttu_502_person_99	Russell
-ttu_502_person_100	Russ
-ttu_502_person_101	Russell
-ttu_502_person_102	Russ
-ttu_502_person_103	John
-ttu_502_person_104	Moore
-ttu_502_person_105	Colonel Moore
-ttu_502_person_106	Sergeant Robles
-ttu_502_person_107	General Moore
-ttu_502_person_108	Russ
-ttu_502_person_109	Russ
-ttu_502_person_110	Russell
-ttu_502_person_111	Bill
+id	persName	QID	ttu_id
+ttu_502_person_0	Richard Verrone	Q111653126	
+ttu_502_person_1	William Beck	Q111660664	
+ttu_502_person_2	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_3	Hal Moore	Q430209	
+ttu_502_person_4	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_5	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_6	Robert Edmund Taft	Q111658827	
+ttu_502_person_7	Hal Moore	Q430209	
+ttu_502_person_8	Hal Moore	Q430209	
+ttu_502_person_9	Hal Moore	Q430209	
+ttu_502_person_10	Russell Adams		ttu_502_person_10
+ttu_502_person_11	Basil L. Plumley	Q2535583	
+ttu_502_person_12	Basil L. Plumley	Q2535583	
+ttu_502_person_13	Basil L. Plumley	Q2535583	
+ttu_502_person_14	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_15	Robert Edmund Taft	Q111658827	
+ttu_502_person_16	Russell Adams		ttu_502_person_10
+ttu_502_person_17	Robert Edmund Taft	Q111658827	
+ttu_502_person_18	Robert Edmund Taft	Q111658827	
+ttu_502_person_19	Jerry Kirsch		ttu_502_person_19
+ttu_502_person_20	Jerry		ttu_502_person_19
+ttu_502_person_21	Russell Adams		ttu_502_person_10
+ttu_502_person_22	Russell		ttu_502_person_10
+ttu_502_person_23	Russell		ttu_502_person_10
+ttu_502_person_24	Chu Pong Mountain		
+ttu_502_person_25	Adams		ttu_502_person_10
+ttu_502_person_26	Russell		ttu_502_person_10
+ttu_502_person_27	Russell		ttu_502_person_10
+ttu_502_person_28	Russell		ttu_502_person_10
+ttu_502_person_29	Robert H. Edwards	Q111008041	
+ttu_502_person_30	Hal Moore	Q430209	
+ttu_502_person_31	William Beck	Q111660664	
+ttu_502_person_32	Russell		ttu_502_person_10
+ttu_502_person_33	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_34	Russell		ttu_502_person_10
+ttu_502_person_35	Russell		ttu_502_person_10
+ttu_502_person_36	Russell		ttu_502_person_10
+ttu_502_person_37	Russell Adams		ttu_502_person_10
+ttu_502_person_38	Russell		ttu_502_person_10
+ttu_502_person_39	Russell		ttu_502_person_10
+ttu_502_person_40	Russell		ttu_502_person_10
+ttu_502_person_41	Russell		ttu_502_person_10
+ttu_502_person_42	Russell		ttu_502_person_10
+ttu_502_person_43	John		
+ttu_502_person_44	John		
+ttu_502_person_45	Raul Taboada	Q111678306	
+ttu_502_person_46	Russell Adams		ttu_502_person_10
+ttu_502_person_47	Russell Adams		ttu_502_person_10
+ttu_502_person_48	Russell		ttu_502_person_10
+ttu_502_person_49	Russell		ttu_502_person_10
+ttu_502_person_50	Russell		ttu_502_person_10
+ttu_502_person_51	Russell		ttu_502_person_10
+ttu_502_person_52	Russell		ttu_502_person_10
+ttu_502_person_53	Russell		ttu_502_person_10
+ttu_502_person_54	Robert Edmund Taft	Q111658827	
+ttu_502_person_55	Russell		ttu_502_person_10
+ttu_502_person_56	Russell		ttu_502_person_10
+ttu_502_person_57	Russell		ttu_502_person_10
+ttu_502_person_58	Russell		ttu_502_person_10
+ttu_502_person_59	Russell		ttu_502_person_10
+ttu_502_person_60	Russell		ttu_502_person_10
+ttu_502_person_61	Hal Moore	Q430209	
+ttu_502_person_62	Russ		ttu_502_person_10
+ttu_502_person_63	Russell		ttu_502_person_10
+ttu_502_person_64	Russell		ttu_502_person_10
+ttu_502_person_65	Russell		ttu_502_person_10
+ttu_502_person_66	Russ		ttu_502_person_10
+ttu_502_person_67	Rivera Rodriguez	Q114450432	
+ttu_502_person_68	Russell		ttu_502_person_10
+ttu_502_person_69	Rodriguez	Q114450432	
+ttu_502_person_70	Captain McClellan	Q114450440	
+ttu_502_person_71	Paul Truman McClellan	Q114450440	
+ttu_502_person_72	Hal Moore	Q430209	
+ttu_502_person_73	John D. Herren	Q111678638	
+ttu_502_person_74	John D. Herren	Q111678638	
+ttu_502_person_75	John D. Herren	Q111678638	
+ttu_502_person_76	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_77	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_78	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_79	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_80	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_81	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_82	Hal Moore	Q430209	
+ttu_502_person_83	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_84	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_85	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_86	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_87	"Clyde ""Ernie"" Savage"	Q111811563	
+ttu_502_person_88	"Clyde ""Ernie"" Savage"	Q111811563	
+ttu_502_person_89	Robert Edmund Taft	Q111658827	
+ttu_502_person_90	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_91	Hal Moore	Q430209	
+ttu_502_person_92	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_93	Ramon Antonio Nadal	Q111442803	
+ttu_502_person_94	Russell		ttu_502_person_10
+ttu_502_person_95	Russell		ttu_502_person_10
+ttu_502_person_96	Walter Reed		
+ttu_502_person_97	Russell		ttu_502_person_10
+ttu_502_person_98	John		
+ttu_502_person_99	Russell		ttu_502_person_10
+ttu_502_person_100	Russ		ttu_502_person_10
+ttu_502_person_101	Russell		ttu_502_person_10
+ttu_502_person_102	Russ		ttu_502_person_10
+ttu_502_person_103	John		
+ttu_502_person_104	Hal Moore	Q430209	
+ttu_502_person_105	Hal Moore	Q430209	
+ttu_502_person_106	Sergeant Robles		ttu_502_person_106
+ttu_502_person_107	Hal Moore	Q430209	
+ttu_502_person_108	Russ		ttu_502_person_10
+ttu_502_person_109	Russ		ttu_502_person_10
+ttu_502_person_110	Russell		ttu_502_person_10
+ttu_502_person_111	William Beck	Q111660664	
