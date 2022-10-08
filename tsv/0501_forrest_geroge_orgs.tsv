@@ -1,28 +1,28 @@
-id	orgName
-ttu_501_org_0	North Vietnamese
-ttu_501_org_1	North Vietnamese
-ttu_501_org_2	American
-ttu_501_org_3	OCS
-ttu_501_org_4	ROTC
-ttu_501_org_5	NCOs
-ttu_501_org_6	Khe
-ttu_501_org_7	North Vietnamese
-ttu_501_org_8	Delta
-ttu_501_org_9	A Company 1st of the 5th
-ttu_501_org_10	A Company 1st of the 5th
-ttu_501_org_11	RTOs
-ttu_501_org_12	A Company
-ttu_501_org_13	Bravo company, 1st of the 5th
-ttu_501_org_14	Falcon
-ttu_501_org_15	North Vietnamese
-ttu_501_org_16	Ghost Force 6
-ttu_501_org_17	A Company
-ttu_501_org_18	2nd of the 7th
-ttu_501_org_19	American
-ttu_501_org_20	2nd of the 7th
-ttu_501_org_21	1st of the 7th
-ttu_501_org_22	ROTC
-ttu_501_org_23	the Western Channel
-ttu_501_org_24	AP
-ttu_501_org_25	Phi Beta Kappa
-ttu_501_org_26	Georgia Tech
+id	orgName	QID	ttu_id
+ttu_501_org_0	People's Army of Vietnam	Q3936506	
+ttu_501_org_1	People's Army of Vietnam	Q3936506	
+ttu_501_org_2	United States Army	Q9212	
+ttu_501_org_3	Officer Candidate School	Q12622609	
+ttu_501_org_4	Reserve Officers' Training Corps	Q489983	
+ttu_501_org_5	non-commissioned officer	Q158950	
+ttu_501_org_6	Khe		
+ttu_501_org_7	People's Army of Vietnam	Q3936506	
+ttu_501_org_8	Company D, 2nd Battalion, 7th Cavalry Regiment	Q112010266	
+ttu_501_org_9	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_501_org_10	Company A, 1st Battalion, 5th Cavalry Regiment	Q111677949	
+ttu_501_org_11	radio operator	Q1318390	
+ttu_501_org_12	A Company, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_501_org_13	1st Battalion, 5th Cavalry Regiment	Q110880590	
+ttu_501_org_14	Falcon		
+ttu_501_org_15	People's Army of Vietnam	Q3936506	
+ttu_501_org_16	Ghost Force 6		
+ttu_501_org_17	A Company, 1st Battalion, 7th Cavalry Regiment	Q110745296	
+ttu_501_org_18	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_501_org_19	United States Army	Q9212	
+ttu_501_org_20	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_501_org_21	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_501_org_22	Reserve Officers' Training Corps	Q489983	
+ttu_501_org_23	the Western Channel		
+ttu_501_org_24	Associated Press	Q40469	
+ttu_501_org_25	Phi Beta Kappa Society	Q1938003	
+ttu_501_org_26	Georgia Institute of Technology	Q864855	
