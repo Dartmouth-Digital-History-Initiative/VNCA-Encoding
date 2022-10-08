@@ -1,42 +1,43 @@
-id	placeName
-ttu_501_place_0	Crystal City Hilton
-ttu_501_place_1	Washington D.C.
-ttu_501_place_2	Ia Drang Valley
-ttu_501_place_3	Falcon
-ttu_501_place_4	 X-Ray
-ttu_501_place_5	Albany
-ttu_501_place_6	X-Ray
-ttu_501_place_7	X-Ray
-ttu_501_place_8	X-Ray
-ttu_501_place_9	LZ (Landing Zone) Columbus
-ttu_501_place_10	X-Ray
-ttu_501_place_11	X-Ray
-ttu_501_place_12	X-Ray
-ttu_501_place_13	Albany
-ttu_501_place_14	LZ
-ttu_501_place_15	Albany
-ttu_501_place_16	Albany
-ttu_501_place_17	Albany
-ttu_501_place_18	Albany
-ttu_501_place_19	Albany
-ttu_501_place_20	Fort Benning
-ttu_501_place_21	Berea, Ohio
-ttu_501_place_22	Baltimore
-ttu_501_place_23	Atlanta
-ttu_501_place_24	Allentown, Pennsylvania
-ttu_501_place_25	Albemarle, North Carolina
-ttu_501_place_26	LZ X-Ray
-ttu_501_place_27	Georgia
-ttu_501_place_28	Albany
-ttu_501_place_29	Vietnam
-ttu_501_place_30	Columbus
-ttu_501_place_31	CH-47
-ttu_501_place_32	LZ
-ttu_501_place_33	An Khe
-ttu_501_place_34	Bong Son
-ttu_501_place_35	Fort Benning
-ttu_501_place_36	Albany
-ttu_501_place_37	Vietnam
-ttu_501_place_38	Albany
-ttu_501_place_39	Albany
-ttu_501_place_40	California
+id	placeName	QID	ttu_id	coordinate location
+ttu_501_place_0	Hilton Crystal City at Washington Reagan National Airport	Q110624980		38.852191,-77.052014
+ttu_501_place_1	Washington, D.C.	Q61		38.895,-77.036666666667
+ttu_501_place_2	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
+ttu_501_place_3	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_501_place_4	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_5	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_6	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_7	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_8	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_9	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_501_place_10	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_11	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_12	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_13	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_14	landing zone	Q3305194		
+ttu_501_place_15	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_16	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_17	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_18	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_19	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_20	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_501_place_21	Berea	Q818897		41.37,-81.8625
+ttu_501_place_22	Baltimore	Q5092		39.286388888889,-76.615
+ttu_501_place_23	Atlanta	Q23556		33.756944444444,-84.390277777778
+ttu_501_place_24	Allentown	Q142811		40.6,-75.483333333333
+ttu_501_place_25	Albemarle	Q921689		35.358333333333,-80.195277777778
+ttu_501_place_26	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_501_place_27	Georgia	Q1428		33,-83.5
+ttu_501_place_28	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_29	Vietnam	Q881		16,108
+ttu_501_place_30	LZ Columbus	Q110713739		13.58911111111111,107.74138888888889
+ttu_501_place_31	CH-47			
+ttu_501_place_32	LZ			
+ttu_501_place_33	An Khê	Q15179893		13.9530664,108.6569463
+ttu_501_place_34	Bồng Sơn	Q2276503		14.43333333,109.01666667
+				14.431111111111,108.9975
+ttu_501_place_35	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_501_place_36	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_37	Vietnam	Q881		16,108
+ttu_501_place_38	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_39	LZ Albany	Q110624853		13.59528,107.71528
+ttu_501_place_40	California	Q99		37,-120
