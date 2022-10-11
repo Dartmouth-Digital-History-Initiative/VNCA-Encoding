@@ -1,15 +1,15 @@
-id	name
-ttu_503_event_0	Ia Drang
-ttu_503_event_1	Plekiu
-ttu_503_event_2	LZ (Landing Zone) Albany
-ttu_503_event_3	X-Ray
-ttu_503_event_4	Falcon
-ttu_503_event_5	Vietnam
-ttu_503_event_6	the Vietnam War
-ttu_503_event_7	war
-ttu_503_event_8	Vietnam
-ttu_503_event_9	Vietnam
-ttu_503_event_10	Vietnam
-ttu_503_event_11	LZ X-Ray
-ttu_503_event_12	Albany
-ttu_503_event_13	the Vietnam War
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_503_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_503_event_1	Pleiku Campaign	Q24189107		1965-10-23T00:00:00Z	1965-11-26T00:00:00Z	
+ttu_503_event_2	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_503_event_3	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_503_event_4	Falcon					
+ttu_503_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_503_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_503_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_503_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_503_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_503_event_10	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+ttu_503_event_11	Combat at LZ X-Ray	Q110624716		1965-11-14T00:00:00Z	1965-11-16T00:00:00Z	
+ttu_503_event_12	Combat at LZ Albany	Q110624722		1965-11-17T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_503_event_13	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
