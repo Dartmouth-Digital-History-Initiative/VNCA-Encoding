@@ -1,28 +1,28 @@
-id	placeName
-ttu_450_place_0	Plei Me Special Forces Camp
-ttu_450_place_1	X-Ray
-ttu_450_place_2	Falcon
-ttu_450_place_3	Falcon
-ttu_450_place_4	Germany
-ttu_450_place_5	Columbus
-ttu_450_place_6	X-Ray
-ttu_450_place_7	X-Ray
-ttu_450_place_8	Duc Co Special Forces Camp
-ttu_450_place_9	Whiskey
-ttu_450_place_10	X-Ray
-ttu_450_place_11	X-Ray
-ttu_450_place_12	X-Ray
-ttu_450_place_13	X-Ray
-ttu_450_place_14	X-Ray
-ttu_450_place_15	Albany
-ttu_450_place_16	Fort Benning
-ttu_450_place_17	X-Ray
-ttu_450_place_18	brigade headquarters
-ttu_450_place_19	plantation
-ttu_450_place_20	brigade headquarters
-ttu_450_place_21	Pleiku
-ttu_450_place_22	X-Ray
-ttu_450_place_23	Chu Pong mountain
-ttu_450_place_24	Plei Me
-ttu_450_place_25	Peoria
-ttu_450_place_26	Ia Drang
+id	placeName	QID	ttu_id	coordinate location
+ttu_450_place_0	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_450_place_1	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_2	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_450_place_3	LZ Falcon	Q110624865		13.62278,107.76417
+ttu_450_place_4	Germany	Q183		51,10
+ttu_450_place_5	Columbus	Q16567		39.96222222222222,-83.00055555555555
+ttu_450_place_6	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_7	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_8	Đức Cơ Camp	Q18639590		13.788,107.627
+ttu_450_place_9	Whiskey			
+ttu_450_place_10	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_11	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_12	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_13	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_14	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_15	LZ Albany	Q110624853		13.59528,107.71528
+ttu_450_place_16	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+ttu_450_place_17	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_18	brigade headquarters			
+ttu_450_place_19	Catecka Base Camp	Q18639524		13.865,107.962
+ttu_450_place_20	brigade headquarters			
+ttu_450_place_21	Pleiku	Q30599		13.971519,108.014673
+ttu_450_place_22	LZ X-Ray	Q110624850		13.567944,107.714
+ttu_450_place_23	Chu Pong Massif	Q65040315		13.57286132548346,107.66598001153218
+ttu_450_place_24	Plei Me Camp	Q110624862		13.6175,107.9175
+ttu_450_place_25	Peoria	Q233129		40.69365,-89.58899
+ttu_450_place_26	Ia Drang Valley	Q2904975		13.583333333333,107.71666666667
