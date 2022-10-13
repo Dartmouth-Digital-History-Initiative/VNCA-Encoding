@@ -3,11 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Ronald Talley</title>
       </titleStmt>
       <publicationStmt>
         <authority>
-          <orgName>Dartmouth Digital History Initiative</orgName>
+          <orgName>Dartmouth Black Lives</orgName>
         </authority>
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
@@ -15,24 +15,24 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="02:10:26">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/talley_ron/talley_ron.mp3" mimeType="MIMEaudio/wav"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
-            <orgName>Wordcraft</orgName>
+            <persName>Anne Johnakin</persName>
+            <orgName>Dartmouth Black Lives</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
-          <ref target="path_to_file">Primary transcription</ref>
+          <ref target="https://rcweb.dartmouth.edu/DartmouthBlackLives/histories/talley_ron/talley_ron_transcript_final.pdf">Primary transcription</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>The Dartmouth Vietnam Project</p>
+        <p>Dartmouth Black Lives</p>
       </projectDesc>
       <appInfo>
         <application ident="DDHIEncoder" version="1.0">
@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2021-10-24"/>
           <locale/>
         </setting>
       </settingDesc>
