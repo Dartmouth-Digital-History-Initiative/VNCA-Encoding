@@ -1,55 +1,55 @@
-id	persName
-ttu_501_person_0	Richard Verrone
-ttu_501_person_1	George Forrest
-ttu_501_person_2	Forrest
-ttu_501_person_3	Jack Smith
-ttu_501_person_4	Hal Moore’s
-ttu_501_person_5	Colonel McDade
-ttu_501_person_6	Hal Moore
-ttu_501_person_7	Hal Moore
-ttu_501_person_8	Larry Haas
-ttu_501_person_9	Terry Martell
-ttu_501_person_10	Terry Martell
-ttu_501_person_11	Jim Patzwald
-ttu_501_person_12	Don Adams
-ttu_501_person_13	Don
-ttu_501_person_14	Hurst
-ttu_501_person_15	Jimmy Smith
-ttu_501_person_16	McDade
-ttu_501_person_17	McDade
-ttu_501_person_18	McDade
-ttu_501_person_19	Larry
-ttu_501_person_20	McDade
-ttu_501_person_21	McDade
-ttu_501_person_22	Buse Tully
-ttu_501_person_23	Charlie
-ttu_501_person_24	John Generac
-ttu_501_person_25	Sergeant Kluge
-ttu_501_person_26	Fred
-ttu_501_person_27	Kluge
-ttu_501_person_28	Daniel Torres
-ttu_501_person_29	Sergeant Kluge
-ttu_501_person_30	Torres
-ttu_501_person_31	Larry Gwen
-ttu_501_person_32	Freddie Owens
-ttu_501_person_33	Freddie
-ttu_501_person_34	Hal Moore
-ttu_501_person_35	Robert Hurst
-ttu_501_person_36	Ben Carson
-ttu_501_person_37	Joe
-ttu_501_person_38	Joe
-ttu_501_person_39	Hal
-ttu_501_person_40	Hal Moore
-ttu_501_person_41	Hal Moore
-ttu_501_person_42	Hal Moore
-ttu_501_person_43	Gene Autry
-ttu_501_person_44	Sam Elliott
-ttu_501_person_45	persona
-ttu_501_person_46	Freddie
-ttu_501_person_47	Purp
-ttu_501_person_48	Fred Kluge
-ttu_501_person_49	Al Montgomery
-ttu_501_person_50	Alan Brown
-ttu_501_person_51	Don Adams
-ttu_501_person_52	Don
-ttu_501_person_53	George
+id	persName	QID	ttu_id
+ttu_501_person_0	Richard Verrone	Q111653126	
+ttu_501_person_1	George Forrest	Q111597595	
+ttu_501_person_2	George Forrest	Q111597595	
+ttu_501_person_3	Jack Smith	Q114648021	
+ttu_501_person_4	Hal Moore	Q430209	
+ttu_501_person_5	Robert McDade	Q7347496	
+ttu_501_person_6	Hal Moore	Q430209	
+ttu_501_person_7	Hal Moore	Q430209	
+ttu_501_person_8	Larry Leroy Hess	Q112189030	
+ttu_501_person_9	Terry Martell	Q114648088	
+ttu_501_person_10	Terry Martell	Q114648088	
+ttu_501_person_11	Jim Patzwald		ttu_0198
+ttu_501_person_12	Don Adams	Q114648131	
+ttu_501_person_13	Don Adams	Q114648131	
+ttu_501_person_14	Hurst		ttu_0201
+ttu_501_person_15	Jimmy Smith		ttu_0197
+ttu_501_person_16	Robert McDade	Q7347496	
+ttu_501_person_17	Robert McDade	Q7347496	
+ttu_501_person_18	Robert McDade	Q7347496	
+ttu_501_person_19	Larry Leroy Hess	Q112189030	
+ttu_501_person_20	Robert McDade	Q7347496	
+ttu_501_person_21	Robert McDade	Q7347496	
+ttu_501_person_22	Buse Tully		ttu_0199
+ttu_501_person_23	Charlie		
+ttu_501_person_24	John Generac		ttu_0200
+ttu_501_person_25	Fred Kluge	Q112325964	
+ttu_501_person_26	Fred Kluge	Q112325964	
+ttu_501_person_27	Fred Kluge	Q112325964	
+ttu_501_person_28	Daniel Torres	Q114648277	
+ttu_501_person_29	Fred Kluge	Q112325964	
+ttu_501_person_30	Daniel Torres	Q114648277	
+ttu_501_person_31	Lawrence S. Gwin	Q111686250	
+ttu_501_person_32	Freddie Owens	Q112135207	
+ttu_501_person_33	Freddie Owens	Q112135207	
+ttu_501_person_34	Hal Moore	Q430209	
+ttu_501_person_35	Robert Hurst		ttu_0201
+ttu_501_person_36	Ben Carson	Q816459	
+ttu_501_person_37	Joseph L. Galloway	Q3185182	
+ttu_501_person_38	Joseph L. Galloway	Q3185182	
+ttu_501_person_39	Hal Moore	Q430209	
+ttu_501_person_40	Hal Moore	Q430209	
+ttu_501_person_41	Hal Moore	Q430209	
+ttu_501_person_42	Hal Moore	Q430209	
+ttu_501_person_43	Gene Autry	Q342723	
+ttu_501_person_44	Sam Elliott	Q311314	
+ttu_501_person_45	persona		
+ttu_501_person_46	Freddie Owens	Q112135207	
+ttu_501_person_47	Purp		
+ttu_501_person_48	Fred Kluge	Q112325964	
+ttu_501_person_49	Al Montgomery		ttu_0202
+ttu_501_person_50	Alan Brown		
+ttu_501_person_51	Don Adams	Q114648131	
+ttu_501_person_52	Don Adams	Q114648131	
+ttu_501_person_53	George		
