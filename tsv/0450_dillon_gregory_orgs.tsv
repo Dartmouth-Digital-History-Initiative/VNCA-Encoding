@@ -1,24 +1,24 @@
-id	orgName
-ttu_450_org_0	battalion S3
-ttu_450_org_1	S3
-ttu_450_org_2	second division
-ttu_450_org_3	S3 of the 2nd and 23rd
-ttu_450_org_4	1st and the 7th
-ttu_450_org_5	air assault division
-ttu_450_org_6	2nd division
-ttu_450_org_7	Naval war college
-ttu_450_org_8	second division
-ttu_450_org_9	2nd division
-ttu_450_org_10	11th air assault division
-ttu_450_org_11	2nd division
-ttu_450_org_12	MPs (Military Police)
-ttu_450_org_13	MP (Military Police)
-ttu_450_org_14	North Vietnamese
-ttu_450_org_15	North Vietnamese
-ttu_450_org_16	Air assault company
-ttu_450_org_17	1st
-ttu_450_org_18	2nd of the 7th
-ttu_450_org_19	2nd of the 7th
-ttu_450_org_20	state department
-ttu_450_org_21	North Vietnamese
-ttu_450_org_22	1st and 7th
+id	orgName	Qid	ttu_id
+ttu_450_org_0	battalion S3		
+ttu_450_org_1	S3		
+ttu_450_org_2	2nd Infantry Division	Q210607	
+ttu_450_org_3	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_450_org_4	1st Battalion, 7th Cavalry Regiment	Q110641589	
+ttu_450_org_5	11th Aviation Company	Q110974702	
+ttu_450_org_6	2nd Infantry Division	Q210607	
+ttu_450_org_7	Naval War College	Q575662	
+ttu_450_org_8	2nd Infantry Division	Q210607	
+ttu_450_org_9	2nd Infantry Division	Q210607	
+ttu_450_org_10	11th air assault division		
+ttu_450_org_11	2nd Infantry Division	Q210607	
+ttu_450_org_12	MPs (Military Police)		
+ttu_450_org_13	MP (Military Police)		
+ttu_450_org_14	North Vietnamese		
+ttu_450_org_15	North Vietnamese		
+ttu_450_org_16	Air assault company		
+ttu_450_org_17	1st		
+ttu_450_org_18	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_450_org_19	2nd Battalion, 7th Cavalry Regiment	Q110629367	
+ttu_450_org_20	state department		
+ttu_450_org_21	North Vietnamese		
+ttu_450_org_22	1st and 7th		
