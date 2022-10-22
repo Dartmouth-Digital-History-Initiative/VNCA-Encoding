@@ -1,6 +1,6 @@
-id	name
-ttu_450_event_0	Ia Drang
-ttu_450_event_1	Korean War
-ttu_450_event_2	X-Ray
-ttu_450_event_3	World War II
-ttu_450_event_4	Korea
+id	name	QID	ttu_id	start time	end time	point in time
+ttu_450_event_0	Battle of Ia Drang	Q714749		1965-11-14T00:00:00Z	1965-11-18T00:00:00Z	
+ttu_450_event_1	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+ttu_450_event_2	X-Ray					
+ttu_450_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+ttu_450_event_4	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
