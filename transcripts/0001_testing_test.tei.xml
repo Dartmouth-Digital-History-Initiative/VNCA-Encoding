@@ -67,30 +67,30 @@
       <u who="BA">In <date>the middle of June</date>.</u>
       <u who="JM">Of what year?</u>
       <u who="BA"><date>’65</date>.</u>
-      <u who="JM">Of <date>’65</date>. So you get there a <date>month</date> or two before they depart for <placeName>Vietnam</placeName>.</u>
-      <u who="BA">Yeah, now backing up a little further, I was with <orgName>the 2nd Infantry Division</orgName>. That’s who I joined when I went in at Fort Benning.</u>
+      <u who="JM">Of <date>’65</date>. So you get there a <date>month</date> or two before they depart for <placeName ref="#test_0001_place_0">Vietnam</placeName>.</u>
+      <u who="BA">Yeah, now backing up a little further, I was with <orgName ref="#test_0001_org_0">the 2nd Infantry Division</orgName>. That’s who I joined when I went in at Fort Benning.</u>
       <u who="JM">I see.</u>
-      <u who="BA">I’d just gotten back from communication officer school and our brigade got sent to <placeName>Fort Bragg</placeName> to train the <orgName>ROTC</orgName> incoming troops because the 82nd was deployed down to <placeName>the Dominican Republic</placeName>. So I was up there happily training <persName>ROTC</persName> troops when the word came.</u>
-      <u who="JM">So, now you were commissioned 2nd lieutenant <persName>ROTC</persName>?</u>
+      <u who="BA">I’d just gotten back from communication officer school and our brigade got sent to <placeName ref="#test_0001_place_1">Fort Bragg</placeName> to train the <orgName ref="#test_0001_org_1">ROTC</orgName> incoming troops because the 82nd was deployed down to <placeName ref="#test_0001_place_2">the Dominican Republic</placeName>. So I was up there happily training <persName ref="#test_0001_person_0">ROTC</persName> troops when the word came.</u>
+      <u who="JM">So, now you were commissioned 2nd lieutenant <persName ref="#test_0001_person_1">ROTC</persName>?</u>
       <u who="BA">Yes sir, from university. Yes sir.</u>
       <u who="JM">What was your branch communication?</u>
       <u who="BA">I was infantry.</u>
-      <u who="JM">You were infantry. You were<orgName>n’t single corps</orgName>, you were infantry.</u>
+      <u who="JM">You were infantry. You were<orgName ref="#test_0001_org_2">n’t single corps</orgName>, you were infantry.</u>
       <u who="BA">Yes, I was apart another program too, that was kind of unusual, it was the U2 program. Do you know about the U2 program?</u>
       <u who="JM">U2 program. Well, is that the one where you didn’t have to go to OBC (Basic Orientation Course), you could go directly to troop command?</u>
       <u who="BA">Yup.</u>
       <u who="JM">How long was that program in place?</u>
       <u who="BA">I think we were the only ones. (Laughs) </u>
-      <u who="JM">I’ve done a lot of research on schools for officers during <name type="event">the Vietnam war</name> and this is a new one for me. I didn’t know about that program; it must’ve been short lived.</u>
-      <u who="BA">It was. <orgName>Enrique Pujals</orgName>, who was with us in the valley. <persName>Jim Bail</persName>, who is since deceased was one of them. <persName>Paul Bonacourse</persName> was another. <persName>Mike Mantegna</persName> was another. So there was a number of us and those were guys I knew were in that little class with, there was about fourteen or fifteen, and <persName>Joe Marm</persName> was the one of the cadry guys of our little. What they did was they had a little school for <date>about ten days</date> in <date>October</date>, after we’d gone in <date>August</date>, that they put us through.</u>
+      <u who="JM">I’ve done a lot of research on schools for officers during <name type="event" ref="#test_0001_event_0">the Vietnam war</name> and this is a new one for me. I didn’t know about that program; it must’ve been short lived.</u>
+      <u who="BA">It was. <orgName ref="#test_0001_org_3">Enrique Pujals</orgName>, who was with us in the valley. <persName ref="#test_0001_person_2">Jim Bail</persName>, who is since deceased was one of them. <persName ref="#test_0001_person_3">Paul Bonacourse</persName> was another. <persName ref="#test_0001_person_4">Mike Mantegna</persName> was another. So there was a number of us and those were guys I knew were in that little class with, there was about fourteen or fifteen, and <persName ref="#test_0001_person_5">Joe Marm</persName> was the one of the cadry guys of our little. What they did was they had a little school for <date>about ten days</date> in <date>October</date>, after we’d gone in <date>August</date>, that they put us through.</u>
       <u who="JM">During that same time there was a big controversy as to whether or not academy graduates had to go to OBC, because the feeling was that they had already gone through <date>the four years</date> of hell, why go to OBC? So for a time, they didn’t have to go to OBC but it changes then again and they required it again, it’s back and forth. But I was not aware of this U2 program, so I appreciate you making me aware of it, it adds to my body of knowledge.</u>
-      <u who="BA">Yeah, that was for untrained 2nd lieutenants, as far as I can tell. (<persName>Laughs)JM</persName>: Yes. So you are with the second infantry division at Benning or at Bragg?BA: Well, we were at stationed at Benning at PCS (Permanent Change of Station). Then we were detailed up to <placeName>Fort Bragg</placeName>.</u>
+      <u who="BA">Yeah, that was for untrained 2nd lieutenants, as far as I can tell. (<persName ref="#test_0001_person_6">Laughs)JM</persName>: Yes. So you are with the second infantry division at Benning or at Bragg?BA: Well, we were at stationed at Benning at PCS (Permanent Change of Station). Then we were detailed up to <placeName ref="#test_0001_place_3">Fort Bragg</placeName>.</u>
       <u who="JM">Up to Brag, while they took the place of the 82nd, which has gone down to the Dominican.</u>
       <u who="BA">Right.</u>
       <u who="JM">So you are part of that, then in <date>June</date> you get orders for the 1st Air Cav?</u>
-      <u who="BA">Yeah, it’s verbal orders commanding general, first available transportation, getting my butt from <placeName>Bragg</placeName> back to Benning.</u>
+      <u who="BA">Yeah, it’s verbal orders commanding general, first available transportation, getting my butt from <placeName ref="#test_0001_place_4">Bragg</placeName> back to Benning.</u>
       <u who="JM">Bragg to Benning. Was your specific job “identify”?</u>
-      <u who="BA">Yeah, I was supposed to be a communications officer for, at the time it was the 2nd <name type="event">Battalion of the 9th Infantry</name>, which was still part of <orgName>2nd Infantry Division</orgName>.</u>
+      <u who="BA">Yeah, I was supposed to be a communications officer for, at the time it was the 2nd <name type="event" ref="#test_0001_event_1">Battalion of the 9th Infantry</name>, which was still part of <orgName ref="#test_0001_org_4">2nd Infantry Division</orgName>.</u>
       <u who="JM">Mhmm. That’s why.</u>
       <u who="BA">At building number, so and tell.</u>
       <u who="JM">Then they changed colors and become <date>the 2nd of the 7th</date>, as part of the first air. </u>
@@ -100,30 +100,32 @@
       <u who="JM">Who was your next in command? Who was your chain of command up?</u>
       <u who="BA">Initially, I reported to, on the staff end, to the S-3 operations officer.	</u>
       <u who="JM">To the S-3?</u>
-      <u who="BA">Who was <persName>Barney Gill</persName>. <persName>Barney</persName> had been an All-American football player at <orgName>University of Virginia</orgName>. That was before they had the five- or <date>six-year</date> programs to graduate. <persName>Barney</persName> got out and joined the army, and he was an assistant football coach at army. It had been <persName>Barney</persName>’s career was football coach at army.</u>
+      <u who="BA">Who was <persName ref="#test_0001_person_7">Barney Gill</persName>. <persName ref="#test_0001_person_8">Barney</persName> had been an All-American football player at <orgName ref="#test_0001_org_5">University of Virginia</orgName>. That was before they had the five- or <date>six-year</date> programs to graduate. <persName ref="#test_0001_person_9">Barney</persName> got out and joined the army, and he was an assistant football coach at army. It had been <persName ref="#test_0001_person_10">Barney</persName>’s career was football coach at army.</u>
       <u who="JM">He was a major? </u>
       <u who="BA">Yeah, he was a major.</u>
-      <u who="JM">You’re the young <date>2nd</date> lieutenant filling the captain slot as the comm officer, non-combatant, with <date>the 2nd of the 7th</date>. You get orders then in <date>July</date>, President <persName>Johnson</persName> makes the big announcement, <orgName>1st Air Cav</orgName> is moving to <placeName>Vietnam</placeName>.</u>
+      <u who="JM">You’re the young <date>2nd</date> lieutenant filling the captain slot as the comm officer, non-combatant, with <date>the 2nd of the 7th</date>. You get orders then in <date>July</date>, President <persName ref="#test_0001_person_11">Johnson</persName> makes the big announcement, <orgName ref="#test_0001_org_6">1st Air Cav</orgName> is moving to <placeName ref="#test_0001_place_5">Vietnam</placeName>.</u>
       <u who="BA">Yep.</u>
-      <u who="JM">When you signed up as the commo officer, did you have a hint? Did you get an idea before <persName>Johnson</persName>’s speech, that the 1st <orgName>Air Cav</orgName> was going to be Nam very soon?</u>
-      <u who="BA">We did, we did. As officers what they did was they took those of us on the staff over to a building and we signed in and saw some classified footage that was shot by the air force of Highway 19. We were told then, at this briefing, that this is a high likelihood that this an area in the highway that we will be traveling. I happened to go to college with <orgName>Bernard Fall’s</orgName> daughter. So I was a little bit familiar with him and being curious, I went and checked the book out of the library and—</u>
-      <u who="JM">Streets without <persName>Joy</persName>?</u>
-      <u who="BA">Yes! I'm reading about Highway 19 with no—you know we were group full. Where <persName>Groupement Mobile</persName> 1000 got annihilated, eight thousand men in the Mang Yang Pass. I’m reading this as were going to this briefing. (Laughs) Don’t think we want to go there!</u>
-      <u who="JM">He was tragically killed in <placeName>Vietnam</placeName>, I believe in ’67.  <date>A few years</date>, so he was still alive when you were, still there probably. So you get on the—you get orders. What kind of training in Benning did you have before going to <placeName>Vietnam</placeName> for the job you were in? Or going to be in?</u>
+      <u who="JM">When you signed up as the commo officer, did you have a hint? Did you get an idea before <persName ref="#test_0001_person_12">Johnson</persName>’s speech, that the 1st <orgName ref="#test_0001_org_7">Air Cav</orgName> was going to be Nam very soon?</u>
+      <u who="BA">We did, we did. As officers what they did was they took those of us on the staff over to a building and we signed in and saw some classified footage that was shot by the air force of Highway 19. We were told then, at this briefing, that this is a high likelihood that this an area in the highway that we will be traveling. I happened to go to college with <orgName ref="#test_0001_org_8">Bernard Fall’s</orgName> daughter. So I was a little bit familiar with him and being curious, I went and checked the book out of the library and—</u>
+      <u who="JM">Streets without <persName ref="#test_0001_person_13">Joy</persName>?</u>
+      <u who="BA">Yes! I'm reading about Highway 19 with no—you know we were group full. Where <persName ref="#test_0001_person_14">Groupement Mobile</persName> 1000 got annihilated, eight thousand men in the Mang Yang Pass. I’m reading this as were going to this briefing. (Laughs) Don’t think we want to go there!</u>
+      <u who="JM">He was tragically killed in <placeName ref="#test_0001_place_6">Vietnam</placeName>, I believe in ’67.  <date>A few years</date>, so he was still alive when you were, still there probably. So you get on the—you get orders. What kind of training in Benning did you have before going to <placeName ref="#test_0001_place_7">Vietnam</placeName> for the job you were in? Or going to be in?</u>
       <u who="BA">(Chuckles) Next to none!</u>
       <u who="JM">Tell us a little bit of what your job was supposed to be? I think that maybe would help.</u>
-      <u who="BA">Okay, backing up, at the time we had the old radio series, which was <name type="event">the Korean War</name> radios, which were vacuum tubes. So basically, I wasn’t responsible for setting up the net for the battalion, maintaining it and pretty much keeping the old man in communication with up and down the line. It was primarily used in the old radio systems until we got the orders and then we get the new radios.</u>
-      <u who="JM"><orgName>Prick 25?</orgName></u>
+      <u who="BA">Okay, backing up, at the time we had the old radio series, which was <name type="event" ref="#test_0001_event_2">the Korean War</name> radios, which were vacuum tubes. So basically, I wasn’t responsible for setting up the net for the battalion, maintaining it and pretty much keeping the old man in communication with up and down the line. It was primarily used in the old radio systems until we got the orders and then we get the new radios.</u>
+      <u who="JM">
+        <orgName ref="#test_0001_org_9">Prick 25?</orgName>
+      </u>
       <u who="BA">Yes, PRC-25.</u>
       <u who="JM">So those were—now those were basically new to the army in <date>’65</date>?</u>
-      <u who="BA">Except for <date>the 1st</date> and the 7th. Who had been a part of the 11th <orgName>Air Assault</orgName>.</u>
+      <u who="BA">Except for <date>the 1st</date> and the 7th. Who had been a part of the 11th <orgName ref="#test_0001_org_10">Air Assault</orgName>.</u>
       <u who="JM">Right, they had been training with them at Benning, but <date>the 2nd of the 7th</date> you didn’t have them yet.</u>
       <u who="BA">I was—I and one of my commo repairmen, two of us had seen the things. He had seen it at training, and I’d seen it at commo officer’s school.</u>
       <u who="JM">So you were excited about getting that, it was an improvement from the old Korean stuff?</u>
-      <u who="BA">Yeah. You got it and it was straight into the box. This box over to the <orgName>CONEX</orgName> box. All the equipment personnel we were getting from all over the place. Some as far away as <placeName>Fort Louis</placeName>, <placeName>Washington</placeName>.</u>
+      <u who="BA">Yeah. You got it and it was straight into the box. This box over to the <orgName ref="#test_0001_org_11">CONEX</orgName> box. All the equipment personnel we were getting from all over the place. Some as far away as <placeName ref="#test_0001_place_8">Fort Louis</placeName>, <placeName ref="#test_0001_place_9">Washington</placeName>.</u>
       <u who="JM">What about your staff? What was staff—</u>
-      <u who="BA">Staff. (Chuckles) I had a platoon sergeant who had been there, who had been in place. What happened, the 2nd <name type="event">Battalion of the 9th Infantry</name> at the time was an existing unit. It had about—it was staffed maybe about forty percent of personnel that worked together and then the rest of us were all new. My platoon sergeant had been in that unit for some time and two or three of my radiomen and wiremen were. </u>
-      <u who="JM">But, just so I understand the way the chain works, the RTOs (<orgName>Radio Telephone Operator</orgName>) that are responsible within their own units report to their part of the line units and they report to the—whoever it is.</u>
+      <u who="BA">Staff. (Chuckles) I had a platoon sergeant who had been there, who had been in place. What happened, the 2nd <name type="event" ref="#test_0001_event_3">Battalion of the 9th Infantry</name> at the time was an existing unit. It had about—it was staffed maybe about forty percent of personnel that worked together and then the rest of us were all new. My platoon sergeant had been in that unit for some time and two or three of my radiomen and wiremen were. </u>
+      <u who="JM">But, just so I understand the way the chain works, the RTOs (<orgName ref="#test_0001_org_12">Radio Telephone Operator</orgName>) that are responsible within their own units report to their part of the line units and they report to the—whoever it is.</u>
       <u who="BA">Yes.</u>
       <u who="JM">You don’t have any chain responsibility over them?</u>
       <u who="BA">No.</u>
@@ -132,28 +134,28 @@
       <u who="JM">Oh, okay. It’s a part of S3, at the battalion level.</u>
       <u who="BA">Yes, the message center belonged to me. The telephones belonged to me. Power generators for electricity belonged to me, and the radios belonged to me.</u>
       <u who="JM">But in all ways that we would look at this, this was a staff function at the battalion level being fulfilled by a second lieutenant in a captain slot. Is that the picture as we leave the country?</u>
-      <u who="BA">Yeah. U2 second lieutenant (<persName>Laughs</persName>).</u>
+      <u who="BA">Yeah. U2 second lieutenant (<persName ref="#test_0001_person_15">Laughs</persName>).</u>
       <u who="JM">Okay, so which boat did you go over on?</u>
-      <u who="BA">The <persName>Maurice Rose</persName>.</u>
-      <u who="JM">You were on the <persName>Rose</persName>, okay. On the trip over, <date>thirty days</date> or so, what did you do?</u>
-      <u who="BA">Played poker, tried to stay out of the way of Colonel <persName>John D. White</persName>, who was our battalion commander at the time. Did virtually nothing. As far as working professionally, working we took some language classes.</u>
+      <u who="BA">The <persName ref="#test_0001_person_16">Maurice Rose</persName>.</u>
+      <u who="JM">You were on the <persName ref="#test_0001_person_17">Rose</persName>, okay. On the trip over, <date>thirty days</date> or so, what did you do?</u>
+      <u who="BA">Played poker, tried to stay out of the way of Colonel <persName ref="#test_0001_person_18">John D. White</persName>, who was our battalion commander at the time. Did virtually nothing. As far as working professionally, working we took some language classes.</u>
       <u who="JM">Vietnamese language?</u>
       <u who="BA">Yeah, we had one of those brigade officers was teaching us a little language class.</u>
-      <u who="JM">I see. Did you have time to read up on <placeName>Vietnam</placeName>? You said you’d already read some <persName>Bernard Fall’s</persName> stuff.</u>
+      <u who="JM">I see. Did you have time to read up on <placeName ref="#test_0001_place_10">Vietnam</placeName>? You said you’d already read some <persName ref="#test_0001_person_19">Bernard Fall’s</persName> stuff.</u>
       <u who="BA">I bought his book and took it with me.</u>
       <u who="JM">Okay.</u>
-      <u who="BA"><orgName>The Streets Without the</orgName> <persName>Joy</persName>, so I had it on the boat with me. We played a little poker, and it was—</u>
+      <u who="BA"><orgName ref="#test_0001_org_13">The Streets Without the</orgName><persName ref="#test_0001_person_20">Joy</persName>, so I had it on the boat with me. We played a little poker, and it was—</u>
       <u who="JM">Were you excited about going? Were you depressed about it? What was your general state of mind?</u>
       <u who="BA">Both. I was engaged. We had planned to get married that following <date>December</date> and we had gone through a pretty tormented time of, “Do we get married, or not get married?” She hasn’t graduated yet; she was going to graduate in <date>December</date>. So that had been kind of torturous and it was tough leaving her. </u>
       <u who="JM">Sure.</u>
       <u who="BA">The year prior to that I’d lost my mother to cancer. Right after I went on active duty, so to kind of be jerked around, okay you’re going. Then you are with the guys and your onboard the ship and it’s that, “What are we getting into?” kind of mystery. Of course, everybody got that mystique, or you wonder how you’re going to stand up in combat, or what happens is somebody actually shoots at me.</u>
-      <u who="JM">But did you sort of think that, since I’m a staff officer at the battalion level that my chances of being in actual combat are probably small, compared to all these other guys I’m looking at? I mean, that would’ve been a reasonable thing to believe, I think. So you come into <persName>Qui Nhon</persName> after <date>30 days</date> on sea, are you chopper or truck over to An Khe?</u>
+      <u who="JM">But did you sort of think that, since I’m a staff officer at the battalion level that my chances of being in actual combat are probably small, compared to all these other guys I’m looking at? I mean, that would’ve been a reasonable thing to believe, I think. So you come into <persName ref="#test_0001_person_21">Qui Nhon</persName> after <date>30 days</date> on sea, are you chopper or truck over to An Khe?</u>
       <u who="BA">I got my first helicopter ride.</u>
       <u who="JM">You got your first helicopter ride? (Chuckles)</u>
       <u who="BA">Yeah, the air mobile! We had one minor—</u>
       <u who="JM">Chinook?</u>
       <u who="BA">Yeah, it was a Chinook.</u>
-      <u who="JM">CH-47, okay. So you flew over to <persName>An Khe</persName> to a place, there’s nothing there. You’re going to build a base camp for a division?</u>
+      <u who="JM">CH-47, okay. So you flew over to <persName ref="#test_0001_person_22">An Khe</persName> to a place, there’s nothing there. You’re going to build a base camp for a division?</u>
       <u who="BA">Yeah, yeah. Our advance party was there. They had sent a hundred people over as an advance party to kind of try to do some prep for the ground.</u>
       <u who="JM">On the boat going over, was there anticipation that you would have to do an invasion of the coast, like a D-Day kind of thing? Is that what y’all talked about?</u>
       <u who="BA">Yeah, yeah. That’s what we had in our mind. </u>
@@ -161,34 +163,34 @@
       <u who="BA">Instead it was—well, it passed out, several things happened that night. We were up onboard, watching the rockets and the flairs go off, and at the meeting they passed out the ammo and then they come in, call us in and take all our money away and give us script. Then they made the announcement, “We’re going in administratively. No weapons are to be loaded! At all!” This is still the middle of the night; you go back outside, and you were seeing—</u>
       <u who="JM">You’re there where you can see armaments being fired at night?</u>
       <u who="BA">Yeah.</u>
-      <u who="JM">And contacts <orgName>173rd</orgName> into far away, I suppose marines and everything else. You’re being told to not lock and load, that there’s going to be—now I don’t remember the exact incidents, but I’ve read where even in some cases, women in Áo dài and native dress were there to greet troops. That <orgName>the General Westmoreland</orgName> was at one of them and—</u>
+      <u who="JM">And contacts <orgName ref="#test_0001_org_14">173rd</orgName> into far away, I suppose marines and everything else. You’re being told to not lock and load, that there’s going to be—now I don’t remember the exact incidents, but I’ve read where even in some cases, women in Áo dài and native dress were there to greet troops. That <orgName ref="#test_0001_org_15">the General Westmoreland</orgName> was at one of them and—</u>
       <u who="BA">Yeah, he wasn’t near when I was—</u>
       <u who="JM">Yes, but it was an administratively—that’s what they called it, you would be coming on shore administratively, how interesting. Did it make you feel a little better at that moment?</u>
-      <u who="BA">I didn’t quite know what to think at that a point. (Chuckles) Anyway, we go down the rope ladders into these LSDs (Dock Landing Ship) and off to the shore and get out in the sand, and somebody is saying, “Get on deuce and a half,” so we load up on deuce and a half and we go over to an airfield, get on a <persName>Chinooks</persName> and off we go!</u>
-      <u who="JM">As soon as you get to <persName>An Khe</persName>, your job is to set up the communications for the battalion.</u>
+      <u who="BA">I didn’t quite know what to think at that a point. (Chuckles) Anyway, we go down the rope ladders into these LSDs (Dock Landing Ship) and off to the shore and get out in the sand, and somebody is saying, “Get on deuce and a half,” so we load up on deuce and a half and we go over to an airfield, get on a <persName ref="#test_0001_person_23">Chinooks</persName> and off we go!</u>
+      <u who="JM">As soon as you get to <persName ref="#test_0001_person_24">An Khe</persName>, your job is to set up the communications for the battalion.</u>
       <u who="BA">Yes.</u>
       <u who="JM">Now, there would be, I assume there would’ve been a—this is a brigade level that is going over, so was there a brigade commo officer?</u>
       <u who="BA">Yes, there was.</u>
       <u who="JM">That would be in charge of getting—</u>
       <u who="BA">He was a captain.</u>
       <u who="JM">Now, did you report to him? You reported to the S3?</u>
-      <u who="BA">I reported to the S3 and <persName>Dan Boone</persName> was Captain of the headquarters company and he was my CO (Commanding Officer) for administrative purposes.</u>
+      <u who="BA">I reported to the S3 and <persName ref="#test_0001_person_25">Dan Boone</persName> was Captain of the headquarters company and he was my CO (Commanding Officer) for administrative purposes.</u>
       <u who="JM">So between sometime in <date>August</date> when you get there and <date>November 14th</date>, what all did you do? What was your job?</u>
-      <u who="BA">We got our equipment in, we were getting it out, we got it tested out. We went out to the An Khe Pass. An <persName>Khe</persName> is on a plateau. We went out there on operation as plateau security or guardians, there was kind of a shake out. From there, we went onto some other—we jumped off onto a couple other shake out missions down in the <placeName>Valley</placeName>, towards the coast.</u>
+      <u who="BA">We got our equipment in, we were getting it out, we got it tested out. We went out to the An Khe Pass. An <persName ref="#test_0001_person_26">Khe</persName> is on a plateau. We went out there on operation as plateau security or guardians, there was kind of a shake out. From there, we went onto some other—we jumped off onto a couple other shake out missions down in the <placeName ref="#test_0001_place_11">Valley</placeName>, towards the coast.</u>
       <u who="JM">That was “Operation Silver Bayonet”, did you participate in that? </u>
-      <u who="BA">Yeah. Then we—during that operation while we were at the pass, I was responsible for maintaining. They were trying out new techniques and they divided the battalion in half and put part of it under the command of the executive officer and they called it Task Force Mallet. Major <persName>Mallet</persName> had it, he was down in the valley and they had a separate operation center, and so my job was to maintain the communication between, we were still using the old written orders, message center runs down, we were still learning how to operate the radios and stuff. So there was some breakdowns, so occasionally I had to ride down to the bottom and deliver the message, and ride back up. I did that because I didn’t want my men to risk it and get shot down. Fortunately, we didn’t, we never did have any contact at night, but I wouldn’t go take any chances.</u>
-      <u who="JM">When were you issued your <persName>M16</persName>?</u>
-      <u who="BA">I think we got them in <placeName>Benning</placeName>, honestly, I can’t—</u>
+      <u who="BA">Yeah. Then we—during that operation while we were at the pass, I was responsible for maintaining. They were trying out new techniques and they divided the battalion in half and put part of it under the command of the executive officer and they called it Task Force Mallet. Major <persName ref="#test_0001_person_27">Mallet</persName> had it, he was down in the valley and they had a separate operation center, and so my job was to maintain the communication between, we were still using the old written orders, message center runs down, we were still learning how to operate the radios and stuff. So there was some breakdowns, so occasionally I had to ride down to the bottom and deliver the message, and ride back up. I did that because I didn’t want my men to risk it and get shot down. Fortunately, we didn’t, we never did have any contact at night, but I wouldn’t go take any chances.</u>
+      <u who="JM">When were you issued your <persName ref="#test_0001_person_28">M16</persName>?</u>
+      <u who="BA">I think we got them in <placeName ref="#test_0001_place_12">Benning</placeName>, honestly, I can’t—</u>
       <u who="JM">You mean before? Then you carried them on ship. When did you first fire it?</u>
-      <u who="BA">After I was in <placeName>Vietnam</placeName>.</u>
-      <u who="JM">After you were in <placeName>Vietnam</placeName>? You’d never even—have you ever fired any <persName>M16</persName> before? </u>
+      <u who="BA">After I was in <placeName ref="#test_0001_place_13">Vietnam</placeName>.</u>
+      <u who="JM">After you were in <placeName ref="#test_0001_place_14">Vietnam</placeName>? You’d never even—have you ever fired any <persName ref="#test_0001_person_29">M16</persName> before? </u>
       <u who="BA">No, not at all. </u>
-      <u who="JM">You fired <orgName>M14</orgName> in training, that was your training weapon, but you didn’t go to OBC, so you fired it probably in <persName>ROTC</persName>. <persName>Summer</persName> camp?</u>
-      <u who="BA">I never fired the <orgName>M14</orgName>, I fired the M1.</u>
+      <u who="JM">You fired <orgName ref="#test_0001_org_16">M14</orgName> in training, that was your training weapon, but you didn’t go to OBC, so you fired it probably in <persName ref="#test_0001_person_30">ROTC</persName>. <persName ref="#test_0001_person_31">Summer</persName> camp?</u>
+      <u who="BA">I never fired the <orgName ref="#test_0001_org_17">M14</orgName>, I fired the M1.</u>
       <u who="JM">M1!</u>
       <u who="BA">In <date>summer</date> camp.</u>
       <u who="JM">At <date>summer</date> camp? For goodness sake!</u>
-      <u who="BA">And it was a timing issue. When I went in <date>August</date> of ’64, went straight to unit and we went straight out into the field, we were out in the field for <date>three months</date>. During that <date>three-month</date> time, we were aggressors toward the 11th <orgName>Air Assault</orgName>. We were mechanized infantry, and we played the role of tanks. So they were testing these various concepts of air mobility against tanks, among other things. During that time, we were out, I came back in, we were there for <date>about a month</date>. You got <date>Thanksgiving</date> and <date>Christmas</date> kind of piled in. Then in <date>January</date> I get sent out to Fort Sill for commo school. So I’m in commo officer school for <date>almost four months</date>, come back and I’m there for <date>two nights</date>, and go to <placeName>Bragg</placeName>. I missed all those times of qualifying for <orgName>M14</orgName>.</u>
+      <u who="BA">And it was a timing issue. When I went in <date>August</date> of ’64, went straight to unit and we went straight out into the field, we were out in the field for <date>three months</date>. During that <date>three-month</date> time, we were aggressors toward the 11th <orgName ref="#test_0001_org_18">Air Assault</orgName>. We were mechanized infantry, and we played the role of tanks. So they were testing these various concepts of air mobility against tanks, among other things. During that time, we were out, I came back in, we were there for <date>about a month</date>. You got <date>Thanksgiving</date> and <date>Christmas</date> kind of piled in. Then in <date>January</date> I get sent out to Fort Sill for commo school. So I’m in commo officer school for <date>almost four months</date>, come back and I’m there for <date>two nights</date>, and go to <placeName ref="#test_0001_place_15">Bragg</placeName>. I missed all those times of qualifying for <orgName ref="#test_0001_org_19">M14</orgName>.</u>
       <u who="JM">So, you’re not a weapons man, you’re not a gun man in this job that you’re in. Did you ever have any background with guns before you got in the army?</u>
       <u who="BA">Um-hm.</u>
       <u who="JM">Okay, let’s fast forward to <date>November 14th</date>. Tell me what happened that morning when—what was the first time you knew there was going to be an operation?</u>
@@ -196,25 +198,25 @@
       <u who="JM"><date>November 14th</date>. That’s <date>the day</date> of X-Ray. The first insertion into X-Ray.</u>
       <u who="BA">I was—our battalion was sent to LZ (Landing Zone) Golf.</u>
       <u who="JM">Golf? Okay.</u>
-      <u who="BA">We were traveling, we had a brand-new battalion commander, brand new executive officer, brand new operations officer, we had two brand new company commanders, five of our second lieutenants were out of country with illnesses. We’d already began sending people home from the rotational standpoint. I took a convoy, Lieutenant <persName>John Howard</persName> and I, our job from headquarters company, they flew the line companies in—</u>
+      <u who="BA">We were traveling, we had a brand-new battalion commander, brand new executive officer, brand new operations officer, we had two brand new company commanders, five of our second lieutenants were out of country with illnesses. We’d already began sending people home from the rotational standpoint. I took a convoy, Lieutenant <persName ref="#test_0001_person_32">John Howard</persName> and I, our job from headquarters company, they flew the line companies in—</u>
       <u who="JM">To X-Ray?</u>
       <u who="BA">No.</u>
       <u who="JM">No, I'm sorry, to Golf.</u>
-      <u who="BA">No, they didn’t fly them to Golf. They flew them to <orgName>Catecka</orgName> tea plantation with the <orgName>C-130s</orgName> and Caribous.</u>
+      <u who="BA">No, they didn’t fly them to Golf. They flew them to <orgName ref="#test_0001_org_20">Catecka</orgName> tea plantation with the <orgName ref="#test_0001_org_21">C-130s</orgName> and Caribous.</u>
       <u who="JM">I see.</u>
-      <u who="BA">I flew—we had two deuce and a half’s. We needed to take Jeeps and I had three Jeeps, they were communications Jeeps. I took the Jeeps and the two. <persName>John</persName> was in the rear and I was at the front and we convoyed up through <persName>Mang Yang Pass</persName>. With all the stoves and cooking utensils, generators and everything. About eight of us, either eight or ten, and <persName>John</persName> and <orgName>I.</orgName></u>
+      <u who="BA">I flew—we had two deuce and a half’s. We needed to take Jeeps and I had three Jeeps, they were communications Jeeps. I took the Jeeps and the two. <persName ref="#test_0001_person_33">John</persName> was in the rear and I was at the front and we convoyed up through <persName ref="#test_0001_person_34">Mang Yang Pass</persName>. With all the stoves and cooking utensils, generators and everything. About eight of us, either eight or ten, and <persName ref="#test_0001_person_35">John</persName> and <orgName ref="#test_0001_org_22">I.</orgName></u>
       <u who="JM">This is like the 14th or in that area?</u>
-      <u who="BA">Yeah, and off we go! We drive up that morning up through <persName>Mang Yang Pass</persName>.</u>
+      <u who="BA">Yeah, and off we go! We drive up that morning up through <persName ref="#test_0001_person_36">Mang Yang Pass</persName>.</u>
       <u who="JM">Okay, what happened? Continue the story.</u>
-      <u who="BA">We get there, we figure out where we are supposed to go out in the tea plantation, we get out there. This is not a convoy; this is not a high traffic highway. (Chuckles) We get out to the tea planation and find out where we’re supposed to go, report to Captain <persName>Dan</persName>, so we go into LZ Golf. Then equipment is coming in. At the time, we were operating—</u>
-      <u who="JM">You flew into <persName>Golf</persName> then? From the tea plantation? </u>
+      <u who="BA">We get there, we figure out where we are supposed to go out in the tea plantation, we get out there. This is not a convoy; this is not a high traffic highway. (Chuckles) We get out to the tea planation and find out where we’re supposed to go, report to Captain <persName ref="#test_0001_person_37">Dan</persName>, so we go into LZ Golf. Then equipment is coming in. At the time, we were operating—</u>
+      <u who="JM">You flew into <persName ref="#test_0001_person_38">Golf</persName> then? From the tea plantation? </u>
       <u who="BA">Flew into Golf with the helicopters—yeah, on helicopters.</u>
       <u who="JM">To do what now? I want to understand your mission.</u>
       <u who="BA">We were air assault; I was going inside the headquarters—</u>
       <u who="JM">To set up the battalion headquarters?</u>
       <u who="BA">Battalion headquarters at LZ Golf.</u>
-      <u who="JM">Okay, which is going to consist of a small CP (Command Post) with some <orgName>Prick 25s</orgName>?</u>
-      <u who="BA">At that time, no. At that time, on that operation, our battalion went with a complete compliment of headquarters elements. Headquarters company consisted of support platoon, communication platoon, and medical platoon. We took everything we had out there with us. We took tents, CP tents, big tents. We took generators. We took my single-sideband radios. The big <persName>Collins</persName> single side 106s. My 25s and my <orgName>Jeep</orgName>. </u>
+      <u who="JM">Okay, which is going to consist of a small CP (Command Post) with some <orgName ref="#test_0001_org_23">Prick 25s</orgName>?</u>
+      <u who="BA">At that time, no. At that time, on that operation, our battalion went with a complete compliment of headquarters elements. Headquarters company consisted of support platoon, communication platoon, and medical platoon. We took everything we had out there with us. We took tents, CP tents, big tents. We took generators. We took my single-sideband radios. The big <persName ref="#test_0001_person_39">Collins</persName> single side 106s. My 25s and my <orgName ref="#test_0001_org_24">Jeep</orgName>. </u>
       <u who="JM">I see. So you had everything?</u>
       <u who="BA">We were out there like a mac—we had everything but the air conditioning and ice cream out there, in the middle of the freaking jungle.</u>
       <u who="JM">So you were out there setting up headquarters.</u>
@@ -222,32 +224,32 @@
       <u who="JM">So, you even had personnel? Administration, everything?</u>
       <u who="BA">Yeah, we got the chaplain assistant out there.</u>
       <u who="JM">I see. Okay. Now, tell me what happens next. Take me through <date>these next few days</date> if you will.</u>
-      <u who="BA">Well, obviously <date>the 1st</date> and the 7th hits the fan at X-Ray. Our <orgName>Bravo Company</orgName> had been—was a brigade reserve and it got attached over real quick. They went in and fought there at X-Ray. Then the morning of, it just kept getting worse. I was on the radio, and I was helping of doing some relaying from the <name type="event">Lognet</name>, because we were having a few difficulties so I could get X-Ray on my radios, so I can monitor what was going on there and could relay back to <persName>Pleiku</persName> for supplies and stuff that they needed as they were calling it in. So I did that, and my men did that—</u>
-      <u who="JM">Was that your job? Or was that just— that would’ve been normally what would’ve happened, no matter where you were. If you were back in <persName>Pleiku</persName> instead of LZ Golf you would’ve done that.</u>
-      <u who="BA">Yeah. Somebody had—we could pick up the ball. So we were doing that. The morning—that went on through the morning and after about—late in the afternoon, one o’clock maybe, time is not my strong suit here. Major <persName>Henry</persName> came up, he was our executive officer, and he said—in order, they were trying to get us to get reinforce Colonel <persName>Moore</persName>. So they took—Major <persName>Henry</persName> took himself, <persName>John Howard</persName> and I as lieutenants, <persName>John</persName>’s medics, he took about five or six of his medics. I took about five of my commo guys because they needed radios, they lost radios and they didn’t have anybody to operate them. We went with <orgName>Alpha Company</orgName>, <persName>Joel Sugdinis</persName>’ company to try to get into X-Ray. We were not able to get in that afternoon.</u>
+      <u who="BA">Well, obviously <date>the 1st</date> and the 7th hits the fan at X-Ray. Our <orgName ref="#test_0001_org_25">Bravo Company</orgName> had been—was a brigade reserve and it got attached over real quick. They went in and fought there at X-Ray. Then the morning of, it just kept getting worse. I was on the radio, and I was helping of doing some relaying from the <name type="event" ref="#test_0001_event_4">Lognet</name>, because we were having a few difficulties so I could get X-Ray on my radios, so I can monitor what was going on there and could relay back to <persName ref="#test_0001_person_40">Pleiku</persName> for supplies and stuff that they needed as they were calling it in. So I did that, and my men did that—</u>
+      <u who="JM">Was that your job? Or was that just— that would’ve been normally what would’ve happened, no matter where you were. If you were back in <persName ref="#test_0001_person_41">Pleiku</persName> instead of LZ Golf you would’ve done that.</u>
+      <u who="BA">Yeah. Somebody had—we could pick up the ball. So we were doing that. The morning—that went on through the morning and after about—late in the afternoon, one o’clock maybe, time is not my strong suit here. Major <persName ref="#test_0001_person_42">Henry</persName> came up, he was our executive officer, and he said—in order, they were trying to get us to get reinforce Colonel <persName ref="#test_0001_person_43">Moore</persName>. So they took—Major <persName ref="#test_0001_person_44">Henry</persName> took himself, <persName ref="#test_0001_person_45">John Howard</persName> and I as lieutenants, <persName ref="#test_0001_person_46">John</persName>’s medics, he took about five or six of his medics. I took about five of my commo guys because they needed radios, they lost radios and they didn’t have anybody to operate them. We went with <orgName ref="#test_0001_org_26">Alpha Company</orgName>, <persName ref="#test_0001_person_47">Joel Sugdinis</persName>’ company to try to get into X-Ray. We were not able to get in that afternoon.</u>
       <u who="JM">I see.</u>
-      <u who="BA">We went back to- I believe LZ <placeName>Columbus</placeName> it was either—</u>
+      <u who="BA">We went back to- I believe LZ <placeName ref="#test_0001_place_16">Columbus</placeName> it was either—</u>
       <u who="JM">That was because LZ X-Ray had been closed by the colonel.</u>
       <u who="BA">We were trying to walk in.</u>
       <u who="JM">Oh, you were going to walk in?</u>
-      <u who="BA">Yeah, we were trying to get in overland, but yeah, we couldn’t get in. Didn’t hit anything, we had some natural obstacles, we had some water problems. So long story short, we overnighted at either LZ <orgName>Falcon</orgName> or LZ <placeName>Columbus</placeName>. Then we got up about four o’clock the next morning, made a diversionary move about a thousand meters north and came back, and get into LZ X-Ray that morning. As we were going in, the <orgName>ARA</orgName> (Aerial <persName>Rocket Artillery</persName>) spotted movement simultaneously on the mountain side, we were coming in opposite from the mountain side, we were coming in from the east. On the mountain side on the west, the wave attacks were going on. We’re coming in this way and the <orgName>ARA</orgName> right at dawn spots movement and they open up on us, and we get four guys killed, friendly fire as we were trying to go in before we get that resolved. We ended up—</u>
+      <u who="BA">Yeah, we were trying to get in overland, but yeah, we couldn’t get in. Didn’t hit anything, we had some natural obstacles, we had some water problems. So long story short, we overnighted at either LZ <orgName ref="#test_0001_org_27">Falcon</orgName> or LZ <placeName ref="#test_0001_place_17">Columbus</placeName>. Then we got up about four o’clock the next morning, made a diversionary move about a thousand meters north and came back, and get into LZ X-Ray that morning. As we were going in, the <orgName ref="#test_0001_org_28">ARA</orgName> (Aerial <persName ref="#test_0001_person_48">Rocket Artillery</persName>) spotted movement simultaneously on the mountain side, we were coming in opposite from the mountain side, we were coming in from the east. On the mountain side on the west, the wave attacks were going on. We’re coming in this way and the <orgName ref="#test_0001_org_29">ARA</orgName> right at dawn spots movement and they open up on us, and we get four guys killed, friendly fire as we were trying to go in before we get that resolved. We ended up—</u>
       <u who="JM">You say you got four guys killed, what was the situation? You say it was friendly fire, what did you do at that moment?</u>
-      <u who="BA">I was far enough back in the column, there wasn’t anything for me to do other than the column stop and everybody hits the ground. Then word came back, and we stayed there for a while until they got it sorted out up front with Major <persName>Henry</persName> and Sugdinis.</u>
+      <u who="BA">I was far enough back in the column, there wasn’t anything for me to do other than the column stop and everybody hits the ground. Then word came back, and we stayed there for a while until they got it sorted out up front with Major <persName ref="#test_0001_person_49">Henry</persName> and Sugdinis.</u>
       <u who="JM">Okay, go ahead.</u>
-      <u who="BA">So then we got on in, and when we got into the LZ, by the time we got to the CP there at X-Ray, the fox hole there at the ant hill, we tried to set up communications, tried to get an antenna up. So we made a jerry-rigged antenna. I climbed up the damn tree. (Laughs) Stupid but got the antenna up and had it hanging up there, and in the meantime, the battle, the fight actually was ending over there on the far side of the perimeter from us. So we kind of took over communications and were helping out wherever we can help out. <persName>John</persName> and the medics were helping the aid station, and there wasn’t an aid station just <placeName>the ant hill</placeName>, everyone is piled up.</u>
+      <u who="BA">So then we got on in, and when we got into the LZ, by the time we got to the CP there at X-Ray, the fox hole there at the ant hill, we tried to set up communications, tried to get an antenna up. So we made a jerry-rigged antenna. I climbed up the damn tree. (Laughs) Stupid but got the antenna up and had it hanging up there, and in the meantime, the battle, the fight actually was ending over there on the far side of the perimeter from us. So we kind of took over communications and were helping out wherever we can help out. <persName ref="#test_0001_person_50">John</persName> and the medics were helping the aid station, and there wasn’t an aid station just <placeName ref="#test_0001_place_18">the ant hill</placeName>, everyone is piled up.</u>
       <u who="JM">Were you- this is your first sighting of combat, were you shocked?</u>
       <u who="BA">Mm-hmm.</u>
       <u who="JM">The extend of it? Real war?</u>
-      <u who="BA">I was scarred shitless. Yeah, it was-—we were scared on one hand, and on the other, I went in as a volunteer to X-Ray and <persName>John</persName> did.</u>
+      <u who="BA">I was scarred shitless. Yeah, it was-—we were scared on one hand, and on the other, I went in as a volunteer to X-Ray and <persName ref="#test_0001_person_51">John</persName> did.</u>
       <u who="JM">But it doesn’t —the battle is over for many of those troops. A Company, <date>1st of the 7th</date> is decimated. They’re down less than fifty percent I believe. So, they fly back to Plei Me and they are pretty much out of the flight because they don’t have anybody left.</u>
       <u who="BA">They extract <date>the 1st of the 7th</date> back to Plei Me.</u>
       <u who="JM">Right. But it’s not over for you, tell me what happens next. Where do you go?</u>
-      <u who="BA">The next morning, morning of the 17th, radio call comes in. In the meantime, later in the afternoon the 16th, we’ve been getting the rest of our troops had been coming in because they had been taking the other guys out. So we end up with our whole bag and baggage. We didn’t have the equipment. They’d left the equipment back in <persName>Pleiku</persName> but they sent the people. So we still had our personnel guy, we had out chaplain’s assistant, we had our operation staff drafts man. The whole complement of headquarters people or a large complement of them. The morning of the 17th, about nine o’clock, our job at that point, we were still policing the battlefield. Still getting the body count and trying to physically count the bodies by dragging them out and piling them up in the middle of the landing zone.</u>
+      <u who="BA">The next morning, morning of the 17th, radio call comes in. In the meantime, later in the afternoon the 16th, we’ve been getting the rest of our troops had been coming in because they had been taking the other guys out. So we end up with our whole bag and baggage. We didn’t have the equipment. They’d left the equipment back in <persName ref="#test_0001_person_52">Pleiku</persName> but they sent the people. So we still had our personnel guy, we had out chaplain’s assistant, we had our operation staff drafts man. The whole complement of headquarters people or a large complement of them. The morning of the 17th, about nine o’clock, our job at that point, we were still policing the battlefield. Still getting the body count and trying to physically count the bodies by dragging them out and piling them up in the middle of the landing zone.</u>
       <u who="JM">This is our guys?</u>
-      <u who="BA">No, this is <orgName>NVA</orgName> (<orgName>North Vietnamese Army</orgName>).</u>
+      <u who="BA">No, this is <orgName ref="#test_0001_org_30">NVA</orgName> (<orgName ref="#test_0001_org_31">North Vietnamese Army</orgName>).</u>
       <u who="JM">Our guys are out by now?</u>
-      <u who="BA"><date>1st of the 7th</date> is out. 2nd of the 7th guys are in there, we’re grabbing NVA bodies and piling them up and counting them. They are out in the middle of the LZ because they were adamant back in brigade, they got PAVN (<orgName>People’s Army</orgName> of <placeName>Vietnam</placeName>) body count and all this. So we do that and finally about nine o’clock, we’re working there, it’s hot as hell, radio message comes in that, you know, 4-6 and each got to move in messages, we got to relocated. They called in an “Arc Light” and everybody is looking around each other, colonel is looking at the major, the major is looking at the colonel, then they finally look at me and I got the signal operating instructions. So, I open it up and see what an “Arc Light” is. I look down here, “Arc Light B-52 strike.” (Chuckles) “Oh shit!” They’d never done that before. (Laughs) Apparently, what happen on that B-52 strike, as far as I can tell, it got called in when Colonel <persName>Moore</persName> called for a “Broken Arrow”. I think it went through chain of command, all the way back to <placeName>Guam</placeName> because they came from <placeName>Guam</placeName>. They must have called in over three hours overtime over target. That’s when brigade realize that “Oh shit, we got people out there still.” So it was grab everything you can carry, you got to be at these coordinates and you got to be there before noon. We stop what we were doing, grab everything we can tote, and like a column of twos, we headed off to that unknown point in the map. We had about two maps of the area, because LZ Golf was not on that map. There was only a couple of maps in the whole area. In recon, <persName>Pat Payne</persName> in recon had one of the maps, I'm not sure who had the other one. We’re administrating on this move! I’m talking to <persName>Dan</persName>, <persName>Dan Boone</persName>, as this is going down, he says, “Well, hey we got all these guys. You take one side; we’re going in columns of twos! You and <persName>John</persName> take on side, and <persName>Doc Shucart</persName> and I will take the other side.” That’s how we went out. The order of march was recon, A Company, <orgName>Delta Company</orgName>, <persName>Charlie Company</persName>, headquarters elements, and <orgName>Alpha Company 1st</orgName> of the 5th.</u>
-      <u who="JM">You’re carrying your <persName>M16</persName>, you got it loaded up, right?</u>
+      <u who="BA"><date>1st of the 7th</date> is out. 2nd of the 7th guys are in there, we’re grabbing NVA bodies and piling them up and counting them. They are out in the middle of the LZ because they were adamant back in brigade, they got PAVN (<orgName ref="#test_0001_org_32">People’s Army</orgName> of <placeName ref="#test_0001_place_19">Vietnam</placeName>) body count and all this. So we do that and finally about nine o’clock, we’re working there, it’s hot as hell, radio message comes in that, you know, 4-6 and each got to move in messages, we got to relocated. They called in an “Arc Light” and everybody is looking around each other, colonel is looking at the major, the major is looking at the colonel, then they finally look at me and I got the signal operating instructions. So, I open it up and see what an “Arc Light” is. I look down here, “Arc Light B-52 strike.” (Chuckles) “Oh shit!” They’d never done that before. (Laughs) Apparently, what happen on that B-52 strike, as far as I can tell, it got called in when Colonel <persName ref="#test_0001_person_53">Moore</persName> called for a “Broken Arrow”. I think it went through chain of command, all the way back to <placeName ref="#test_0001_place_20">Guam</placeName> because they came from <placeName ref="#test_0001_place_21">Guam</placeName>. They must have called in over three hours overtime over target. That’s when brigade realize that “Oh shit, we got people out there still.” So it was grab everything you can carry, you got to be at these coordinates and you got to be there before noon. We stop what we were doing, grab everything we can tote, and like a column of twos, we headed off to that unknown point in the map. We had about two maps of the area, because LZ Golf was not on that map. There was only a couple of maps in the whole area. In recon, <persName ref="#test_0001_person_54">Pat Payne</persName> in recon had one of the maps, I'm not sure who had the other one. We’re administrating on this move! I’m talking to <persName ref="#test_0001_person_55">Dan</persName>, <persName ref="#test_0001_person_56">Dan Boone</persName>, as this is going down, he says, “Well, hey we got all these guys. You take one side; we’re going in columns of twos! You and <persName ref="#test_0001_person_57">John</persName> take on side, and <persName ref="#test_0001_person_58">Doc Shucart</persName> and I will take the other side.” That’s how we went out. The order of march was recon, A Company, <orgName ref="#test_0001_org_33">Delta Company</orgName>, <persName ref="#test_0001_person_59">Charlie Company</persName>, headquarters elements, and <orgName ref="#test_0001_org_34">Alpha Company 1st</orgName> of the 5th.</u>
+      <u who="JM">You’re carrying your <persName ref="#test_0001_person_60">M16</persName>, you got it loaded up, right?</u>
       <u who="BA">Oh yeah!</u>
       <u who="JM">It’s administrative but there’s still B-52 bombs dropping and people dead around here, it’s a war zone.</u>
       <u who="BA">Yeah, and it smells pretty bad. But we were told—first of all, we asked when the helicopters were coming. They said, “There’s not any, you’re going to walk.” “How are you going to do that?” “Well, you can’t get that far in single-file. You got to go column of twos.”</u>
@@ -257,11 +259,11 @@
       <u who="BA">So columns of two and off we go into the wild jungle. We hadn’t had water resupply that morning. It’s hot as hell, probably a hundred and five or so. We are all carrying excess gear because we were told to carry everything we couldn’t destroy, if it is salvageable, carry it. I was carrying, I honestly can’t remember if I was carrying a two-niner-two radio antenna, which weighed about sixty pounds plus your regular harness stuff. Hadn’t slept in <date>three nights</date>, none of us had. It was either two-niner-two or I had a Prick 25 on the back, one or the other. But as battalion communication officer, I was not a part of the staff group as a second lieutenant. There was the S3, who was my boss, he was upfront with the old man and the XO (Executive Officer). They were re up front. Basically, were just supposed to follow the guys in front of us. You know, “What happens if—” “Nothing terrible, don’t worry about it.” That’s what the word was! “What do we do if we hit something?” “Stay where you are, that’s what the line companies will take care of you.” I'm not in the radio net! I’m a communications officer and I’m not on the radio net. I wasn’t authorized a radio.</u>
       <u who="JM">There was no attempt to put the line units, like put the headquarters groups that are not combatants in the middle and have line units on either side? Or do you know if there was an actual operation plan?</u>
       <u who="BA">Shit, no. It was like I just said, you know, we’re looking, and we got to get the gear and you know, “Joel, you take—and we’ll put recon up front.”</u>
-      <u who="JM">So, when do you first realize that this administrative move is the real the deal, that you’re in combat?BA: We busted out butts. We had no water and somewhere around one o’clock time frame, we stopped, the column stopped. All the company commanders, the line company commanders were called forward. So that was <persName>Charlie Company</persName>, A Company, <orgName>Delta Company</orgName> and <date>the 1st of the 5th</date> were called forward. Everybody had got up there but Captain <persName>Forrest</persName> and apparently our recon guys—we were just sitting back here in the back, smoking cigarettes and if you happened to see a ration, you ate it. Recon guys had captured a couple of guys and word came back that we had captured a couple of NVA. Time goes by and next thing you know, hear some sheep way of in the distance. Then word comes back and well, we need <persName>Charlie Company</persName>—who was our immediate front to move in line because recon had hit an ambush. It was an L-shape ambush and <orgName>C Company</orgName> was going to move in line and roll up the end of that ambush. Sounded good and <persName>John Howard Nash</persName> didn’t like it but all of the sudden, the firing started to come back and back further down the column and it keeps coming back and back, next thing you know it, it’s right in front of us. <persName>Charlie Company</persName> is hurriedly trying to deploy in line, and terrain was real rough there, it’s jungles, elephant grass over your head, scrub pines—not pines, scrub oaks and hardwood trees. All of the sudden, guys started getting hit from <persName>Charlie Company</persName>, and cries go up for “Medic, medic, medic!” Of course, the medics are in front with <persName>John</persName>, they take off and <persName>John</persName> takes off to answer the medic and I’m standing here like, “Shit!” The one thing they told us at Fort Benning, one class I went to, <persName>Tony Nadal</persName> taught, is in an ambush, you move! You don’t stop, you move! So I jumped in with <persName>Charlie Company</persName>. Thinking everybody else was following me! They didn’t follow me. So I ended up in the middle of Charlie Company in the fight. It was a bloodbath. It was just four-five hours of absolute pandemonium hell and when you found the radio, I found one radio, I was able to talk to <persName>Frank Henry</persName> on the Lognet. <persName>Frank</persName> said, “I got my hands full up here, do the best you can!”
+      <u who="JM">So, when do you first realize that this administrative move is the real the deal, that you’re in combat?BA: We busted out butts. We had no water and somewhere around one o’clock time frame, we stopped, the column stopped. All the company commanders, the line company commanders were called forward. So that was <persName ref="#test_0001_person_61">Charlie Company</persName>, A Company, <orgName ref="#test_0001_org_35">Delta Company</orgName> and <date>the 1st of the 5th</date> were called forward. Everybody had got up there but Captain <persName ref="#test_0001_person_62">Forrest</persName> and apparently our recon guys—we were just sitting back here in the back, smoking cigarettes and if you happened to see a ration, you ate it. Recon guys had captured a couple of guys and word came back that we had captured a couple of NVA. Time goes by and next thing you know, hear some sheep way of in the distance. Then word comes back and well, we need <persName ref="#test_0001_person_63">Charlie Company</persName>—who was our immediate front to move in line because recon had hit an ambush. It was an L-shape ambush and <orgName ref="#test_0001_org_36">C Company</orgName> was going to move in line and roll up the end of that ambush. Sounded good and <persName ref="#test_0001_person_64">John Howard Nash</persName> didn’t like it but all of the sudden, the firing started to come back and back further down the column and it keeps coming back and back, next thing you know it, it’s right in front of us. <persName ref="#test_0001_person_65">Charlie Company</persName> is hurriedly trying to deploy in line, and terrain was real rough there, it’s jungles, elephant grass over your head, scrub pines—not pines, scrub oaks and hardwood trees. All of the sudden, guys started getting hit from <persName ref="#test_0001_person_66">Charlie Company</persName>, and cries go up for “Medic, medic, medic!” Of course, the medics are in front with <persName ref="#test_0001_person_67">John</persName>, they take off and <persName ref="#test_0001_person_68">John</persName> takes off to answer the medic and I’m standing here like, “Shit!” The one thing they told us at Fort Benning, one class I went to, <persName ref="#test_0001_person_69">Tony Nadal</persName> taught, is in an ambush, you move! You don’t stop, you move! So I jumped in with <persName ref="#test_0001_person_70">Charlie Company</persName>. Thinking everybody else was following me! They didn’t follow me. So I ended up in the middle of Charlie Company in the fight. It was a bloodbath. It was just four-five hours of absolute pandemonium hell and when you found the radio, I found one radio, I was able to talk to <persName ref="#test_0001_person_71">Frank Henry</persName> on the Lognet. <persName ref="#test_0001_person_72">Frank</persName> said, “I got my hands full up here, do the best you can!”
 	JM: And you’re firing your weapon?</u>
       <u who="BA">Mm-hmm.</u>
       <u who="JM">Are you firing your weapons at known enemies? At sounds? At directions? What are you—</u>
-      <u who="BA">Little bit of both. There was a guy that was shot to my right-front, about ten yards to the right front. He was screaming. I hollered at him, “Shut up! I’ll get to you, just be quiet!” Because his screaming was drawing a lot of fire. He kept screaming and I went over to him, got to him and was trying to bandage him. He’d gotten shot in the arm. Had a dime size hole through his wrist. I took my first aid, bandaged him up but he was screaming. I'm like, “Please, maybe just hold your tongue!” And his screaming kept drawing all this fire. Finally I just put my M1 on automatic and stuck it on the side of trees and pull the trigger in the direction of the fire we were getting and it went up and something fell out of the tree, twenty-thirty meters away. I'm assuming it was one of the <orgName>NVA</orgName> that was there.</u>
+      <u who="BA">Little bit of both. There was a guy that was shot to my right-front, about ten yards to the right front. He was screaming. I hollered at him, “Shut up! I’ll get to you, just be quiet!” Because his screaming was drawing a lot of fire. He kept screaming and I went over to him, got to him and was trying to bandage him. He’d gotten shot in the arm. Had a dime size hole through his wrist. I took my first aid, bandaged him up but he was screaming. I'm like, “Please, maybe just hold your tongue!” And his screaming kept drawing all this fire. Finally I just put my M1 on automatic and stuck it on the side of trees and pull the trigger in the direction of the fire we were getting and it went up and something fell out of the tree, twenty-thirty meters away. I'm assuming it was one of the <orgName ref="#test_0001_org_37">NVA</orgName> that was there.</u>
       <u who="JM">How was your—as far as ammunition, were you carrying much ammo? </u>
       <u who="BA">No. </u>
       <u who="JM">Because you were carrying all that antenna and everything?</u>
@@ -269,7 +271,7 @@
       <u who="JM">How many magazines did you have?</u>
       <u who="BA">Maybe three.</u>
       <u who="JM">Three. Commo officers aren’t supposed to be getting in long fire fights. So did you become concerned at that moment that you wouldn’t be able to fight your way out of this thing?</u>
-      <u who="BA">No, no we were still fighting. The problem is nobody knew where anybody was. Nobody knew each other even. I had couple of guys near us, I said, “You drag this guy back to the aid station,” because I’d passed <persName>John Howard</persName>. I knew where <persName>John</persName> and the medics were back behind me. They took them back, I said, “Don’t bother to come back.” You know, “Set up back there if you can make it.” So I stayed in this kind of almost a room like canopy of oak trees and termite hills and little grass. Went from him, came back to a <placeName>termite hill</placeName>, large ant mound. Couple of guys there were shot. We fought there for a little bit. Basically, it was over here is this thick jungle and bullets were coming out of it. Here to the left, bullets were coming out of it. Behind us bullets were coming out of it. It was thick all the way around us.</u>
+      <u who="BA">No, no we were still fighting. The problem is nobody knew where anybody was. Nobody knew each other even. I had couple of guys near us, I said, “You drag this guy back to the aid station,” because I’d passed <persName ref="#test_0001_person_73">John Howard</persName>. I knew where <persName ref="#test_0001_person_74">John</persName> and the medics were back behind me. They took them back, I said, “Don’t bother to come back.” You know, “Set up back there if you can make it.” So I stayed in this kind of almost a room like canopy of oak trees and termite hills and little grass. Went from him, came back to a <placeName ref="#test_0001_place_22">termite hill</placeName>, large ant mound. Couple of guys there were shot. We fought there for a little bit. Basically, it was over here is this thick jungle and bullets were coming out of it. Here to the left, bullets were coming out of it. Behind us bullets were coming out of it. It was thick all the way around us.</u>
       <u who="JM">There was no one-side for where there was no fire coming, you were surrounded. From your perspective.</u>
       <u who="BA">Literally, we were surrounded and cut off.</u>
       <u who="JM">Time of day, by this time it’s getting towards dark or was there still light?</u>
@@ -277,7 +279,7 @@
       <u who="JM">You’re not part of a unit around you? You’re your own guy pretty much. So you don’t have—you can’t go to your superior, you’re on your own?</u>
       <u who="BA">Yeah.</u>
       <u who="JM">So tell me then, did nightfall come and you’re still fighting? </u>
-      <u who="BA">Well, before that, I’d left <placeName>the termite hill</placeName> where I was. I gave the two guys that were wounded there, they had a machine gun, I took their machine and gave them my <persName>M16</persName> because they couldn’t handle the machine gun. I tried to go forward because I knew that somebody was in front, that’s where the troops were. The <orgName>CO</orgName> was somewhere up there. I was trying to go forward, and I went up about twenty, thirty yards. It was a PFC (Private First Class) on the ground behind a little tree and I got to him and he was firing. We got pinned down by a machine gun. I say machine gun, it was some kind of automatic weapon. I said, “Okay, what we’ll do is we roll out. You put it on automatic, I got the machine gun and well just open up.” So we roll out, open up and in an instant, he hits my back rolling back over. Gives it one of these. (<placeName>Interviewee</placeName> shows a gesture to interviewer) And you know, I rolled over back to him and “You okay man?” He said, “I’m dead man, don’t worry about me.” I pull up his hands away and he had a hole right straight through here. (<placeName>Interviewee</placeName> shows where to the interviewer) He pulls two grenades off his belt, pulls the pins and rolls over and tossed those grenades and he’s dead. He was dead then! That’s when I said, “Well, this isn’t a good place to be!” So I tried to go back, I went back. Those guys were dead, that had given me the machine gun. I got a rifle and got a .45, and then was trying to figure out what to do, moved down to <persName>another ant hill</persName>. Lieutenant <persName>Butch Aull</persName> happened to come out of the clouds almost and came sliding into me. <persName>Butch</persName> had a tanker holster on and he had a .45 and had been stopped by the slide on the .45 in there and he—I had my back on the little ant hill and he slid down to me and he was grinning. About that time, some automatic fire was coming, I grabbed <persName>Butch</persName> and pulled him down on me and said, “Where the hell are we supposed to go?” He said, “Damn, this way!” Motioning to left. “Okay, how are we going to go?” During the course of this battle and moving around in there, I had guys come up to me, guys covered in blood, guys dying on me. It was hard to know who was killed and who wasn’t killed in your mind. The firing was just intense.</u>
+      <u who="BA">Well, before that, I’d left <placeName ref="#test_0001_place_23">the termite hill</placeName> where I was. I gave the two guys that were wounded there, they had a machine gun, I took their machine and gave them my <persName ref="#test_0001_person_75">M16</persName> because they couldn’t handle the machine gun. I tried to go forward because I knew that somebody was in front, that’s where the troops were. The <orgName ref="#test_0001_org_38">CO</orgName> was somewhere up there. I was trying to go forward, and I went up about twenty, thirty yards. It was a PFC (Private First Class) on the ground behind a little tree and I got to him and he was firing. We got pinned down by a machine gun. I say machine gun, it was some kind of automatic weapon. I said, “Okay, what we’ll do is we roll out. You put it on automatic, I got the machine gun and well just open up.” So we roll out, open up and in an instant, he hits my back rolling back over. Gives it one of these. (<placeName ref="#test_0001_place_24">Interviewee</placeName> shows a gesture to interviewer) And you know, I rolled over back to him and “You okay man?” He said, “I’m dead man, don’t worry about me.” I pull up his hands away and he had a hole right straight through here. (<placeName ref="#test_0001_place_25">Interviewee</placeName> shows where to the interviewer) He pulls two grenades off his belt, pulls the pins and rolls over and tossed those grenades and he’s dead. He was dead then! That’s when I said, “Well, this isn’t a good place to be!” So I tried to go back, I went back. Those guys were dead, that had given me the machine gun. I got a rifle and got a .45, and then was trying to figure out what to do, moved down to <persName ref="#test_0001_person_76">another ant hill</persName>. Lieutenant <persName ref="#test_0001_person_77">Butch Aull</persName> happened to come out of the clouds almost and came sliding into me. <persName ref="#test_0001_person_78">Butch</persName> had a tanker holster on and he had a .45 and had been stopped by the slide on the .45 in there and he—I had my back on the little ant hill and he slid down to me and he was grinning. About that time, some automatic fire was coming, I grabbed <persName ref="#test_0001_person_79">Butch</persName> and pulled him down on me and said, “Where the hell are we supposed to go?” He said, “Damn, this way!” Motioning to left. “Okay, how are we going to go?” During the course of this battle and moving around in there, I had guys come up to me, guys covered in blood, guys dying on me. It was hard to know who was killed and who wasn’t killed in your mind. The firing was just intense.</u>
       <u who="JM">And you really are alone because you had a buddy for ten minutes or something, and he’s dead. So you’re just moving from—you said you picked up that M60. Had you ever fired an M60 before? Do you know anything about it? </u>
       <u who="BA">No. Pull the trigger. (Chuckles)</u>
       <u who="JM">But you got to also have to feed it and do all that stuff. So you had a few rounds belted. Okay.</u>
@@ -285,11 +287,11 @@
       <u who="JM">Yeah, but they only have nine rounds in that sucker.</u>
       <u who="BA">Yeah. (Chuckles)</u>
       <u who="JM">Okay, so now its-</u>
-      <u who="BA">Aull is down to me and were sitting here. He’s laying on top of me and were talking in each other’s ear and “Where are we supposed to go?” <persName>Butch</persName> says, “We go down this way.” About that time, an A-1E Skyraider comes in strafing. Where the hell he came from? I don’t know, but it’s like a summer thunder shower. You can hear the bullets hit the leaves of the trees and you couldn’t hear them. You couldn’t hear the fire because the bullets were coming before the sound. You could hear the airplane going into a dive and you hear all the rustling of leaves coming at you and dirt going everywhere. It’s like, “Shit, this is us.”  Up there that their shooting at. Anyways, I said, “Okay, we got to get out of here.” Butch seemed to know where to go and he was a line lieutenant and so, I said, “How are we going to go?” He said, “Well, I call out an even number, you call out the odd numbers and that’s how far we’ll go. I’ll call out the M4 and you call out an odd number.” We had about five or six guys around us at the time. We all counted off and <persName>Butch</persName> said, “I’ll go first!”, because he was on top of me. He takes off in the middle of all this fire and I'm like, “Butch where are you?” He just disappeared into the grass and I never saw him again. He was killed instantly. So we stayed there waiting for someone to holler and for him to call out the numbers. You know, of course the other half that had gone with him, I never heard or saw them again. You know, it’s hard because you had guys—you’re trying to control people in a fight standpoint. They don’t know you. They don’t know the hell you are. You’re telling my ass to do this? Nuh-uh buster (<persName>Laughs</persName>).</u>
+      <u who="BA">Aull is down to me and were sitting here. He’s laying on top of me and were talking in each other’s ear and “Where are we supposed to go?” <persName ref="#test_0001_person_80">Butch</persName> says, “We go down this way.” About that time, an A-1E Skyraider comes in strafing. Where the hell he came from? I don’t know, but it’s like a summer thunder shower. You can hear the bullets hit the leaves of the trees and you couldn’t hear them. You couldn’t hear the fire because the bullets were coming before the sound. You could hear the airplane going into a dive and you hear all the rustling of leaves coming at you and dirt going everywhere. It’s like, “Shit, this is us.”  Up there that their shooting at. Anyways, I said, “Okay, we got to get out of here.” Butch seemed to know where to go and he was a line lieutenant and so, I said, “How are we going to go?” He said, “Well, I call out an even number, you call out the odd numbers and that’s how far we’ll go. I’ll call out the M4 and you call out an odd number.” We had about five or six guys around us at the time. We all counted off and <persName ref="#test_0001_person_81">Butch</persName> said, “I’ll go first!”, because he was on top of me. He takes off in the middle of all this fire and I'm like, “Butch where are you?” He just disappeared into the grass and I never saw him again. He was killed instantly. So we stayed there waiting for someone to holler and for him to call out the numbers. You know, of course the other half that had gone with him, I never heard or saw them again. You know, it’s hard because you had guys—you’re trying to control people in a fight standpoint. They don’t know you. They don’t know the hell you are. You’re telling my ass to do this? Nuh-uh buster (<persName ref="#test_0001_person_82">Laughs</persName>).</u>
       <u who="JM">Yeah, it’s hard enough under any situation. But if you have a unit and the cohesion that goes with being trained to get enough stuff, you had none of that. </u>
       <u who="BA">No.</u>
       <u who="JM">You were just commo officer, in the wrong place, at the wrong time.</u>
-      <u who="BA">Mm-hmm. I keep trying to go down where <persName>Butch</persName> had told me. We keep trying to—I called out numbers sometimes, sometimes some of the guys follow, sometimes they don’t. I can’t keep track of who’s where. I don’t know who these people are anyway.</u>
+      <u who="BA">Mm-hmm. I keep trying to go down where <persName ref="#test_0001_person_83">Butch</persName> had told me. We keep trying to—I called out numbers sometimes, sometimes some of the guys follow, sometimes they don’t. I can’t keep track of who’s where. I don’t know who these people are anyway.</u>
       <u who="JM">You don’t know whether they are still alive after the deal was cut.</u>
       <u who="BA">I get down to where the other half—the other part of the column was. Get down there, there was a couple of guys there alive. One guy is just shot to pieces, but he’s still living. Two of the guys, “Okay, you’re going to carry him. We’re going this way.” They pick him up and of course he’s in tremendous pain, he screams. He’s a heavy guy, he’s a big guy and they carry him about five or six feet. Shooting is breaking out heavy again and off they go. Dropped him. Left me along with him. I grabbed him and couldn’t carry him. By then, well, what was I down to? I had my rifle and my .45. One in each hand. My .45 in one hand, my rifle in the other and whatever was in the magazine. Had dropped my web gear just from the shear exhaustion and no water. I tried to carry him, couldn’t pick him up. He was in too much pain. I said, “Okay, well if you can hold onto me somehow on my shirt, I’ll try to carry you. I’ll try to crawl with you and carry you.” He was in and out of consciousness and finally I just had to leave him. There was no help from anybody. I mean everybody was—</u>
       <u who="JM">Sure.</u>
@@ -297,7 +299,7 @@
       <u who="JM">Where was the CP—where was the battalion commander and the company commander?</u>
       <u who="BA">Two, three hundred yards ahead of us.</u>
       <u who="JM">Ahead of you.</u>
-      <u who="BA">I was—I had gone back in the back; we were in that ditch. They only thing I could hear was some artillery firing by then. I figure that was the only chance we got, to get to an artillery base. It was somewhere near dusk. We’re in the ditch, I got one guy who got his eyeball dangling out. He had part of a bandage over it but his eye when he was telling me, “I can see, I can see!” “Yup, you’re going to be alright, son.” One guy, one sergeant, got some shrapnel in his chest. Another guy shot in the neck, the arm and the leg. Another guy—there were five and they were all wounded some. The other two had wounds too. I don’t remember their extent. So off we trek and we’re going up this ditch and staying in the <persName>bush</persName>, in the brambles and briars and the fix stuff, hoping we can avoid because we were down, I was the only one with any weapons. I had given one guy my .45 as a security blanket because those things are—if you can’t hit anybody when you throw it’s not good. One guy had my rifle, and I was trying to keep everybody together. We were in this bramble—briar patch. Typical briar fire patch and I'm going through it and all of the sudden, I look down—because I'm like, “You know, surely nobody can find us in here.” I look down and there’s a freaking tin foil off a chewing gum wrapper. And I just freeze because I'm like, “Any second, I'm dead.” There’s a turd there, besides the chewing gum wrapper! <persName>Somebody</persName> took a shit. Somebody else had been in there, <orgName>NVA</orgName> had been in there. Apparently, they had overrun us, and we were behind them and we kept going, no shots came at that point, at least directly at us. We kept going and we ended up—we were out of water. Water was the toughest thing because you had no strength, no water. We got to the perimeter of the LZ <placeName>Columbus</placeName> where the artillery was. We could hear the firing, it was dark, it was elephant grass taller than this room, they were moving in. I said, “Guys, if we tried going in there, we’re going to get killed.” Because these guys—</u>
+      <u who="BA">I was—I had gone back in the back; we were in that ditch. They only thing I could hear was some artillery firing by then. I figure that was the only chance we got, to get to an artillery base. It was somewhere near dusk. We’re in the ditch, I got one guy who got his eyeball dangling out. He had part of a bandage over it but his eye when he was telling me, “I can see, I can see!” “Yup, you’re going to be alright, son.” One guy, one sergeant, got some shrapnel in his chest. Another guy shot in the neck, the arm and the leg. Another guy—there were five and they were all wounded some. The other two had wounds too. I don’t remember their extent. So off we trek and we’re going up this ditch and staying in the <persName ref="#test_0001_person_84">bush</persName>, in the brambles and briars and the fix stuff, hoping we can avoid because we were down, I was the only one with any weapons. I had given one guy my .45 as a security blanket because those things are—if you can’t hit anybody when you throw it’s not good. One guy had my rifle, and I was trying to keep everybody together. We were in this bramble—briar patch. Typical briar fire patch and I'm going through it and all of the sudden, I look down—because I'm like, “You know, surely nobody can find us in here.” I look down and there’s a freaking tin foil off a chewing gum wrapper. And I just freeze because I'm like, “Any second, I'm dead.” There’s a turd there, besides the chewing gum wrapper! <persName ref="#test_0001_person_85">Somebody</persName> took a shit. Somebody else had been in there, <orgName ref="#test_0001_org_39">NVA</orgName> had been in there. Apparently, they had overrun us, and we were behind them and we kept going, no shots came at that point, at least directly at us. We kept going and we ended up—we were out of water. Water was the toughest thing because you had no strength, no water. We got to the perimeter of the LZ <placeName ref="#test_0001_place_26">Columbus</placeName> where the artillery was. We could hear the firing, it was dark, it was elephant grass taller than this room, they were moving in. I said, “Guys, if we tried going in there, we’re going to get killed.” Because these guys—</u>
       <u who="JM">Our guys?</u>
       <u who="BA">Yeah, they’re our guys. They know that shit’s hitting the fan over here and they’ll shot anything that’s coming at them at this point. It’s dark and they can’t really tell any. So we nestle up in that little elephant grass, I mean a little patch by the size of the table. Two of them with their heads on my lap. One of them was that kid with the eyeball. He kept telling me he could see, I kept telling him he was going to be okay. We got through the night; first light comes. I said, “Okay guys here’s what we’re going to do. Sergeant, you’re in charge if I don’t come back.” We went right down the chain of command and “Here’s what you do. I’m going to go around the other side of this perimeter. In case somebody starts shooting, the fire won’t be coming this way.” During the night, we’re hearing movement going around the grass around us. We think it’s people, it could be rats, shit we had eight rounds maybe between us. Nobody in any shape to defend themselves. That morning, I went all the way the other side of the perimeter, crawled in as close as I could to the perimeter, where I could see the guys in the foxholes. They were out of the foxholes getting ready, having some chow and starting to move around in the morning, and I hollered at them. I said, “Get me an officer, a company commander, lieutenant, somebody down here!”</u>
       <u who="JM">You hollered as loud as you could?</u>
@@ -305,8 +307,8 @@
       <u who="JM">What were your exact words? You remember?</u>
       <u who="BA">Something like, “Get me an officer!” or “Get me an NCO!” </u>
       <u who="JM">In your best English.</u>
-      <u who="BA">Yeah. Because my big thing, being new to combat, was scared shooting. If my voice, triggering the whole perimeter going off. So anyway, they were nonchalant enough to go get an officer. They got Lieutenant <persName>Jim Brigham</persName>, who had been one of my ship bunk mates, bunk mates on the ship. I said, “I’m going to stand up, I want you to hold your fire.” I hollered at them, “I got five wounded guys out here,” I said, “They’re not with me, I’ve got to go get them and I’m going to bring them back in here. Make sure everybody in the perimeter knows.” So I stood there until word went all around the perimeter that friendlies are coming in, no firing.</u>
-      <u who="JM">Do they have <orgName>Claymores</orgName> set? Do you know? Do they have a minefield out at all?</u>
+      <u who="BA">Yeah. Because my big thing, being new to combat, was scared shooting. If my voice, triggering the whole perimeter going off. So anyway, they were nonchalant enough to go get an officer. They got Lieutenant <persName ref="#test_0001_person_86">Jim Brigham</persName>, who had been one of my ship bunk mates, bunk mates on the ship. I said, “I’m going to stand up, I want you to hold your fire.” I hollered at them, “I got five wounded guys out here,” I said, “They’re not with me, I’ve got to go get them and I’m going to bring them back in here. Make sure everybody in the perimeter knows.” So I stood there until word went all around the perimeter that friendlies are coming in, no firing.</u>
+      <u who="JM">Do they have <orgName ref="#test_0001_org_40">Claymores</orgName> set? Do you know? Do they have a minefield out at all?</u>
       <u who="BA">They had some trip flares out because I hit one. (Laughs)</u>
       <u who="JM">Trip flares? Oh, at night or at that moment?</u>
       <u who="BA">No, coming in that—</u>
@@ -315,20 +317,567 @@
       <u who="JM">It may be connected to something?</u>
       <u who="BA">We didn’t know what the hell it was.</u>
       <u who="JM">But it was just a signal flair for the nighttime if somebody was at the wire.</u>
-      <u who="BA">Yeah, so we got in. I'm like—because all night long we had heard the artillery firing at, all night at this LZ. They must—they had every plane in the air force dropping stuff on the jungle we had just left. Nobody is alive! They’re going to put a damn nuke in here. Honest to god, it was the thought I had was, they’re going to pull out and put a nuke in here. They’ve already put B-52s in and that didn’t work. Remember, we’d had tactical nukes at Fort Benning, down to the battalion level. I guess in a hysteria thing, so I get to <persName>Jim</persName>, and I’m like, “<persName>Jim</persName>, they’re all dead, they’re all dead!” He said, “No they’re not!” I said, “Really?” He said, “They’re alive.” About that time, a medic came up and shot me in the butt with something. I was shaking so damn bad and a helicopter come in while I was standing there and about that time, <persName>John Howard</persName> came in with seven or eight guys. Similar situation, totally different and unbeknownst to us. <persName>John</persName> brings guys in. He had done the same thing I did. <persName>John</persName> gets in, we’re standing there, I talk to my S3. I’ve got this shot, I'm like, “I don’t know what we’re going to do, if you can come back okay.” I look at <persName>John</persName> and said, “Did you hear any noise last night?” “Yeah, there were people moving all around.” “What are we going to do?” They throw us on a helicopter, take us to <persName>Pleiku</persName>, all the way back to Camp Holloway. We get there, we get off the plane. Our S1 meets us. He gives us a big hug and <persName>John</persName> and I are crying. We are like, “You don’t understand captain, they’re all dead! It’s not what you want.” “We won the fight.” “We didn’t win the fight, everybody’s dead.” <persName>John</persName> and I are looking at each other like we can’t believe it. We got to report somewhere, we got to report, tell them we’re here. So, second lieutenants, we get on a helicopter and we go to the brigade headquarters to go report. We walk in, blood soaked, haven’t shaved in <date>three or four days</date>, just look like shit. We walk in and here’s this major who had been our executive officer and were his two worst nightmares come true. He finally walks out, and he hears us in the tent because we’re agitated and dealing with the <orgName>NCO</orgName>. We’re like, “Show us a map, because we got to know where we were.” He hears us hell up, he comes out and looks at us, he says, “What in the hell are you guys doing here? You’re a disgrace!” We’re like, “Sir, we just came out of a fight, we need a map, we can show you where they are because we heard them all around us all night.” “Sergeant, show them the damn map, and you guys get the hell out of here!” So, we went over the map, saw the landing zone, said, “Here’s where they were.” “Okay” And “We’re out of here.” <persName>John</persName> and I left. We got on another helicopter, and got back to the rear, got a shower, got some clothes and went to sleep for the first time in <date>about three days</date>. Then the next morning I went out, went back out after that. That was the morning of the 19th, I went out and joined a unit. In the meantime, we had all our dead back. We had a hundred and fifty-five men killed <date>that day</date>, on <date>the 17th</date>. We had another hundred and twenty-five hundred—thirty five guys wounded so bad, they never came back.</u>
+      <u who="BA">Yeah, so we got in. I'm like—because all night long we had heard the artillery firing at, all night at this LZ. They must—they had every plane in the air force dropping stuff on the jungle we had just left. Nobody is alive! They’re going to put a damn nuke in here. Honest to god, it was the thought I had was, they’re going to pull out and put a nuke in here. They’ve already put B-52s in and that didn’t work. Remember, we’d had tactical nukes at Fort Benning, down to the battalion level. I guess in a hysteria thing, so I get to <persName ref="#test_0001_person_87">Jim</persName>, and I’m like, “<persName ref="#test_0001_person_88">Jim</persName>, they’re all dead, they’re all dead!” He said, “No they’re not!” I said, “Really?” He said, “They’re alive.” About that time, a medic came up and shot me in the butt with something. I was shaking so damn bad and a helicopter come in while I was standing there and about that time, <persName ref="#test_0001_person_89">John Howard</persName> came in with seven or eight guys. Similar situation, totally different and unbeknownst to us. <persName ref="#test_0001_person_90">John</persName> brings guys in. He had done the same thing I did. <persName ref="#test_0001_person_91">John</persName> gets in, we’re standing there, I talk to my S3. I’ve got this shot, I'm like, “I don’t know what we’re going to do, if you can come back okay.” I look at <persName ref="#test_0001_person_92">John</persName> and said, “Did you hear any noise last night?” “Yeah, there were people moving all around.” “What are we going to do?” They throw us on a helicopter, take us to <persName ref="#test_0001_person_93">Pleiku</persName>, all the way back to Camp Holloway. We get there, we get off the plane. Our S1 meets us. He gives us a big hug and <persName ref="#test_0001_person_94">John</persName> and I are crying. We are like, “You don’t understand captain, they’re all dead! It’s not what you want.” “We won the fight.” “We didn’t win the fight, everybody’s dead.” <persName ref="#test_0001_person_95">John</persName> and I are looking at each other like we can’t believe it. We got to report somewhere, we got to report, tell them we’re here. So, second lieutenants, we get on a helicopter and we go to the brigade headquarters to go report. We walk in, blood soaked, haven’t shaved in <date>three or four days</date>, just look like shit. We walk in and here’s this major who had been our executive officer and were his two worst nightmares come true. He finally walks out, and he hears us in the tent because we’re agitated and dealing with the <orgName ref="#test_0001_org_41">NCO</orgName>. We’re like, “Show us a map, because we got to know where we were.” He hears us hell up, he comes out and looks at us, he says, “What in the hell are you guys doing here? You’re a disgrace!” We’re like, “Sir, we just came out of a fight, we need a map, we can show you where they are because we heard them all around us all night.” “Sergeant, show them the damn map, and you guys get the hell out of here!” So, we went over the map, saw the landing zone, said, “Here’s where they were.” “Okay” And “We’re out of here.” <persName ref="#test_0001_person_96">John</persName> and I left. We got on another helicopter, and got back to the rear, got a shower, got some clothes and went to sleep for the first time in <date>about three days</date>. Then the next morning I went out, went back out after that. That was the morning of the 19th, I went out and joined a unit. In the meantime, we had all our dead back. We had a hundred and fifty-five men killed <date>that day</date>, on <date>the 17th</date>. We had another hundred and twenty-five hundred—thirty five guys wounded so bad, they never came back.</u>
       <u who="JM">Of the men that were killed and wounded, a lot of them were of the so called, “Administrative types” that were not a part of a line units?</u>
       <u who="BA">We were the only unit in the entire war to have their S4 killed. That’s the supply officer. He was killed. Number of truck drivers, truck repairmen were killed. I lost a platoon sergeant, wire section chief and two enlisted, one radio operator, one wireman. We had the chaplain’s assistant get killed. The only unit in the whole war. We had this redrafts man get killed. The S3 operations sergeant get killed, the only one in the whole war. So, the non-combatants kind of took it on. I don’t know how many medics we lost in that fight, but it was a bunch of them.</u>
-      <u who="JM">How long did it take, after you were sort of rejected by this major that didn’t want to hear your story? How soon did someone else in the—finally want that story while you were in <placeName>Vietnam</placeName>?</u>
+      <u who="JM">How long did it take, after you were sort of rejected by this major that didn’t want to hear your story? How soon did someone else in the—finally want that story while you were in <placeName ref="#test_0001_place_27">Vietnam</placeName>?</u>
       <u who="BA">Nobody ever did. Nobody ever did.</u>
-      <u who="JM">When Colonel <persName>Moore</persName> wrote the book, he has a reference to you in there. Is that the first time you’d seen that in print?</u>
-      <u who="BA">Well, they contacted me when they were writing the book. Because we got back, we were the only unit in the war that we policed up our hundred and fifty-five, our wounded so a hand-full of people, then I joined them in the field, they kept us in the field. They kept the remnants of the unit in the field. They didn’t bring us back to the rear area of <placeName>Holloway</placeName> right away because there’s too much press there. That’s all that I can figure. </u>
+      <u who="JM">When Colonel <persName ref="#test_0001_person_97">Moore</persName> wrote the book, he has a reference to you in there. Is that the first time you’d seen that in print?</u>
+      <u who="BA">Well, they contacted me when they were writing the book. Because we got back, we were the only unit in the war that we policed up our hundred and fifty-five, our wounded so a hand-full of people, then I joined them in the field, they kept us in the field. They kept the remnants of the unit in the field. They didn’t bring us back to the rear area of <placeName ref="#test_0001_place_28">Holloway</placeName> right away because there’s too much press there. That’s all that I can figure. </u>
       <u who="JM">Wow.</u>
-      <u who="BA">They didn’t tell General <persName>Westmoreland</persName> about it either. The reason they ran us out was because they were expecting <persName>Westmoreland</persName> any minute. They were wanting to tout <date>the 1st of the 7th</date>. You know, they had pretty much a definitive victory. Here we are out here, how the hell are you going to explain a hundred and fifty-five men killed?</u>
-      <u who="JM">Historians since that date have dealt with <placeName>Albany</placeName> in varying ways, as you know. Much more like what you have just told us, although not with this detail. That’s an incredible story that you just told. I’m so glad it’s on record now.</u>
+      <u who="BA">They didn’t tell General <persName ref="#test_0001_person_98">Westmoreland</persName> about it either. The reason they ran us out was because they were expecting <persName ref="#test_0001_person_99">Westmoreland</persName> any minute. They were wanting to tout <date>the 1st of the 7th</date>. You know, they had pretty much a definitive victory. Here we are out here, how the hell are you going to explain a hundred and fifty-five men killed?</u>
+      <u who="JM">Historians since that date have dealt with <placeName ref="#test_0001_place_29">Albany</placeName> in varying ways, as you know. Much more like what you have just told us, although not with this detail. That’s an incredible story that you just told. I’m so glad it’s on record now.</u>
       <u who="BA">Well, thank you, thank you for having me.</u>
-      <u who="JM">I’m so glad it’s on record now. It will always be on record at <orgName>Texas Tech University</orgName> and it will be out there for the rest of the world to see online. So it is preserved in that sense. I appreciate so much you being here to tell us this and I would like to get you out to <orgName>Texas Tech</orgName> sometime because we’d like to get the rest of it, because I know you have a lot more to say. But this has been an incredible interview, and I appreciate you telling us.</u>
+      <u who="JM">I’m so glad it’s on record now. It will always be on record at <orgName ref="#test_0001_org_42">Texas Tech University</orgName> and it will be out there for the rest of the world to see online. So it is preserved in that sense. I appreciate so much you being here to tell us this and I would like to get you out to <orgName ref="#test_0001_org_43">Texas Tech</orgName> sometime because we’d like to get the rest of it, because I know you have a lot more to say. But this has been an incredible interview, and I appreciate you telling us.</u>
       <u who="BA">Thank you, thank you. I appreciate your time, and matter in which everything has been conducted. Appreciate you guys being here.</u>
       <u who="JM">Thank you very much. Wow.(End of interview)</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="test_0001_place_0">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_1">
+        <placeName>Fort Bragg</placeName>
+      </place>
+      <place xml:id="test_0001_place_2">
+        <placeName>the Dominican Republic</placeName>
+      </place>
+      <place xml:id="test_0001_place_3">
+        <placeName>Fort Bragg</placeName>
+      </place>
+      <place xml:id="test_0001_place_4">
+        <placeName>Bragg</placeName>
+      </place>
+      <place xml:id="test_0001_place_5">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_6">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_7">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_8">
+        <placeName>Fort Louis</placeName>
+      </place>
+      <place xml:id="test_0001_place_9">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="test_0001_place_10">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_11">
+        <placeName>Valley</placeName>
+      </place>
+      <place xml:id="test_0001_place_12">
+        <placeName>Benning</placeName>
+      </place>
+      <place xml:id="test_0001_place_13">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_14">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_15">
+        <placeName>Bragg</placeName>
+      </place>
+      <place xml:id="test_0001_place_16">
+        <placeName>Columbus</placeName>
+      </place>
+      <place xml:id="test_0001_place_17">
+        <placeName>Columbus</placeName>
+      </place>
+      <place xml:id="test_0001_place_18">
+        <placeName>the ant hill</placeName>
+      </place>
+      <place xml:id="test_0001_place_19">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_20">
+        <placeName>Guam</placeName>
+      </place>
+      <place xml:id="test_0001_place_21">
+        <placeName>Guam</placeName>
+      </place>
+      <place xml:id="test_0001_place_22">
+        <placeName>termite hill</placeName>
+      </place>
+      <place xml:id="test_0001_place_23">
+        <placeName>the termite hill</placeName>
+      </place>
+      <place xml:id="test_0001_place_24">
+        <placeName>Interviewee</placeName>
+      </place>
+      <place xml:id="test_0001_place_25">
+        <placeName>Interviewee</placeName>
+      </place>
+      <place xml:id="test_0001_place_26">
+        <placeName>Columbus</placeName>
+      </place>
+      <place xml:id="test_0001_place_27">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="test_0001_place_28">
+        <placeName>Holloway</placeName>
+      </place>
+      <place xml:id="test_0001_place_29">
+        <placeName>Albany</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="test_0001_event_0">
+        <desc>the Vietnam war</desc>
+      </event>
+      <event xml:id="test_0001_event_1">
+        <desc>Battalion of the 9th Infantry</desc>
+      </event>
+      <event xml:id="test_0001_event_2">
+        <desc>the Korean War</desc>
+      </event>
+      <event xml:id="test_0001_event_3">
+        <desc>Battalion of the 9th Infantry</desc>
+      </event>
+      <event xml:id="test_0001_event_4">
+        <desc>Lognet</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="test_0001_person_0">
+        <persName>ROTC</persName>
+      </person>
+      <person xml:id="test_0001_person_1">
+        <persName>ROTC</persName>
+      </person>
+      <person xml:id="test_0001_person_2">
+        <persName>Jim Bail</persName>
+      </person>
+      <person xml:id="test_0001_person_3">
+        <persName>Paul Bonacourse</persName>
+      </person>
+      <person xml:id="test_0001_person_4">
+        <persName>Mike Mantegna</persName>
+      </person>
+      <person xml:id="test_0001_person_5">
+        <persName>Joe Marm</persName>
+      </person>
+      <person xml:id="test_0001_person_6">
+        <persName>Laughs)JM</persName>
+      </person>
+      <person xml:id="test_0001_person_7">
+        <persName>Barney Gill</persName>
+      </person>
+      <person xml:id="test_0001_person_8">
+        <persName>Barney</persName>
+      </person>
+      <person xml:id="test_0001_person_9">
+        <persName>Barney</persName>
+      </person>
+      <person xml:id="test_0001_person_10">
+        <persName>Barney</persName>
+      </person>
+      <person xml:id="test_0001_person_11">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="test_0001_person_12">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="test_0001_person_13">
+        <persName>Joy</persName>
+      </person>
+      <person xml:id="test_0001_person_14">
+        <persName>Groupement Mobile</persName>
+      </person>
+      <person xml:id="test_0001_person_15">
+        <persName>Laughs</persName>
+      </person>
+      <person xml:id="test_0001_person_16">
+        <persName>Maurice Rose</persName>
+      </person>
+      <person xml:id="test_0001_person_17">
+        <persName>Rose</persName>
+      </person>
+      <person xml:id="test_0001_person_18">
+        <persName>John D. White</persName>
+      </person>
+      <person xml:id="test_0001_person_19">
+        <persName>Bernard Fall’s</persName>
+      </person>
+      <person xml:id="test_0001_person_20">
+        <persName>Joy</persName>
+      </person>
+      <person xml:id="test_0001_person_21">
+        <persName>Qui Nhon</persName>
+      </person>
+      <person xml:id="test_0001_person_22">
+        <persName>An Khe</persName>
+      </person>
+      <person xml:id="test_0001_person_23">
+        <persName>Chinooks</persName>
+      </person>
+      <person xml:id="test_0001_person_24">
+        <persName>An Khe</persName>
+      </person>
+      <person xml:id="test_0001_person_25">
+        <persName>Dan Boone</persName>
+      </person>
+      <person xml:id="test_0001_person_26">
+        <persName>Khe</persName>
+      </person>
+      <person xml:id="test_0001_person_27">
+        <persName>Mallet</persName>
+      </person>
+      <person xml:id="test_0001_person_28">
+        <persName>M16</persName>
+      </person>
+      <person xml:id="test_0001_person_29">
+        <persName>M16</persName>
+      </person>
+      <person xml:id="test_0001_person_30">
+        <persName>ROTC</persName>
+      </person>
+      <person xml:id="test_0001_person_31">
+        <persName>Summer</persName>
+      </person>
+      <person xml:id="test_0001_person_32">
+        <persName>John Howard</persName>
+      </person>
+      <person xml:id="test_0001_person_33">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_34">
+        <persName>Mang Yang Pass</persName>
+      </person>
+      <person xml:id="test_0001_person_35">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_36">
+        <persName>Mang Yang Pass</persName>
+      </person>
+      <person xml:id="test_0001_person_37">
+        <persName>Dan</persName>
+      </person>
+      <person xml:id="test_0001_person_38">
+        <persName>Golf</persName>
+      </person>
+      <person xml:id="test_0001_person_39">
+        <persName>Collins</persName>
+      </person>
+      <person xml:id="test_0001_person_40">
+        <persName>Pleiku</persName>
+      </person>
+      <person xml:id="test_0001_person_41">
+        <persName>Pleiku</persName>
+      </person>
+      <person xml:id="test_0001_person_42">
+        <persName>Henry</persName>
+      </person>
+      <person xml:id="test_0001_person_43">
+        <persName>Moore</persName>
+      </person>
+      <person xml:id="test_0001_person_44">
+        <persName>Henry</persName>
+      </person>
+      <person xml:id="test_0001_person_45">
+        <persName>John Howard</persName>
+      </person>
+      <person xml:id="test_0001_person_46">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_47">
+        <persName>Joel Sugdinis</persName>
+      </person>
+      <person xml:id="test_0001_person_48">
+        <persName>Rocket Artillery</persName>
+      </person>
+      <person xml:id="test_0001_person_49">
+        <persName>Henry</persName>
+      </person>
+      <person xml:id="test_0001_person_50">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_51">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_52">
+        <persName>Pleiku</persName>
+      </person>
+      <person xml:id="test_0001_person_53">
+        <persName>Moore</persName>
+      </person>
+      <person xml:id="test_0001_person_54">
+        <persName>Pat Payne</persName>
+      </person>
+      <person xml:id="test_0001_person_55">
+        <persName>Dan</persName>
+      </person>
+      <person xml:id="test_0001_person_56">
+        <persName>Dan Boone</persName>
+      </person>
+      <person xml:id="test_0001_person_57">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_58">
+        <persName>Doc Shucart</persName>
+      </person>
+      <person xml:id="test_0001_person_59">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="test_0001_person_60">
+        <persName>M16</persName>
+      </person>
+      <person xml:id="test_0001_person_61">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="test_0001_person_62">
+        <persName>Forrest</persName>
+      </person>
+      <person xml:id="test_0001_person_63">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="test_0001_person_64">
+        <persName>John Howard Nash</persName>
+      </person>
+      <person xml:id="test_0001_person_65">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="test_0001_person_66">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="test_0001_person_67">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_68">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_69">
+        <persName>Tony Nadal</persName>
+      </person>
+      <person xml:id="test_0001_person_70">
+        <persName>Charlie Company</persName>
+      </person>
+      <person xml:id="test_0001_person_71">
+        <persName>Frank Henry</persName>
+      </person>
+      <person xml:id="test_0001_person_72">
+        <persName>Frank</persName>
+      </person>
+      <person xml:id="test_0001_person_73">
+        <persName>John Howard</persName>
+      </person>
+      <person xml:id="test_0001_person_74">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_75">
+        <persName>M16</persName>
+      </person>
+      <person xml:id="test_0001_person_76">
+        <persName>another ant hill</persName>
+      </person>
+      <person xml:id="test_0001_person_77">
+        <persName>Butch Aull</persName>
+      </person>
+      <person xml:id="test_0001_person_78">
+        <persName>Butch</persName>
+      </person>
+      <person xml:id="test_0001_person_79">
+        <persName>Butch</persName>
+      </person>
+      <person xml:id="test_0001_person_80">
+        <persName>Butch</persName>
+      </person>
+      <person xml:id="test_0001_person_81">
+        <persName>Butch</persName>
+      </person>
+      <person xml:id="test_0001_person_82">
+        <persName>Laughs</persName>
+      </person>
+      <person xml:id="test_0001_person_83">
+        <persName>Butch</persName>
+      </person>
+      <person xml:id="test_0001_person_84">
+        <persName>bush</persName>
+      </person>
+      <person xml:id="test_0001_person_85">
+        <persName>Somebody</persName>
+      </person>
+      <person xml:id="test_0001_person_86">
+        <persName>Jim Brigham</persName>
+      </person>
+      <person xml:id="test_0001_person_87">
+        <persName>Jim</persName>
+      </person>
+      <person xml:id="test_0001_person_88">
+        <persName>Jim</persName>
+      </person>
+      <person xml:id="test_0001_person_89">
+        <persName>John Howard</persName>
+      </person>
+      <person xml:id="test_0001_person_90">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_91">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_92">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_93">
+        <persName>Pleiku</persName>
+      </person>
+      <person xml:id="test_0001_person_94">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_95">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_96">
+        <persName>John</persName>
+      </person>
+      <person xml:id="test_0001_person_97">
+        <persName>Moore</persName>
+      </person>
+      <person xml:id="test_0001_person_98">
+        <persName>Westmoreland</persName>
+      </person>
+      <person xml:id="test_0001_person_99">
+        <persName>Westmoreland</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="test_0001_org_0">
+        <orgName>the 2nd Infantry Division</orgName>
+      </org>
+      <org xml:id="test_0001_org_1">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="test_0001_org_2">
+        <orgName>n’t single corps</orgName>
+      </org>
+      <org xml:id="test_0001_org_3">
+        <orgName>Enrique Pujals</orgName>
+      </org>
+      <org xml:id="test_0001_org_4">
+        <orgName>2nd Infantry Division</orgName>
+      </org>
+      <org xml:id="test_0001_org_5">
+        <orgName>University of Virginia</orgName>
+      </org>
+      <org xml:id="test_0001_org_6">
+        <orgName>1st Air Cav</orgName>
+      </org>
+      <org xml:id="test_0001_org_7">
+        <orgName>Air Cav</orgName>
+      </org>
+      <org xml:id="test_0001_org_8">
+        <orgName>Bernard Fall’s</orgName>
+      </org>
+      <org xml:id="test_0001_org_9">
+        <orgName>Prick 25?</orgName>
+      </org>
+      <org xml:id="test_0001_org_10">
+        <orgName>Air Assault</orgName>
+      </org>
+      <org xml:id="test_0001_org_11">
+        <orgName>CONEX</orgName>
+      </org>
+      <org xml:id="test_0001_org_12">
+        <orgName>Radio Telephone Operator</orgName>
+      </org>
+      <org xml:id="test_0001_org_13">
+        <orgName>The Streets Without the</orgName>
+      </org>
+      <org xml:id="test_0001_org_14">
+        <orgName>173rd</orgName>
+      </org>
+      <org xml:id="test_0001_org_15">
+        <orgName>the General Westmoreland</orgName>
+      </org>
+      <org xml:id="test_0001_org_16">
+        <orgName>M14</orgName>
+      </org>
+      <org xml:id="test_0001_org_17">
+        <orgName>M14</orgName>
+      </org>
+      <org xml:id="test_0001_org_18">
+        <orgName>Air Assault</orgName>
+      </org>
+      <org xml:id="test_0001_org_19">
+        <orgName>M14</orgName>
+      </org>
+      <org xml:id="test_0001_org_20">
+        <orgName>Catecka</orgName>
+      </org>
+      <org xml:id="test_0001_org_21">
+        <orgName>C-130s</orgName>
+      </org>
+      <org xml:id="test_0001_org_22">
+        <orgName>I.</orgName>
+      </org>
+      <org xml:id="test_0001_org_23">
+        <orgName>Prick 25s</orgName>
+      </org>
+      <org xml:id="test_0001_org_24">
+        <orgName>Jeep</orgName>
+      </org>
+      <org xml:id="test_0001_org_25">
+        <orgName>Bravo Company</orgName>
+      </org>
+      <org xml:id="test_0001_org_26">
+        <orgName>Alpha Company</orgName>
+      </org>
+      <org xml:id="test_0001_org_27">
+        <orgName>Falcon</orgName>
+      </org>
+      <org xml:id="test_0001_org_28">
+        <orgName>ARA</orgName>
+      </org>
+      <org xml:id="test_0001_org_29">
+        <orgName>ARA</orgName>
+      </org>
+      <org xml:id="test_0001_org_30">
+        <orgName>NVA</orgName>
+      </org>
+      <org xml:id="test_0001_org_31">
+        <orgName>North Vietnamese Army</orgName>
+      </org>
+      <org xml:id="test_0001_org_32">
+        <orgName>People’s Army</orgName>
+      </org>
+      <org xml:id="test_0001_org_33">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="test_0001_org_34">
+        <orgName>Alpha Company 1st</orgName>
+      </org>
+      <org xml:id="test_0001_org_35">
+        <orgName>Delta Company</orgName>
+      </org>
+      <org xml:id="test_0001_org_36">
+        <orgName>C Company</orgName>
+      </org>
+      <org xml:id="test_0001_org_37">
+        <orgName>NVA</orgName>
+      </org>
+      <org xml:id="test_0001_org_38">
+        <orgName>CO</orgName>
+      </org>
+      <org xml:id="test_0001_org_39">
+        <orgName>NVA</orgName>
+      </org>
+      <org xml:id="test_0001_org_40">
+        <orgName>Claymores</orgName>
+      </org>
+      <org xml:id="test_0001_org_41">
+        <orgName>NCO</orgName>
+      </org>
+      <org xml:id="test_0001_org_42">
+        <orgName>Texas Tech University</orgName>
+      </org>
+      <org xml:id="test_0001_org_43">
+        <orgName>Texas Tech</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
