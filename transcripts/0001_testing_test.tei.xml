@@ -12,6 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">test_0001</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
