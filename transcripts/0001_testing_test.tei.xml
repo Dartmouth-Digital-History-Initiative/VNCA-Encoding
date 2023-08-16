@@ -16,7 +16,7 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="0">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
@@ -51,7 +51,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="0"/>
           <locale/>
         </setting>
       </settingDesc>
